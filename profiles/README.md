@@ -34,6 +34,8 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[Bill Gates](Bill_Gates.md)** - Post-conviction meetings; philanthropy.
 *   **[Reid Hoffman](Reid_Hoffman.md)** - Tech billionaire; island visitor.
 *   **[Jes Staley](Jes_Staley.md)** - Banking executive who managed Epstein's money.
+*   **[The Hollywood Circle](The_Hollywood_Circle.md)** - Kevin Spacey, Naomi Campbell, Chris Tucker.
+*   **[Sarah Ferguson](Sarah_Ferguson.md)** - The Duchess of York (Took £15k).
 
 ## 🔵 The 2026 Revelations (New)
 *   **[Steve Bannon](Steve_Bannon.md)** - Media strategist; 15 hours of interviews found.

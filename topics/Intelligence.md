@@ -1,6 +1,7 @@
 # 🕵️ Intelligence Ties: Spy or Asset?
 
 > **Status**: **UNVERIFIED / CIRCUMSTANTIAL** (Evidence Level: ? SPECULATIVE)
+> **⚠️ Deep Dive**: For specific details on the **Israel & Mossad** connections (Ehud Barak, Carbyne, Robert Maxwell), see **[Deep Dive: Israel & Mossad](Deep_Dive_Israel_Mossad.md)**.
 
 One of the most persistent theories is that Jeffrey Epstein was an intelligence asset (for the CIA, Mossad, or others) running a "honey pot" blackmail operation.
 

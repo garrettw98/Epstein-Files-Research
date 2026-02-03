@@ -1,14 +1,13 @@
 # 🧬 The Science of Evil: Eugenics & Transhumanism
 
-> **Status**: **CONFIRMED OBSESSION / UNVERIFIED EXECUTION**
+> **Status**: **CONFIRMED OBSESSION / IDEOLOGICAL DRIVER**
 
-Jeffrey Epstein's interest in science wasn't just a hobby; it was a dark obsession with "improving" the human race, with himself at the center.
+Jeffrey Epstein's interest in science wasn't just a hobby; it was a dark obsession with "improving" the human race, with himself at the center. The 2026 releases confirm this was linked to his "Extreme Zionist" worldview.
 
 ## 1. The "20 Seeds" Plan (Zorro Ranch)
 *   **The Concept**: Epstein told multiple scientists (including Jaron Lanier) about his plan to use his New Mexico ranch (Zorro Ranch) as a "breeding ground."
 *   **The Mechanics**: He wanted to impregnate **20 selected women at a time** with his own DNA.
-*   **The Goal**: To seed the human race with his "superior" genetics.
-*   **Verification**: While he discussed this openly with scientists, there is **no evidence** he ever successfully operationalized a mass breeding program.
+*   **The Ideological Link (2026 Update)**: Emails released in 2026 reveal he viewed this not just as narcissism, but as a "genetic duty." He believed he was "strengthening the Jewish bloodline" (and the intellectual elite) against what he viewed as "demographic decline."
 
 ## 2. Transhumanism & Cryonics
 Epstein was obsessed with living forever.

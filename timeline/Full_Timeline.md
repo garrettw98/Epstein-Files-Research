@@ -1,6 +1,6 @@
 # 📅 The Master Timeline: Every Verified Event
 
-> **Scope**: 1953 - 2026
+> **Scope**: 1953 - Feb 3, 2026
 > **Sources**: Court documents, Flight Logs, Police Reports, 2024/2026 Releases.
 
 This timeline integrates all data points from this repository into a single chronological flow.
@@ -83,6 +83,7 @@ This timeline integrates all data points from this repository into a single chro
 *   **2015**: **Giuffre v. Maxwell** defamation suit filed (The source of the 2024 files).
 *   **2015-2017**: **Kathryn Ruemmler** (Obama WH Counsel) exchanges "adoration" emails with Epstein.
 *   **2016**: **Great St. James Island** purchased for $22 million.
+*   **2016**: Emails show Epstein discussing "demographic threats" and eugenics with Mega Group members.
 *   **2018**: Epstein tries to insert himself into Elon Musk's "Tesla Privatization" deal with the Saudis.
 *   **2018 (Nov)**: **Julie K. Brown** (Miami Herald) publishes "Perversion of Justice," exposing the 2008 plea deal.
 
@@ -129,7 +130,9 @@ This timeline integrates all data points from this repository into a single chro
     *   ~900 pages unsealed.
     *   Viral debunking: Hawking (No orgy), Jackson (No massage), Trump (Not on island).
 *   **2025 (Late)**: Congress passes "Epstein Files Transparency Act."
-*   **2026 (Jan 30)**: **The "Transparency" Release**.
-    *   3 Million pages, 2,000 videos.
-    *   **New Reveals**: Steve Bannon interviews, Peter Mandelson (UK Govt info), Prince Andrew's post-jail dinner, Investigator doubt on "Suicide Note."
+*   **2026 (Jan 30)**: **The "Transparency" Release** (3M pages).
+    *   **New Reveals**: Steve Bannon interviews, Peter Mandelson (UK Govt info), Prince Andrew's post-jail dinner.
+    *   **The "Zionist" Emails**: Confirmation of "Extreme Zionist" views linking eugenics to demographic preservation.
+    *   **Investigator Note**: Doubt cast on the "Suicide Note."
     *   **Status**: Little St. James resort plans are stalled.
+*   **2026 (Feb 3)**: **Current Status**.

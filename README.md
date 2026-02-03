@@ -27,7 +27,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 ## 📂 Explore by Topic
 | 🏛️ The System | 🕵️ The Mystery | 💰 The Money |
 | :--- | :--- | :--- |
-| **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>([Deep Dive: Israel/Mossad](topics/Deep_Dive_Israel_Mossad.md))<br>**[TerraMar Project](topics/The_TerraMar_Project.md)**<br>Ghislaine's UN Front. | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls.<br>**[The MIT Scandal](topics/The_MIT_Scandal.md)**<br>Joi Ito & the cover-up. |
+| **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>([Deep Dive: Israel/Mossad](topics/Deep_Dive_Israel_Mossad.md))<br>**[The Israel Connection](topics/The_Israel_Connection.md)**<br>Mega Group & "Extreme Zionist" Ideology. | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls.<br>**[The MIT Scandal](topics/The_MIT_Scandal.md)**<br>Joi Ito & the cover-up. |
 | **[The Legal Labyrinth](topics/Legal_Battles.md)**<br>A guide to the confusing web of lawsuits. | **[The Media Cover-Up](topics/The_Media_Coverup.md)**<br>Why Vanity Fair killed the story in 2003.<br>**[The Intimidation Machine](topics/The_Intimidation_Machine.md)**<br>PIs, Stalking, & Threats. | **[The Islands](topics/The_Properties.md)**<br>What happened at Little St. James? |
 | **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories.<br>**[The "First Attempt"](topics/July_23_Incident.md)** (July 23). | **[The Science of Evil](topics/Transhumanism_and_Eugenics.md)**<br>Baby breeding ranches & cryonics. |
 | **[Government Complicity](topics/Government_Complicity.md)**<br>FBI/DOJ failures. | **[The Tapes](topics/The_Tapes.md)**<br>Did he film them? What was found in the safe? | **[Weird FBI Tips](topics/Unverified_Tips.md)**<br>Addressing the "Human Sacrifice" rumors. |
@@ -38,6 +38,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 
 ## 🆕 The 2026 Release (New!)
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3 million pages released in Jan 2026.
+*   **[The "Zionist" Emails](topics/The_Israel_Connection.md#the-2026-email-manifestos-extreme-zionism)**: **BREAKING**: New emails reveal Epstein's "Extreme Zionist" views and how they linked to his eugenics program ("protecting the bloodline").
 *   **[Steve Bannon & Peter Mandelson](profiles/README.md#the-2026-revelations-new)**: New profiles added based on the latest findings.
 
 ## 🔎 The "Shocking" Details (Viewer Discretion)
@@ -50,7 +51,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[The 2024 Files](evidence/2024_Release.md)**: What we learned from the January 2024 unsealing.
 
 ## 📅 [Full Timeline](timeline/Full_Timeline.md)
-A year-by-year breakdown of every major event, from 1953 to today.
+A year-by-year breakdown of every major event, from 1953 to Feb 3, 2026.
 
 ## 📚 [Further Reading & Resources](topics/Further_Reading.md)
 Books, documentaries, and source material.

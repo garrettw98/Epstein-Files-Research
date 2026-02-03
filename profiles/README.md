@@ -2,11 +2,13 @@
 
 This section profiles every major figure connected to the Epstein case. We categorize them by the strength of the evidence.
 
-## 🟢 The Survivors / Whistleblowers (The Heroes)
-These women fought the system to expose the truth.
-*   **[Virginia Giuffre](Virginia_Giuffre.md)** - The Catalyst; her lawsuits unsealed the files.
-*   **[Maria Farmer](Maria_Farmer.md)** - The First Whistleblower (1996); witness to the "Tapes."
-*   **[Courtney Wild](Courtney_Wild.md)** - The Florida victim who fought the Plea Deal.
+## 🦸‍♀️ The Survivors (The Heroes)
+*   **[Virginia Giuffre](Virginia_Giuffre.md)**: The woman who forced the files open.
+*   **[Maria Farmer](Maria_Farmer.md)**: The first whistleblower (1996).
+*   **[Courtney Wild](Courtney_Wild.md)**: The voice of the Florida victims.
+
+## 👁️ The Eyewitnesses (The Staff)
+*   **[The Household Staff](The_Household_Staff.md)**: The butler who stole the "Black Book" and the pilots who flew the plane.
 
 ## 🔴 The Inner Circle (Convicted/Charged)
 *   **[Jeffrey Epstein](Jeffrey_Epstein.md)** - The primary perpetrator.
@@ -24,6 +26,7 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[Prince Andrew](Prince_Andrew.md)** - Settled civil sexual abuse lawsuit.
 *   **[Bill Richardson](Bill_Richardson.md)** - Accused in sworn testimony (Deceased).
 *   **[Alan Dershowitz](Alan_Dershowitz.md)** - Accused by victim (later partially retracted).
+*   **[Glenn & Eva Dubin](Glenn_and_Eva_Dubin.md)** - Accused by Giuffre (Denied); Eva dated Epstein.
 
 ## 🟡 The Associates (Flight Logs/Meetings)
 *   **[Bill Clinton](Bill_Clinton.md)** - 26+ flights documented.

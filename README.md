@@ -18,11 +18,12 @@ This repository serves as a **verified, fact-based database**. We have organized
 
 ## ⚙️ The Machinery (How It Worked)
 *   **[The Abuse System](topics/The_Abuse_System.md)**: The "Pyramid Scheme," the "Massage," and the "Egg" description.
+*   **[The Medical Cover](topics/The_Medical_Cover.md)**: The "Lymphatic Massage" lie.
 *   **[The Money Trail](topics/The_Money_Trail.md)**: Offshore shells, the "1953 Trust," and the $80k cash withdrawals.
 *   **[The Origin Story](topics/The_Origin_Story.md)**: Where did the money come from? (The Ponzi Scheme theory).
 *   **[Les Wexner](profiles/Les_Wexner.md)**: The Patron who gave Epstein the money and house.
 *   **[The Executors](profiles/The_Lawyers.md)**: Indyke & Kahn—the lawyers who still control the estate.
-*   **[The Stash Houses](topics/The_Stash_Houses.md)**<br>301 East 66th St & the NYC network. | **[Victim Compensation](topics/The_Victim_Compensation_Fund.md)**<br>The $150M payout & the silence. | **[The Official Reports](topics/The_Official_Reports.md)**<br>MIT, Harvard, & DOJ Confessions.
+*   **[The Ghost Business](topics/The_Ghost_Business.md)**<br>The "Fund Manager" myth. | **[The Cult Tactics](topics/The_Cult_Tactics.md)**<br>Mind Control & "Slave Contracts." | **[The Protégés](topics/The_Proteges.md)**<br>Epstein as "Mentor" (MBS, Musk, Staley).
 
 ## 📂 Explore by Topic
 | 🏛️ The System | 🕵️ The Mystery | 💰 The Money |
@@ -34,6 +35,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 | **[The Palm Beach War](topics/The_Palm_Beach_Investigation.md)**<br>Local Police vs. Corrupt Prosecutors. | **[False Flags](topics/Disinformation_and_False_Flags.md)**<br>Pizzagate & QAnon distractions. | **[Island Secrets](topics/The_Island_Secrets.md)**<br>Tunnels & Submarines. |
 | **[The French Connection](topics/The_French_Connection.md)**<br>Paris apartment & Brunel. | **[Missing Evidence](topics/Missing_Evidence.md)**<br>What we still don't know. | **[Why No Arrests?](topics/Why_No_More_Arrests.md)**<br>The legal reality check. |
 | **[The Middle East Connection](topics/The_Middle_East_Connection.md)**<br>Saudi passports & MBS. | **[The Dead](topics/The_Dead.md)**<br>Suspicious deaths: Brunel, Hoffenberg, Middleton. | **[The Dream Team Defense](profiles/The_Dream_Team_Defense.md)**<br>Ken Starr & the Scorched Earth. |
+| **[Accountability Log](topics/The_Accountability_Log.md)**<br>Who Apologized vs. Who Denied. | **[Key Itineraries](topics/Key_Itineraries.md)**<br>Africa Trip & Science Dinners. | |
 
 ## 🆕 The 2026 Release (New!)
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3 million pages released in Jan 2026.

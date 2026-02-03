@@ -9,6 +9,11 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[The Spiderweb Map](topics/Network_Map.md)**: A visual guide to how everyone is connected.
 *   **[The "List"](profiles/README.md)**: A directory of every major person involved (Prince Andrew, Bill Clinton, etc.) and exactly what the evidence says about them.
 
+## ⚙️ The Machinery (How It Worked)
+*   **[The Abuse System](topics/The_Abuse_System.md)**: The "Pyramid Scheme," the "Massage," and the "Egg" description.
+*   **[The Money Trail](topics/The_Money_Trail.md)**: Offshore shells, the "1953 Trust," and the $80k cash withdrawals.
+*   **[The Science of Evil](topics/Transhumanism_and_Eugenics.md)**: His "Baby Breeding" ranch and cryonics obsession.
+
 ## 📂 Explore by Topic
 | 🏛️ The System | 🕵️ The Mystery | 💰 The Money |
 | :--- | :--- | :--- |
@@ -21,7 +26,6 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[Weird FBI Tips](topics/Unverified_Tips.md)**: Addressing the "Human Sacrifice" rumors.
 
 ## 🔎 The "Shocking" Details (Viewer Discretion)
-*   **[The Abuse System](topics/The_Abuse_System.md)**: The "Pyramid Scheme," the "Massage," and the "Egg" description.
 *   **[The Raid & The Safe](topics/The_Raid.md)**: Fake passports, diamonds, and the "Blue Dress" painting.
 *   **[Viral Rumors Debunked](profiles/Viral_Names.md)**: Stephen Hawking, Michael Jackson, and David Copperfield.
 

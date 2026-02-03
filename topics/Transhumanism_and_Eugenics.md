@@ -1,0 +1,29 @@
+# 🧬 The Science of Evil: Eugenics & Transhumanism
+
+> **Status**: **CONFIRMED OBSESSION / UNVERIFIED EXECUTION**
+
+Jeffrey Epstein's interest in science wasn't just a hobby; it was a dark obsession with "improving" the human race, with himself at the center.
+
+## 1. The "20 Seeds" Plan (Zorro Ranch)
+*   **The Concept**: Epstein told multiple scientists (including Jaron Lanier) about his plan to use his New Mexico ranch (Zorro Ranch) as a "breeding ground."
+*   **The Mechanics**: He wanted to impregnate **20 selected women at a time** with his own DNA.
+*   **The Goal**: To seed the human race with his "superior" genetics.
+*   **Verification**: While he discussed this openly with scientists, there is **no evidence** he ever successfully operationalized a mass breeding program.
+
+## 2. Transhumanism & Cryonics
+Epstein was obsessed with living forever.
+*   **Cryonics**: He told associates he wanted to have his **head and penis frozen** after death to be "resurrected" later.
+*   **The Funding**: He poured money into transhumanist research—the belief that technology can improve the human condition (immortality, super-intelligence).
+    *   *Beneficiaries*: He funded researchers at Harvard and MIT working on synthetic biology and genetics.
+
+## 3. The Scientists
+Epstein courted the elite of the scientific world.
+*   **George Church (Geneticist)**: The father of synthetic biology. He met with Epstein and received funding. He later apologized, saying "I was a nerd... I didn't know."
+*   **Martin Nowak (Evolutionary Biologist)**: Epstein gave Harvard **$6.5 million** to establish a program run by Nowak. Nowak allowed Epstein to visit his offices **40+ times** after his 2008 conviction.
+*   **Steven Pinker (Psychologist)**: Photographed with Epstein (though he claims he argued with him and found him to be an "intellectual impostor").
+
+## 4. Why? (The Psychology)
+Why did he care?
+*   **Narcissism**: He believed his DNA was a gift to the world.
+*   **Legitimacy**: Hanging out with Nobel Prize winners made him feel smarter than the "finance guys" he usually dealt with.
+*   **Protection**: It's harder to investigate a "Science Philanthropist" than a "creep with a private island."

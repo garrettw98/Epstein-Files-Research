@@ -2,6 +2,12 @@
 
 This section profiles every major figure connected to the Epstein case. We categorize them by the strength of the evidence.
 
+## 🟢 The Survivors / Whistleblowers (The Heroes)
+These women fought the system to expose the truth.
+*   **[Virginia Giuffre](Virginia_Giuffre.md)** - The Catalyst; her lawsuits unsealed the files.
+*   **[Maria Farmer](Maria_Farmer.md)** - The First Whistleblower (1996); witness to the "Tapes."
+*   **[Courtney Wild](Courtney_Wild.md)** - The Florida victim who fought the Plea Deal.
+
 ## 🔴 The Inner Circle (Convicted/Charged)
 *   **[Jeffrey Epstein](Jeffrey_Epstein.md)** - The primary perpetrator.
 *   **[Ghislaine Maxwell](Ghislaine_Maxwell.md)** - The partner and recruiter (Serving 20 years).

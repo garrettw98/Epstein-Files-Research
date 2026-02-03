@@ -9,6 +9,11 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[The Spiderweb Map](topics/Network_Map.md)**: A visual guide to how everyone is connected.
 *   **[The "List"](profiles/README.md)**: A directory of every major person involved (Prince Andrew, Bill Clinton, etc.) and exactly what the evidence says about them.
 
+## 🦸‍♀️ The Survivors (The Heroes)
+*   **[Virginia Giuffre](profiles/Virginia_Giuffre.md)**: The woman who forced the files open.
+*   **[Maria Farmer](profiles/Maria_Farmer.md)**: The first whistleblower (1996).
+*   **[Courtney Wild](profiles/Courtney_Wild.md)**: The voice of the Florida victims.
+
 ## ⚙️ The Machinery (How It Worked)
 *   **[The Abuse System](topics/The_Abuse_System.md)**: The "Pyramid Scheme," the "Massage," and the "Egg" description.
 *   **[The Money Trail](topics/The_Money_Trail.md)**: Offshore shells, the "1953 Trust," and the $80k cash withdrawals.
@@ -18,12 +23,12 @@ This repository serves as a **verified, fact-based database**. We have organized
 | 🏛️ The System | 🕵️ The Mystery | 💰 The Money |
 | :--- | :--- | :--- |
 | **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>Was he a spy? The evidence for and against. | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls. |
-| **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories. | **[The Islands](topics/The_Properties.md)**<br>What happened at Little St. James? |
+| **[The Legal Labyrinth](topics/Legal_Battles.md)**<br>A guide to the confusing web of lawsuits. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories. | **[The Islands](topics/The_Properties.md)**<br>What happened at Little St. James? |
+| **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Tapes](topics/The_Tapes.md)**<br>Did he film them? What was found in the safe? | **[Weird FBI Tips](topics/Unverified_Tips.md)**<br>Addressing the "Human Sacrifice" rumors. |
 
 ## 🆕 The 2026 Release (New!)
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3 million pages released in Jan 2026.
-*   **[The Tapes](topics/The_Tapes.md)**: Did he film them? What was found in the safe?
-*   **[Weird FBI Tips](topics/Unverified_Tips.md)**: Addressing the "Human Sacrifice" rumors.
+*   **[Steve Bannon & Peter Mandelson](profiles/README.md#the-2026-revelations-new)**: New profiles added based on the latest findings.
 
 ## 🔎 The "Shocking" Details (Viewer Discretion)
 *   **[The Raid & The Safe](topics/The_Raid.md)**: Fake passports, diamonds, and the "Blue Dress" painting.

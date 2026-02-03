@@ -19,6 +19,12 @@ This section profiles every major figure connected to the Epstein case. We categ
 *   **[Reid Hoffman](Reid_Hoffman.md)** - Tech billionaire; island visitor.
 *   **[Jes Staley](Jes_Staley.md)** - Banking executive who managed Epstein's money.
 
+## 🔵 The 2026 Revelations (New)
+*   **[Steve Bannon](Steve_Bannon.md)** - Media strategist; 15 hours of interviews found.
+*   **[Peter Mandelson](Peter_Mandelson.md)** - UK Politician; alleged sharing of govt info.
+*   **[Kathryn Ruemmler](Kathryn_Ruemmler.md)** - Obama WH Counsel; "adoration" emails.
+*   **[Elon Musk](Elon_Musk.md)** - "Kung Fu" email; targeted for visits.
+
 ## ⚪ Viral Names (Context Needed)
 *   **[Stephen Hawking](Viral_Names.md#stephen-hawking)** - Defended by Epstein in emails.
 *   **[Michael Jackson](Viral_Names.md#michael-jackson)** - "No massage" testimony.

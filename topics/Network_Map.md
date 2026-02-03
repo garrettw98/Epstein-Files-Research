@@ -17,37 +17,37 @@ graph TD
         Epstein --- Wexner[Les Wexner]
         Epstein --- Staley[Jes Staley]
         Staley --- JPM[JPMorgan Chase]
-        Staley --- Barc[Barclays]
         Epstein --- Black[Leon Black]
-        Black --- Apollo[Apollo Global]
     end
 
     subgraph "👑 Politics & Power"
         Epstein --- Clinton[Bill Clinton]
         Epstein --- Trump[Donald Trump]
         Epstein --- Andrew[Prince Andrew]
-        Epstein --- Richardson[Bill Richardson]
         Epstein --- Mandelson[Peter Mandelson]
+        Epstein --- Ruemmler[Kathryn Ruemmler]
+        Epstein --- Bannon[Steve Bannon]
     end
 
     subgraph "🔬 Science & Tech"
         Epstein --- Gates[Bill Gates]
+        Epstein --- Musk[Elon Musk]
         Epstein --- Hoffman[Reid Hoffman]
-        Epstein --- Minsky[Marvin Minsky]
         Epstein --- Chomsky[Noam Chomsky]
     end
 
     subgraph "📂 The Evidence"
         Andrew -.-> Photo[The Photo]
         Clinton -.-> Logs[Flight Logs]
-        Trump -.-> Quote["Terrific Guy Quote"]
-        Staley -.-> Emails[1,200 Emails]
+        Mandelson -.-> GovInfo[Govt Secrets]
+        Bannon -.-> Tapes[15hr Interview]
     end
 
     style Epstein fill:#ff9999,stroke:#333,stroke-width:4px
     style Maxwell fill:#ff9999,stroke:#333,stroke-width:2px
     style JPM fill:#ffffcc
-    style Apollo fill:#ffffcc
+    style Mandelson fill:#e6e6fa
+    style Bannon fill:#e6e6fa
 ```
 
 ## How to Read This
@@ -55,4 +55,4 @@ graph TD
 *   **Dotted Lines**: The primary evidence linking them.
 *   **Colors**:
     *   **Red**: Charged/Convicted.
-    *   **Yellow**: Financial Institutions.
+    *   **Purple**: 2026 Key Revelations.

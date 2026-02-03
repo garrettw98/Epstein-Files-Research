@@ -20,18 +20,18 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[The Money Trail](topics/The_Money_Trail.md)**: Offshore shells, the "1953 Trust," and the $80k cash withdrawals.
 *   **[The Origin Story](topics/The_Origin_Story.md)**: Where did the money come from? (The Ponzi Scheme theory).
 *   **[Les Wexner](profiles/Les_Wexner.md)**: The Patron who gave Epstein the money and house.
-*   **[The Executors](profiles/The_Lawyers.md)**: Indyke & Kahn—the lawyers who still control the estate.
+*   **[The Fleet](topics/The_Fleet.md)**: The "Lolita Express," Gulfstream, and Helicopters.
 
 ## 📂 Explore by Topic
 | 🏛️ The System | 🕵️ The Mystery | 💰 The Money |
 | :--- | :--- | :--- |
 | **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>([Deep Dive: Israel/Mossad](topics/Deep_Dive_Israel_Mossad.md))<br>**[TerraMar Project](topics/The_TerraMar_Project.md)**<br>Ghislaine's UN Front. | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls.<br>**[The MIT Scandal](topics/The_MIT_Scandal.md)**<br>Joi Ito & the cover-up. |
-| **[The Legal Labyrinth](topics/Legal_Battles.md)**<br>A guide to the confusing web of lawsuits. | **[The Media Cover-Up](topics/The_Media_Coverup.md)**<br>Why Vanity Fair killed the story in 2003.<br>**[The Intimidation Machine](topics/The_Intimidation_Machine.md)**<br>PIs, Stalking, & Threats. | **[The Islands](topics/The_Properties.md)**<br>What happened at Little St. James? |
+| **[The Legal Labyrinth](topics/Legal_Battles.md)**<br>A guide to the confusing web of lawsuits. | **[The Media Cover-Up](topics/The_Media_Coverup.md)**<br>Why Vanity Fair killed the story in 2003. | **[The Islands](topics/The_Properties.md)**<br>What happened at Little St. James? |
 | **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories.<br>**[The "First Attempt"](topics/July_23_Incident.md)** (July 23). | **[The Science of Evil](topics/Transhumanism_and_Eugenics.md)**<br>Baby breeding ranches & cryonics. |
 | **[Government Complicity](topics/Government_Complicity.md)**<br>FBI/DOJ failures. | **[The Tapes](topics/The_Tapes.md)**<br>Did he film them? What was found in the safe? | **[Weird FBI Tips](topics/Unverified_Tips.md)**<br>Addressing the "Human Sacrifice" rumors. |
 | **[The Palm Beach War](topics/The_Palm_Beach_Investigation.md)**<br>Local Police vs. Corrupt Prosecutors. | **[False Flags](topics/Disinformation_and_False_Flags.md)**<br>Pizzagate & QAnon distractions. | **[Island Secrets](topics/The_Island_Secrets.md)**<br>Tunnels & Submarines. |
 | **[The French Connection](topics/The_French_Connection.md)**<br>Paris apartment & Brunel. | **[Missing Evidence](topics/Missing_Evidence.md)**<br>What we still don't know. | **[Why No Arrests?](topics/Why_No_More_Arrests.md)**<br>The legal reality check. |
-| **[The Middle East Connection](topics/The_Middle_East_Connection.md)**<br>Saudi passports & MBS. | **[The Dead](topics/The_Dead.md)**<br>Suspicious deaths: Brunel, Hoffenberg, Middleton. | **[The Dream Team Defense](profiles/The_Dream_Team_Defense.md)**<br>Ken Starr & the Scorched Earth. |
+| **[The Middle East Connection](topics/The_Middle_East_Connection.md)**<br>Saudi passports & MBS. | **[The Dead](topics/The_Dead.md)**<br>Suspicious deaths: Brunel, Hoffenberg, Middleton. | **[Geopolitical Blackmail](topics/Geopolitical_Blackmail_Theory.md)**<br>The "Forever War" Theory. |
 
 ## 🆕 The 2026 Release (New!)
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3 million pages released in Jan 2026.
@@ -40,13 +40,10 @@ This repository serves as a **verified, fact-based database**. We have organized
 ## 🔎 The "Shocking" Details (Viewer Discretion)
 *   **[The Raid & The Safe](topics/The_Raid.md)**: Fake passports, diamonds, and the "Blue Dress" painting.
 *   **[Viral Rumors Debunked](profiles/Viral_Names.md)**: Stephen Hawking, Michael Jackson, and David Copperfield.
+*   **[The Weirdness](topics/The_Weirdness.md)**: Mannequins, Eyeballs, and the decor.
 
-## 🔎 The Evidence Explained
-*   **[Flight Logs vs. Black Book](evidence/Logs_vs_Book.md)**: Why being in his "book" is different from being on his "plane."
-*   **[The 2024 Files](evidence/2024_Release.md)**: What we learned from the January 2024 unsealing.
-
-## 📅 [Full Timeline](timeline/Full_Timeline.md)
-A year-by-year breakdown of every major event, from 1953 to today.
+## 📚 [Further Reading & Resources](topics/Further_Reading.md)
+Books, documentaries, and source material.
 
 ---
 > **Note on Safety:** This database relies on **verified court documents** and **police reports**. We clearly label what is a *Fact* (✓) and what is just a *Theory* (?).

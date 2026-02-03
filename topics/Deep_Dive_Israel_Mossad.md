@@ -35,9 +35,16 @@ This is the "Smoking Gun" for financial ties between Epstein and the Israeli sec
 *   **The Source**: Barak later admitted that the money for this investment came **directly from Jeffrey Epstein**.
 *   **The Implications**: Epstein was effectively funding a tech company with deep ties to Israeli intelligence infrastructure. Carbyne's software captures video/audio from callers, leading to privacy concerns.
 
----
+# 4. The "Family Business": PROMIS vs. Carbyne
+The most chilling parallel is not between Epstein and intelligence, but between **Ghislaine's father** and **Epstein's investments**.
 
-# 4. Ari Ben-Menashe's Claims
+*   **Robert Maxwell & PROMIS (1980s)**: Robert Maxwell famously sold a software called **PROMIS** to governments around the world.
+    *   *The Trap*: The software had a "backdoor" installed by Israeli intelligence, allowing them to spy on the governments that bought it.
+*   **Epstein & Carbyne (2010s)**: Epstein funded **Carbyne** (911 call handling).
+    *   *The Trap*: Critics argue Carbyne gathers massive amounts of citizen data (video/audio/location) that could be accessed by foreign intelligence.
+*   **The Conclusion**: It appears Epstein and Ghislaine continued the exact same "Trojan Horse" technology strategy that her father pioneered.
+
+# 5. Ari Ben-Menashe's Claims
 Ari Ben-Menashe is a former Israeli military intelligence official who has gone on record with specific allegations.
 
 *   **The Claim**: He asserts that Epstein and Ghislaine Maxwell were **active Mossad agents**.

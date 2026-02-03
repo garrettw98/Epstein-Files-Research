@@ -18,7 +18,7 @@ graph TD
         Epstein --- Hoffenberg[Steven Hoffenberg (Mentor)]
         Epstein --- Staley[Jes Staley]
         Staley --- JPM[JPMorgan Chase]
-        Epstein --- Black[Leon Black]
+        Epstein --- Black[Leon Black (Apollo)]
         Epstein --- Indyke[Darren Indyke (Lawyer)]
         Epstein --- Kahn[Richard Kahn (Accountant)]
         Indyke --- Estate[The Estate / 1953 Trust]
@@ -34,7 +34,10 @@ graph TD
     end
 
     subgraph "🔬 Science & Tech"
-        Epstein --- Gates[Bill Gates]
+        Epstein --- Brockman[John Brockman (Broker)]
+        Brockman --- Gates[Bill Gates]
+        Brockman --- Minsky[Marvin Minsky]
+        Brockman --- Pinker[Steven Pinker]
         Epstein --- Musk[Elon Musk]
         Epstein --- Hoffman[Reid Hoffman]
         Epstein --- Chomsky[Noam Chomsky]
@@ -53,6 +56,7 @@ graph TD
     style Mandelson fill:#e6e6fa
     style Bannon fill:#e6e6fa
     style Hoffenberg fill:#ffcccc
+    style Brockman fill:#ccffcc
 ```
 
 ## How to Read This
@@ -62,3 +66,4 @@ graph TD
     *   **Red**: Charged/Convicted.
     *   **Purple**: 2026 Key Revelations.
     *   **Pink**: Historical Fraud (Hoffenberg).
+    *   **Green**: Science Connector (Brockman).

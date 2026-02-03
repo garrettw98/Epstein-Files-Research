@@ -19,14 +19,15 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[The Money Trail](topics/The_Money_Trail.md)**: Offshore shells, the "1953 Trust," and the $80k cash withdrawals.
 *   **[The Origin Story](topics/The_Origin_Story.md)**: Where did the money come from? (The Ponzi Scheme theory).
 *   **[Les Wexner](profiles/Les_Wexner.md)**: The Patron who gave Epstein the money and house.
+*   **[Leon Black](profiles/Leon_Black.md)**: The financier who paid $158M post-conviction.
 *   **[The Executors](profiles/The_Lawyers.md)**: Indyke & Kahn—the lawyers who still control the estate.
 
 ## 📂 Explore by Topic
 | 🏛️ The System | 🕵️ The Mystery | 💰 The Money |
 | :--- | :--- | :--- |
-| **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>([Deep Dive: Israel/Mossad](topics/Deep_Dive_Israel_Mossad.md))<br>**[The Barr Connection](topics/The_Barr_Connection.md)**<br>Donald & Bill Barr. | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls.<br>**[The MIT Scandal](topics/The_MIT_Scandal.md)**<br>Joi Ito & the cover-up. |
+| **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>([Deep Dive: Israel/Mossad](topics/Deep_Dive_Israel_Mossad.md))<br>**[TerraMar Project](topics/The_TerraMar_Project.md)**<br>Ghislaine's UN Front. | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls.<br>**[John Brockman](profiles/John_Brockman.md)**<br>The Science Broker. |
 | **[The Legal Labyrinth](topics/Legal_Battles.md)**<br>A guide to the confusing web of lawsuits. | **[The Media Cover-Up](topics/The_Media_Coverup.md)**<br>Why Vanity Fair killed the story in 2003. | **[The Islands](topics/The_Properties.md)**<br>What happened at Little St. James? |
-| **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories.<br>**[The "First Attempt"](topics/July_23_Incident.md)** (July 23). | **[The Science of Evil](topics/Transhumanism_and_Eugenics.md)**<br>Baby breeding ranches & cryonics. |
+| **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories.<br>**[The "First Attempt"](topics/July_23_Incident.md)** (July 23). | **[The Science of Evil](topics/Transhumanism_and_Eugenics.md)**<br>Baby breeding ranches & cryonics.<br>**[The MIT Scandal](topics/The_MIT_Scandal.md)**<br>Joi Ito & the cover-up. |
 | **[Government Complicity](topics/Government_Complicity.md)**<br>FBI/DOJ failures. | **[The Tapes](topics/The_Tapes.md)**<br>Did he film them? What was found in the safe? | **[Weird FBI Tips](topics/Unverified_Tips.md)**<br>Addressing the "Human Sacrifice" rumors. |
 | **[The Palm Beach War](topics/The_Palm_Beach_Investigation.md)**<br>Local Police vs. Corrupt Prosecutors. | **[False Flags](topics/Disinformation_and_False_Flags.md)**<br>Pizzagate & QAnon distractions. | **[Island Secrets](topics/The_Island_Secrets.md)**<br>Tunnels & Submarines. |
 | **[The French Connection](topics/The_French_Connection.md)**<br>Paris apartment & Brunel. | **[Missing Evidence](topics/Missing_Evidence.md)**<br>What we still don't know. | **[Why No Arrests?](topics/Why_No_More_Arrests.md)**<br>The legal reality check. |
@@ -38,6 +39,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 
 ## 🔎 The "Shocking" Details (Viewer Discretion)
 *   **[The Raid & The Safe](topics/The_Raid.md)**: Fake passports, diamonds, and the "Blue Dress" painting.
+*   **[The Weirdness](topics/The_Weirdness.md)**: Mannequins, Eyeballs, and the Psychological Warfare of his decor.
 *   **[Viral Rumors Debunked](profiles/Viral_Names.md)**: Stephen Hawking, Michael Jackson, and David Copperfield.
 
 ## 🔎 The Evidence Explained

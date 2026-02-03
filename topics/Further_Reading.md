@@ -3,6 +3,8 @@
 > **Goal**: Verified sources for deeper research.
 
 ## 📖 Books
+*   **"Nobody's Girl"** by Virginia Giuffre (2025).
+    *   *The posthumous memoir of the primary whistleblower.*
 *   **"Perversion of Justice"** by Julie K. Brown.
     *   *The definitive account of how the Miami Herald exposed the deal.*
 *   **"Relentless Pursuit"** by Bradley Edwards.

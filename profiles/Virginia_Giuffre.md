@@ -1,10 +1,19 @@
 # 🦋 Virginia Giuffre (née Roberts)
 
 > **Role**: **Survivor / The Catalyst**
+> **Status**: **DECEASED** (April 2025)
 > **Significance**: Her relentless civil lawsuits forced the unsealing of the documents we are reading today.
 
 ## The Story
 Recruited at age 16 while working as a spa attendant at Mar-a-Lago (Donald Trump's club), Virginia Giuffre became the central figure in exposing the Epstein ring.
+
+## The Tragedy (April 2025)
+In April 2025, Virginia Giuffre died by suicide at her home in Australia.
+*   **The Statement**: Her family stated that the "toll of abuse and the exhaustion of the decades-long legal fight became unbearable."
+*   **The Legacy**: She lived just long enough to see the "Transparency Act" passed, ensuring the final secrets would be revealed, even if she wasn't there to read them.
+
+## Posthumous Memoir: "Nobody's Girl"
+Published in October 2025, her final book details the specific psychological torture used by Maxwell and the "medical" grooming techniques (Lymphatic Massage) in her own words.
 
 ## Key Allegations (Sworn Testimony)
 *   **Prince Andrew**: Alleged she was trafficked to him in London, New York, and the USVI. (He settled her lawsuit in 2022).

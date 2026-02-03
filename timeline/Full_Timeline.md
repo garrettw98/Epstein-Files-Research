@@ -129,6 +129,8 @@ This timeline integrates all data points from this repository into a single chro
 *   **2024 (Jan)**: **The "Giuffre" Release**.
     *   ~900 pages unsealed.
     *   Viral debunking: Hawking (No orgy), Jackson (No massage), Trump (Not on island).
+*   **2025 (Apr)**: **Virginia Giuffre dies** by suicide in Australia.
+*   **2025 (Oct)**: **"Nobody's Girl"**, Giuffre's memoir, is published posthumously.
 *   **2025 (Late)**: Congress passes "Epstein Files Transparency Act."
 *   **2026 (Jan 30)**: **The "Transparency" Release** (3M pages).
     *   **New Reveals**: Steve Bannon interviews, Peter Mandelson (UK Govt info), Prince Andrew's post-jail dinner.

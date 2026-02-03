@@ -22,7 +22,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 ## 📂 Explore by Topic
 | 🏛️ The System | 🕵️ The Mystery | 💰 The Money |
 | :--- | :--- | :--- |
-| **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>([Deep Dive: Israel/Mossad](topics/Deep_Dive_Israel_Mossad.md))<br>Was he a spy? | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls. |
+| **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>Was he a spy? The evidence for and against.<br>**[The Israel Connection](topics/The_Israel_Connection.md)**<br>The "Mega Group" & Ideology. | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls. |
 | **[The Legal Labyrinth](topics/Legal_Battles.md)**<br>A guide to the confusing web of lawsuits. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories. | **[The Islands](topics/The_Properties.md)**<br>What happened at Little St. James? |
 | **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Tapes](topics/The_Tapes.md)**<br>Did he film them? What was found in the safe? | **[Weird FBI Tips](topics/Unverified_Tips.md)**<br>Addressing the "Human Sacrifice" rumors. |
 

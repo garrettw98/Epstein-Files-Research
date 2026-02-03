@@ -14,6 +14,9 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[Maria Farmer](profiles/Maria_Farmer.md)**: The first whistleblower (1996).
 *   **[Courtney Wild](profiles/Courtney_Wild.md)**: The voice of the Florida victims.
 
+## 👁️ The Eyewitnesses (The Staff)
+*   **[The Household Staff](profiles/The_Household_Staff.md)**: The butler who stole the "Black Book" and the pilots who flew the plane.
+
 ## ⚙️ The Machinery (How It Worked)
 *   **[The Abuse System](topics/The_Abuse_System.md)**: The "Pyramid Scheme," the "Massage," and the "Egg" description.
 *   **[The Money Trail](topics/The_Money_Trail.md)**: Offshore shells, the "1953 Trust," and the $80k cash withdrawals.
@@ -23,9 +26,9 @@ This repository serves as a **verified, fact-based database**. We have organized
 ## 📂 Explore by Topic
 | 🏛️ The System | 🕵️ The Mystery | 💰 The Money |
 | :--- | :--- | :--- |
-| **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>Was he a spy? ([Deep Dive: Israel/Mossad](topics/Deep_Dive_Israel_Mossad.md)) | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls. |
+| **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>([Deep Dive: Israel/Mossad](topics/Deep_Dive_Israel_Mossad.md))<br>**[TerraMar Project](topics/The_TerraMar_Project.md)**<br>Ghislaine's UN Front. | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls. |
 | **[The Legal Labyrinth](topics/Legal_Battles.md)**<br>A guide to the confusing web of lawsuits. | **[The Media Cover-Up](topics/The_Media_Coverup.md)**<br>Why Vanity Fair killed the story in 2003. | **[The Islands](topics/The_Properties.md)**<br>What happened at Little St. James? |
-| **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories. | **[The Science of Evil](topics/Transhumanism_and_Eugenics.md)**<br>Baby breeding ranches & cryonics. |
+| **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories.<br>**[The "First Attempt"](topics/July_23_Incident.md)** (July 23). | **[The Science of Evil](topics/Transhumanism_and_Eugenics.md)**<br>Baby breeding ranches & cryonics. |
 | **[False Flags](topics/Disinformation_and_False_Flags.md)**<br>Pizzagate & QAnon distractions. | **[The Tapes](topics/The_Tapes.md)**<br>Did he film them? What was found in the safe? | **[Weird FBI Tips](topics/Unverified_Tips.md)**<br>Addressing the "Human Sacrifice" rumors. |
 
 ## 🆕 The 2026 Release (New!)

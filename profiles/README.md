@@ -7,6 +7,13 @@ This section profiles every major figure connected to the Epstein case. We categ
 *   **[Ghislaine Maxwell](Ghislaine_Maxwell.md)** - The partner and recruiter (Serving 20 years).
 *   **[Jean-Luc Brunel](Jean_Luc_Brunel.md)** - The modeling agent (Deceased).
 
+## 🟣 The Lieutenants (The Enablers)
+These women were the "middle management" of the operation. Most were granted immunity in the 2008 Plea Deal.
+*   **[Sarah Kellen](Sarah_Kellen.md)** - The "Lieutenant" / Scheduler.
+*   **[Nadia Marcinkova](Nadia_Marcinkova.md)** - The Pilot / "Global Girl."
+*   **[Lesley Groff](Lesley_Groff.md)** - The Executive Assistant / "Office Mother."
+*   **[Adriana Ross](Adriana_Ross.md)** - The Palm Beach Recruiter.
+
 ## 🟠 The Accused (Civil Suits/Testimony)
 *   **[Prince Andrew](Prince_Andrew.md)** - Settled civil sexual abuse lawsuit.
 *   **[Bill Richardson](Bill_Richardson.md)** - Accused in sworn testimony (Deceased).

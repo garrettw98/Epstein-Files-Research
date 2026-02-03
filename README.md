@@ -17,14 +17,16 @@ This repository serves as a **verified, fact-based database**. We have organized
 ## ⚙️ The Machinery (How It Worked)
 *   **[The Abuse System](topics/The_Abuse_System.md)**: The "Pyramid Scheme," the "Massage," and the "Egg" description.
 *   **[The Money Trail](topics/The_Money_Trail.md)**: Offshore shells, the "1953 Trust," and the $80k cash withdrawals.
-*   **[The Science of Evil](topics/Transhumanism_and_Eugenics.md)**: His "Baby Breeding" ranch and cryonics obsession.
+*   **[The Origin Story](topics/The_Origin_Story.md)**: Where did the money come from? (The Ponzi Scheme theory).
+*   **[The Executors](profiles/The_Lawyers.md)**: Indyke & Kahn—the lawyers who still control the estate.
 
 ## 📂 Explore by Topic
 | 🏛️ The System | 🕵️ The Mystery | 💰 The Money |
 | :--- | :--- | :--- |
-| **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>Was he a spy? The evidence for and against.<br>**[The Israel Connection](topics/The_Israel_Connection.md)**<br>The "Mega Group" & Ideology. | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls. |
-| **[The Legal Labyrinth](topics/Legal_Battles.md)**<br>A guide to the confusing web of lawsuits. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories. | **[The Islands](topics/The_Properties.md)**<br>What happened at Little St. James? |
-| **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Tapes](topics/The_Tapes.md)**<br>Did he film them? What was found in the safe?<br>**[False Flags](topics/Disinformation_and_False_Flags.md)**<br>Pizzagate & QAnon. | **[Weird FBI Tips](topics/Unverified_Tips.md)**<br>Addressing the "Human Sacrifice" rumors. |
+| **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>Was he a spy? ([Deep Dive: Israel/Mossad](topics/Deep_Dive_Israel_Mossad.md)) | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls. |
+| **[The Legal Labyrinth](topics/Legal_Battles.md)**<br>A guide to the confusing web of lawsuits. | **[The Media Cover-Up](topics/The_Media_Coverup.md)**<br>Why Vanity Fair killed the story in 2003. | **[The Islands](topics/The_Properties.md)**<br>What happened at Little St. James? |
+| **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories. | **[The Science of Evil](topics/Transhumanism_and_Eugenics.md)**<br>Baby breeding ranches & cryonics. |
+| **[False Flags](topics/Disinformation_and_False_Flags.md)**<br>Pizzagate & QAnon distractions. | **[The Tapes](topics/The_Tapes.md)**<br>Did he film them? What was found in the safe? | **[Weird FBI Tips](topics/Unverified_Tips.md)**<br>Addressing the "Human Sacrifice" rumors. |
 
 ## 🆕 The 2026 Release (New!)
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3 million pages released in Jan 2026.

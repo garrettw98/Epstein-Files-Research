@@ -13,11 +13,15 @@ graph TD
         Epstein --- Kellen[Sarah Kellen]
     end
 
-    subgraph "💰 The Money"
+    subgraph "💰 The Money & Law"
         Epstein --- Wexner[Les Wexner]
+        Epstein --- Hoffenberg[Steven Hoffenberg (Mentor)]
         Epstein --- Staley[Jes Staley]
         Staley --- JPM[JPMorgan Chase]
         Epstein --- Black[Leon Black]
+        Epstein --- Indyke[Darren Indyke (Lawyer)]
+        Epstein --- Kahn[Richard Kahn (Accountant)]
+        Indyke --- Estate[The Estate / 1953 Trust]
     end
 
     subgraph "👑 Politics & Power"
@@ -48,6 +52,7 @@ graph TD
     style JPM fill:#ffffcc
     style Mandelson fill:#e6e6fa
     style Bannon fill:#e6e6fa
+    style Hoffenberg fill:#ffcccc
 ```
 
 ## How to Read This
@@ -56,3 +61,4 @@ graph TD
 *   **Colors**:
     *   **Red**: Charged/Convicted.
     *   **Purple**: 2026 Key Revelations.
+    *   **Pink**: Historical Fraud (Hoffenberg).

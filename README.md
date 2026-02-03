@@ -30,6 +30,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 | **[Government Complicity](topics/Government_Complicity.md)**<br>FBI/DOJ failures. | **[The Tapes](topics/The_Tapes.md)**<br>Did he film them? What was found in the safe? | **[Weird FBI Tips](topics/Unverified_Tips.md)**<br>Addressing the "Human Sacrifice" rumors. |
 | **[The Palm Beach War](topics/The_Palm_Beach_Investigation.md)**<br>Local Police vs. Corrupt Prosecutors. | **[False Flags](topics/Disinformation_and_False_Flags.md)**<br>Pizzagate & QAnon distractions. | **[Island Secrets](topics/The_Island_Secrets.md)**<br>Tunnels & Submarines. |
 | **[The French Connection](topics/The_French_Connection.md)**<br>Paris apartment & Brunel. | **[Missing Evidence](topics/Missing_Evidence.md)**<br>What we still don't know. | **[Why No Arrests?](topics/Why_No_More_Arrests.md)**<br>The legal reality check. |
+| | **[The Dead](topics/The_Dead.md)**<br>Suspicious deaths: Brunel, Hoffenberg, Middleton. | |
 
 ## 🆕 The 2026 Release (New!)
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3 million pages released in Jan 2026.

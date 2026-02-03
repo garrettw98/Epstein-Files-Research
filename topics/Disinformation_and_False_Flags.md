@@ -35,5 +35,7 @@ Disinformation acts as "chaff" to confuse radar.
     *   *Result*: When the *real* names (Peter Mandelson, Ehud Barak) come out, the public is "fatigued" or can't tell the difference.
 *   **Discrediting the Truth**: Because QAnon believers obsess over Epstein, mainstream journalists often fear covering the legitimate anomalies (like the [Mossad Ties](Deep_Dive_Israel_Mossad.md) or the [Suicide Doubts](Deep_Dive_The_Death.md)) to avoid being labeled "QAnon conspiracy theorists."
 
-## Verdict
+**Verdict**
 **False Flags.** Whether organic mass delusions or intentional psychological operations, these theories successfully **protected the guilty** by burying the boring, complex truth (shell companies, plea deals, intelligence assets) under a mountain of sensational, easily debunked lies.
+
+*   **Critical Distinction (2026)**: It is vital to separate QAnon's "Satanic" antisemitic tropes from the **verified** "Zionist Supremacist" ideology revealed in Epstein's own emails. One is a cartoon villain caricature; the other is a documented political worldview involving eugenics and statecraft.

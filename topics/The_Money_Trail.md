@@ -17,8 +17,9 @@ Epstein moved his primary residence and business operations to the U.S. Virgin I
 ## 2. The "Charity" Laundromat
 Epstein used "charity" to buy his way back into society.
 *   **Gratitude America, Ltd.**: A shell charity.
-    *   *Function*: Donated to Harvard, MIT, and science organizations.
-    *   *Reality*: Used to "whitewash" his reputation. Scientists who took money were often required to invite him to conferences, giving him the veneer of a legitimate philanthropist.
+    *   **Function**: Donated to Harvard, MIT, and science organizations.
+    *   **Ideological Funding (2026 Update)**: The charity didn't just buy reputation; it funded specific ideological programs. It funneled money to the **Wexner Israel Fellowship**, paying for Israeli military officers to study at Harvard, effectively building a network of influence within the future Israeli defense establishment.
+    *   **Reality**: Used to "whitewash" his reputation. Scientists who took money were often required to invite him to conferences, giving him the veneer of a legitimate philanthropist.
 
 ## 3. How the Money Moved (The 2023 Settlements)
 The **JPMorgan ($290M)** and **Deutsche Bank ($75M)** settlements revealed the mechanics:

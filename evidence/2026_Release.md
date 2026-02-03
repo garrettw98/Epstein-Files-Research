@@ -18,6 +18,7 @@
 11. **The Redaction Scandal**: In a massive failure of execution, the digital files released by the DOJ contained "soft" redactions.
     *   *The Error*: Internet users found they could simply "copy-paste" over blacked-out text to reveal hidden names.
     *   *The Fallout*: This accidentally exposed several victims who had requested anonymity, leading to renewed harassment.
+    *   *The Withdrawal*: The DOJ was forced to **withdraw thousands of pages** from the public archive within 48 hours to fix the errors, but the unredacted versions had already been downloaded by millions.
 
 ## 🏛️ Political & Government Ties
 *   **Peter Mandelson (UK)**: See [Profile](../profiles/Peter_Mandelson.md).

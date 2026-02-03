@@ -10,6 +10,7 @@ Jeffrey Epstein is dead, but his assets and the fallout continue to ripple throu
 *   **The Plan**: Deckoff announced plans to build a "world-class luxury resort" to open in 2025.
 *   **The Reality (2026)**: The project is in limbo.
     *   *Conflicting Reports*: While some paparazzi photos from mid-2025 showed minor construction activity, local Virgin Islands officials stated in late 2025 that **no major permits had been filed** and the project appeared stalled.
+    *   *Jan 2026 Update*: As of Feb 3, 2026, **zero new construction permits** have been filed by Deckoff's group, confirming the "2025 Opening" date has been missed and the project is effectively dead in the water.
     *   *The Ghost Town*: For now, the island sits largely abandoned, a ghost of the crimes committed there, with its future as a resort looking increasingly unlikely.
 
 ## 2. The Queen's Money (Prince Andrew's Settlement)

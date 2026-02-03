@@ -16,6 +16,7 @@ Ghislaine Maxwell was not just Jeffrey Epstein's girlfriend; she was the sophist
 *   **Verdict**: Guilty on 5 of 6 counts.
 *   **Sentence**: 20 Years in Federal Prison (FCI Tallahassee).
 *   **Significance**: She is the only person to face a federal jury trial for the crimes of the Epstein ring (since Epstein died before trial).
+*   **Appeal Status**: **DENIED.** In October 2025, the U.S. Supreme Court declined to hear her appeal, effectively ending her legal battle to overturn the conviction. She will serve her full sentence (release date ~2037).
 
 ## The "Black Book"
 Maxwell is believed to be the primary author/curator of the famous "Little Black Book," using her father's massive rolodex to populate it.

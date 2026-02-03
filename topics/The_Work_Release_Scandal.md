@@ -17,6 +17,8 @@ Jeffrey Epstein was sentenced to 18 months in the Palm Beach County Stockade. He
 ## The "Unlimited" Visits
 *   **The Lawyers**: Epstein had his lawyers visit him constantly in jail.
 *   **The Loophole**: By classifying meetings as "legal counsel," he could stay in a private meeting room with air conditioning and avoid the general population cells.
+*   **The "Office" Visits**: While the jail had visitor logs, the *Office* (where he spent 12 hours a day) was effectively unmonitored.
+    *   *The Gap*: Deputies were paid to stand guard outside, not inside. This meant female visitors could enter the office (often posing as "paralegals" or "designers") without being subjected to the strict logging and searching of a jail facility. This is why a definitive "jail visitor list" of victims does not exist; the crimes happened off-site.
 
 ## Why It Matters
 This period (2008-2009) proves that the "Plea Deal" wasn't just short; it was fake. Epstein was never truly incarcerated. He essentially paid the county to babysit him while he continued his operation.

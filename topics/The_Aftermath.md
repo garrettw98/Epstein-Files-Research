@@ -8,7 +8,9 @@ Jeffrey Epstein is dead, but his assets and the fallout continue to ripple throu
 *   **The Sale**: In May 2023, billionaire investor **Stephen Deckoff** bought both Little St. James and Great St. James for **$60 million**.
     *   *Note*: This was less than half the original asking price of $125 million.
 *   **The Plan**: Deckoff announced plans to build a "world-class luxury resort" to open in 2025.
-*   **The Reality (2026)**: Reports indicate the project is **stalled**. No significant construction has been observed, and local permits have not been filed. The island sits largely abandoned, a ghost of the crimes committed there.
+*   **The Reality (2026)**: The project is in limbo.
+    *   *Conflicting Reports*: While some paparazzi photos from mid-2025 showed minor construction activity, local Virgin Islands officials stated in late 2025 that **no major permits had been filed** and the project appeared stalled.
+    *   *The Ghost Town*: For now, the island sits largely abandoned, a ghost of the crimes committed there, with its future as a resort looking increasingly unlikely.
 
 ## 2. The Queen's Money (Prince Andrew's Settlement)
 Prince Andrew settled with Virginia Giuffre for an estimated **£12 million ($16M)**. But he didn't have that kind of cash.

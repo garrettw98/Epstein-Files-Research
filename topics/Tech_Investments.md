@@ -11,9 +11,12 @@ Epstein wasn't just investing in stocks. He put money into strategic, dual-use t
 
 ## 2. Carbyne (911 Technology)
 *   **The Company**: An Israeli startup (formerly Reporty) that streams video/audio from 911 callers to dispatchers.
+*   **The Capabilities (Surveillance Potential)**:
+    *   **Camera Access**: The software allows dispatchers to access a caller's camera and microphone *without* them downloading an app (via a secure link).
+    *   **Indoor Tracking**: It utilizes advanced "PinPoint" technology to locate callers indoors with <5 meter accuracy (far better than standard GPS).
+    *   **The Risk**: While pitched as a life-saving tool, privacy advocates warn this creates a "backdoor" into any phone that dials 911, capturing video and audio that flows through servers potentially accessible by foreign intelligence (given the Barak/Epstein funding connection).
 *   **The Founder**: Ehud Barak (former Israeli PM) was Chairman.
 *   **The Funding**: Epstein provided the capital for Barak's investment.
-*   **The Risk**: Privacy advocates warned that this tech could be used for mass surveillance. The fact that Epstein (a sex offender) was funding emergency response tech is a major red flag.
 
 ## 3. The "Science" Laundromat
 Epstein used his tech investments to get close to the "Edge Edge" (Edge.org), a group of elite thinkers.

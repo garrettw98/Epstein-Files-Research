@@ -8,11 +8,11 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[Who was Jeffrey Epstein?](profiles/Jeffrey_Epstein.md)**: A brief summary of the man, his crimes, and his death.
 *   **[The Spiderweb Map](topics/Network_Map.md)**: A visual guide to how everyone is connected.
 *   **[The "List"](profiles/README.md)**: A directory of every major person involved (Prince Andrew, Bill Clinton, etc.) and exactly what the evidence says about them.
+*   **[FAQ (Frequently Asked Questions)](topics/FAQ.md)**: Did Elon go to the island? Is the Client List real? (Start here for quick answers).
 
-## 🦸‍♀️ The Survivors (The Heroes)
-*   **[Virginia Giuffre](profiles/Virginia_Giuffre.md)**: The woman who forced the files open.
-*   **[Maria Farmer](profiles/Maria_Farmer.md)**: The first whistleblower (1996).
-*   **[Courtney Wild](profiles/Courtney_Wild.md)**: The voice of the Florida victims.
+## 🦸‍♀️ The Good Guys
+*   **[The Survivors](profiles/Virginia_Giuffre.md)**: Virginia Giuffre, Maria Farmer, and the women who fought back.
+*   **[The Journalists](profiles/The_Journalists.md)**: Julie K. Brown and the reporters who exposed the truth.
 
 ## ⚙️ The Machinery (How It Worked)
 *   **[The Abuse System](topics/The_Abuse_System.md)**: The "Pyramid Scheme," the "Massage," and the "Egg" description.
@@ -29,7 +29,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 | **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories.<br>**[The "First Attempt"](topics/July_23_Incident.md)** (July 23). | **[The Science of Evil](topics/Transhumanism_and_Eugenics.md)**<br>Baby breeding ranches & cryonics. |
 | **[Government Complicity](topics/Government_Complicity.md)**<br>FBI/DOJ failures. | **[The Tapes](topics/The_Tapes.md)**<br>Did he film them? What was found in the safe? | **[Weird FBI Tips](topics/Unverified_Tips.md)**<br>Addressing the "Human Sacrifice" rumors. |
 | **[The Palm Beach War](topics/The_Palm_Beach_Investigation.md)**<br>Local Police vs. Corrupt Prosecutors. | **[False Flags](topics/Disinformation_and_False_Flags.md)**<br>Pizzagate & QAnon distractions. | **[Island Secrets](topics/The_Island_Secrets.md)**<br>Tunnels & Submarines. |
-| **[The French Connection](topics/The_French_Connection.md)**<br>Paris apartment & Brunel. | **[Missing Evidence](topics/Missing_Evidence.md)**<br>What we still don't know. | **[Recruitment Pipeline](topics/The_Recruitment_Pipeline.md)**<br>Modeling Agencies. |
+| **[The French Connection](topics/The_French_Connection.md)**<br>Paris apartment & Brunel. | **[Missing Evidence](topics/Missing_Evidence.md)**<br>What we still don't know. | **[Why No Arrests?](topics/Why_No_More_Arrests.md)**<br>The legal reality check. |
 
 ## 🆕 The 2026 Release (New!)
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3 million pages released in Jan 2026.

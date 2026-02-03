@@ -9,6 +9,7 @@
 *   **The Findings**:
     *   Epstein regularly withdrew massive amounts of cash (up to **$80,000 at a time**) to pay victims.
     *   Compliance officers flagged his accounts as "High Risk" for human trafficking repeatedly.
+    *   **2026 Update**: Newly unsealed internal emails reveal that a specific JPMorgan compliance officer explicitly used the phrase "human trafficking ring" in a 2006 memo—**two years before** his first conviction—yet the account remained open for another 7 years.
     *   **Jes Staley** (then a senior executive) protected Epstein, calling him a key client.
     *   The bank kept him as a client for **5 years after his 2008 sex crime conviction**.
 

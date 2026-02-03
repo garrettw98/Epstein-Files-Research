@@ -14,6 +14,7 @@ Unlike Trump or Clinton, Bill Gates' relationship with Epstein began **after** E
 *   **The Story**: Reports (confirmed by the 2026 release) suggest Epstein tried to blackmail Gates.
 *   **The Affair**: Epstein allegedly discovered Gates had an affair with a Russian bridge player, **Mila Antonova**.
 *   **The Threat**: Epstein paid for Antonova's coding school tuition. Years later, he emailed Gates asking to be reimbursed, essentially threatening to reveal the affair if Gates cut ties.
+*   **Nobel Prize Lobbying**: The 2026 files reveal Epstein explicitly discussed helping Gates win a Nobel Peace Prize, using his connections to the committee (likely via **Thorbjørn Jagland**) as leverage to maintain the relationship.
 
 ## The Fallout
 *   **Divorce**: Melinda French Gates cited Bill's relationship with Epstein as a key reason for their divorce, stating she had "nightmares" after meeting Epstein once.

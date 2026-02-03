@@ -9,6 +9,7 @@ Bill Clinton flew on Jeffrey Epstein's private plane (the "Lolita Express") mult
 *   **Flight Logs**: Released logs show Clinton on approximately **26 flight legs**.
 *   **Context**: Many of these trips included other passengers like Kevin Spacey and Chris Tucker for humanitarian tours.
 *   **2026 Update**: Emails from the Jan 2026 release mention him at an after-party at Ghislaine Maxwell's home.
+    *   *Detail*: Specific emails discuss "Foundation Logistics" and scheduling that align with dates victims were known to be present at properties, though no emails explicitly mention the victims in the context of Clinton.
 
 ## The Accusations
 *   **None by Victims**: To date, **no victim** in the verified court documents has accused Bill Clinton of sexual assault or misconduct.

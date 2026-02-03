@@ -21,6 +21,7 @@ Epstein didn't just "manage" the money; he acquired it.
 Wexner claims he severed ties with Epstein in 2007.
 *   **The Accusation**: Wexner alleges he discovered Epstein had "misappropriated" huge sums of money (reported to be over **$46 million**).
 *   **The Mystery**: Despite this theft, Wexner **did not sue** Epstein and did not go to the police. He simply quietly cut ties.
+*   **2026 Update**: Emails from the transparency release show Epstein and Wexner's lawyers discussing the structure of "The Trust" as early as 2006, specifically mentioning strategies to protect assets from "potential liabilities" and "gold diggers" (a derogatory term often used for accusers).
 
 ## Verdict
 **The Enabler.** Without Les Wexner's money, jet, and houses, Jeffrey Epstein would have just been a creep in a suit. Wexner's patronage built the empire that facilitated the crimes.

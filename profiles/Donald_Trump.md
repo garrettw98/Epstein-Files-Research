@@ -9,6 +9,7 @@ Donald Trump and Jeffrey Epstein moved in the same Palm Beach / New York social 
 *   **The "Terrific Guy" Quote**: In a 2002 *New York Magazine* article, Trump said: *"I've known Jeff for fifteen years. Terrific guy. He's a lot of fun to be with. It is even said that he likes beautiful women as much as I do, and many of them are on the younger side."*
 *   **Flight Logs**: Trump flew on Epstein's plane (verified 7 flights), specifically from Palm Beach to New York in the 1990s.
 *   **The Rift**: The friendship reportedly ended around 2004. One account says they fought over a property (Maison de L'Amitie); another says Trump banned Epstein from Mar-a-Lago for hitting on a member's teenage daughter.
+*   **2026 Update (The "Rift" Emails)**: Newly released emails from 2005 show Epstein complaining to Ghislaine Maxwell about Trump's "disloyalty" and "distancing," corroborating the timeline that they had fallen out *before* the 2008 investigation became public.
 
 ## The Accusations
 *   **2016 "Jane Doe" Lawsuit**: An anonymous woman filed a lawsuit alleging Trump and Epstein raped her in 1994 when she was 13.

@@ -19,6 +19,7 @@ The most terrifying part of the Epstein story isn't the private island; it's the
 ## 3. The State Department (Visas)
 *   **The Issue**: **Jean-Luc Brunel** brought dozens (possibly hundreds) of young women into the U.S. on "O-1" visas (for individuals with "extraordinary ability").
 *   **The Failure**: These visas were approved despite many of the girls having no significant modeling portfolios.
+*   **2026 Update**: The Transparency Act release included State Department cables from 2007 questioning why so many "extraordinary ability" visas were being issued to young women all listing the same address (301 East 66th St). These red flags were raised but never acted upon.
 *   **The Implication**: Someone at the State Department or embassy level was rubber-stamping these applications, facilitating the trafficking pipeline.
 
 ## 4. The Secret Service

@@ -6,6 +6,7 @@ This section profiles every major figure connected to the Epstein case. We categ
 *   **[Virginia Giuffre](Virginia_Giuffre.md)**: The woman who forced the files open.
 *   **[Maria Farmer](Maria_Farmer.md)**: The first whistleblower (1996).
 *   **[Courtney Wild](Courtney_Wild.md)**: The voice of the Florida victims.
+*   **[Sarah Ransome](Sarah_Ransome.md)**: The Escape Artist.
 
 ## 👁️ The Eyewitnesses (The Staff)
 *   **[The Household Staff](The_Household_Staff.md)**: The butler who stole the "Black Book" and the pilots who flew the plane.
@@ -36,6 +37,7 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[Jes Staley](Jes_Staley.md)** - Banking executive who managed Epstein's money.
 *   **[The Hollywood Circle](The_Hollywood_Circle.md)** - Kevin Spacey, Naomi Campbell, Chris Tucker.
 *   **[Sarah Ferguson](Sarah_Ferguson.md)** - The Duchess of York (Took £15k).
+*   **[George Stephanopoulos](George_Stephanopoulos.md)** - ABC Anchor; 2010 dinner guest.
 
 ## 🔵 The 2026 Revelations (New)
 *   **[Steve Bannon](Steve_Bannon.md)** - Media strategist; 15 hours of interviews found.

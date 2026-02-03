@@ -9,6 +9,8 @@ Epstein didn't just pick up girls at the mall. He industrialized the recruitment
 *   **The Scheme**: MC2 was a legitimate agency, but it had a "dark side." Brunel would scout young girls from poor backgrounds in Eastern Europe and South America.
 *   **The "Visa" Trap**: He would promise them US work visas. Once they arrived, they were housed in apartments owned by Epstein (like 301 East 66th St).
 *   **The Debt**: The girls were told they owed money for travel/rent. They were then "offered" extra cash to give "massages" to Epstein to pay off the debt.
+*   **2026 Update**: New emails reveal direct correspondence between Brunel and **Ukrainian modeling agencies**, with Epstein cc'd on the potential recruits.
+    *   *The Financing*: Internal accounting documents confirmed Epstein provided a **$1 million line of credit** to MC2, proving he was the financier behind the entire operation, not just a client.
 
 ## 2. Karin Models
 *   **The Connection**: Another agency Brunel was associated with.

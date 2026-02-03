@@ -18,12 +18,14 @@ A quick-reference guide to the specific language of the Epstein Files.
 *   **Little St. James**: The private island in the USVI.
 *   **Lolita Express**: The media nickname for Epstein's Boeing 727 (Tail N908JE).
 *   **Mega Group**: The informal club of pro-Israel billionaires (Wexner, Bronfman) Epstein served.
+*   **Moot**: Christopher Poole, founder of 4chan. Met with Epstein on the day /pol/ was created.
 *   **NPA (Non-Prosecution Agreement)**: The controversial 2008 deal that gave Epstein and his co-conspirators immunity.
 
 ## P-T
 *   **Pyramid Scheme**: The recruitment method where victims were paid to recruit other victims.
 *   **SDNY**: Southern District of New York (Federal Prosecutors who arrested him in 2019).
 *   **TerraMar**: Ghislaine Maxwell's ocean charity (suspected diplomatic front).
+*   **Transparency Act**: The 2025 law that forced the release of the 3 million pages of Epstein documents in Jan 2026.
 *   **Zorro Ranch**: The New Mexico estate; site of the alleged "baby breeding" plans.
 
 ## U-Z

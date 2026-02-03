@@ -15,6 +15,9 @@
 8.  **Noam Chomsky**: Financial transfers confirmed ($270,000 moved).
 9.  **Dr. Mehmet Oz**: Paid travel records found.
 10. **The "Tapes"**: Surveillance footage from inside the properties (mostly innocuous, but confirms the *existence* of the camera network).
+11. **The Redaction Scandal**: In a massive failure of execution, the digital files released by the DOJ contained "soft" redactions.
+    *   *The Error*: Internet users found they could simply "copy-paste" over blacked-out text to reveal hidden names.
+    *   *The Fallout*: This accidentally exposed several victims who had requested anonymity, leading to renewed harassment.
 
 ## 🏛️ Political & Government Ties
 *   **Peter Mandelson (UK)**: See [Profile](../profiles/Peter_Mandelson.md).

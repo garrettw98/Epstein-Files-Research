@@ -19,6 +19,8 @@ In 2008, Jeffrey Epstein avoided federal prison despite overwhelming evidence of
 ## The "Intelligence" Defense
 When questioned about why he approved such a lenient deal, Acosta allegedly told the Trump transition team in 2016: **"I was told Epstein 'belonged to intelligence' and to leave it alone."** (See [Intelligence Ties](Intelligence.md)).
 
+*   **2026 Context**: The Jan 2026 release of emails showing Epstein's monthly meetings with former Israeli PM Ehud Barak and investments in intel-linked tech (Carbyne) provides the strongest verified evidence to date that Acosta's claim may have been literally true.
+
 ## The Aftermath
 *   **2019 Ruling**: A federal judge ruled that the prosecutors violated the Crime Victims' Rights Act by hiding the deal from the victims.
 *   **Acosta Resignation**: Acosta resigned as Labor Secretary in July 2019 due to the renewed scrutiny of this deal.

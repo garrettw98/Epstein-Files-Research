@@ -8,6 +8,7 @@ Despite millions of pages being released, key pieces of the puzzle remain missin
 *   **The Item**: Hard drives and CDs found in the Manhattan safe.
 *   **The Content**: The DOJ has confirmed they contain images, but they have never been described in detail or released.
 *   **Significance**: This is the potential "Kompromat" (blackmail material).
+*   **2026 Status**: Despite the massive "Transparency Act" release (3 million pages), these specific hard drives/images remain **unreleased** or were heavily redacted/withheld, fueling theories that they contain material too damaging to be made public.
 
 ## 2. The Island Surveillance
 *   **The Item**: The hard drives from the server room on Little St. James.

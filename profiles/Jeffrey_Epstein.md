@@ -28,3 +28,9 @@ Epstein operated a sophisticated sex trafficking pyramid scheme.
 *   **Net Worth**: Estimated at ~$600 million at death.
 *   **Source**: Remains largely unclear. He did not operate like a traditional fund manager.
 *   **JPMorgan & Deutsche Bank**: Paid nearly **$370 million** in settlements (2023) for ignoring red flags to keep him as a client.
+
+## The Ideology (2026 Revelation)
+For years, Epstein was viewed as a hedonist. New emails released in Jan 2026 suggest he was an **ideologue**.
+*   **"Extreme Zionist" Views**: Emails to Mega Group members reveal he viewed his eugenics program as a way to "strengthen the Jewish bloodline" against demographic threats.
+*   **The Mission**: He didn't just collect scientists for fun; he was trying to build a genetic legacy.
+*   **See Also**: [The Israel Connection](../topics/The_Israel_Connection.md) and [Eugenics](../topics/Transhumanism_and_Eugenics.md).

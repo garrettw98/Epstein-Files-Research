@@ -2,6 +2,7 @@
 
 > **Official Ruling**: **SUICIDE BY HANGING**
 > **Public Status**: **HIGHLY SKEPTICAL**
+> **⚠️ Deep Dive**: For an excruciatingly detailed breakdown of the 4chan leaks, body double theories, and autopsy disputes, see the **[Deep Dive: The Death](Deep_Dive_The_Death.md)**.
 
 On August 10, 2019, Jeffrey Epstein was found dead in his cell at the Metropolitan Correctional Center (MCC) in New York. While officially ruled a suicide, the circumstances have fueled endless theories.
 

@@ -20,6 +20,11 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[The Tapes](topics/The_Tapes.md)**: Did he film them? What was found in the safe?
 *   **[Weird FBI Tips](topics/Unverified_Tips.md)**: Addressing the "Human Sacrifice" rumors.
 
+## 🔎 The "Shocking" Details (Viewer Discretion)
+*   **[The Abuse System](topics/The_Abuse_System.md)**: The "Pyramid Scheme," the "Massage," and the "Egg" description.
+*   **[The Raid & The Safe](topics/The_Raid.md)**: Fake passports, diamonds, and the "Blue Dress" painting.
+*   **[Viral Rumors Debunked](profiles/Viral_Names.md)**: Stephen Hawking, Michael Jackson, and David Copperfield.
+
 ## 🔎 The Evidence Explained
 *   **[Flight Logs vs. Black Book](evidence/Logs_vs_Book.md)**: Why being in his "book" is different from being on his "plane."
 *   **[The 2024 Files](evidence/2024_Release.md)**: What we learned from the January 2024 unsealing.

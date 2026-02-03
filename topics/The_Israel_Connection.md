@@ -31,7 +31,11 @@ Epstein had Power of Attorney over Les Wexner's finances, meaning he effectively
 
 ## 5. Ehud Barak's "Research"
 *   **The Grant**: In 2004, the Wexner Foundation (controlled by Epstein) paid **Ehud Barak** (former Israeli PM) **$2.3 million** for "research."
-*   **The Mystery**: The specific nature of this research was never fully explained, leading to accusations that it was a payout or a way to funnel money for other services.
+*   **The Emails (2024 Release)**: Leaked schedules reveal the relationship was far deeper than one grant.
+    *   **Frequency**: Barak met with Epstein **monthly** for nearly a year (2015-2016).
+    *   **Business**: They discussed investments in Israeli **drone technology** and surveillance.
+    *   **Travel**: Emails show travel itineraries for Barak to visit **St. Thomas** (the jump-off for Little St. James).
+*   **The Mystery**: Why was a former PM relying on a sex offender to broker military-grade tech deals?
 
 ## Verdict
 **Verified Ties.** Epstein was deeply embedded in the highest levels of pro-Israel philanthropy and the Israeli defense establishment via Les Wexner and the Mega Group. Whether this was motivated by genuine Zionist ideology or simply a cover for intelligence gathering remains the core debate.

@@ -20,9 +20,10 @@ Epstein didn't just collect scientists and politicians; he collected celebrities
 *   **The Defense**: Tucker claimed he didn't know who Epstein was and was just there for the Clinton Foundation work. He has not been accused of any wrongdoing.
 
 ## 4. Woody Allen
-*   **The Connection**: Long-time social acquaintance.
+*   **The Connection**: Long-time social acquaintance and dinner regular.
 *   **The 2026 Revelation**: Emails show Epstein inviting Allen to a "day museum White House trip."
-*   **The Dinner**: Allen attended dinner parties at Epstein's townhouse.
+*   **The "Castle Dracula" Letter**: Allen wrote a birthday note to Epstein, joking that his townhouse was like "Castle Dracula" but praising the "interesting people" he met there (referencing Prince Andrew and scientists).
+*   **The Dinner**: Allen attended monthly dinner parties at Epstein's townhouse for years.
 *   **The Quote**: Allen famously said of Epstein's situation: *"I'm sensitive to it because I've been the object of that kind of scrutiny myself."*
 
 ## Significance

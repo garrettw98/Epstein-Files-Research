@@ -1,0 +1,31 @@
+# 📖 Glossary of Terms
+
+A quick-reference guide to the specific language of the Epstein Files.
+
+## A-E
+*   **Black Book**: Epstein's seized contact book. Contains ~1,000 names. Distinct from Flight Logs.
+*   **Carbyne**: Israeli 911-tech startup funded by Epstein/Barak.
+*   **Egg-Shaped**: The specific physical description of Epstein's anatomy given by victims; used to verify testimony.
+*   **Edge Organization**: The "Science Club" group run by John Brockman that Epstein used to meet scientists.
+
+## F-J
+*   **Flight Logs**: The pilot manifests for the Boeing 727 and other planes. The most concrete evidence of association.
+*   **Giuffre v. Maxwell**: The 2015 defamation lawsuit that led to the "2024 Files" being unsealed.
+*   **Indyke & Kahn**: The lawyers who run the Epstein Estate.
+*   **John Doe**: A placeholder name used in court files to protect the identity of victims or third parties.
+
+## K-O
+*   **Little St. James**: The private island in the USVI.
+*   **Lolita Express**: The media nickname for Epstein's Boeing 727 (Tail N908JE).
+*   **Mega Group**: The informal club of pro-Israel billionaires (Wexner, Bronfman) Epstein served.
+*   **NPA (Non-Prosecution Agreement)**: The controversial 2008 deal that gave Epstein and his co-conspirators immunity.
+
+## P-T
+*   **Pyramid Scheme**: The recruitment method where victims were paid to recruit other victims.
+*   **SDNY**: Southern District of New York (Federal Prosecutors who arrested him in 2019).
+*   **TerraMar**: Ghislaine Maxwell's ocean charity (suspected diplomatic front).
+*   **Zorro Ranch**: The New Mexico estate; site of the alleged "baby breeding" plans.
+
+## U-Z
+*   **USVI**: U.S. Virgin Islands (Epstein's primary residence/tax haven).
+*   **1953 Trust**: The entity created days before his death to hold his assets and shield them from lawsuits.

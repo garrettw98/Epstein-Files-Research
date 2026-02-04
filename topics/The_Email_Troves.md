@@ -36,7 +36,12 @@ While the "Black Book" showed who Epstein *knew*, the leaked emails show *how he
 *   **The Topics**: They discussed investments in Israeli drone tech and surveillance companies (Carbyne).
 *   **The Itinerary**: Barak's wife sent itineraries for trips to **St. Thomas** (the gateway to Little St. James).
 
-## 6. Peter Attia (The "Locker Room" Talk)
+## 6. Jes Staley (The Disney Code)
+*   **The Email**: In July 2010, Staley wrote to Epstein: *"That was fun. Say hi to Snow White."*
+*   **The Reply**: Epstein responded: *"What character would you like next?"* Staley replied: *"Beauty and the Beast."*
+*   **Significance**: This exchange is cited in the USVI lawsuit as proof that "Disney Princesses" was a code for specific young women procured for Staley.
+
+## 7. Peter Attia (The "Locker Room" Talk)
 *   **Volume**: 1,700 mentions in the files.
 *   **The Content**: "Crude, tasteless banter" about women (responding to "fresh shipment" photos).
 *   **The Admission**: Attia wrote about having "JE withdrawal" when he didn't see Epstein.

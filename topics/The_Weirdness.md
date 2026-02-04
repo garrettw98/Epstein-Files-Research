@@ -33,6 +33,14 @@ Epstein's homes were not just luxurious; they were disturbing. Visitors often de
 *   **The Decor**: Unlike the Manhattan mansion's expensive art, the Paris apartment walls were reportedly covered in **framed photographs of naked young women**.
 *   **The Message**: This wasn't art; it was a "menu" or a trophy wall, signaling to visitors exactly what the apartment was for.
 
+## 7. The Island Dentist Office
+*   **The Room**: Visitors and investigators noted a fully equipped, "creepy-looking" dentist's office on Little St. James.
+*   **The Purpose**: Unclear. Epstein's last girlfriend (Karyna Shuliak) was a dentist, but the existence of a medical facility on a sex trafficking island adds to the "Dr. Moreau" vibe of total control.
+
+## 8. The Costume Orders (Amazon)
+*   **The Receipt**: 2018 Amazon purchase records show Epstein bought multiple **"girls' school uniforms"** (Cherokee brand) and a "prisoner costume."
+*   **Corroboration**: This physical evidence supports victim testimony that they were forced to dress in specific costumes for his roleplay fantasies.
+
 ## The Psychology
 Experts suggest this decor wasn't just "eccentricity"; it was **Psychological Warfare**.
 *   **Disorientation**: It kept victims and guests off-balance.

@@ -18,7 +18,10 @@ Epstein was obsessed with living forever.
 ## 3. The Scientists
 Epstein courted the elite of the scientific world.
 *   **George Church (Geneticist)**: The father of synthetic biology. He met with Epstein and received funding. He later apologized, saying "I was a nerd... I didn't know."
-*   **Martin Nowak (Evolutionary Biologist)**: Epstein gave Harvard **$6.5 million** to establish a program run by Nowak. Nowak allowed Epstein to visit his offices **40+ times** after his 2008 conviction.
+*   **Martin Nowak (Evolutionary Biologist)**:
+    *   **The Funding**: Epstein gave Harvard **$6.5 million** specifically to establish Nowak's "Program for Evolutionary Dynamics" (PED).
+    *   **The Access**: Nowak gave Epstein a dedicated office and key card at Harvard *after* his 2008 conviction.
+    *   **The "Spy" Email**: 2026 files reveal a strange email exchange where Nowak mentions a "spy" and Epstein responds with a "concerning question about torture."
 *   **Steven Pinker (Psychologist)**: Photographed with Epstein (though he claims he argued with him and found him to be an "intellectual impostor").
 
 ## 4. Why? (The Psychology)

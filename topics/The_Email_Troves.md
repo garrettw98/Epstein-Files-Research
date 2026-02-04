@@ -36,5 +36,15 @@ While the "Black Book" showed who Epstein *knew*, the leaked emails show *how he
 *   **The Topics**: They discussed investments in Israeli drone tech and surveillance companies (Carbyne).
 *   **The Itinerary**: Barak's wife sent itineraries for trips to **St. Thomas** (the gateway to Little St. James).
 
+## 6. Peter Attia (The "Locker Room" Talk)
+*   **Volume**: 1,700 mentions in the files.
+*   **The Content**: "Crude, tasteless banter" about women (responding to "fresh shipment" photos).
+*   **The Admission**: Attia wrote about having "JE withdrawal" when he didn't see Epstein.
+
+## 7. Terje Rød-Larsen (The Diplomat's Loan)
+*   **The Loan**: Emails confirm a **$130,000 personal loan** from Epstein to the Norwegian diplomat.
+*   **The Will**: A bizarre revelation that Epstein listed Rød-Larsen's children as potential beneficiaries ($5M each).
+*   **The Slur**: Emails show Rød-Larsen using racist language ("kill the Indian first") in casual conversation with Epstein.
+
 ## Significance
-These emails prove that Epstein's "exile" after 2008 was a myth. He wasn't a pariah; he was a hub. He was managing money for socialists (Chomsky), advising diplomats (Jagland), and funding colleges (Bard) right up until the end.
+These emails prove that Epstein's "exile" after 2008 was a myth. He wasn't a pariah; he was a hub. He was managing money for socialists (Chomsky), advising diplomats (Jagland/Larsen), and funding colleges (Bard) right up until the end.

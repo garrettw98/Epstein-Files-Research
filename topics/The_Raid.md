@@ -1,9 +1,9 @@
 # 🔓 The Raid: What Was in the Safe?
 
 > **Date**: July 6, 2019 (Search Warrant Executed)
-> **Location**: 9 East 71st Street, New York (The Mansion)
+> **Location**: **9 East 71st Street, New York** (The Main Mansion)
 
-When the FBI raided Epstein's Manhattan townhouse, they broke into a heavy steel safe. The contents painted a picture of a man prepared to flee at a moment's notice.
+When the FBI raided Epstein's primary Manhattan residence (not the stash houses), they broke into a heavy steel safe. The contents painted a picture of a man prepared to flee at a moment's notice.
 
 ## 1. The Fake Passports
 *   **The Item**: An expired foreign passport (issued in the 1980s) with Epstein's photo but a **different name**.

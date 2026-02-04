@@ -8,6 +8,7 @@ Nadia Marcinkova, a Slovakian model often referred to as "Global Girl" or the "Y
 
 ## Key Allegations (Verified Documents)
 *   **The Pilot**: Marcinkova obtained her pilot's license (funded by Epstein) and reportedly flew the "Lolita Express" on several occasions.
+*   **"Purchased"**: In police reports, Epstein allegedly boasted that he had "purchased" Marcinkova from her family in Yugoslavia when she was 15 years old. This suggests a relationship closer to trafficking/slavery than employment.
 *   **Active Participation**: Victims have testified that Marcinkova was not just an employee but a participant in the sexual acts.
     *   **Specifics**: Testimony describes her engaging in sex acts with Epstein *while* minors were present or participating in group acts.
 *   **Recruitment**: Alleged to have scouted girls in Eastern Europe for Epstein's "modeling" agency.

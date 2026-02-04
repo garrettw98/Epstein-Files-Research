@@ -4,13 +4,13 @@
 
 Epstein's mansion on 71st Street was the headquarters, but the "barracks" for his operation were elsewhere.
 
-## 1. 301 East 66th Street
+## 1. 301 East 66th Street (The Dormitory)
 *   **The Building**: A massive luxury high-rise on the Upper East Side.
-*   **The Holdings**: Epstein (or shell companies linked to him) owned nearly **20 apartments** in this single building.
+*   **The Holdings**: Epstein's brother Mark owned units, and Jeffrey used them. Specifically, **Unit 10F** was linked to his shell companies.
 *   **The Purpose**:
-    *   **Housing Models**: This is where the young women recruited by **Jean-Luc Brunel** and MC2 Models were housed.
-    *   **Control**: By controlling their housing, Epstein ensured the women were dependent on him.
-    *   **Segregation**: It kept the "volume" of women away from the main mansion, where he hosted high-profile guests like Bill Gates or Prince Andrew.
+    *   **Housing Models**: This building functioned as a dormitory for the young women recruited by **Jean-Luc Brunel**.
+    *   **Separation**: By keeping them here, Epstein separated his "inventory" from his "headquarters" (the 71st St Mansion), reducing the risk of high-profile guests seeing the sheer volume of women.
+    *   **Control**: The women were often told they owed rent for these apartments, creating a debt bondage.
 
 ## 2. The "MC2" Dorms
 *   **The Setup**: Victims described living in these apartments with other "models."

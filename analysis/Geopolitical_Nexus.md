@@ -21,3 +21,5 @@ Epstein's infiltration of **MIT**, **Harvard**, and the **Nobel Committee** (via
 
 ## 4. Synthesis
 The Epstein Enterprise sits at the intersection of **Organized Crime** (Ponzi origins), **Intelligence** (Mossad/State Dept. protection), and **High Finance** (Wexner/Black funding). It cannot be understood through a single lens; it was a hybrid entity designed to exploit the seams between these worlds.
+
+*   **2026 Update**: The release of Epstein's emails concerning "demographic threats" suggests the *purpose* of the Kompromat was not just abstract power, but to enforce a specific geopolitical alignment (Pro-Israel/Eugenics) among the Western elite.

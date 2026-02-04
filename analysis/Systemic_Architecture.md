@@ -6,6 +6,7 @@
 The enterprise exhibited a strict hierarchical structure typical of intelligence operations or organized crime families, characterized by distinct "cells" that operated independently.
 
 *   **Tier 1: The Principals (Epstein, Maxwell)**: Retained total operational control and strategic vision.
+*   **Tier 1.5: The Ideological Core (Mega Group/Zionist Ties)**: Verified by 2026 emails, this layer provided the *motivation* and *funding* (Wexner/Black). It wasn't just business; it was a "Zionist Supremacist" project (as termed by victims) focused on eugenics and demographic preservation.
 *   **Tier 2: The Lieutenants (Kellen, Marcinkova)**: Managed logistics and recruitment but were likely shielded from the financial/political "macro" strategy. Their immunity in 2008 suggests they were viewed as "assets" to be protected by the state.
 *   **Tier 3: The Logistics (Pilots, Household Staff)**: Functioned as "blind" operators. Pilots testified to a "locked cockpit" policy, ensuring plausible deniability regarding cabin activities.
 *   **Tier 4: The Victim-Recruiters**: A pyramid scheme layer designed to insulate Tier 1 from direct street-level risk.

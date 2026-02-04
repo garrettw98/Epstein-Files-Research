@@ -13,7 +13,12 @@ Internal bank communications reveal a tacit understanding of the enterprise.
 *   **Wire Transfers**: Payments to young women in Eastern Europe were often coded as "Hotel Expenses," "Tuition," or "Rent."
 *   **The Compliance Failure**: A 2006 internal memo explicitly used the phrase **"Human Trafficking Ring,"** yet the relationship continued until 2013. This indicates that "knowing" was not a barrier to "banking."
 
-## 3. The "Southern Trust" Shell
+## 3. Funding the Fronts (MC2 Models)
+The 2026 files revealed a direct financial tether to the recruitment pipeline.
+*   **The Line of Credit**: Epstein provided a **$1 million line of credit** to **MC2 Model Management** (Jean-Luc Brunel).
+*   **Significance**: This proves he wasn't just a *client* of the modeling agency; he was its *financier*, effectively owning the supply chain of victims.
+
+## 4. The "Southern Trust" Shell
 The creation of the **Southern Trust Company** in the USVI was a masterclass in tax avoidance and opacity.
 *   **EDC Benefits**: Epstein secured Economic Development Commission (EDC) tax breaks, reducing his tax burden by 90%.
 *   **The Fraud**: The EDC program requires a business to provide local economic benefit. Southern Trust had no clients and no real employees. It was a "potemkin village" company used solely to house his personal fortune.

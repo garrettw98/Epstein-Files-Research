@@ -38,12 +38,15 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[The Hollywood Circle](The_Hollywood_Circle.md)** - Kevin Spacey, Naomi Campbell, Chris Tucker.
 *   **[Sarah Ferguson](Sarah_Ferguson.md)** - The Duchess of York (Took £15k).
 *   **[George Stephanopoulos](George_Stephanopoulos.md)** - ABC Anchor; 2010 dinner guest.
+*   **[George Mitchell](George_Mitchell.md)** - Former Senate Majority Leader; 2013 meetings.
 
 ## 🔵 The 2026 Revelations (New)
 *   **[Steve Bannon](Steve_Bannon.md)** - Media strategist; 15 hours of interviews found.
 *   **[Peter Mandelson](Peter_Mandelson.md)** - UK Politician; alleged sharing of govt info.
 *   **[Kathryn Ruemmler](Kathryn_Ruemmler.md)** - Obama WH Counsel; "adoration" emails.
 *   **[Elon Musk](Elon_Musk.md)** - "Kung Fu" email; targeted for visits.
+*   **[Peter Attia](Peter_Attia.md)** - Longevity doctor; 1,700 emails.
+*   **[Terje Rød-Larsen](Terje_Rod_Larsen.md)** - Diplomat; $130k loan.
 
 ## ⚪ Viral Names (Context Needed)
 *   **[Stephen Hawking](Viral_Names.md#stephen-hawking)** - Defended by Epstein in emails.

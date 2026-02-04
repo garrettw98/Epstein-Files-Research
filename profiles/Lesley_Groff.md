@@ -8,9 +8,9 @@ Lesley Groff was Epstein’s executive assistant for 20 years. She worked out of
 
 ## Key Allegations (Verified Documents)
 *   **Logistics**: Groff booked the flights (tickets for victims to fly from Florida to New York or New Mexico) and managed the cash flow.
+*   **2026 Update (The "Gatekeeper")**: Unsealed files explicitly describe Groff as the "Gatekeeper" who controlled access to Epstein. Witnesses testified she managed the "flow of girls" into the office, ensuring they didn't cross paths with high-profile business guests.
 *   **The "Comfort" Role**: Victims testified that Groff acted as a "motherly" figure in the office, making them feel safe and comfortable before sending them into the room with Epstein.
     *   *Significance*: This "normalization" made it harder for victims to realize they were being trafficked.
-*   **Communication**: Emails show her coordinating directly with Ghislaine Maxwell and Epstein regarding the movement of girls.
 
 ## The Evidence
 *   **The Black Book**: She managed the contact list.

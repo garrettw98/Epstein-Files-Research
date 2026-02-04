@@ -9,6 +9,7 @@ If Ghislaine Maxwell was the partner, Sarah Kellen was the Operations Manager. S
 ## Key Allegations (Verified Documents)
 *   **The "Scheduler"**: Kellen maintained the "massage" appointment books. She was the primary contact point for the victims, calling them to set up times for abuse.
 *   **The Recruiter**: Victims testified that Kellen would instruct them to bring friends and would pay out the referral bonuses.
+*   **The Near-Arrest (2007)**: Police records released in 2026 confirm that Palm Beach detectives had prepared a probable cause affidavit to arrest Kellen as an "accessory to molestation" in 2007. The arrest was blocked by the federal intervention (Acosta's office) that led to the NPA.
 *   **Participation**: Unlike some staff who stayed in the office, victims alleged Kellen was sometimes present during the "massages" or would give instructions on what Epstein liked.
 *   **The "Vibe Control"**: One victim testified that Kellen would "train" girls on how to act around Epstein to avoid upsetting him.
 

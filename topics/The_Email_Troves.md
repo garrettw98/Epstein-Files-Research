@@ -46,5 +46,10 @@ While the "Black Book" showed who Epstein *knew*, the leaked emails show *how he
 *   **The Will**: A bizarre revelation that Epstein listed Rød-Larsen's children as potential beneficiaries ($5M each).
 *   **The Slur**: Emails show Rød-Larsen using racist language ("kill the Indian first") in casual conversation with Epstein.
 
+## 8. George Mitchell (The Post-Conviction Meetings)
+*   **The Emails**: Communications from 2010-2013 show Epstein trying to set up meetings with the former Senate Majority Leader.
+*   **The Date**: A specific calendar entry exists for **Nov 6, 2013** (10:30 AM).
+*   **Significance**: This proves Epstein was still actively networking with top US political figures five years after his sex offender conviction.
+
 ## Significance
 These emails prove that Epstein's "exile" after 2008 was a myth. He wasn't a pariah; he was a hub. He was managing money for socialists (Chomsky), advising diplomats (Jagland/Larsen), and funding colleges (Bard) right up until the end.

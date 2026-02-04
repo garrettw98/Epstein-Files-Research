@@ -14,6 +14,8 @@ John Brockman was a literary agent for the world's top scientists and the founde
     *   **Marvin Minsky** (MIT AI Pioneer)
     *   **Steven Pinker** (Psychologist)
     *   **George Church** (Geneticist)
+    *   **Murray Gell-Mann** (Nobel Physicist / Santa Fe Institute)
+    *   **Lawrence Krauss** (Origins Project)
 
 ## The Motivation
 *   **For Brockman**: Epstein provided funding for his foundation and his clients.

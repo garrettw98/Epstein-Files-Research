@@ -18,6 +18,16 @@ Epstein used science as a "laundromat" for his reputation. By associating with N
 *   **The Plan**: The 2026 release confirmed Epstein had bizarre plans for his Zorro Ranch in New Mexico. He told scientists he wanted to "seed the human race" with his own DNA by impregnating women at the ranch.
 *   **The Reality**: While the *plan* was real (he discussed it with scientists), there is **no evidence** he ever successfully operationalized a breeding program.
 
+## 4. The Santa Fe Institute (Complexity Science)
+*   **The Donation**: Epstein donated **$275,000** to this prestigious think tank.
+*   **Murray Gell-Mann**: The Nobel Prize-winning physicist and co-founder of the institute accepted funding and even attended a "Mindshift Conference" on **Little St. James** in 2011.
+*   **Significance**: This gave Epstein access to the world's leading minds in chaos theory and complexity, further legitimizing his "intellectual" persona.
+
+## 5. Lawrence Krauss (The Origins Project)
+*   **The Funding**: Theoretical physicist Lawrence Krauss received **$250,000** from Epstein for his "Origins Project" at Arizona State University.
+*   **The Defense**: Krauss publicly defended Epstein after his 2008 conviction.
+*   **The "Advice"**: Emails reveal Krauss sought Epstein's advice on how to handle *his own* sexual misconduct allegations, suggesting a "mutual aid" network among accused men.
+
 ## MIT Media Lab
 *   **Joi Ito (Director)**: Resigned after it was revealed he accepted anonymous donations from Epstein (labeled as "Disqualified" in internal records) to fund the lab.
 *   **The Cover-up**: Emails showed the lab actively tried to hide Epstein's involvement.

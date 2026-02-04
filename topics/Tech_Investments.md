@@ -21,3 +21,10 @@ Epstein wasn't just investing in stocks. He put money into strategic, dual-use t
 ## 3. The "Science" Laundromat
 Epstein used his tech investments to get close to the "Edge Edge" (Edge.org), a group of elite thinkers.
 *   **The Goal**: By funding "The Next Big Thing" (AI, Genetics, Space), he ensured he was always in the room where the future was being decided.
+
+## 4. The Existential Risk Projects
+Epstein's interests extended to the survival of the human race (or at least, *his* survival).
+*   **Lifeboat Foundation**: Epstein sat on the **Advisory Board** of this non-profit dedicated to "safeguarding humanity" from existential risks (AI, Nanotech).
+    *   *Significance*: This connected him to the "Doomsday Prepper" wing of Silicon Valley.
+*   **The Vatican Bank Interest**: In 2013, Epstein emailed Larry Summers about the **Vatican Bank**, noting its status as a "sovereign" entity that could allow elite clients to evade financial scrutiny.
+    *   *The Theory*: He was looking for a bank that was immune to US subpoenas.

@@ -6,7 +6,7 @@ Epstein didn't just pick up girls at the mall. He industrialized the recruitment
 
 ## 1. MC2 Model Management (Jean-Luc Brunel)
 *   **The Founder**: **Jean-Luc Brunel**, a titan of the modeling world.
-*   **The Scheme**: MC2 was a legitimate agency, but it had a "dark side." Brunel would scout young girls from poor backgrounds in Eastern Europe and South America.
+*   **The Scheme**: MC2 was a legitimate agency, but it had a "dark side." Brunel would scout young girls from poor backgrounds in Eastern Europe (Ukraine) and **South America (Brazil)**.
 *   **The "Visa" Trap**: He would promise them US work visas. Once they arrived, they were housed in apartments owned by Epstein (like 301 East 66th St).
 *   **The Debt**: The girls were told they owed money for travel/rent. They were then "offered" extra cash to give "massages" to Epstein to pay off the debt.
 *   **2026 Update**: New emails reveal direct correspondence between Brunel and **Ukrainian modeling agencies**, with Epstein cc'd on the potential recruits.

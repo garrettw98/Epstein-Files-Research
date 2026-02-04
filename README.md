@@ -36,7 +36,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 | **[The Middle East Connection](topics/The_Middle_East_Connection.md)**<br>Saudi passports & MBS. | **[The Dead](topics/The_Dead.md)**<br>Suspicious deaths: Brunel, Hoffenberg, Middleton. | **[The Dream Team Defense](profiles/The_Dream_Team_Defense.md)**<br>Ken Starr & the Scorched Earth. |
 | **[Accountability Log](topics/The_Accountability_Log.md)**<br>Who Apologized vs. Who Denied. | **[Key Itineraries](topics/Key_Itineraries.md)**<br>Africa Trip & Science Dinners. | **[The Email Troves](topics/The_Email_Troves.md)**<br>Chomsky, Bard College, & Woody Allen (2024). |
 | **[The Crypto Connection](topics/The_Crypto_Connection.md)**<br>Bitcoin funding & Zero-Day hacks. | **[Religious Figures](profiles/Religious_Figures.md)**<br>Dalai Lama & The Pope. | **[Shadow Diplomacy](topics/Shadow_Diplomacy.md)**<br>Russia, Iran, & India backchannels. |
-| **[Local Influence](topics/Local_Influence.md)**<br>Buying the USVI (Schools/Charity). | | **[AI & Neuroscience](topics/AI_and_Neuroscience.md)**<br>Funding the future mind. |
+| **[Local Influence](topics/Local_Influence.md)**<br>Buying the USVI (Schools/Charity). | **[Anomalies & Curiosities](topics/Anomalies_and_Curiosities.md)**<br>The "Marius Fortelni" Passport & Body Doubles. | **[AI & Neuroscience](topics/AI_and_Neuroscience.md)**<br>Funding the future mind. |
 
 ## 🆕 The 2026 Release (New!)
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3 million pages released in Jan 2026.

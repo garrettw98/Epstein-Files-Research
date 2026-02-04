@@ -34,5 +34,10 @@ The Epstein case is surrounded by a trail of dead bodies. While most are officia
 ## 6. The Victims (Tragic Consequences)
 *   **Virginia Giuffre (April 2025)**: Died by suicide. While not "suspicious" in the sense of a hit, her death is a direct casualty of the trauma inflicted by the network and the exhaustion of the legal battle.
 
+## 7. The Body Identification
+*   **The Theory**: "It wasn't him on the gurney."
+*   **The Fact**: The Medical Examiner identified the body using **Dental Records**.
+*   **The Anomaly**: The skepticism comes from the "ear" photos (see [Deep Dive: The Death](Deep_Dive_The_Death.md)), but forensic odontology is considered a primary method of identification.
+
 ## Conclusion
 The "Epstein Curse" seems to follow those who hold the deepest secrets about the money (Hoffenberg) or the political connections (Middleton, Brunel). The sheer number of "suicides" among key witnesses makes the official narratives harder for the public to accept.

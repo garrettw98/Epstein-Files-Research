@@ -12,6 +12,8 @@ Jeffrey Epstein's interest in science wasn't just a hobby; it was a dark obsessi
 ## 2. Transhumanism & Cryonics
 Epstein was obsessed with living forever.
 *   **Cryonics**: He told associates he wanted to have his **head and penis frozen** after death to be "resurrected" later.
+*   **Clarification (The "Macedonian Brains" Email)**: A viral email found in the files discusses shipping frozen brains from Macedonia.
+    *   *The Context*: This was **not** for Epstein's personal use. It was related to a scientific study on suicide and ketamine that Epstein was funding. While bizarre, it was legitimate research, not part of his resurrection plan.
 *   **The Funding**: He poured money into transhumanist research—the belief that technology can improve the human condition (immortality, super-intelligence).
     *   *Beneficiaries*: He funded researchers at Harvard and MIT working on synthetic biology and genetics.
 

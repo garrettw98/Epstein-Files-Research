@@ -27,6 +27,7 @@ The **JPMorgan ($290M)** and **Deutsche Bank ($75M)** settlements revealed the m
     *   *Structure*: Broken down into smaller amounts to avoid "Structuring" alerts (though the banks noticed and ignored it).
     *   *Use*: Paying victims/recruiters in cash to avoid paper trails.
 *   **The "Hotel" Payments**: Payments to victims were often labeled as "Hotel Expenses" or "Tuition" in internal bank memos.
+*   **Immigration Fraud Funding**: Epstein paid for the legal fees and costs associated with **sham marriages** to keep his foreign victims in the country, effectively laundering their legal status along with the money.
 *   **Human Trafficking Flags**: JPMorgan compliance officers explicitly flagged wire transfers to Eastern European women as "indicative of human trafficking," but executives (like **Jes Staley**) overrode them.
 
 ## 4. The "Leon Black" Connection

@@ -24,6 +24,7 @@ Epstein didn't just collect scientists and politicians; he collected celebrities
 *   **The 2026 Revelation**: Emails show Epstein inviting Allen to a "day museum White House trip."
 *   **The "Castle Dracula" Letter**: Allen wrote a birthday note to Epstein, joking that his townhouse was like "Castle Dracula" but praising the "interesting people" he met there (referencing Prince Andrew and scientists).
 *   **The Dinner**: Allen attended monthly dinner parties at Epstein's townhouse for years.
+*   **The Favor**: Emails reveal Epstein used his influence with Bard College President **Leon Botstein** to help Allen's daughter secure admission to the school.
 *   **The Quote**: Allen famously said of Epstein's situation: *"I'm sensitive to it because I've been the object of that kind of scrutiny myself."*
 
 ## Significance

@@ -25,3 +25,11 @@ Aside from professional agents, Epstein used his own victims as recruiters (The 
 *   **The Access**: Because Epstein managed Les Wexner's money (owner of Victoria's Secret), he posed as a talent scout for the brand.
 *   **The Lie**: He would approach girls telling them he could get them into the VS catalog.
 *   **Wexner's Response**: Wexner claims he banned Epstein from using his name after he found out about this in the 90s, but the association persisted.
+
+## 5. The College Admissions & Visa Fraud
+Epstein didn't just recruit models; he recruited students and immigrants.
+*   **The "Babysitter" Lure**: He recruited women for "nanny" or "babysitting" jobs, despite having no children. This was a cover to get them into his homes.
+*   **Green Card Marriages**: To keep his foreign victims in the US, he arranged (and paid for) sham marriages between the women and his male associates.
+*   **The College Bribe**: He used his influence to help the children of associates get into elite colleges.
+    *   *Example*: He helped **Woody Allen's** daughter get into **Bard College** by leveraging his donations to President Leon Botstein.
+    *   *The Hook*: This created a debt of gratitude from powerful parents.

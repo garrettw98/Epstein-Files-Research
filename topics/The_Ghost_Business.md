@@ -25,5 +25,9 @@ For 20 years, Jeffrey Epstein was described in the press as a "Billionaire Money
     2.  **Stolen Funds** from the Towers Financial Ponzi scheme.
     3.  **"Tax Advice" Fees** from Leon Black ($158M).
 
+## 4. The Rothschild Connection
+*   **The Deal**: In 2015, Epstein's **Southern Trust Company** reportedly secured a deal with the **Rothschild Group** to develop "risk analysis algorithms."
+*   **Significance**: This is one of the few examples of Epstein conducting actual, documented business with a major financial institution post-2008. It suggests he was trying to pivot Southern Trust from a shell company into a legitimate data-mining firm (aligning with his "DNA database" ambitions).
+
 ## Significance
 The myth of the "Financial Genius" was his cover. It explained his wealth without him having to show his work. It allowed him to enter rooms with Presidents and Prime Ministers who assumed he was "one of them," when in reality, he was a con artist with a rich patron.

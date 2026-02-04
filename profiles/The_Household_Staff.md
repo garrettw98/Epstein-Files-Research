@@ -29,5 +29,11 @@ While the "Lieutenants" (Sarah Kellen, etc.) were participating in the abuse, th
     *   **Visoski** testified in the Maxwell trial (2021). He confirmed flying **Bill Clinton**, **Donald Trump**, **Kevin Spacey**, and **Prince Andrew**.
     *   **Crucial Detail**: Visoski testified that the cockpit door was always closed, so he "didn't see" what happened in the cabin, but he confirmed the passengers.
 
+## 4. The Manhattan Visitor Logs (2010-2019)
+While the Palm Beach staff saw the abuse, the New York staff saw the socialites.
+*   **The Dinner Guests**: Logs and photos place media figures like **Katie Couric**, **George Stephanopoulos**, and **Chelsea Handler** at dinners in the townhouse *after* Epstein's 2008 conviction.
+*   **The Tech Titans**: **Sergey Brin** (Google Co-Founder) was emailed by Maxwell about a meeting.
+*   **The Diplomats**: **Miroslav Lajcak** (Slovakian Foreign Minister) was photographed entering the house.
+
 ## Significance
 These men were "the help." Epstein ignored them, thinking they were invisible. In the end, their logbooks and stolen photocopies became the evidence that destroyed him.

@@ -16,7 +16,10 @@ While the "Lieutenants" (Sarah Kellen, etc.) were participating in the abuse, th
 *   **The "Black Book"**: Rodriguez is the reason we have the "Little Black Book."
     *   *The Theft*: He photocopied the book and tried to sell it to an attorney in 2009 for $50,000.
     *   *The FBI*: The FBI raided him, seized the book, and it became the roadmap for the entire investigation.
-*   **The Warning**: He circled names in the book he thought were "material witnesses" or "pedophiles."
+*   **The Circled Names**: Rodriguez circled roughly 38 names he claimed were "material witnesses" or "in cahoots." Verified circled names include:
+    *   **Donald Trump**
+    *   **Prince Andrew**
+    *   **Ehud Barak** (Israeli PM)
 *   **Death**: He died in 2015, long before the 2019 arrest.
 
 ## 3. The Pilots: David Rodgers & Larry Visoski

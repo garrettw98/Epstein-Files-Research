@@ -13,6 +13,7 @@ Prince Andrew was a long-time friend of Ghislaine Maxwell and Jeffrey Epstein. H
 
 ## Key Evidence
 *   **The Photograph**: A widely circulated photo shows Prince Andrew with his arm around a 17-year-old Virginia Giuffre, with Ghislaine Maxwell standing in the background.
+*   **The "Circled" Name**: Epstein's butler, **Alfredo Rodriguez**, circled Andrew's name in the "Black Book" as a key witness/associate.
 *   **Flight Logs**: Confirm his presence at various Epstein properties.
 *   **2026 Revelation**: Emails released in Jan 2026 confirm he attended an "intimate dinner party" with Epstein *after* Epstein was released from jail, contradicting his claims that he cut ties.
     *   *Security Detail*: The emails show Epstein's staff coordinating with Royal Protection officers for this visit, proving it was a planned, formal event rather than a "casual drop-in" to break up the friendship.

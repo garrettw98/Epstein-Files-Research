@@ -26,6 +26,11 @@ One of the most disturbing but legally significant aspects of the case is the sp
     *   **Legal Significance**: This specific, non-public detail was used by prosecutors to vet the credibility of accusers. If a victim knew this detail, it was strong evidence they had seen him naked.
     *   **Viral Context**: This detail went viral during the 2024 unsealing (Johanna Sjoberg testimony) and became a symbol of the "grotesque" reality behind the glamorous facade.
 
+## 5. The Geography of Recruitment (Hunting Grounds)
+Epstein's operation wasn't random; it was geolocated to target vulnerable populations.
+*   **The Schools**: Police investigations identified specific schools where recruiters operated, including **Royal Palm Beach High School** (at least 15 victims linked here), **Lake Worth Middle**, and **Palm Beach Gardens High**.
+*   **The Class Divide**: Epstein lived in the ultra-wealthy Palm Beach island, but his recruiters targeted the working-class mainland (West Palm Beach). This economic disparity made the $200 "massage" fee a powerful lure for teenagers from lower-income backgrounds.
+
 ## 4. The "Orgasmic" Massage
 The abuse typically followed a strict script:
 1.  **Non-Sexual Start**: The victim would begin by massaging Epstein's back or feet.

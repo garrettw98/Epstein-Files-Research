@@ -28,6 +28,10 @@ Epstein used science as a "laundromat" for his reputation. By associating with N
 *   **The Defense**: Krauss publicly defended Epstein after his 2008 conviction.
 *   **The "Advice"**: Emails reveal Krauss sought Epstein's advice on how to handle *his own* sexual misconduct allegations, suggesting a "mutual aid" network among accused men.
 
+## 6. The Edge.org Philosophy
+*   **The Hub**: **John Brockman's** "Edge" organization was the intellectual salon that connected Epstein to this world.
+*   **The Ideology**: The group fostered a culture of "intellectual superiority," where "great men" were believed to be above conventional morality. This philosophy (often overlapping with evolutionary psychology and atheism) provided the perfect ideological cover for Epstein's eugenics and abuse—he wasn't a predator; he was a "disruptor" of social norms.
+
 ## MIT Media Lab
 *   **Joi Ito (Director)**: Resigned after it was revealed he accepted anonymous donations from Epstein (labeled as "Disqualified" in internal records) to fund the lab.
 *   **The Cover-up**: Emails showed the lab actively tried to hide Epstein's involvement.

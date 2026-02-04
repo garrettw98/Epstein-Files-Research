@@ -17,10 +17,9 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[The Legal Crusaders](profiles/The_Legal_Crusaders.md)**: Brad Edwards & the lawyers who sued Epstein when the government failed.
 
 ## ⚙️ The Machinery (How It Worked)
-*   **[The Abuse System](topics/The_Abuse_System.md)**: The "Pyramid Scheme," the "Hunting Grounds" (Schools), and the "Egg" description.
+*   **[The Abuse System](topics/The_Abuse_System.md)**: The "Pyramid Scheme," the "Massage," and the "Egg" description.
 *   **[The Money Trail](topics/The_Money_Trail.md)**: Offshore shells, the "1953 Trust," and the $80k cash withdrawals.
 *   **[The Origin Story](topics/The_Origin_Story.md)**: Where did the money come from? (The Ponzi Scheme theory).
-*   **[Ace Greenberg](profiles/Ace_Greenberg.md)**: The Mentor who hired him at Bear Stearns.
 *   **[Les Wexner](profiles/Les_Wexner.md)**: The Patron who gave Epstein the money and house.
 *   **[The Executors](profiles/The_Lawyers.md)**: Indyke & Kahn—the lawyers who still control the estate.
 *   **[The Ghost Business](topics/The_Ghost_Business.md)**<br>The "Fund Manager" myth. | **[The Cult Tactics](topics/The_Cult_Tactics.md)**<br>Mind Control & "Slave Contracts." | **[The Protégés](topics/The_Proteges.md)**<br>Epstein as "Mentor" (MBS, Musk, Staley).
@@ -38,6 +37,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 | **[Accountability Log](topics/The_Accountability_Log.md)**<br>Who Apologized vs. Who Denied. | **[Key Itineraries](topics/Key_Itineraries.md)**<br>Africa Trip & Science Dinners. | **[The Email Troves](topics/The_Email_Troves.md)**<br>Chomsky, Bard College, & Woody Allen (2024). |
 | **[The Crypto Connection](topics/The_Crypto_Connection.md)**<br>Bitcoin funding & Zero-Day hacks. | **[Religious Figures](profiles/Religious_Figures.md)**<br>Dalai Lama & The Pope. | **[Shadow Diplomacy](topics/Shadow_Diplomacy.md)**<br>Russia, Iran, & India backchannels. |
 | **[Local Influence](topics/Local_Influence.md)**<br>Buying the USVI (Schools/Charity). | **[Anomalies & Curiosities](topics/Anomalies_and_Curiosities.md)**<br>The "Marius Fortelni" Passport & Body Doubles. | **[AI & Neuroscience](topics/AI_and_Neuroscience.md)**<br>Funding the future mind. |
+| **[The Exhibit Inventory](topics/The_Exhibit_Inventory.md)**<br>List of physical evidence (Diamonds/CDs). | **[The Defense Playbook](topics/The_Defense_Playbook.md)**<br>Victim shaming strategies. | |
 
 ## 🆕 The 2026 Release (New!)
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3 million pages released in Jan 2026.

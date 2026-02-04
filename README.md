@@ -18,7 +18,6 @@ This repository serves as a **verified, fact-based database**. We have organized
 
 ## ⚙️ The Machinery (How It Worked)
 *   **[The Abuse System](topics/The_Abuse_System.md)**: The "Pyramid Scheme," the "Massage," and the "Egg" description.
-*   **[The Staff Rulebook](topics/The_Staff_Rulebook.md)**: **NEW**: The bizarre rules for employees ($100 bills, guns, no eye contact).
 *   **[The Money Trail](topics/The_Money_Trail.md)**: Offshore shells, the "1953 Trust," and the $80k cash withdrawals.
 *   **[The Origin Story](topics/The_Origin_Story.md)**: Where did the money come from? (The Ponzi Scheme theory).
 *   **[Les Wexner](profiles/Les_Wexner.md)**: The Patron who gave Epstein the money and house.
@@ -49,6 +48,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 ## 🔎 The Evidence Explained
 *   **[Flight Logs vs. Black Book](evidence/Logs_vs_Book.md)**: Why being in his "book" is different from being on his "plane."
 *   **[The 2024 Files](evidence/2024_Release.md)**: What we learned from the January 2024 unsealing.
+*   **[Cold Cases (Unresolved)](COLD_CASES.md)**: The Visa Factory, Art Laundromat, and Encrypted Drives.
 
 ## 📅 [Full Timeline](timeline/Full_Timeline.md)
 A year-by-year breakdown of every major event, from 1953 to today.

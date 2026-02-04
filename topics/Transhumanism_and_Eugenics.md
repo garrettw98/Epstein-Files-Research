@@ -31,3 +31,9 @@ Why did he care?
 *   **Narcissism**: He believed his DNA was a gift to the world.
 *   **Legitimacy**: Hanging out with Nobel Prize winners made him feel smarter than the "finance guys" he usually dealt with.
 *   **Protection**: It's harder to investigate a "Science Philanthropist" than a "creep with a private island."
+
+## 5. The Southern Trust "DNA Database"
+*   **The Shell**: Epstein's primary USVI company, **Southern Trust**, was granted massive tax breaks.
+*   **The Stated Purpose**: In his application to the USVI government, Epstein claimed the company would be building a **"DNA Data Mining"** database and algorithm.
+*   **The Reality**: There is no evidence any such database was ever built.
+*   **The Implication**: He used his eugenics obsession as a cover story for his tax fraud. He knew "Bio-Data" sounded legitimate and high-tech enough to fool local regulators.

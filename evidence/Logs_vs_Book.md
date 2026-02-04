@@ -16,6 +16,7 @@ One of the biggest sources of confusion on the internet is the difference betwee
     *   Epstein was a "collector" of people. He would get contact info at parties or through friends.
     *   Being in the book **does not** mean the person ever visited the island or flew on the plane.
     *   Many people in the book (like Donald Trump) had 14 different numbers listed, implying Epstein wanted to reach them, not necessarily that they were close friends.
+    *   **Cryptic Codes**: The book contains bizarre, unexplained notations like **"Yob HERIOU @POD. CATSTT."** next to certain entries, suggesting a coded language for specific contacts.
 
 ## ⚠️ The "Client List" Myth
 **There is no single "Client List".**

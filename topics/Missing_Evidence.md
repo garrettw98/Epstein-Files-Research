@@ -27,3 +27,8 @@ Despite millions of pages being released, key pieces of the puzzle remain missin
 ## 5. The "Standard Hotel" Tapes (Los Angeles)
 *   **The Item**: Epstein invested in the Standard Hotel in West Hollywood.
 *   **The Rumor**: Victims have alleged abuse occurred there. Were there cameras?
+
+## 6. The Zorro Ranch Server Scrub
+*   **The Location**: The high-tech server room at the New Mexico ranch.
+*   **The Incident**: Reports indicate the server room was **"professionally scrubbed"** (wiped clean) just days before the FBI raided the property in 2019.
+*   **The Implication**: This suggests Epstein (or his associates) had advance warning of the raid or a "kill switch" protocol to destroy digital evidence.

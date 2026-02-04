@@ -28,6 +28,11 @@ Epstein's homes were not just luxurious; they were disturbing. Visitors often de
 *   **The Item**: A hallway in the Manhattan house lined with framed eyeballs.
 *   **The Details**: According to visitors, these were artificial eyes (or photos of eyes) meant to signify that "someone is always watching."
 
+## 6. The Paris Apartment Walls
+*   **Location**: 22 Avenue Foch.
+*   **The Decor**: Unlike the Manhattan mansion's expensive art, the Paris apartment walls were reportedly covered in **framed photographs of naked young women**.
+*   **The Message**: This wasn't art; it was a "menu" or a trophy wall, signaling to visitors exactly what the apartment was for.
+
 ## The Psychology
 Experts suggest this decor wasn't just "eccentricity"; it was **Psychological Warfare**.
 *   **Disorientation**: It kept victims and guests off-balance.

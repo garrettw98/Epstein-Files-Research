@@ -1,7 +1,7 @@
 # International Investigations (2026)
 
 > **Status**: **ONGOING**
-> **Countries**: Poland, Lithuania, Slovakia, United Kingdom
+> **Countries**: Poland, Lithuania, Latvia, Turkey, Slovakia, United Kingdom
 > **Trigger**: January 2026 DOJ Document Release
 
 ## Summary
@@ -116,14 +116,50 @@ The British government has faced questions about:
 - Royal family connections to Epstein
 - Whether UK will launch formal investigation
 
+## Latvia
+
+### Investigation Launched
+
+**Date**: February 4, 2026
+**Body**: Latvian Prosecutors
+
+Latvia announced its investigation into the Epstein files the same day as Lithuania, signaling growing regional concern that Epstein's crimes crossed more borders than previously understood.
+
+## Turkey
+
+### Investigation Launched
+
+**Date**: December 2025 (expanded February 2026)
+**Body**: Ankara Public Prosecutor's Office
+
+### Focus
+
+Turkish prosecutors are reviewing newly released Epstein files as part of an investigation into allegations that Epstein **trafficked Turkish children**:
+- The inquiry was initially launched in **December 2025**
+- On **February 3, 2026**, prosecutors expanded their review to include the January 30 release
+- Specific focus on child trafficking allegations
+
+## Sweden
+
+### Rubinstein Resignation
+
+**Date**: February 2, 2026
+
+**Joanna Rubinstein** resigned as chair of **Sweden for UNHCR** after files revealed she visited Epstein's island in 2012 with her family, four years after his conviction.
+
+See: [Joanna Rubinstein Profile](../profiles/Joanna_Rubinstein.md)
+
 ## European Union Impact
 
 ### Pattern Recognition
 
 Multiple EU member states now examining Epstein connections:
-- **Poland** (investigation)
-- **Lithuania** (investigation)
-- **Slovakia** (political fallout)
+- **Poland** (investigation; PM-led task force)
+- **Lithuania** (investigation; human trafficking)
+- **Latvia** (investigation; launched same day as Lithuania)
+- **Slovakia** (political fallout; Lajcak resignation)
+- **Turkey** (investigation; child trafficking allegations)
+- **Sweden** (political fallout; Rubinstein resignation from UNHCR)
 - Potential for additional countries to follow
 
 ### Trafficking Routes
@@ -190,12 +226,19 @@ Countries may need to coordinate on:
 
 | Date | Country | Event |
 |------|---------|-------|
+| Dec 2025 | Turkey | Ankara Prosecutor opens child trafficking inquiry |
 | Jan 30, 2026 | US | DOJ releases 3+ million pages |
-| Feb 1, 2026 | Slovakia | Lajcak resigns |
-| Feb 1, 2026 | UK | Renewed calls for Prince Andrew cooperation |
-| Feb 3, 2026 | Poland | Task force announced |
-| Feb 4, 2026 | Lithuania | Investigation launched |
-| Ongoing | UK | Mandelson criminal investigation |
+| Jan 31, 2026 | Slovakia | Lajcak resigns |
+| Feb 1, 2026 | UK | Mandelson resigns from Labour Party |
+| Feb 1, 2026 | USA | Dean Kamen placed on leave from FIRST |
+| Feb 2, 2026 | Sweden | Joanna Rubinstein resigns from Sweden for UNHCR |
+| Feb 3, 2026 | Poland | Task force announced by PM Tusk |
+| Feb 3, 2026 | Turkey | Prosecutors expand review to include Jan 30 release |
+| Feb 3, 2026 | UK | Metropolitan Police launch criminal probe of Mandelson |
+| Feb 4, 2026 | Lithuania | Human trafficking investigation launched |
+| Feb 4, 2026 | Latvia | Investigation launched |
+| Feb 4, 2026 | UK | Mandelson resigns from House of Lords |
+| Ongoing | UK | Mandelson criminal investigation for misconduct in public office |
 
 ## Implications
 

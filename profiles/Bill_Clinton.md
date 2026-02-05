@@ -62,10 +62,27 @@ The January 2026 release included:
 - **Frequent communications** between Ghislaine Maxwell and Clinton staffers (2001-2004)
 - FBI file entries showing public inquiries demanding investigation of Clinton
 
-## Verdict
-**Verified Associate.** He traveled with Epstein extensively, but there is **no evidence** currently linking him to the sexual crimes.
+## February 5, 2026: Hillary Pushes for Public Hearing
 
-The February 2026 depositions may reveal additional information about the relationship.
+On February 5, 2026, former Secretary of State **Hillary Clinton** challenged Republicans to take the testimony **in public**, not behind closed doors.
+
+Chairman Comer responded that the Clintons would not be *"treated differently than everyone else"* and the subpoenas called for depositions, not a public hearing. He added: *"If they get through the depositions and they still want a public hearing, we'll try to do something."*
+
+### Democratic Warning
+
+Rep. **Jamie Raskin** (D-MD) warned of precedent:
+> *"It's clear that past presidents are not off limits for subpoenas... If there is a former president who doesn't render substantial good-faith compliance, they're going to be in trouble under this precedent. All bets are off."*
+
+This was widely interpreted as a warning that Democrats would seek to subpoena **Donald Trump** next.
+
+## The 2016 Deposition
+
+Epstein sat for a deposition in 2016 and was asked several questions about Clinton. He responded **"Fifth"** — invoking his Fifth Amendment right — to **every question** about the former president.
+
+## Verdict
+**Verified Associate.** He traveled with Epstein extensively, but there is **no evidence** currently linking him to the sexual crimes. No victim has accused Clinton of abuse.
+
+The February 26-27, 2026 depositions may reveal additional information about the relationship. Hillary Clinton's push for public testimony suggests confidence in their defense.
 
 ## See Also
 

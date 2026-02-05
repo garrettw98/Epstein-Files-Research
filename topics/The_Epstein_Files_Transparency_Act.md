@@ -11,6 +11,9 @@ The Epstein Files Transparency Act is a federal law requiring the Department of 
 
 ## Legislative History
 
+### Authors
+The Act was authored by **Democrat Rep. Ro Khanna** (D-CA) and **Republican Rep. Thomas Massie** (R-KY), who used a procedural move called a **discharge petition** to force a vote on the bill on the House floor, bypassing committee leadership.
+
 ### House Passage
 
 **Date**: November 18, 2025
@@ -31,6 +34,10 @@ The Senate passed the bill the same day as the House.
 **Signed By**: President Donald Trump
 
 Trump signed the bill into law the day after congressional passage.
+
+### Failed Contempt Amendment (January 2026)
+
+On **January 21, 2026**, Democratic Rep. **Summer Lee** introduced a congressional amendment to hold AG **Pam Bondi** in contempt of Congress for "failing to comply" with the Act. The amendment **failed along party lines, 19-24**.
 
 ## Key Provisions
 
@@ -166,6 +173,14 @@ Despite Trump signing the law:
 - His name appears thousands of times in files
 - Cabinet members (Lutnick) implicated
 - Deputy AG defending incomplete release
+
+### Public Opinion
+
+A **January 2026 CNN poll** found:
+- Only **6%** of Americans said they were satisfied with what the federal government had released
+- **49%** were dissatisfied
+- Nearly half of **Republicans**, three-quarters of **independents**, and 9 in 10 **Democrats** said the government was withholding information
+- A December 2025 **Reuters poll** found only **23%** of Americans approved of Trump's handling of the Epstein case
 
 ### Ongoing Scrutiny
 

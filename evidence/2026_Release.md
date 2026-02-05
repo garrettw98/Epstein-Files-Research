@@ -6,6 +6,48 @@
 > **Legal Authority**: Epstein Files Transparency Act (signed Nov 19, 2025)
 > **DOJ Repository**: [justice.gov/epstein](https://www.justice.gov/epstein) ("Epstein Library")
 
+## Pre-Release: Bloomberg Email Investigation (September 2025)
+
+Before the DOJ releases, **Bloomberg News** independently obtained approximately **18,700 emails** from one of Epstein's personal Yahoo accounts, spanning 2002-2022:
+
+- Cryptographic verification, metadata analysis, and corroboration confirmed authenticity
+- Four independent experts reviewed the methodology
+- Emails mostly exchanged between **2005 and 2008**
+- Revealed that Maxwell and Epstein exchanged **at least 650 emails** — about **203 messages** in the first six months of 2008, undercutting Maxwell's claims that her connection had diminished
+- Federal prosecutors had opened a **financial-crimes investigation** in 2007, including potential **money laundering** charges
+- Crisis strategist **Merrie Spaeth** (former Reagan administration) coached Epstein on communication, including how to answer questions **"without being trapped by the parameters"**
+
+## The December 2025 Initial Release
+
+### What Was Released
+The DOJ released an initial batch on **December 19, 2025** (the 30-day deadline):
+- Led to **bipartisan criticism** as inadequate
+- **Over 550 pages** were **entirely blacked out** (CBS News count)
+- One series of three consecutive documents (255 pages) was fully redacted
+- A 119-page document labeled "Grand Jury-NY" was entirely redacted
+- At least 180 additional pages were mostly but not entirely redacted
+
+### The Disappeared Files
+Less than a day after the release, **at least 16 files disappeared** from the DOJ webpage without explanation:
+- Included **File 468** — a photo of Trump, Melania, Epstein, and Maxwell from a desk drawer
+- DOJ later stated: *"Out of an abundance of caution, the Department temporarily removed the image for further review"*
+- The photo was eventually reposted without alteration
+
+### The "Soft Redaction" Disaster
+The most talked-about failure: **simply copying and pasting** from the PDF revealed hidden text:
+- Black boxes were cosmetic, not permanent redactions
+- Underlying data remained intact
+- Millions downloaded unredacted versions before fixes
+- Duplicate copies of the same documents appeared with **different levels of redactions**
+- The same PowerPoint appeared **six times** with different information blocked in each version
+
+### Criticism
+Rep. **Thomas Massie** (R-KY), co-sponsor of the Act:
+> *"This release grossly fails to comply with both the spirit and the letter of the law."*
+
+Survivor **Annie Farmer**:
+> *"There's just no explanation for how it could've been done so poorly."*
+
 ## The Epstein Files Transparency Act
 
 ### Legislative History
@@ -173,20 +215,25 @@ See: [The Eastern European Pipeline](../topics/The_Eastern_European_Pipeline.md)
 
 ## International Fallout
 
-### Resignations
+### Resignations & Departures
 
 | Person | Country | Date | Reason |
 |--------|---------|------|--------|
-| Miroslav Lajcak | Slovakia | Feb 1, 2026 | Emails about "young women" |
-| Peter Mandelson | UK | Ongoing | Criminal investigation |
+| Miroslav Lajcak | Slovakia | Jan 31, 2026 | National Security Adviser; resigned after emails surfaced |
+| Peter Mandelson | UK | Feb 1, 2026 | Resigned from Labour Party |
+| Peter Mandelson | UK | Feb 4, 2026 | Resigned from House of Lords (first since 1917) |
+| Joanna Rubinstein | Sweden | Feb 2, 2026 | Chair of Sweden for UNHCR; visited island in 2012 |
+| Dean Kamen | USA | Feb 1, 2026 | Placed on leave from FIRST robotics org |
 
 ### Investigations Launched
 
 | Country | Body | Focus |
 |---------|------|-------|
-| Poland | Task Force | Trafficking, Russia links |
-| Lithuania | Prosecutors | Human trafficking |
-| UK | Multiple | Mandelson criminal case |
+| Poland | PM Tusk Task Force | Trafficking; Daniel Siad "scout" in Kraków |
+| Lithuania | Prosecutor General | Human trafficking; Lithuanian models in files |
+| Latvia | Prosecutors | Human trafficking (announced same day as Lithuania) |
+| Turkey | Ankara Prosecutor | Allegations Epstein trafficked Turkish children |
+| UK | Metropolitan Police | Criminal probe of Peter Mandelson; misconduct in public office |
 
 See: [International Investigations](../topics/International_Investigations.md)
 
@@ -198,7 +245,7 @@ See: [International Investigations](../topics/International_Investigations.md)
 | Kathryn Ruemmler | [Profile](../profiles/Kathryn_Ruemmler.md) | Island visits |
 | Howard Lutnick | [Profile](../profiles/Howard_Lutnick.md) | 2012 island visit |
 | Miroslav Lajcak | [Profile](../profiles/Miroslav_Lajcak.md) | Resigned |
-| Ehud Barak | - | Photos hiding face; "security contracts" |
+| Ehud Barak | [Profile](../profiles/Ehud_Barak.md) | NYC apartment stays; FBI memo re: Mossad; audio recording |
 
 ## Hollywood & Media (Profiles)
 
@@ -207,6 +254,7 @@ See: [International Investigations](../topics/International_Investigations.md)
 | Steve Bannon | [Profile](../profiles/Steve_Bannon.md) | 15 hrs interviews; Trump texts |
 | Steve Tisch | [Profile](../profiles/Steve_Tisch.md) | "Pro or civilian" emails |
 | Richard Branson | [Profile](../profiles/Richard_Branson.md) | "Bring your harem" |
+| Brett Ratner | [Profile](../profiles/Brett_Ratner.md) | Photos on couch with Epstein; *Melania* director |
 | Woody Allen | - | Social ties confirmed |
 | David Blaine | - | Dinner party magic |
 
@@ -214,8 +262,11 @@ See: [International Investigations](../topics/International_Investigations.md)
 
 | Name | Profile | Key Revelation |
 |------|---------|----------------|
-| Elon Musk | [Profile](../profiles/Elon_Musk.md) | "Wildest party" email |
+| Elon Musk | [Profile](../profiles/Elon_Musk.md) | 16 emails; "wildest party"; multiple island visit plans |
+| Sergey Brin | [Profile](../profiles/Sergey_Brin.md) | Maxwell communications; dinner guest lists |
 | Peter Attia | [Profile](../profiles/Peter_Attia.md) | 1,700 emails |
+| Dean Kamen | [Profile](../profiles/Dean_Kamen.md) | Island visit; placed on leave from FIRST |
+| Dr. Mehmet Oz | - | $1,592 travel paid by Epstein (2004) |
 
 ## Enablers (Profiles)
 

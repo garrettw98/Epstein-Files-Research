@@ -56,7 +56,18 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[Elon Musk](Elon_Musk.md)** - "Wildest party" email; holiday correspondence.
 
 ### Science/Tech
+*   **[Sergey Brin](Sergey_Brin.md)** - Google co-founder; Maxwell communications; dinner guest lists; island allegation.
 *   **[Peter Attia](Peter_Attia.md)** - Longevity doctor; 1,700 emails.
+*   **[Dean Kamen](Dean_Kamen.md)** - Segway inventor; FIRST founder; island visitor; placed on leave.
+
+### Intelligence/Diplomatic
+*   **[Ehud Barak](Ehud_Barak.md)** - Former Israeli PM; NYC apartment stays; FBI memo re: Mossad.
+
+### Hollywood/Media
+*   **[Brett Ratner](Brett_Ratner.md)** - Film director; photos with Epstein; *Melania* documentary.
+
+### Resignations
+*   **[Joanna Rubinstein](Joanna_Rubinstein.md)** - Chair of Sweden for UNHCR; **resigned Feb 2, 2026** after island visit revealed.
 
 ### Enablers
 *   **[Daniel Siad](Daniel_Siad.md)** - Polish "scout"; recruited women from Kraków.

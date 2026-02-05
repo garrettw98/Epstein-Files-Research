@@ -24,29 +24,49 @@ Unlike Trump or Clinton, Bill Gates' relationship with Epstein began **after** E
 
 ## February 2026 Public Statements
 
-### Bill Gates' Response
+### Bill Gates' Response (February 4, 2026 - 9 News Australia Interview)
 
-Following the January 2026 document release, Gates spoke publicly for the first time:
+Gates spoke publicly for the first time since the January release:
+
+> **"It just reminds me, every minute I spent with him I regret, and I apologize that I did that."**
 
 > **"I was foolish"** to spend time with Epstein.
 
+On Epstein's draft emails (self-addressed, never sent, from 2013):
+> **"Apparently, Jeffrey wrote an email to himself. That email was never sent. The email is false."**
+
+On the scope of the relationship:
+> **"It's factually true that I was only at dinners. I never went to the island, I never met any women."**
+
+On why he spent time with Epstein:
+> **"He knew a lot of very rich people and he was always saying he could get them to give money to global health. In retrospect, that was a dead end, and I was foolish to spend time with him."**
+
 A spokesperson for Gates stated:
 - The claims in the documents are **"absolutely absurd and completely false"**
-- The documents demonstrate **"Epstein's frustration that he did not have an ongoing relationship with Gates"**
+- The documents demonstrate **"Epstein's frustration that he did not have an ongoing relationship with Gates and the lengths he would go to entrap and defame"**
+
+### The Epstein Draft Emails (2013)
+
+The 2026 files include self-addressed emails from Epstein (2013) that appeared to suggest:
+- Gates was having an **extramarital affair**
+- Gates was seeking **illicit drugs**
+- These emails were **never sent** and Gates denies their content
+
+In one dated **July 18, 2013**, Epstein wrote that he was resigning from a role with the Gates Foundation and **BG3** (a think tank Gates founded).
 
 ### Melinda French Gates' Response
 
-Melinda French Gates also responded to the latest revelations:
-
-> **"Unbelievable sadness"**
-
-She expressed distress over the continued revelations and maintained that her exposure to Epstein (a single meeting) contributed to her decision to divorce.
+Melinda French Gates told NPR's **Wild Card** podcast (airing February 6, 2026):
+- Bill Gates and other wealthy men named in the files **"should answer questions"** about their association with Epstein
+- Her ex-husband's association with Epstein was **one factor of many** that led her to seek divorce
 
 ### Document Context
 
 The 2026 files show:
 - Extensive correspondence attempting to maintain Gates' engagement
 - Evidence that Epstein tried to leverage the relationship more than Gates reciprocated
+- Gates first met Epstein in **2011** — three years after Epstein's Florida conviction
+- Attended dinners over a **three-year period** (2011-2014)
 - Gates distancing himself over time
 
 ## The Pattern

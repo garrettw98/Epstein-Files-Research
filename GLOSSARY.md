@@ -36,8 +36,12 @@ A quick-reference guide to the specific language of the Epstein Files.
 *   **1953 Trust**: The entity created days before his death to hold his assets and shield them from lawsuits.
 
 ## 2026 Release Terms
+*   **Bloomberg Emails**: ~18,700 emails independently obtained by Bloomberg News from Epstein's Yahoo account in September 2025, authenticated by cryptographic verification.
 *   **Data Sets**: The DOJ organized releases into numbered batches (Sets 1-12 as of Feb 2026).
+*   **Discharge Petition**: The procedural move used by Reps. Khanna and Massie to force a House floor vote on the Transparency Act, bypassing committee leadership.
 *   **Epstein Library**: The DOJ's dedicated website (justice.gov/epstein) hosting released documents.
 *   **"Harem"**: Term Epstein used to describe the groups of women who traveled with him; adopted by some associates (e.g., Branson's email).
-*   **Orange Shape**: Unidentified figure seen on surveillance footage climbing stairs to Epstein's tier the night before his death.
+*   **Orange Shape**: Unidentified figure seen on surveillance footage climbing stairs to Epstein's tier the night before his death. OIG called it a corrections officer carrying linen; forensic experts disagree.
+*   **Screen Recording**: Forensic analysis found the released jail surveillance footage was created May 23, 2025 (metadata), suggesting it was a screen recording rather than a raw DVR export.
+*   **Soft Redaction**: The technical error in the December 2025 release where black boxes could be copy-pasted to reveal hidden text underneath.
 *   **Two Eiffel Towers**: Deputy AG Blanche's metaphor for the volume of documents (3.5 million pages stacked).

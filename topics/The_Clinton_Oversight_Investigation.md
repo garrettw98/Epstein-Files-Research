@@ -130,12 +130,29 @@ Notably, the **original subpoena vote was unanimous** (bipartisan), suggesting g
 - Could reveal new information about Epstein's network
 - Tests congressional oversight powers
 
+## February 5, 2026: Hillary Demands Public Hearing
+
+Former Secretary of State **Hillary Clinton** challenged Republicans to hold the testimony **in public**, not behind closed doors.
+
+**Chairman Comer** responded:
+> *"The Clintons will not be treated differently than everyone else."*
+
+He said the subpoenas called for depositions, not a public hearing:
+> *"If they get through the depositions and they still want a public hearing, we'll try to do something."*
+
+### Democratic Warning
+
+Rep. **Jamie Raskin** (D-MD):
+> *"It's clear that past presidents are not off limits for subpoenas. If there is a former president who doesn't render substantial good-faith compliance, they're going to be in trouble under this precedent. All bets are off."*
+
+This was widely interpreted as a warning that Democrats would seek to subpoena **Donald Trump** next.
+
 ## Outstanding Questions
 
 1. **What will the Clintons be asked?** - Full scope of questioning unclear
-2. **Will transcripts be released?** - Depositions are closed-door
+2. **Will transcripts be released?** - Depositions are closed-door; Hillary pushing for public testimony
 3. **Other witnesses?** - Nine other individuals were subpoenaed
-4. **Trump testimony?** - Democrats threaten reciprocal subpoenas
+4. **Trump testimony?** - Democrats explicitly threaten reciprocal subpoenas (Raskin warning)
 5. **Criminal referrals?** - Possible if perjury or other crimes discovered
 
 ## The Nine Democrats

@@ -133,6 +133,8 @@ This timeline integrates all data points from this repository into a single chro
 *   **2025 (Oct)**: **"Nobody's Girl"**, Giuffre's memoir, is published posthumously.
 *   **2025 (Jul 23)**: House Oversight Subcommittee **unanimously votes** to subpoena Bill & Hillary Clinton.
 *   **2025 (Aug 5)**: Chairman Comer issues Clinton subpoenas.
+*   **2025 (Sep)**: **Bloomberg News** independently obtains ~18,700 Epstein emails from his Yahoo account, revealing depths of elite network.
+*   **2025 (Sep)**: UK PM Starmer **sacks Peter Mandelson** as US Ambassador after initial Epstein ties surface.
 *   **2025 (Oct)**: Supreme Court **denies** Maxwell's appeal; 20-year sentence stands.
 *   **2025 (Nov 18)**: **Epstein Files Transparency Act** passes House (427-1) and Senate (unanimous).
 *   **2025 (Nov 19)**: President Trump signs the Transparency Act into law.
@@ -145,6 +147,7 @@ This timeline integrates all data points from this repository into a single chro
 *   **2026 (Jan 13)**: Bill Clinton **fails to appear** for scheduled deposition.
 *   **2026 (Jan 14)**: Hillary Clinton **fails to appear** for scheduled deposition.
 *   **2026 (Jan 21)**: House Oversight Committee votes to recommend **contempt of Congress** for both Clintons. Nine Democrats support the vote.
+*   **2026 (Jan 21)**: Democratic Rep. **Summer Lee** introduces amendment to hold AG **Pam Bondi** in contempt for failing to comply with the Act. Amendment **fails 19-24** along party lines.
 *   **2026 (Jan 30)**: **The "Transparency" Release** (~3.5 million pages, 2,000 videos, 180,000 images).
     *   **Howard Lutnick**: Trump Commerce Secretary visited island with family (2012).
     *   **Steve Tisch**: NY Giants co-owner emails about women ("pro or civilian").
@@ -157,13 +160,21 @@ This timeline integrates all data points from this repository into a single chro
     *   **Daniel Siad**: Polish "scout" emails about "girls" in Kraków.
     *   **"Orange Shape"**: Surveillance shows figure on stairs night before death.
     *   **Redaction Scandal**: 43+ victims' names exposed; emergency shutdown requested.
-*   **2026 (Feb 1)**: **Miroslav Lajčák** (Slovak National Security Adviser) **resigns** over Epstein emails.
-*   **2026 (Feb 1)**: Attorneys for 200+ victims request immediate shutdown of DOJ Epstein website.
+*   **2026 (Jan 31)**: **Miroslav Lajčák** (Slovak National Security Adviser) submits **resignation** over Epstein emails.
+*   **2026 (Feb 1)**: **Peter Mandelson** resigns from **Labour Party** to avoid causing "further embarrassment."
+*   **2026 (Feb 1)**: **Dean Kamen** placed on immediate **leave from FIRST** robotics organization.
+*   **2026 (Feb 1)**: Attorneys for **200+ victims** request immediate shutdown of DOJ Epstein website.
 *   **2026 (Feb 2)**: Deputy AG **Todd Blanche** announces **no new prosecutions** expected.
-*   **2026 (Feb 3)**: **Bill Gates** speaks publicly: "I was foolish."
-*   **2026 (Feb 3)**: **Poland** announces task force to investigate Epstein ties; PM Tusk says Epstein was "likely a spy for Moscow."
+*   **2026 (Feb 2)**: **Joanna Rubinstein** resigns as chair of **Sweden for UNHCR** after island visit revealed.
 *   **2026 (Feb 3)**: **Clintons agree to testify** (Feb 26-27, 2026), averting contempt vote.
-*   **2026 (Feb 4)**: **Lithuania** launches human trafficking investigation.
+*   **2026 (Feb 3)**: **Poland** announces task force to investigate Epstein ties; PM Tusk orders analysis of 3M+ pages.
+*   **2026 (Feb 3)**: **Turkey** prosecutors review files as part of child trafficking investigation (probe opened Dec 2025).
+*   **2026 (Feb 3)**: UK **Metropolitan Police** launch criminal investigation into Peter Mandelson for misconduct in public office.
+*   **2026 (Feb 4)**: **Bill Gates** speaks publicly in Australia: **"I was foolish"** to spend time with Epstein.
+*   **2026 (Feb 4)**: **Lithuania** launches human trafficking investigation after Lithuanian names found in files.
+*   **2026 (Feb 4)**: **Latvia** also opens Epstein-related investigation.
+*   **2026 (Feb 4)**: **Peter Mandelson** resigns from **House of Lords** — first such resignation linked to misconduct since 1917.
+*   **2026 (Feb 5)**: **Hillary Clinton** challenges Republicans to hold testimony in **public**, not closed-door.
 *   **2026 (Feb 5)**: **Current Status**.
     *   **DOJ**: Data Sets 9-12 released; ~3 million pages still withheld.
     *   **Congress**: Clinton depositions scheduled Feb 26-27.

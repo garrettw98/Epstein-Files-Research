@@ -63,16 +63,27 @@ Former Attorney General **Bill Barr** publicly stated that **"no one entered Eps
 
 The 2026 documents appear to contradict this assertion.
 
-### Seven Video Issues Under Scrutiny (2026)
+### Seven Video Issues Under Scrutiny (2025-2026)
 
 CBS News investigation identified multiple discrepancies in jail video:
 1. The "orange shape" figure
-2. Camera positioning gaps
-3. Timing inconsistencies
+2. Camera positioning gaps — the staircase to Epstein's cell and the main entrance to the SHU were **not visible** in the released video
+3. Timing inconsistencies — a **one-minute gap** occurs at midnight; the video's **aspect ratio shifts slightly** when it resumes, which experts said indicates editing
 4. Log entry contradictions
 5. Missing footage periods
 6. Quality degradation in key moments
-7. Chain of custody questions
+7. Chain of custody questions — forensic expert **Jim Stafford** analyzed file metadata and found the footage was **created on May 23, 2025**, suggesting it was a **screen recording, not a raw DVR export**. The original unedited footage remains with the FBI.
+
+### The Unidentified Person
+
+At **12:05 AM** on August 10, an **unidentified person** appears in the Special Housing Unit. The Inspector General's report said only **two staff members** entered after midnight. The individual's presence is **not explained**.
+
+### Expert Statements
+
+**Jim Stafford** (Forensic Video Expert):
+> *"To say that there's no way someone could get to the stairs without being seen is false."*
+
+This directly contradicts former AG **Bill Barr's** assertion that "no one entered Epstein's housing tier the night of his death."
 
 ## Verdict
 **Officially Suicide.** However, the catastrophic failures of the prison system (sleeping guards, broken cameras, removed cellmate) created a perfect storm for conspiracy theories that may never be fully debunked.

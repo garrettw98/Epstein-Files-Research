@@ -31,13 +31,36 @@ Bannon has stated he was interested in Epstein's financial knowledge and his con
 
 ### Trump-Related Messages
 
-The January 2026 release included **text messages** between Bannon and Epstein that reveal additional dynamics:
+The January 2026 release included **hundreds of text messages and emails** between Bannon and Epstein:
 
-**Content**:
-- They **frequently messaged about Trump**
-- Including **"poking fun"** at the president
-- Discussed Trump's policies and politics
-- Shared gossip about Trump and his family
+**Mocking Trump's Intelligence**:
+- Bannon called Trump **"a moron"** and **"the worst negotiator in human history"**
+- Said Trump had **"lost it"**
+- Michael Wolff (passing info to Epstein) called Trump **"an idiot"**
+- They repeatedly mocked Trump's claim of being **"a very stable genius"**
+
+**Boasting About Influence**:
+- Bannon texted: **"Dude: I just got him to pull the trigger on $400 billion in tariffs on China"**
+
+**Rumors About Trump and an Aide**:
+- In texts from **December 2018 and January 2019**, Epstein asked Bannon about aide **Madeleine Westerhout**
+- Bannon described her as the "receptionist" and a "good kid"
+- The White House called this **"a salacious and false rumor that has been proven to be fiction"**
+
+### The Border Wall Texts
+
+In a **May 25, 2019** text exchange, Bannon bragged to Epstein about his private border wall effort near El Paso:
+> **"I also can't seem like I'm running Trump's nose in his own incompetence."**
+
+Bannon later faced federal criminal charges over the private border wall, but was **pardoned by Trump**.
+
+### Gifts from Epstein
+
+Emails from late 2018 show Bannon and his son received **Hermes Apple Watches** from Epstein as gifts, valued at **$1,499 each**.
+
+### The Documentary
+
+Bannon also interviewed Epstein on video in 2019 for a documentary he was filming called **"The Monsters: Epstein's Life Among the Global Elite."**
 
 ### The March 2018 Meeting
 

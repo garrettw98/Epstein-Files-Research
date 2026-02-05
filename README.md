@@ -50,19 +50,30 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[Howard Lutnick](profiles/Howard_Lutnick.md)** - Trump Commerce Secretary; 2012 island visit with family.
 *   **[Steve Tisch](profiles/Steve_Tisch.md)** - NY Giants co-owner; "pro or civilian" emails about women.
 *   **[Richard Branson](profiles/Richard_Branson.md)** - Virgin founder; "bring your harem" email.
-*   **[Miroslav Lajcak](profiles/Miroslav_Lajcak.md)** - Slovak official; **resigned Feb 1, 2026**.
+*   **[Miroslav Lajcak](profiles/Miroslav_Lajcak.md)** - Slovak official; **resigned Jan 31, 2026**.
 *   **[Daniel Siad](profiles/Daniel_Siad.md)** - Polish "scout"; recruited women from Kraków.
+*   **[Brett Ratner](profiles/Brett_Ratner.md)** - *Melania* director; photos with Epstein on couch.
+*   **[Dean Kamen](profiles/Dean_Kamen.md)** - Segway inventor; island visitor; **placed on leave from FIRST**.
+*   **[Joanna Rubinstein](profiles/Joanna_Rubinstein.md)** - Sweden UNHCR chair; **resigned Feb 2, 2026**.
+*   **[Sergey Brin](profiles/Sergey_Brin.md)** - Google co-founder; Maxwell communications; dinner guest lists.
+*   **[Ehud Barak](profiles/Ehud_Barak.md)** - Former Israeli PM; NYC apartment stays; FBI Mossad memo.
 *   **[All 2026 Profiles](profiles/README.md#the-2026-revelations-new)**: Full list of new profiles.
 
 ### New Topics (2026)
 *   **[The Eastern European Pipeline](topics/The_Eastern_European_Pipeline.md)**: Poland, Ukraine, Russia trafficking network; $1.1B through sanctioned banks.
-*   **[International Investigations](topics/International_Investigations.md)**: Poland, Lithuania, UK investigations launched.
+*   **[International Investigations](topics/International_Investigations.md)**: Poland, Lithuania, Latvia, Turkey, UK investigations launched.
 *   **[The Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)**: Subpoenas, contempt vote, Feb 26-27 testimony.
+*   **[The Epstein Files Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**: 427-1 vote; discharge petition; DOJ compliance battles.
 
 ### Key Findings
 *   **No New Prosecutions**: Deputy AG Blanche says charges unlikely.
 *   **"Orange Shape" Mystery**: New death investigation questions (see [The Death](topics/The_Death.md)).
 *   **Redaction Scandal**: 43+ victims exposed; emergency shutdown requested.
+*   **International Resignations**: Lajcak (Slovakia), Mandelson (UK/House of Lords), Rubinstein (Sweden UNHCR), Kamen (leave from FIRST).
+*   **Criminal Investigations**: UK Metropolitan Police probe of Peter Mandelson; Poland, Lithuania, Latvia, Turkey trafficking probes.
+*   **Clinton Depositions**: Feb 26-27, 2026; Hillary demands public hearing.
+*   **Bill Gates**: "I was foolish" (Feb 4 interview).
+*   **Elon Musk**: 16 emails revealed; "wildest party" request; multiple island visit plans.
 
 ## 🔎 The "Shocking" Details (Viewer Discretion)
 *   **[The Raid & The Safe](topics/The_Raid.md)**: Fake passports, diamonds, and the "Blue Dress" painting.

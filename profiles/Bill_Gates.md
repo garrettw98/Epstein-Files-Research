@@ -22,5 +22,48 @@ Unlike Trump or Clinton, Bill Gates' relationship with Epstein began **after** E
 *   **Divorce**: Melinda French Gates cited Bill's relationship with Epstein as a key reason for their divorce, stating she had "nightmares" after meeting Epstein once.
 *   **Regret**: Gates has publicly called the meetings a "huge mistake" and "error in judgment."
 
+## February 2026 Public Statements
+
+### Bill Gates' Response
+
+Following the January 2026 document release, Gates spoke publicly for the first time:
+
+> **"I was foolish"** to spend time with Epstein.
+
+A spokesperson for Gates stated:
+- The claims in the documents are **"absolutely absurd and completely false"**
+- The documents demonstrate **"Epstein's frustration that he did not have an ongoing relationship with Gates"**
+
+### Melinda French Gates' Response
+
+Melinda French Gates also responded to the latest revelations:
+
+> **"Unbelievable sadness"**
+
+She expressed distress over the continued revelations and maintained that her exposure to Epstein (a single meeting) contributed to her decision to divorce.
+
+### Document Context
+
+The 2026 files show:
+- Extensive correspondence attempting to maintain Gates' engagement
+- Evidence that Epstein tried to leverage the relationship more than Gates reciprocated
+- Gates distancing himself over time
+
+## The Pattern
+
+The Gates-Epstein relationship illustrates a key pattern:
+1. **Initial Contact**: Epstein offered valuable services (funding connections, Nobel lobbying)
+2. **Entanglement**: Multiple meetings despite Epstein's conviction
+3. **Attempted Leverage**: Epstein tried blackmail when Gates pulled away
+4. **Public Reckoning**: Years later, the full scope becomes public
+
 ## Verdict
 **Professional/Philanthropic Associate.** Gates sought Epstein's money/connections. Epstein sought Gates' legitimacy. No evidence links Gates to the abuse.
+
+The February 2026 statements acknowledge the relationship was a mistake but deny any wrongdoing.
+
+## See Also
+
+- [2026 Release](../evidence/2026_Release.md) - Document details
+- [The Money Trail](../topics/The_Money_Trail.md) - Philanthropy connections
+- [Leon Black](Leon_Black.md) - Connected through Gates Foundation funding

@@ -1,6 +1,6 @@
 # 📅 The Master Timeline: Every Verified Event
 
-> **Scope**: 1953 - Feb 3, 2026
+> **Scope**: 1953 - Feb 5, 2026
 > **Sources**: Court documents, Flight Logs, Police Reports, 2024/2026 Releases.
 
 This timeline integrates all data points from this repository into a single chronological flow.
@@ -131,10 +131,42 @@ This timeline integrates all data points from this repository into a single chro
     *   Viral debunking: Hawking (No orgy), Jackson (No massage), Trump (Not on island).
 *   **2025 (Apr)**: **Virginia Giuffre dies** by suicide in Australia.
 *   **2025 (Oct)**: **"Nobody's Girl"**, Giuffre's memoir, is published posthumously.
-*   **2025 (Late)**: Congress passes "Epstein Files Transparency Act."
-*   **2026 (Jan 30)**: **The "Transparency" Release** (3M pages).
-    *   **New Reveals**: Steve Bannon interviews, Peter Mandelson (UK Govt info), Prince Andrew's post-jail dinner.
-    *   **The "Zionist" Emails**: Confirmation of "Extreme Zionist" views linking eugenics to demographic preservation.
-    *   **Investigator Note**: Doubt cast on the "Suicide Note."
-    *   **Status**: Little St. James resort plans are stalled.
-*   **2026 (Feb 3)**: **Current Status**.
+*   **2025 (Jul 23)**: House Oversight Subcommittee **unanimously votes** to subpoena Bill & Hillary Clinton.
+*   **2025 (Aug 5)**: Chairman Comer issues Clinton subpoenas.
+*   **2025 (Oct)**: Supreme Court **denies** Maxwell's appeal; 20-year sentence stands.
+*   **2025 (Nov 18)**: **Epstein Files Transparency Act** passes House (427-1) and Senate (unanimous).
+*   **2025 (Nov 19)**: President Trump signs the Transparency Act into law.
+*   **2025 (Dec 19)**: DOJ compliance deadline (largely missed; initial small release).
+
+---
+
+## 2026: The Transparency Release
+
+*   **2026 (Jan 13)**: Bill Clinton **fails to appear** for scheduled deposition.
+*   **2026 (Jan 14)**: Hillary Clinton **fails to appear** for scheduled deposition.
+*   **2026 (Jan 21)**: House Oversight Committee votes to recommend **contempt of Congress** for both Clintons. Nine Democrats support the vote.
+*   **2026 (Jan 30)**: **The "Transparency" Release** (~3.5 million pages, 2,000 videos, 180,000 images).
+    *   **Howard Lutnick**: Trump Commerce Secretary visited island with family (2012).
+    *   **Steve Tisch**: NY Giants co-owner emails about women ("pro or civilian").
+    *   **Richard Branson**: "Bring your harem" email.
+    *   **Elon Musk**: "Wildest party" email; holiday correspondence.
+    *   **Steve Bannon**: 15 hours of interviews; text messages mocking Trump.
+    *   **Peter Mandelson**: UK govt secrets; now faces criminal investigation.
+    *   **Prince Andrew**: Post-jail "dinner party" attendance confirmed.
+    *   **Eastern European Pipeline**: Visa sponsorship, $1.1B through Russian banks.
+    *   **Daniel Siad**: Polish "scout" emails about "girls" in Kraków.
+    *   **"Orange Shape"**: Surveillance shows figure on stairs night before death.
+    *   **Redaction Scandal**: 43+ victims' names exposed; emergency shutdown requested.
+*   **2026 (Feb 1)**: **Miroslav Lajčák** (Slovak National Security Adviser) **resigns** over Epstein emails.
+*   **2026 (Feb 1)**: Attorneys for 200+ victims request immediate shutdown of DOJ Epstein website.
+*   **2026 (Feb 2)**: Deputy AG **Todd Blanche** announces **no new prosecutions** expected.
+*   **2026 (Feb 3)**: **Bill Gates** speaks publicly: "I was foolish."
+*   **2026 (Feb 3)**: **Poland** announces task force to investigate Epstein ties; PM Tusk says Epstein was "likely a spy for Moscow."
+*   **2026 (Feb 3)**: **Clintons agree to testify** (Feb 26-27, 2026), averting contempt vote.
+*   **2026 (Feb 4)**: **Lithuania** launches human trafficking investigation.
+*   **2026 (Feb 5)**: **Current Status**.
+    *   **DOJ**: Data Sets 9-12 released; ~3 million pages still withheld.
+    *   **Congress**: Clinton depositions scheduled Feb 26-27.
+    *   **International**: Poland, Lithuania investigating; UK criminal probe of Mandelson ongoing.
+    *   **NFL**: Investigating Steve Tisch and Howard Lutnick.
+    *   **Victims**: Fighting for website shutdown and proper redactions.

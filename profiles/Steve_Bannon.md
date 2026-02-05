@@ -27,5 +27,52 @@ Transcripts from the 15 hours of footage reveal a candid, often combative dynami
 ## The Context
 Bannon has stated he was interested in Epstein's financial knowledge and his connections to the global elite, viewing him as a key to understanding the "deep state" mechanics he frequently criticizes. Critics argue the relationship legitimized Epstein during a time he was seeking reputation rehabilitation.
 
+## 2026: Text Message Revelations
+
+### Trump-Related Messages
+
+The January 2026 release included **text messages** between Bannon and Epstein that reveal additional dynamics:
+
+**Content**:
+- They **frequently messaged about Trump**
+- Including **"poking fun"** at the president
+- Discussed Trump's policies and politics
+- Shared gossip about Trump and his family
+
+### The March 2018 Meeting
+
+Documents show a March 2018 email from Epstein's office inviting former Obama White House Counsel **Kathryn Ruemmler** to a get-together with:
+- Jeffrey Epstein
+- Steve Bannon
+- **Miroslav Lajcak** (Slovak diplomat who later resigned over his Epstein ties)
+
+This places Bannon at meetings with both Republican and Democratic political operatives in Epstein's network.
+
+### Bannon's Role in Narrative Management
+
+The text messages reinforce that Bannon was actively helping Epstein manage his public image:
+- Strategy discussions on countering negative coverage
+- Planning alternative narratives
+- Media outreach coordination
+
+## The Bannon-Epstein Timeline
+
+| Date | Event |
+|------|-------|
+| 2018 | Text messages, meeting with Ruemmler/Lajcak |
+| Early 2019 | 15 hours of interviews conducted |
+| July 2019 | Epstein arrested |
+| Aug 2019 | Epstein dies |
+| Jan 2026 | Full correspondence released |
+
 ## Verdict
 **Documented Professional Association.** Bannon sought Epstein for content/info; Epstein sought Bannon for influence. No evidence suggests Bannon participated in sexual misconduct.
+
+The 2026 text messages reveal a closer, more casual relationship than previously known, including private jokes about the sitting president.
+
+## See Also
+
+- [Kathryn Ruemmler](Kathryn_Ruemmler.md) - March 2018 meeting
+- [Miroslav Lajcak](Miroslav_Lajcak.md) - March 2018 meeting
+- [2026 Release](../evidence/2026_Release.md) - Full document release
+- [The Media Coverup](../topics/The_Media_Coverup.md) - PR strategies

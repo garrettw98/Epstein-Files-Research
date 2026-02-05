@@ -37,11 +37,32 @@ This repository serves as a **verified, fact-based database**. We have organized
 | **[Accountability Log](topics/The_Accountability_Log.md)**<br>Who Apologized vs. Who Denied. | **[Key Itineraries](topics/Key_Itineraries.md)**<br>Africa Trip & Science Dinners. | **[The Email Troves](topics/The_Email_Troves.md)**<br>Chomsky, Bard College, & Woody Allen (2024). |
 | **[The Crypto Connection](topics/The_Crypto_Connection.md)**<br>Bitcoin funding & Zero-Day hacks. | **[Religious Figures](profiles/Religious_Figures.md)**<br>Dalai Lama & The Pope. | **[Shadow Diplomacy](topics/Shadow_Diplomacy.md)**<br>Russia, Iran, & India backchannels. |
 | **[Local Influence](topics/Local_Influence.md)**<br>Buying the USVI (Schools/Charity). | **[Anomalies & Curiosities](topics/Anomalies_and_Curiosities.md)**<br>The "Marius Fortelni" Passport & Body Doubles. | **[AI & Neuroscience](topics/AI_and_Neuroscience.md)**<br>Funding the future mind. |
-| **[The Exhibit Inventory](topics/The_Exhibit_Inventory.md)**<br>List of physical evidence (Diamonds/CDs). | **[The Defense Playbook](topics/The_Defense_Playbook.md)**<br>Victim shaming strategies. | |
+| **[The Exhibit Inventory](topics/The_Exhibit_Inventory.md)**<br>List of physical evidence (Diamonds/CDs). | **[The Defense Playbook](topics/The_Defense_Playbook.md)**<br>Victim shaming strategies. | **[Eastern European Pipeline](topics/The_Eastern_European_Pipeline.md)**<br>Poland, Ukraine trafficking. |
+| **[International Investigations](topics/International_Investigations.md)**<br>Poland, Lithuania, UK probes. | **[Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)**<br>Congressional subpoenas & contempt. | **[Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**<br>The law (427-1 vote). |
 
-## 🆕 The 2026 Release (New!)
-*   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3 million pages released in Jan 2026.
-*   **[Steve Bannon & Peter Mandelson](profiles/README.md#the-2026-revelations-new)**: New profiles added based on the latest findings.
+## The 2026 Release (Updated Feb 5, 2026)
+
+### The Documents
+*   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3.5 million pages released.
+*   **[The Epstein Files Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**: The law that forced the release (427-1 vote).
+
+### New Profiles (2026 Revelations)
+*   **[Howard Lutnick](profiles/Howard_Lutnick.md)** - Trump Commerce Secretary; 2012 island visit with family.
+*   **[Steve Tisch](profiles/Steve_Tisch.md)** - NY Giants co-owner; "pro or civilian" emails about women.
+*   **[Richard Branson](profiles/Richard_Branson.md)** - Virgin founder; "bring your harem" email.
+*   **[Miroslav Lajcak](profiles/Miroslav_Lajcak.md)** - Slovak official; **resigned Feb 1, 2026**.
+*   **[Daniel Siad](profiles/Daniel_Siad.md)** - Polish "scout"; recruited women from Kraków.
+*   **[All 2026 Profiles](profiles/README.md#the-2026-revelations-new)**: Full list of new profiles.
+
+### New Topics (2026)
+*   **[The Eastern European Pipeline](topics/The_Eastern_European_Pipeline.md)**: Poland, Ukraine, Russia trafficking network; $1.1B through sanctioned banks.
+*   **[International Investigations](topics/International_Investigations.md)**: Poland, Lithuania, UK investigations launched.
+*   **[The Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)**: Subpoenas, contempt vote, Feb 26-27 testimony.
+
+### Key Findings
+*   **No New Prosecutions**: Deputy AG Blanche says charges unlikely.
+*   **"Orange Shape" Mystery**: New death investigation questions (see [The Death](topics/The_Death.md)).
+*   **Redaction Scandal**: 43+ victims exposed; emergency shutdown requested.
 
 ## 🔎 The "Shocking" Details (Viewer Discretion)
 *   **[The Raid & The Safe](topics/The_Raid.md)**: Fake passports, diamonds, and the "Blue Dress" painting.

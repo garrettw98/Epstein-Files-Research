@@ -40,13 +40,26 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[George Stephanopoulos](George_Stephanopoulos.md)** - ABC Anchor; 2010 dinner guest.
 *   **[George Mitchell](George_Mitchell.md)** - Former Senate Majority Leader; 2013 meetings.
 
-## 🔵 The 2026 Revelations (New)
-*   **[Steve Bannon](Steve_Bannon.md)** - Media strategist; 15 hours of interviews found.
-*   **[Peter Mandelson](Peter_Mandelson.md)** - UK Politician; alleged sharing of govt info.
+## The 2026 Revelations (New)
+
+### Political/Government
+*   **[Steve Bannon](Steve_Bannon.md)** - Media strategist; 15 hours of interviews; Trump text messages.
+*   **[Peter Mandelson](Peter_Mandelson.md)** - UK Politician; criminal investigation for sharing govt info.
 *   **[Kathryn Ruemmler](Kathryn_Ruemmler.md)** - Obama WH Counsel; "adoration" emails.
-*   **[Elon Musk](Elon_Musk.md)** - "Kung Fu" email; targeted for visits.
-*   **[Peter Attia](Peter_Attia.md)** - Longevity doctor; 1,700 emails.
+*   **[Howard Lutnick](Howard_Lutnick.md)** - Trump Commerce Secretary; 2012 island visit with family.
+*   **[Miroslav Lajcak](Miroslav_Lajcak.md)** - Slovak official; **resigned Feb 1, 2026**.
 *   **[Terje Rød-Larsen](Terje_Rod_Larsen.md)** - Diplomat; $130k loan.
+
+### Business/Finance
+*   **[Steve Tisch](Steve_Tisch.md)** - NY Giants co-owner; emails about women ("pro or civilian").
+*   **[Richard Branson](Richard_Branson.md)** - Virgin founder; "bring your harem" email.
+*   **[Elon Musk](Elon_Musk.md)** - "Wildest party" email; holiday correspondence.
+
+### Science/Tech
+*   **[Peter Attia](Peter_Attia.md)** - Longevity doctor; 1,700 emails.
+
+### Enablers
+*   **[Daniel Siad](Daniel_Siad.md)** - Polish "scout"; recruited women from Kraków.
 
 ## ⚪ Viral Names (Context Needed)
 *   **[Stephen Hawking](Viral_Names.md#stephen-hawking)** - Defended by Epstein in emails.

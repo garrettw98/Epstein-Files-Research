@@ -23,11 +23,21 @@ A quick-reference guide to the specific language of the Epstein Files.
 
 ## P-T
 *   **Pyramid Scheme**: The recruitment method where victims were paid to recruit other victims.
+*   **"Pro or Civilian"**: Slang used in Epstein's circle to inquire whether a woman was a sex worker ("pro") or not ("civilian").
 *   **SDNY**: Southern District of New York (Federal Prosecutors who arrested him in 2019).
+*   **Scout**: Individuals who identified and recruited women for Epstein in various countries (e.g., Daniel Siad in Poland).
+*   **Soft Redaction**: The technical error in the 2026 release where black boxes could be copy-pasted to reveal hidden text.
 *   **TerraMar**: Ghislaine Maxwell's ocean charity (suspected diplomatic front).
-*   **Transparency Act**: The 2025 law that forced the release of the 3 million pages of Epstein documents in Jan 2026.
+*   **Transparency Act (Epstein Files Transparency Act)**: The 2025 law (passed 427-1) that forced the release of 3.5 million pages of Epstein documents in Jan 2026.
 *   **Zorro Ranch**: The New Mexico estate; site of the alleged "baby breeding" plans.
 
 ## U-Z
 *   **USVI**: U.S. Virgin Islands (Epstein's primary residence/tax haven).
 *   **1953 Trust**: The entity created days before his death to hold his assets and shield them from lawsuits.
+
+## 2026 Release Terms
+*   **Data Sets**: The DOJ organized releases into numbered batches (Sets 1-12 as of Feb 2026).
+*   **Epstein Library**: The DOJ's dedicated website (justice.gov/epstein) hosting released documents.
+*   **"Harem"**: Term Epstein used to describe the groups of women who traveled with him; adopted by some associates (e.g., Branson's email).
+*   **Orange Shape**: Unidentified figure seen on surveillance footage climbing stairs to Epstein's tier the night before his death.
+*   **Two Eiffel Towers**: Deputy AG Blanche's metaphor for the volume of documents (3.5 million pages stacked).

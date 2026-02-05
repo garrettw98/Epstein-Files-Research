@@ -1,0 +1,198 @@
+# The Epstein Files Transparency Act
+
+> **Status**: **LAW** (Signed November 19, 2025)
+> **Vote**: House 427-1, Senate Unanimous
+> **Signed By**: President Donald Trump
+> **Deadline**: December 19, 2025 (largely missed)
+
+## Summary
+
+The Epstein Files Transparency Act is a federal law requiring the Department of Justice to release documents related to its investigations of Jeffrey Epstein. Passed with near-unanimous bipartisan support in November 2025, the law mandated disclosure of millions of pages of investigative files. The DOJ's compliance has been criticized as incomplete and poorly executed.
+
+## Legislative History
+
+### House Passage
+
+**Date**: November 18, 2025
+**Vote**: **427-1**
+
+The single "no" vote came from Rep. [name withheld], citing concerns about victim privacy.
+
+### Senate Passage
+
+**Date**: November 18, 2025
+**Vote**: **Unanimous**
+
+The Senate passed the bill the same day as the House.
+
+### Presidential Signature
+
+**Date**: November 19, 2025
+**Signed By**: President Donald Trump
+
+Trump signed the bill into law the day after congressional passage.
+
+## Key Provisions
+
+### Mandatory Disclosure
+
+The DOJ was required to release documents from:
+1. **Florida case** against Epstein
+2. **New York case** against Epstein
+3. **New York case** against Ghislaine Maxwell
+4. **Investigations into Epstein's death**
+5. **Multiple FBI investigations**
+
+### Deadline
+
+**December 19, 2025** - 30 days after signing
+
+### Minimized Redactions
+
+The law called for the DOJ to **"minimize its redactions"** while protecting:
+- Victim identities
+- Ongoing investigations
+- National security information
+
+## DOJ Compliance
+
+### Initial Release (December 2025)
+
+The DOJ released a **"relatively small amount"** by the deadline:
+- Led to **bipartisan criticism**
+- Seen as inadequate compliance
+- Prompted calls for additional releases
+
+### January 30, 2026 Release
+
+The major release included:
+- **3+ million pages** of documents
+- **2,000 videos**
+- **180,000 images**
+- FBI records, court documents, emails, photos
+
+### Total Production
+
+As of February 2026:
+- **3.5 million pages** released
+- **6 million pages** total in DOJ files
+- **~3 million pages withheld** for various reasons
+
+## The "Epstein Library"
+
+### DOJ Website
+
+The DOJ created a dedicated website: **justice.gov/epstein**
+
+Called the **"Epstein Library"**, it hosts:
+- Searchable document database
+- Multiple data sets (1-12 as of Feb 2026)
+- Downloadable files
+
+### Data Set Releases
+
+| Data Set | Content |
+|----------|---------|
+| Sets 1-8 | Initial releases |
+| Set 9 | February 2026 additions |
+| Set 10 | February 2026 additions |
+| Set 11 | February 2026 additions |
+| Set 12 | February 2026 additions |
+
+## Criticisms
+
+### Incomplete Disclosure
+
+Rep. Ro Khanna (D-CA), **co-author of the law**, stated:
+> The Justice Department has "released at best half the documents" required under the law.
+
+### "Two Eiffel Towers"
+
+Deputy Attorney General Todd Blanche described the volume:
+> "Think about this: you're talking about pieces of paper that stack from the ground to two Eiffel Towers."
+
+This was offered as explanation for difficulties in proper redaction.
+
+### Reasons for Withholding
+
+DOJ stated documents were withheld due to:
+- **Child Sexual Abuse Material (CSAM)**
+- **Victim privacy protections**
+- **Ongoing investigations**
+- **National security concerns**
+
+### Victim Advocates' Response
+
+Advocates argue:
+- Too many documents still hidden
+- Powerful people being protected
+- Full transparency not achieved
+
+## The Redaction Scandal
+
+### Failures
+
+The release was marred by serious redaction failures:
+- **43+ victims' names exposed** (Wall Street Journal count)
+- Including **24+ minors**
+- Some names appeared **100+ times**
+- Home addresses visible
+- **Nude images** published with faces visible
+
+### "Soft Redactions"
+
+Initial releases contained "soft" redactions:
+- Black boxes over text
+- Could be copied/pasted to reveal hidden content
+- Millions downloaded unredacted versions before fix
+
+### Emergency Motion
+
+On February 1, 2026, attorneys representing **200+ victims** asked federal judges to **immediately shut down** the DOJ website, calling it:
+> "The single most egregious violation of victim privacy in one day in United States history."
+
+## Political Implications
+
+### Bipartisan Support
+
+The near-unanimous passage (427-1 House, unanimous Senate) reflects:
+- Rare bipartisan agreement
+- Public pressure for transparency
+- Distrust of DOJ's prior handling
+
+### Administration Tensions
+
+Despite Trump signing the law:
+- His name appears thousands of times in files
+- Cabinet members (Lutnick) implicated
+- Deputy AG defending incomplete release
+
+### Ongoing Scrutiny
+
+Both parties have criticized DOJ's handling:
+- **Republicans**: Want more disclosure
+- **Democrats**: Concerned about selective protection of Trump allies
+- **Victim advocates**: Want better victim protection AND full disclosure of perpetrators
+
+## What Remains Hidden
+
+### Known Withheld Categories
+
+1. **CSAM** - Child sexual abuse material
+2. **Grand Jury Materials** - Some legally protected
+3. **National Security** - Intelligence-related documents
+4. **Ongoing Investigations** - Though DOJ says none active
+
+### Suspected Withheld Content
+
+Critics allege additional documents withheld relating to:
+- Certain political figures
+- Intelligence agency connections
+- Foreign government involvement
+
+## See Also
+
+- [2026 Release](../evidence/2026_Release.md) - Release details
+- [The Clinton Oversight Investigation](The_Clinton_Oversight_Investigation.md) - Congressional response
+- [International Investigations](International_Investigations.md) - Global impact
+- [Government Complicity](Government_Complicity.md) - Systemic failures

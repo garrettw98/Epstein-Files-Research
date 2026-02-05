@@ -19,5 +19,56 @@ Bill Clinton flew on Jeffrey Epstein's private plane (the "Lolita Express") mult
 *   Clinton's spokesperson has repeatedly stated he knew nothing of Epstein's crimes and had not spoken to him in over a decade prior to Epstein's arrest.
 *   He denies ever visiting the private island (Little St. James), though flight logs place the plane nearby (St. Thomas), pilot logs and Secret Service records have been scrutinized.
 
+## The 2025-2026 Congressional Investigation
+
+### House Oversight Subpoenas
+
+In July 2025, the House Oversight Committee's Federal Law Enforcement Subcommittee voted **unanimously** (bipartisan) to subpoena both Bill and Hillary Clinton for testimony about their Epstein connections.
+
+**Subpoenas Issued**: August 5, 2025
+
+### The Contempt Standoff
+
+| Date | Event |
+|------|-------|
+| Oct 14, 2025 | Original deposition date (Bill) - Rescheduled |
+| Dec 17, 2025 | Second date - Rescheduled |
+| Jan 13, 2026 | Bill Clinton **failed to appear** |
+| Jan 14, 2026 | Hillary Clinton **failed to appear** |
+| Jan 21, 2026 | Committee votes to recommend **contempt of Congress** |
+
+### Legal Arguments
+
+The Clintons' attorneys argued:
+- Subpoenas were **"invalid and legally unenforceable"**
+- They were being **"unfairly singled out"**
+
+### Democratic Division
+
+Notably, **nine Democrats** on the Oversight panel supported the contempt vote against the Clintons—breaking from typical party-line votes.
+
+### Resolution
+
+On **February 3, 2026**, the Clintons agreed to appear for closed-door depositions:
+- **Hillary Clinton**: February 26, 2026
+- **Bill Clinton**: February 27, 2026
+
+Chairman Comer announced: "The Clintons caved."
+
+### 2026 Document Revelations
+
+The January 2026 release included:
+- **Never-before-seen photos** of Clinton and Epstein together (from Epstein's NY home)
+- **Frequent communications** between Ghislaine Maxwell and Clinton staffers (2001-2004)
+- FBI file entries showing public inquiries demanding investigation of Clinton
+
 ## Verdict
 **Verified Associate.** He traveled with Epstein extensively, but there is **no evidence** currently linking him to the sexual crimes.
+
+The February 2026 depositions may reveal additional information about the relationship.
+
+## See Also
+
+- [The Clinton Oversight Investigation](../topics/The_Clinton_Oversight_Investigation.md) - Full investigation details
+- [2026 Release](../evidence/2026_Release.md) - Document release
+- [Ghislaine Maxwell](Ghislaine_Maxwell.md) - Communications with Clinton staff

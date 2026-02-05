@@ -28,6 +28,15 @@ Epstein used science as a "laundromat" for his reputation. By associating with N
 *   **The Defense**: Krauss publicly defended Epstein after his 2008 conviction.
 *   **The "Advice"**: Emails reveal Krauss sought Epstein's advice on how to handle *his own* sexual misconduct allegations, suggesting a "mutual aid" network among accused men.
 
+## 7. The Mindshift Conference (2011)
+*   **The Event**: A science summit held on **Little St. James**.
+*   **The Attendees**: Verified guests included:
+    *   **Murray Gell-Mann** (Nobel Physicist).
+    *   **Gerald Sussman** (MIT AI Professor).
+    *   **Frances Arnold** (Nobel Chemist).
+    *   **Brock Pierce** (Crypto Entrepreneur).
+*   **The Significance**: This wasn't a party; it was a seminar. It proves Epstein successfully moved the "Edge" dinners from NYC to his private island, bringing the scientific elite directly into his sphere of control.
+
 ## 6. The Edge.org Philosophy
 *   **The Hub**: **John Brockman's** "Edge" organization was the intellectual salon that connected Epstein to this world.
 *   **The Ideology**: The group fostered a culture of "intellectual superiority," where "great men" were believed to be above conventional morality. This philosophy (often overlapping with evolutionary psychology and atheism) provided the perfect ideological cover for Epstein's eugenics and abuse—he wasn't a predator; he was a "disruptor" of social norms.

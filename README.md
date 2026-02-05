@@ -12,7 +12,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[Glossary](GLOSSARY.md)**: A cheat sheet for terms like "Lolita Express" and "NPA."
 
 ## 🦸‍♀️ The Good Guys
-*   **[The Survivors](profiles/Virginia_Giuffre.md)**: Virginia Giuffre, Maria Farmer, and the women who fought back.
+*   **[The Survivors](profiles/Virginia_Giuffre.md)**: Virginia Giuffre, Maria Farmer, and **[Sarah Ransome](profiles/Sarah_Ransome.md)** (The Escape Artist).
 *   **[The Journalists](profiles/The_Journalists.md)**: Julie K. Brown and the reporters who exposed the truth.
 *   **[The Legal Crusaders](profiles/The_Legal_Crusaders.md)**: Brad Edwards & the lawyers who sued Epstein when the government failed.
 
@@ -31,12 +31,13 @@ This repository serves as a **verified, fact-based database**. We have organized
 | **[The Legal Labyrinth](topics/Legal_Battles.md)**<br>A guide to the confusing web of lawsuits. | **[The Media Cover-Up](topics/The_Media_Coverup.md)**<br>Why Vanity Fair killed the story in 2003.<br>**[The Intimidation Machine](topics/The_Intimidation_Machine.md)**<br>PIs, Stalking, & Threats. | **[The Islands](topics/The_Properties.md)**<br>What happened at Little St. James? |
 | **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories.<br>**[The "First Attempt"](topics/July_23_Incident.md)** (July 23). | **[The Science of Evil](topics/Transhumanism_and_Eugenics.md)**<br>Baby breeding ranches & cryonics. |
 | **[Government Complicity](topics/Government_Complicity.md)**<br>FBI/DOJ failures. | **[The Tapes](topics/The_Tapes.md)**<br>Did he film them? What was found in the safe? | **[Weird FBI Tips](topics/Unverified_Tips.md)**<br>Addressing the "Human Sacrifice" rumors. |
-| **[The Palm Beach War](topics/The_Palm_Beach_Investigation.md)**<br>Local Police vs. Corrupt Prosecutors. | **[False Flags](topics/Disinformation_and_False_Flags.md)**<br>Pizzagate & QAnon distractions. | **[Island Secrets](topics/The_Island_Secrets.md)**<br>Tunnels & Submarines. |
+| **[The Palm Beach War](topics/The_Palm_Beach_Investigation.md)**<br>Local Police vs. Corrupt Prosecutors.<br>**[Work Release Scandal](topics/The_Work_Release_Scandal.md)**<br>How he bought the jail. | **[False Flags](topics/Disinformation_and_False_Flags.md)**<br>Pizzagate & QAnon distractions. | **[Island Secrets](topics/The_Island_Secrets.md)**<br>Tunnels & Submarines. |
 | **[The French Connection](topics/The_French_Connection.md)**<br>Paris apartment & Brunel. | **[Missing Evidence](topics/Missing_Evidence.md)**<br>What we still don't know. | **[Why No Arrests?](topics/Why_No_More_Arrests.md)**<br>The legal reality check. |
 | **[The Middle East Connection](topics/The_Middle_East_Connection.md)**<br>Saudi passports & MBS. | **[The Dead](topics/The_Dead.md)**<br>Suspicious deaths: Brunel, Hoffenberg, Middleton. | **[The Dream Team Defense](profiles/The_Dream_Team_Defense.md)**<br>Ken Starr & the Scorched Earth. |
 | **[Accountability Log](topics/The_Accountability_Log.md)**<br>Who Apologized vs. Who Denied. | **[Key Itineraries](topics/Key_Itineraries.md)**<br>Africa Trip & Science Dinners. | **[The Email Troves](topics/The_Email_Troves.md)**<br>Chomsky, Bard College, & Woody Allen (2024). |
 | **[The Crypto Connection](topics/The_Crypto_Connection.md)**<br>Bitcoin funding & Zero-Day hacks. | **[Religious Figures](profiles/Religious_Figures.md)**<br>Dalai Lama & The Pope. | **[Shadow Diplomacy](topics/Shadow_Diplomacy.md)**<br>Russia, Iran, & India backchannels. |
 | **[Local Influence](topics/Local_Influence.md)**<br>Buying the USVI (Schools/Charity). | **[Anomalies & Curiosities](topics/Anomalies_and_Curiosities.md)**<br>The "Marius Fortelni" Passport & Body Doubles. | **[AI & Neuroscience](topics/AI_and_Neuroscience.md)**<br>Funding the future mind. |
+| **[The Exhibit Inventory](topics/The_Exhibit_Inventory.md)**<br>List of physical evidence (Diamonds/CDs). | **[The Defense Playbook](topics/The_Defense_Playbook.md)**<br>Victim shaming strategies. | |
 
 ## 🆕 The 2026 Release (New!)
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3 million pages released in Jan 2026.

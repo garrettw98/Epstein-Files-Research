@@ -33,9 +33,10 @@ A quick-reference guide to the specific language of the Epstein Files.
 
 ## U-Z
 *   **USVI**: U.S. Virgin Islands (Epstein's primary residence/tax haven).
+*   **Viginum**: France's anti-disinformation agency; identified Russian campaign falsely linking Macron to Epstein files.
 *   **1953 Trust**: The entity created days before his death to hold his assets and shield them from lawsuits.
 
-## 2026 Release Terms
+## 2025-2026 Release Terms
 *   **Bloomberg Emails**: ~18,700 emails independently obtained by Bloomberg News from Epstein's Yahoo account in September 2025, authenticated by cryptographic verification.
 *   **Data Sets**: The DOJ organized releases into numbered batches (Sets 1-12 as of Feb 2026).
 *   **Discharge Petition**: The procedural move used by Reps. Khanna and Massie to force a House floor vote on the Transparency Act, bypassing committee leadership.
@@ -45,3 +46,9 @@ A quick-reference guide to the specific language of the Epstein Files.
 *   **Screen Recording**: Forensic analysis found the released jail surveillance footage was created May 23, 2025 (metadata), suggesting it was a screen recording rather than a raw DVR export.
 *   **Soft Redaction**: The technical error in the December 2025 release where black boxes could be copy-pasted to reveal hidden text underneath.
 *   **Two Eiffel Towers**: Deputy AG Blanche's metaphor for the volume of documents (3.5 million pages stacked).
+*   **GLOMAR Response**: "Neither confirm nor deny" — the NSA's response to FOIA requests about Epstein's intelligence ties.
+*   **Okokrim**: Norway's National Authority for Investigation and Prosecution of Economic and Environmental Crime; opened aggravated corruption probe into former PM Jagland.
+*   **Aggravated Corruption**: Norwegian criminal charge carrying up to 10 years; applied to former PM Jagland over Epstein ties.
+*   **Draft Indictment**: The 56-page Florida federal indictment (32 counts, 19 victims) prepared in 2007 but never filed due to the NPA plea deal.
+*   **Co-Conspirators List**: FBI internal document listing 10 "co-conspirators" of Epstein, including Maxwell, Brunel, Wexner, and others (most redacted).
+*   **Crisis Fixer**: Role played by Kathryn Ruemmler, handling at least 6 #MeToo-related crises for Epstein's associates.

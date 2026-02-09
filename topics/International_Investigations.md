@@ -1,7 +1,7 @@
 # International Investigations (2026)
 
 > **Status**: **ONGOING**
-> **Countries**: Poland, Lithuania, Latvia, Turkey, Slovakia, United Kingdom
+> **Countries**: Poland, Lithuania, Latvia, Turkey, Slovakia, United Kingdom, Norway, France (disinformation), Sweden
 > **Trigger**: January 2026 DOJ Document Release
 
 ## Summary
@@ -149,6 +149,36 @@ Turkish prosecutors are reviewing newly released Epstein files as part of an inv
 
 See: [Joanna Rubinstein Profile](../profiles/Joanna_Rubinstein.md)
 
+## Norway
+
+### The Norwegian Political Storm
+
+The Epstein files triggered a political earthquake in Norway, implicating **five prominent figures**. See [The Norway Scandal](The_Norway_Scandal.md) for comprehensive coverage.
+
+| Figure | Role | Status |
+|--------|------|--------|
+| **Crown Princess Mette-Marit** | Heir to throne | 100+ emails; stayed at Palm Beach home; "poor judgment" |
+| **Thorbjørn Jagland** | Former PM; Nobel Committee Chair | Aggravated corruption probe by Okokrim |
+| **Børge Brende** | Former FM; WEF CEO | WEF independent review launched |
+| **Mona Juul** | Ambassador to Jordan/Iraq | Suspended from duties |
+| **Terje Rød-Larsen** | Oslo Accords negotiator | Island visit with family; children in Epstein's will ($5M each) |
+
+Norway's parliament Foreign Affairs Committee is conducting its own review, and a majority of parties support an independent inquiry into the foreign ministry.
+
+## France
+
+### Russian Disinformation Campaign
+
+A large-scale **Russian disinformation operation** has used doctored French media reports to falsely link **President Emmanuel Macron** to Epstein's crimes:
+- France's anti-disinformation agency **Viginum** identified the campaign
+- A **fake article** on a website imitating French outlet **France Soir** was the catalyst
+- False claims included that Macron attended "multiple parties" at Epstein's Paris residence
+
+### Real (Limited) Connection
+- **Tom Pritzker** referenced a meeting with Macron in emails to Epstein
+- **Caroline Lang** (intermediary) emailed Epstein that *"Macron is going to announce a reshuffle of the government soon"*
+- **No evidence** that Macron and Epstein ever met or communicated directly
+
 ## European Union Impact
 
 ### Pattern Recognition
@@ -238,7 +268,15 @@ Countries may need to coordinate on:
 | Feb 4, 2026 | Lithuania | Human trafficking investigation launched |
 | Feb 4, 2026 | Latvia | Investigation launched |
 | Feb 4, 2026 | UK | Mandelson resigns from House of Lords |
+| Feb 4, 2026 | USA | Brad Karp resigns as Paul Weiss chairman |
+| Feb 4, 2026 | USA | David Ross resigns from School of Visual Arts |
+| Feb 5, 2026 | Norway | Crown Princess Mette-Marit expresses "poor judgment" |
+| Feb 5, 2026 | Norway | Okokrim opens aggravated corruption probe into Jagland |
+| Feb 5, 2026 | Norway | Ambassador Mona Juul suspended |
+| Feb 5, 2026 | Norway | WEF launches review of CEO Børge Brende |
+| Feb 6, 2026 | France | Viginum identifies Russian disinfo campaign linking Macron to files |
 | Ongoing | UK | Mandelson criminal investigation for misconduct in public office |
+| Ongoing | Norway | Jagland corruption investigation; immunity revocation sought |
 
 ## Implications
 

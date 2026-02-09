@@ -38,7 +38,8 @@ This repository serves as a **verified, fact-based database**. We have organized
 | **[The Crypto Connection](topics/The_Crypto_Connection.md)**<br>Bitcoin funding & Zero-Day hacks. | **[Religious Figures](profiles/Religious_Figures.md)**<br>Dalai Lama & The Pope. | **[Shadow Diplomacy](topics/Shadow_Diplomacy.md)**<br>Russia, Iran, & India backchannels. |
 | **[Local Influence](topics/Local_Influence.md)**<br>Buying the USVI (Schools/Charity). | **[Anomalies & Curiosities](topics/Anomalies_and_Curiosities.md)**<br>The "Marius Fortelni" Passport & Body Doubles. | **[AI & Neuroscience](topics/AI_and_Neuroscience.md)**<br>Funding the future mind. |
 | **[The Exhibit Inventory](topics/The_Exhibit_Inventory.md)**<br>List of physical evidence (Diamonds/CDs). | **[The Defense Playbook](topics/The_Defense_Playbook.md)**<br>Victim shaming strategies. | **[Eastern European Pipeline](topics/The_Eastern_European_Pipeline.md)**<br>Poland, Ukraine trafficking. |
-| **[International Investigations](topics/International_Investigations.md)**<br>Poland, Lithuania, UK probes. | **[Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)**<br>Congressional subpoenas & contempt. | **[Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**<br>The law (427-1 vote). |
+| **[International Investigations](topics/International_Investigations.md)**<br>Poland, Lithuania, Norway, UK probes. | **[Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)**<br>Congressional subpoenas & contempt. | **[Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**<br>The law (427-1 vote). |
+| **[The Draft Indictment](topics/The_Draft_Indictment.md)**<br>56-page Florida indictment never filed. | **[The Norway Scandal](topics/The_Norway_Scandal.md)**<br>Crown Princess, former PM, 5 figures. | **[The #MeToo Connection](topics/The_MeToo_Connection.md)**<br>Epstein tracking accused men. |
 
 ## The 2026 Release (Updated Feb 5, 2026)
 
@@ -57,23 +58,40 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[Joanna Rubinstein](profiles/Joanna_Rubinstein.md)** - Sweden UNHCR chair; **resigned Feb 2, 2026**.
 *   **[Sergey Brin](profiles/Sergey_Brin.md)** - Google co-founder; Maxwell communications; dinner guest lists.
 *   **[Ehud Barak](profiles/Ehud_Barak.md)** - Former Israeli PM; NYC apartment stays; FBI Mossad memo.
+*   **[Brad Karp](profiles/Brad_Karp.md)** - Paul Weiss chairman; **resigned Feb 4, 2026**; shared client confidences.
+*   **[Tom Pritzker](profiles/Tom_Pritzker.md)** - Hyatt exec chairman; 7,000+ search results in files; Giuffre accusation.
+*   **[Thorbjorn Jagland](profiles/Thorbjorn_Jagland.md)** - Norwegian former PM; Nobel Committee chair; **aggravated corruption probe**.
+*   **[Crown Princess Mette-Marit](profiles/Crown_Princess_Mette_Marit.md)** - Norwegian heir to throne; 100+ emails; Palm Beach stay.
+*   **[Tom Barrack](profiles/Tom_Barrack.md)** - Colony Capital; introduced Thiel to Epstein; Barak/Churkin dinner.
+*   **[Deepak Chopra](profiles/Deepak_Chopra.md)** - "Cute girls are real" email; 23andMe test with Epstein.
+*   **[Peggy Siegal](profiles/Peggy_Siegal.md)** - Celebrity publicist; social access facilitator.
+*   **[Naomi Campbell](profiles/Naomi_Campbell.md)** - Supermodel; flight logs; island visit with Brunel.
+*   **[Katie Couric](profiles/Katie_Couric.md)** - "ROCKIN lasagna"; "world of trouble" warning email.
+*   **[David Copperfield](profiles/David_Copperfield.md)** - Illusionist; dinner party magic; Giuffre deposition.
+*   **[William Burns](profiles/William_Burns.md)** - CIA Director; 2014 post-conviction meeting; FOIA requests.
 *   **[All 2026 Profiles](profiles/README.md#the-2026-revelations-new)**: Full list of new profiles.
 
 ### New Topics (2026)
 *   **[The Eastern European Pipeline](topics/The_Eastern_European_Pipeline.md)**: Poland, Ukraine, Russia trafficking network; $1.1B through sanctioned banks.
-*   **[International Investigations](topics/International_Investigations.md)**: Poland, Lithuania, Latvia, Turkey, UK investigations launched.
+*   **[International Investigations](topics/International_Investigations.md)**: Poland, Lithuania, Latvia, Turkey, UK, Norway investigations launched.
 *   **[The Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)**: Subpoenas, contempt vote, Feb 26-27 testimony.
 *   **[The Epstein Files Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**: 427-1 vote; discharge petition; DOJ compliance battles.
+*   **[The Draft Indictment](topics/The_Draft_Indictment.md)**: The 56-page Florida indictment that was never filed (32 counts, 19 victims).
+*   **[The #MeToo Connection](topics/The_MeToo_Connection.md)**: Epstein monitoring accused men; Ruemmler as crisis fixer.
+*   **[The Norway Scandal](topics/The_Norway_Scandal.md)**: 5 Norwegian figures implicated; Crown Princess, former PM, Nobel chair.
 
 ### Key Findings
 *   **No New Prosecutions**: Deputy AG Blanche says charges unlikely.
 *   **"Orange Shape" Mystery**: New death investigation questions (see [The Death](topics/The_Death.md)).
 *   **Redaction Scandal**: 43+ victims exposed; emergency shutdown requested.
-*   **International Resignations**: Lajcak (Slovakia), Mandelson (UK/House of Lords), Rubinstein (Sweden UNHCR), Kamen (leave from FIRST).
-*   **Criminal Investigations**: UK Metropolitan Police probe of Peter Mandelson; Poland, Lithuania, Latvia, Turkey trafficking probes.
+*   **International Resignations**: Lajcak (Slovakia), Mandelson (UK Labour + House of Lords), Rubinstein (Sweden UNHCR), Kamen (leave from FIRST), Karp (Paul Weiss), Ross (SVA).
+*   **Criminal Investigations**: UK Metropolitan Police probe of Mandelson; Norway aggravated corruption probe of Jagland; Poland, Lithuania, Latvia, Turkey trafficking probes.
+*   **Norway Scandal**: Crown Princess Mette-Marit (100+ emails), former PM Jagland (corruption probe), WEF CEO Brende (under review), Ambassador Juul (suspended).
 *   **Clinton Depositions**: Feb 26-27, 2026; Hillary demands public hearing.
 *   **Bill Gates**: "I was foolish" (Feb 4 interview).
 *   **Elon Musk**: 16 emails revealed; "wildest party" request; multiple island visit plans.
+*   **CIA Director Burns**: 2014 post-conviction meeting with Epstein; FOIA requests for CIA ties.
+*   **The Draft Indictment**: Unreleased 56-page Florida indictment (32 counts, 19 victims, 3 redacted co-conspirators).
 
 ## 🔎 The "Shocking" Details (Viewer Discretion)
 *   **[The Raid & The Safe](topics/The_Raid.md)**: Fake passports, diamonds, and the "Blue Dress" painting.

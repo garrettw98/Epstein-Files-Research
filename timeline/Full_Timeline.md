@@ -174,8 +174,18 @@ This timeline integrates all data points from this repository into a single chro
 *   **2026 (Feb 4)**: **Lithuania** launches human trafficking investigation after Lithuanian names found in files.
 *   **2026 (Feb 4)**: **Latvia** also opens Epstein-related investigation.
 *   **2026 (Feb 4)**: **Peter Mandelson** resigns from **House of Lords** — first such resignation linked to misconduct since 1917.
+*   **2026 (Feb 4)**: **Brad Karp** resigns as chairman of **Paul Weiss** law firm after emails reveal he shared client confidences with Epstein.
+*   **2026 (Feb 4)**: **David Ross** resigns from **School of Visual Arts** after emails surface (called Epstein's prison "sleep-away camp").
 *   **2026 (Feb 5)**: **Hillary Clinton** challenges Republicans to hold testimony in **public**, not closed-door.
-*   **2026 (Feb 5)**: **Current Status**.
+*   **2026 (Feb 5)**: **Norway**: Crown Princess **Mette-Marit** apologizes for "poor judgment"; **Okokrim** opens aggravated corruption probe into former PM **Jagland**; Ambassador **Mona Juul** suspended; **WEF** launches review of CEO **Børge Brende**.
+*   **2026 (Feb 6)**: France's **Viginum** identifies Russian disinformation campaign falsely linking **Macron** to Epstein.
+*   **2026 (Feb 9)**: **Current Status**.
+    *   **DOJ**: Data Sets 9-12 released; ~3 million pages still withheld.
+    *   **Congress**: Clinton depositions scheduled Feb 26-27; Wexner testimony Feb 18.
+    *   **International**: Poland, Lithuania, Latvia, Turkey investigating; UK criminal probe of Mandelson; Norway corruption probe of Jagland.
+    *   **Resignations**: Mandelson (Labour, Lords), Lajcak (Slovakia), Rubinstein (Sweden UNHCR), Kamen (FIRST leave), Karp (Paul Weiss), Ross (SVA).
+    *   **NFL**: Investigating Steve Tisch and Howard Lutnick.
+    *   **Victims**: Fighting for website shutdown and proper redactions.
     *   **DOJ**: Data Sets 9-12 released; ~3 million pages still withheld.
     *   **Congress**: Clinton depositions scheduled Feb 26-27.
     *   **International**: Poland, Lithuania investigating; UK criminal probe of Mandelson ongoing.

@@ -221,9 +221,13 @@ See: [The Eastern European Pipeline](../topics/The_Eastern_European_Pipeline.md)
 |--------|---------|------|--------|
 | Miroslav Lajcak | Slovakia | Jan 31, 2026 | National Security Adviser; resigned after emails surfaced |
 | Peter Mandelson | UK | Feb 1, 2026 | Resigned from Labour Party |
-| Peter Mandelson | UK | Feb 4, 2026 | Resigned from House of Lords (first since 1917) |
-| Joanna Rubinstein | Sweden | Feb 2, 2026 | Chair of Sweden for UNHCR; visited island in 2012 |
 | Dean Kamen | USA | Feb 1, 2026 | Placed on leave from FIRST robotics org |
+| Joanna Rubinstein | Sweden | Feb 2, 2026 | Chair of Sweden for UNHCR; visited island in 2012 |
+| Peter Mandelson | UK | Feb 4, 2026 | Resigned from House of Lords (first since 1917) |
+| Brad Karp | USA | Feb 4, 2026 | Chairman of Paul Weiss law firm; shared client secrets with Epstein |
+| David Ross | USA | Feb 4, 2026 | Chair of MFA, School of Visual Arts; ex-Whitney Museum director |
+| Mona Juul | Norway | Feb 5, 2026 | Ambassador to Jordan/Iraq; suspended over island visits |
+| Thorbjørn Jagland | Norway | Feb 5, 2026 | Former PM; aggravated corruption probe opened |
 
 ### Investigations Launched
 
@@ -234,6 +238,9 @@ See: [The Eastern European Pipeline](../topics/The_Eastern_European_Pipeline.md)
 | Latvia | Prosecutors | Human trafficking (announced same day as Lithuania) |
 | Turkey | Ankara Prosecutor | Allegations Epstein trafficked Turkish children |
 | UK | Metropolitan Police | Criminal probe of Peter Mandelson; misconduct in public office |
+| Norway | Okokrim (economic crime) | Aggravated corruption probe of former PM Jagland |
+| Norway | Foreign Ministry | Ambassador Juul suspended; independent review of Brende (WEF) |
+| France | Viginum (counter-disinfo) | Identified Russian campaign falsely linking Macron to Epstein |
 
 See: [International Investigations](../topics/International_Investigations.md)
 

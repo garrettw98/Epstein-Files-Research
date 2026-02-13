@@ -48,6 +48,12 @@ Barak has previously:
 - Confirmed maintaining contact **after Epstein's 2008 conviction**
 - Said he **neither witnessed nor participated** in any illegal or inappropriate activity
 
+## Feb 13, 2026 Public Statement
+
+In an interview broadcast in Israel, Barak said he regrets his relationship with Epstein and apologized publicly.
+
+Source: [Associated Press, Feb 13, 2026](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+
 ## Verdict
 **Documented Long-Term Associate.** Barak stayed in Epstein's properties, appeared in photos, is linked through financial transactions, and maintained the relationship for over a decade — including after Epstein's conviction. The FBI intelligence memo adds a layer of concern, though no allegations of participation in crimes have been substantiated.
 

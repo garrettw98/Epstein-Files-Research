@@ -41,7 +41,22 @@ This repository serves as a **verified, fact-based database**. We have organized
 | **[International Investigations](topics/International_Investigations.md)**<br>Poland, Lithuania, Norway, UK probes. | **[Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)**<br>Congressional subpoenas & contempt. | **[Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**<br>The law (427-1 vote). |
 | **[The Draft Indictment](topics/The_Draft_Indictment.md)**<br>56-page Florida indictment never filed. | **[The Norway Scandal](topics/The_Norway_Scandal.md)**<br>Crown Princess, former PM, 5 figures. | **[The #MeToo Connection](topics/The_MeToo_Connection.md)**<br>Epstein tracking accused men. |
 
-## The 2026 Release (Updated Feb 5, 2026)
+## The 2026 Release (Updated Feb 13, 2026)
+
+### Live Updates (Feb 12-13, 2026)
+*   **Goldman legal leadership change (Feb 12)**: Goldman Sachs Chief Legal Officer **Kathryn Ruemmler** announced she will step down effective **June 30, 2026** after renewed scrutiny tied to Epstein-file disclosures. [AP reporting](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21)
+*   **DP World leadership change (Feb 13)**: **Sultan Ahmed bin Sulayem** stepped down as chairman and group CEO amid fallout from the files. [AP reporting](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+*   **Barak public apology (Feb 13)**: Former Israeli PM **Ehud Barak** said he regrets his relationship with Epstein and apologized publicly. [AP reporting](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+*   **DOJ library status (Feb 13)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
+
+### The Congressional Unredaction Battle (Feb 9-10, 2026)
+*   **[The Unredaction Battle](evidence/2026_Release.md#the-congressional-unredaction-battle-february-9-10-2026)**: Massie & Khanna force DOJ to reveal hidden names live on CNN.
+*   **Six names revealed on House floor**: [Sultan Ahmed Bin Sulayem](profiles/Sultan_Ahmed_Bin_Sulayem.md), [Salvatore Nuara](profiles/Salvatore_Nuara.md), [Nicola Caputo](profiles/Nicola_Caputo.md), [Zurab Mikeladze](profiles/Zurab_Mikeladze.md), [Leonic Leonov](profiles/Leonic_Leonov.md), [Les Wexner](profiles/Les_Wexner.md).
+*   **Co-conspirators formally unredacted**: [Wexner](profiles/Les_Wexner.md), [Groff](profiles/Lesley_Groff.md), [Brunel](profiles/Jean_Luc_Brunel.md) designated alongside Maxwell.
+*   **FBI scrubbing allegation**: Khanna accuses FBI of removing survivor statements before DOJ release.
+*   **Massie's "nuclear option"**: Threatens to read all client names on House floor.
+*   **Sen. Lummis reversal**: "Now I see what the big deal is" after viewing files; cites 9-year-old victims.
+*   **AG Bondi testimony**: Scheduled Feb 11 before House Judiciary Committee.
 
 ### The Documents
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3.5 million pages released.
@@ -69,6 +84,11 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[Katie Couric](profiles/Katie_Couric.md)** - "ROCKIN lasagna"; "world of trouble" warning email.
 *   **[David Copperfield](profiles/David_Copperfield.md)** - Illusionist; dinner party magic; Giuffre deposition.
 *   **[William Burns](profiles/William_Burns.md)** - CIA Director; 2014 post-conviction meeting; FOIA requests.
+*   **[Sultan Ahmed Bin Sulayem](profiles/Sultan_Ahmed_Bin_Sulayem.md)** - DP World CEO (Dubai); "torture video" email; 4,700+ file appearances.
+*   **[Salvatore Nuara](profiles/Salvatore_Nuara.md)** - Retired NYPD detective; Epstein black book; escort service discipline.
+*   **[Nicola Caputo](profiles/Nicola_Caputo.md)** - Former European Parliament member (Italy); document EFTA00077895.
+*   **[Zurab Mikeladze](profiles/Zurab_Mikeladze.md)** - Unknown background; named on House floor Feb 10.
+*   **[Leonic Leonov](profiles/Leonic_Leonov.md)** - Unknown background; named on House floor Feb 10.
 *   **[All 2026 Profiles](profiles/README.md#the-2026-revelations-new)**: Full list of new profiles.
 
 ### New Topics (2026)
@@ -81,6 +101,10 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[The Norway Scandal](topics/The_Norway_Scandal.md)**: 5 Norwegian figures implicated; Crown Princess, former PM, Nobel chair.
 
 ### Key Findings
+*   **Six Hidden Names Revealed**: Massie & Khanna discovered six men redacted from public files; Khanna named them on House floor (Feb 10).
+*   **Co-Conspirators Unredacted**: Wexner, Groff, Brunel formally designated as FBI co-conspirators alongside Maxwell.
+*   **FBI Scrubbing Alleged**: Khanna accuses Trump's FBI of removing survivor statements naming powerful men (March 2025).
+*   **70-80% Still Redacted**: Even "unredacted" files shown to Congress remain heavily redacted.
 *   **No New Prosecutions**: Deputy AG Blanche says charges unlikely.
 *   **"Orange Shape" Mystery**: New death investigation questions (see [The Death](topics/The_Death.md)).
 *   **Redaction Scandal**: 43+ victims exposed; emergency shutdown requested.
@@ -88,10 +112,13 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **Criminal Investigations**: UK Metropolitan Police probe of Mandelson; Norway aggravated corruption probe of Jagland; Poland, Lithuania, Latvia, Turkey trafficking probes.
 *   **Norway Scandal**: Crown Princess Mette-Marit (100+ emails), former PM Jagland (corruption probe), WEF CEO Brende (under review), Ambassador Juul (suspended).
 *   **Clinton Depositions**: Feb 26-27, 2026; Hillary demands public hearing.
+*   **Wexner Testimony**: Scheduled Feb 18, 2026 before House Oversight Committee.
+*   **Bondi Testimony**: Scheduled Feb 11, 2026 before House Judiciary Committee.
 *   **Bill Gates**: "I was foolish" (Feb 4 interview).
 *   **Elon Musk**: 16 emails revealed; "wildest party" request; multiple island visit plans.
 *   **CIA Director Burns**: 2014 post-conviction meeting with Epstein; FOIA requests for CIA ties.
 *   **The Draft Indictment**: Unreleased 56-page Florida indictment (32 counts, 19 victims, 3 redacted co-conspirators).
+*   **Sen. Lummis Reversal**: GOP senator admits "now I see what the big deal is" after reviewing unredacted files.
 
 ## 🔎 The "Shocking" Details (Viewer Discretion)
 *   **[The Raid & The Safe](topics/The_Raid.md)**: Fake passports, diamonds, and the "Blue Dress" painting.

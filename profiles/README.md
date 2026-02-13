@@ -96,6 +96,17 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[Joanna Rubinstein](Joanna_Rubinstein.md)** - Chair of Sweden for UNHCR; **resigned Feb 2, 2026**.
 *   **[Miroslav Lajcak](Miroslav_Lajcak.md)** - Slovak National Security Adviser; **resigned Jan 31, 2026**.
 
+### The "Unredacted Six" (Named on House Floor, Feb 10, 2026)
+
+Reps. **Thomas Massie** and **Ro Khanna** discovered six men whose names were redacted in the public release but visible in unredacted files. Khanna read all six names on the House floor under the Speech or Debate Clause.
+
+*   **[Sultan Ahmed Bin Sulayem](Sultan_Ahmed_Bin_Sulayem.md)** - DP World CEO (Dubai); "torture video" email; 4,700+ file appearances.
+*   **[Salvatore Nuara](Salvatore_Nuara.md)** - Retired NYPD detective; Epstein black book contact; escort service discipline.
+*   **[Nicola Caputo](Nicola_Caputo.md)** - Former European Parliament member (Italy, 2014-2019).
+*   **[Zurab Mikeladze](Zurab_Mikeladze.md)** - Unknown background; possibly Georgian nationality.
+*   **[Leonic Leonov](Leonic_Leonov.md)** - Unknown background; possibly Russian nationality.
+*   **[Leslie Wexner](Les_Wexner.md)** - Victoria's Secret founder; formally unredacted as FBI-designated **co-conspirator**.
+
 ### Enablers
 *   **[Daniel Siad](Daniel_Siad.md)** - Polish "scout"; recruited women from Kraków.
 *   **[Peggy Siegal](Peggy_Siegal.md)** - Celebrity publicist; social access facilitator.

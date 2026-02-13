@@ -54,8 +54,26 @@ An Oregon attorney general's investigation revealed that Victoria's Secret **dir
 - The company voluntarily provided intelligence **against one of Epstein's accusers** who had worked for Victoria's Secret
 - This suggests organizational knowledge of Epstein's legal troubles extended beyond Wexner personally
 
+## February 9-10, 2026: The Unredaction Battle
+
+### Co-Conspirator Designation Formally Unredacted
+
+On **February 9, 2026**, the DOJ **formally unredacted** Wexner's name from the FBI's co-conspirator list after pressure from Rep. **Thomas Massie** (R-KY). The document had originally listed 20 individuals, with only Epstein and Maxwell's names visible. After Massie's live CNN appearance with **Kaitlan Collins** and a public social media exchange with Deputy AG **Todd Blanche**, the DOJ unredacted **16 of the 18 hidden names**, including Wexner's.
+
+Blanche stated on social media that the DOJ had "unredacted Les Wexner's name from this document," noting he was already mentioned in the Epstein documents "thousands of times." He described Wexner as having been referenced nearly **200 times** across the files.
+
+The unredacted document explicitly labels Wexner as a **"co-conspirator"** alongside Ghislaine Maxwell, Lesley Groff, and Jean-Luc Brunel.
+
+### Named on House Floor (Feb 10, 2026)
+
+Rep. **Ro Khanna** (D-CA) named Wexner on the **House floor** as one of six "powerful men" whose names had been "wrongfully redacted" from the Epstein files. Khanna was protected by the Constitution's **Speech or Debate Clause**.
+
+### Wexner's Response
+
+A legal representative for Wexner stated: **"Wexner was neither a co-conspirator nor target in any respect."** The representative emphasized that Wexner had been identified as an "information source, not a target" and had "cooperated fully" in 2019.
+
 ## Verdict
-**The Enabler.** Without Les Wexner's money, jet, and houses, Jeffrey Epstein would have just been a creep in a suit. Wexner's patronage built the empire that facilitated the crimes. The 2026 revelations — the FBI co-conspirators list, the failed subpoena attempt, and the congressional compelled testimony — raise new questions about whether Wexner was merely "deceived" or more deeply involved.
+**The Enabler.** Without Les Wexner's money, jet, and houses, Jeffrey Epstein would have just been a creep in a suit. Wexner's patronage built the empire that facilitated the crimes. The 2026 revelations — the FBI co-conspirators list, the failed subpoena attempt, the congressional compelled testimony, and the formal unredaction of his co-conspirator designation — raise new questions about whether Wexner was merely "deceived" or more deeply involved.
 
 ## See Also
 

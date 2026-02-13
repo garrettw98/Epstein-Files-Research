@@ -1,6 +1,6 @@
 # 📅 The Master Timeline: Every Verified Event
 
-> **Scope**: 1953 - Feb 5, 2026
+> **Scope**: 1953 - Feb 13, 2026
 > **Sources**: Court documents, Flight Logs, Police Reports, 2024/2026 Releases.
 
 This timeline integrates all data points from this repository into a single chronological flow.
@@ -179,15 +179,42 @@ This timeline integrates all data points from this repository into a single chro
 *   **2026 (Feb 5)**: **Hillary Clinton** challenges Republicans to hold testimony in **public**, not closed-door.
 *   **2026 (Feb 5)**: **Norway**: Crown Princess **Mette-Marit** apologizes for "poor judgment"; **Okokrim** opens aggravated corruption probe into former PM **Jagland**; Ambassador **Mona Juul** suspended; **WEF** launches review of CEO **Børge Brende**.
 *   **2026 (Feb 6)**: France's **Viginum** identifies Russian disinformation campaign falsely linking **Macron** to Epstein.
-*   **2026 (Feb 9)**: **Current Status**.
-    *   **DOJ**: Data Sets 9-12 released; ~3 million pages still withheld.
-    *   **Congress**: Clinton depositions scheduled Feb 26-27; Wexner testimony Feb 18.
+*   **2026 (Feb 9)**: **The Congressional Unredaction Battle Begins**.
+    *   DOJ opens secure reading room for members of Congress to review **unredacted** Epstein files (24-hour notice required).
+    *   Reps. **Thomas Massie** (R-KY) and **Ro Khanna** (D-CA) review files for ~2 hours; discover **six men** whose names are "likely incriminated" but redacted in the public release.
+    *   Massie appears **live on CNN** with Kaitlan Collins, publicly challenges Deputy AG **Todd Blanche** over redactions.
+    *   Massie identifies **"torture video" email** recipient as "a sultan" — Blanche confirms it is **Sultan Ahmed bin Sulayem** (DP World CEO).
+    *   Massie identifies a **"well known retired CEO"** — Blanche unredacts **Les Wexner's name** in real time.
+    *   DOJ unredacts **16 of 18 hidden names** from a 20-person list (2 victim names remain redacted).
+    *   Three individuals formally designated as FBI **co-conspirators**: **Les Wexner**, **Lesley Groff**, **Jean-Luc Brunel** (alongside Maxwell).
+    *   Massie threatens to **"go nuclear"** and read Epstein client names on the House floor if AG Bondi won't unredact them.
+    *   Sen. **Cynthia Lummis** (R-WY) reverses previous dismissive stance: **"Now I see what the big deal is"** after reviewing files; cites **"9-year-old victims."**
+*   **2026 (Feb 10)**: **Khanna Names Six on House Floor**.
+    *   Rep. **Ro Khanna** reads names of six "powerful men" on the **House floor**, protected by the **Speech or Debate Clause**:
+        1. **Salvatore Nuara** — retired NYPD detective; Epstein's black book contact
+        2. **Zurab Mikeladze** — unknown background; possibly Georgian
+        3. **Leonic Leonov** — unknown background; possibly Russian
+        4. **Nicola Caputo** — former European Parliament member (Italy, 2014-2019)
+        5. **Sultan Ahmed bin Sulayem** — DP World CEO; "torture video" email; 4,700+ file appearances
+        6. **Leslie Wexner** — Victoria's Secret founder; ~200 file references; FBI co-conspirator
+    *   Khanna accuses **"Donald Trump's FBI"** of **scrubbing files in March** — months before the Transparency Act — removing survivors' statements naming powerful men.
+    *   Khanna states: **"70 to 80 percent of the files are still redacted."**
+    *   Khanna states: **"If we found six men that they were hiding in two hours, imagine how many men they are covering up for in those 3 million files."**
+    *   DOJ tells lawmakers they **"just uploaded whatever the FBI sent us"** — suggesting FBI, not DOJ, responsible for scrubbing.
+*   **2026 (Feb 10)**: **Current Status**.
+    *   **DOJ**: Data Sets 9-12 released; ~3 million pages still withheld; 16 names unredacted from 20-person list.
+    *   **Congress**: AG Bondi testimony before House Judiciary Committee scheduled Feb 11; Clinton depositions scheduled Feb 26-27; Wexner testimony Feb 18.
+    *   **Newly Named**: Six names revealed — Nuara, Mikeladze, Leonov, Caputo, Bin Sulayem, Wexner.
+    *   **Co-Conspirators**: Wexner, Groff, Brunel formally designated alongside Maxwell.
+    *   **FBI**: Accused of scrubbing files before DOJ release; internal "prominent names" presentation disclosed.
     *   **International**: Poland, Lithuania, Latvia, Turkey investigating; UK criminal probe of Mandelson; Norway corruption probe of Jagland.
     *   **Resignations**: Mandelson (Labour, Lords), Lajcak (Slovakia), Rubinstein (Sweden UNHCR), Kamen (FIRST leave), Karp (Paul Weiss), Ross (SVA).
     *   **NFL**: Investigating Steve Tisch and Howard Lutnick.
     *   **Victims**: Fighting for website shutdown and proper redactions.
-    *   **DOJ**: Data Sets 9-12 released; ~3 million pages still withheld.
-    *   **Congress**: Clinton depositions scheduled Feb 26-27.
-    *   **International**: Poland, Lithuania investigating; UK criminal probe of Mandelson ongoing.
-    *   **NFL**: Investigating Steve Tisch and Howard Lutnick.
-    *   **Victims**: Fighting for website shutdown and proper redactions.
+*   **2026 (Feb 12)**: **Goldman Sachs leadership change**.
+    *   Chief Legal Officer **Kathryn Ruemmler** announces she will resign effective **June 30, 2026** after scrutiny tied to Epstein-file disclosures.
+    *   Source: [Associated Press, Feb 12, 2026](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21).
+*   **2026 (Feb 13)**: **DP World leadership change and Barak statement**.
+    *   **Sultan Ahmed bin Sulayem** steps down as DP World chairman and group CEO amid fallout from the Epstein files.
+    *   Former Israeli PM **Ehud Barak** says he regrets knowing Epstein and publicly apologizes.
+    *   Source: [Associated Press, Feb 13, 2026](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b).

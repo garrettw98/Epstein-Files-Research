@@ -49,6 +49,8 @@ Ruemmler now serves as **Chief Legal Officer** at Goldman Sachs:
 - At the firm's **2026 annual partner gathering** in Miami, executives expressed **"unease"** about her Epstein ties
 - Goldman publicly defended Ruemmler, but Bloomberg reported internal tension
 - Ruemmler called questions about her emails **"gratuitous and offensive"**
+- **Feb 12, 2026**: Ruemmler announced she will step down as Goldman Sachs CLO effective **June 30, 2026**.
+  - Source: [Associated Press, Feb 12, 2026](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21)
 
 ## The Defense
 Ruemmler has stated she had a professional relationship with Epstein regarding mutual clients (like Bill Gates) and regrets the association. She denies knowing about his ongoing criminal activities at the time.

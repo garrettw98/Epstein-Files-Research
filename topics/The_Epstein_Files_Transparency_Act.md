@@ -205,6 +205,40 @@ Critics allege additional documents withheld relating to:
 - Intelligence agency connections
 - Foreign government involvement
 
+## The Congressional Unredaction Battle (February 9-10, 2026)
+
+### Congressional Access to Unredacted Files
+
+On **February 9, 2026**, the DOJ created a secure reading room where members of Congress could view the **original, unredacted files** with 24 hours' notice.
+
+### Massie & Khanna's Review
+
+The two **co-authors of the Act** were among the first to review files. After approximately two hours, they discovered **six men** whose names were redacted in the public release but visible in the unredacted versions. They described these individuals as "likely incriminated" by their inclusion.
+
+### Live Television Confrontation
+
+Massie appeared on **CNN** with Kaitlan Collins and publicly challenged Deputy AG **Todd Blanche** over specific redactions. The exchange led to the DOJ **unredacting 16 of 18 hidden names** from a 20-person list in real time, including three individuals designated as FBI **co-conspirators**: Les Wexner, Lesley Groff, and Jean-Luc Brunel.
+
+### House Floor Disclosure
+
+On **February 10**, Khanna named all six individuals on the **House floor** under the **Speech or Debate Clause**: Salvatore Nuara, Zurab Mikeladze, Leonic Leonov, Nicola Caputo, Sultan Ahmed bin Sulayem, and Leslie Wexner.
+
+### FBI Scrubbing Allegation
+
+Khanna accused the **FBI** of **scrubbing files in March** 2025 — months before the Act was signed — removing survivors' statements naming powerful men. The DOJ told the lawmakers they "just uploaded whatever the FBI sent us."
+
+### Massie's "Nuclear Option"
+
+Massie threatened to **read Epstein's client names** on the House floor if AG Bondi's DOJ refused to comply with the Act's transparency requirements.
+
+### AG Bondi Testimony
+
+AG **Pam Bondi** is scheduled to testify before the **House Judiciary Committee** on **February 11, 2026**, where she faces questions about the department's compliance with the Act. Epstein survivors submitted **15 questions** for Bondi. Reports indicate Republican leadership instructed members **not to bring up** the Epstein files during the hearing.
+
+### Remaining Issues
+
+Khanna stated **"70 to 80 percent of the files are still redacted"** even in the supposedly unredacted versions shown to Congress, and asked: "If we found six men that they were hiding in two hours, imagine how many men they are covering up for in those 3 million files."
+
 ## See Also
 
 - [2026 Release](../evidence/2026_Release.md) - Release details

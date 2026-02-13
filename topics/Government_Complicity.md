@@ -27,5 +27,41 @@ The most terrifying part of the Epstein story isn't the private island; it's the
 *   **The Logs**: Secret Service logs for the trips have been legally contested.
 *   **The Policy**: Agents are required to fly with the protectee. If they were on the plane, they *witnessed* the travel with young women and filed no reports (or reports were buried).
 
+## 5. The FBI File Scrubbing Allegation (2025-2026)
+
+### Khanna's Accusation (February 10, 2026)
+
+Rep. **Ro Khanna** (D-CA) made the explosive allegation on the **House floor** that **"Donald Trump's FBI scrubbed these files in March"** 2025 — months before the Epstein Files Transparency Act was even signed into law in November 2025.
+
+### What Was Allegedly Removed
+
+According to Khanna, the scrubbed material included:
+- **Survivors' statements** to FBI agents
+- Statements naming **"rich and powerful men who went to Epstein's island"**
+- Allegations of men who **"raped them or committed heinous acts"**
+
+### DOJ's Response
+
+When confronted by Khanna and Massie, the DOJ stated they **"just uploaded whatever the FBI sent us"** — effectively deflecting responsibility to the FBI and suggesting the scrubbing occurred at the Bureau level before the files reached the Justice Department.
+
+### The FBI's Internal Presentation
+
+A **21-slide FBI presentation**, created after mid-July 2025, was found within the released files. It contained:
+- A list of **"prominent names"** in the investigative files
+- Instructions for FBI employees to compile **"salacious statements"** made about 13 people
+- Names included: President Trump, former President Clinton, Prince Andrew, Harvey Weinstein, Leon Black, Les Wexner, Jes Staley, and others
+- Newly disclosed but **unverified claims** of sexual assault
+- No indication of what steps were taken to verify the allegations
+
+*Significance*: This presentation suggests the FBI was **actively cataloging** information about prominent individuals in Epstein's orbit even as the Transparency Act was being debated — raising questions about whether the cataloging was for disclosure or for **managing** what would be released.
+
+### The 70-80% Problem
+
+After reviewing the files Congress was told were "unredacted," Khanna reported that **70 to 80 percent of the files remained redacted** — even in the version shown to lawmakers in the DOJ's secure reading room. This contradicts the DOJ's claims of full compliance.
+
+## 6. The Republican Instruction (February 2026)
+
+Reports emerged that **Republican House leadership instructed members not to bring up the Epstein files** during AG Pam Bondi's upcoming testimony before the House Judiciary Committee on February 11, 2026 — despite bipartisan demand for answers about the DOJ's handling of the files.
+
 ## Verdict
-**Systemic Protection.** Whether through incompetence, corruption, or intelligence directives, multiple agencies (FBI, DOJ, State, Secret Service) failed to stop Epstein for 20 years.
+**Systemic Protection.** Whether through incompetence, corruption, or intelligence directives, multiple agencies (FBI, DOJ, State, Secret Service) failed to stop Epstein for 20 years — and the February 2026 revelations suggest the cover-up may still be ongoing, with the FBI accused of actively scrubbing files to protect powerful men even after Congress mandated full transparency.

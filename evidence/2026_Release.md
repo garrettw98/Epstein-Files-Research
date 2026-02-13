@@ -90,6 +90,21 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 | Set 11 | February 2026 |
 | Set 12 | February 2026 |
 
+### Real-Time Status (As of Feb 13, 2026)
+
+- DOJ's public repository remains online and publicly lists releases through **Data Set 12**.
+- No additional numbered public data-set posting appears on the DOJ page as of this date.
+- Source: [DOJ Epstein Library](https://www.justice.gov/epstein)
+
+### Confirmed Fallout Updates (Feb 12-13, 2026)
+
+- **Feb 12**: Goldman Sachs Chief Legal Officer **Kathryn Ruemmler** announced resignation effective **June 30, 2026** after scrutiny tied to Epstein-file reporting.
+- **Feb 13**: **Sultan Ahmed bin Sulayem** stepped down as DP World chairman and group CEO amid fallout from the files.
+- **Feb 13**: Former Israeli PM **Ehud Barak** publicly said he regrets knowing Epstein and apologized.
+- Sources:
+  - [Associated Press, Feb 12, 2026](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21)
+  - [Associated Press, Feb 13, 2026](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+
 ### Contents Include
 - Court records
 - FBI investigative documents
@@ -334,16 +349,128 @@ Separate from DOJ, the House Oversight Committee:
 
 See: [The Clinton Oversight Investigation](../topics/The_Clinton_Oversight_Investigation.md)
 
+## The Congressional Unredaction Battle (February 9-10, 2026)
+
+### Congressional Review of Unredacted Files (Feb 9)
+
+On **February 9, 2026**, the DOJ for the first time allowed members of Congress to review **unredacted versions** of the Epstein files in a secure reading room at the Justice Department. Members were required to give 24 hours' notice.
+
+Reps. **Thomas Massie** (R-KY) and **Ro Khanna** (D-CA) — the co-authors of the Epstein Files Transparency Act — were among the first to review the files. After approximately **two hours** of review, they announced they had discovered **six men** whose names were "likely incriminated" by their inclusion in the files but had been **redacted** in the public release.
+
+### The Six Redacted Names
+
+Massie described the six individuals:
+- At least **one U.S. citizen** and **one foreigner**
+- **"Three or four"** others whose nationalities they could not immediately determine
+- One individual was **"pretty high up in a foreign government"**
+- Another was described as **"a pretty prominent individual"**
+
+### Massie's Live CNN Confrontation (Feb 9)
+
+In a remarkable live television moment, Rep. Massie appeared on CNN with anchor **Kaitlan Collins** and publicly challenged Deputy AG **Todd Blanche** over the redactions:
+
+- Massie referenced a 2009 email where Epstein wrote **"where are you? are you ok, I loved the torture video"** — with the recipient's name redacted
+- Massie described the recipient as "a sultan"
+- Blanche responded on social media, accusing Massie of **"grandstanding"**
+- Blanche then confirmed the recipient was **Sultan Bin Sulayem** (file EFTA00666117)
+- Massie also identified a **"well known retired CEO"** whose name was redacted
+- Blanche responded by **unredacting Les Wexner's name** from the document, noting Wexner was already mentioned "thousands of times" in the files
+
+### The 20-Person List Unredaction
+
+The confrontation led to the DOJ **unredacting 16 of 18 hidden names** from an unclassified list of 20 individuals:
+
+| Previously Visible | Newly Unredacted | Still Redacted |
+|----|----|----|
+| Jeffrey Epstein | Les Wexner (co-conspirator) | 2 victim names |
+| Ghislaine Maxwell | Lesley Groff (co-conspirator) | |
+| | Jean-Luc Brunel (co-conspirator) | |
+| | 13 additional names | |
+
+Blanche stated the DOJ had **"just un-redacted all non-victim names"** from the document and insisted the department was **"hiding nothing."**
+
+### Khanna's House Floor Disclosure (Feb 10)
+
+On **February 10, 2026**, Rep. Ro Khanna took to the **House floor** and publicly named all six individuals, protected by the Constitution's **Speech or Debate Clause** (which grants immunity from civil or criminal liability for statements made during official legislative proceedings):
+
+1. **[Salvatore Nuara](../profiles/Salvatore_Nuara.md)** — retired NYPD detective; appeared in Epstein's black book; disciplined for escort service connections
+2. **[Zurab Mikeladze](../profiles/Zurab_Mikeladze.md)** — minimal public information available; possibly Georgian nationality
+3. **[Leonic Leonov](../profiles/Leonic_Leonov.md)** — minimal public information available; possibly Russian nationality
+4. **[Nicola Caputo](../profiles/Nicola_Caputo.md)** — former European Parliament member (Italy, 2014-2019); document EFTA00077895
+5. **[Sultan Ahmed bin Sulayem](../profiles/Sultan_Ahmed_Bin_Sulayem.md)** — CEO of DP World (Dubai); 4,700+ appearances in files; "torture video" email recipient
+6. **[Leslie Wexner](../profiles/Les_Wexner.md)** — Victoria's Secret founder; ~200 references; formally designated "co-conspirator" by FBI
+
+Four of the six (Nuara, Mikeladze, Leonov, Caputo) appeared in only **one document** each on the 20-person list. Bin Sulayem and Wexner appeared extensively throughout the files.
+
+### Khanna's Key Quotes
+
+> "70 to 80 percent of the files are still redacted."
+
+> "If we found six men that they were hiding in two hours, imagine how many men they are covering up for in those 3 million files."
+
+> "Why did it take Thomas Massie and me going to the Justice Department to get these six men's identities to become public?"
+
+### FBI Scrubbing Allegation
+
+Khanna made the explosive allegation that **"Donald Trump's FBI scrubbed these files in March"** — months before the Transparency Act was signed into law. He stated that the FBI removed **survivors' statements** naming "rich and powerful men who went to Epstein's island" and who "raped them or committed heinous acts."
+
+The DOJ told Khanna and Massie that they **"just uploaded whatever the FBI sent us"** — suggesting the FBI, not the DOJ, was responsible for the scrubbing.
+
+### Massie's "Nuclear Option" Threat
+
+Massie warned that if the DOJ continued to withhold names, he was prepared to **"go nuclear"** and begin reading Epstein's client names on the House floor himself. He stated:
+
+> "If the victims believe that the best way to get justice is to force the DOJ to release these names," he would invoke the Speech or Debate Clause.
+
+### Senator Lummis Changes Stance (Feb 9)
+
+Sen. **Cynthia Lummis** (R-WY) reversed her previous dismissive position after reviewing the unredacted files:
+
+> "Well, initially, my reaction to all this was, 'I don't care. I don't know what the big deal is.' But now I see what the big deal is, and it was worth investigating."
+
+Lummis was particularly affected by learning about **"9-year-old victims"** in the files. She acknowledged that **"the members of Congress that have been pushing this were not wrong."**
+
+### FBI Internal "Prominent Names" Presentation
+
+A **21-slide FBI presentation**, created sometime after mid-July 2025, was included in the released files. It outlined:
+- Various federal investigations into Epstein, his death, and Maxwell
+- A list of **"prominent names"** in the investigative files
+- FBI employees were asked to compile **"salacious statements"** made about 13 people
+- Names on the list included: **President Trump, former President Clinton, Prince Andrew, Harvey Weinstein, Leon Black, Les Wexner, Jes Staley**, and others
+- The presentation included newly disclosed but **unverified claims** of sexual assault against Trump, Weinstein, and Black
+- It is unclear what steps were taken to verify any of the allegations
+
+### AG Bondi Testimony (Scheduled Feb 11)
+
+Attorney General **Pam Bondi** is scheduled to testify before the **House Judiciary Committee** on **February 11, 2026**:
+- Lawmakers from both parties have said they want answers about the file handling
+- **Epstein survivors** wrote a letter with **15 questions** for Bondi
+- Reports indicate House **Republican leadership instructed members not to bring up the Epstein files** during the hearing
+- Massie stated: **"[Bondi] will be in front of my committee"** and he plans to ask why the remaining documents have not been released
+
+### Responses from Named Co-Conspirators
+
+**Les Wexner**: Legal representative stated he was **"neither a co-conspirator nor target in any respect"** and was identified as an "information source."
+
+**Lesley Groff**: Attorney Michael Bachner stated she had **"never seen this document"** and was told after voluntarily cooperating with prosecutors that **"she was not being prosecuted."**
+
+**Jean-Luc Brunel**: Deceased (suicide in French prison, 2022). No response possible.
+
+**Sultan Ahmed bin Sulayem**: No public comment from him or DP World as of Feb 10, 2026.
+
 ## Key Takeaways
 
 1. **Scale**: 3.5 million pages released (half of total)
 2. **New Names**: Lutnick, Tisch, Branson, Lajcak among new revelations
-3. **Eastern Europe**: Systematic trafficking pipeline documented
-4. **Death Questions**: "Orange shape" raises new questions
-5. **Redaction Failures**: 43+ victims exposed
-6. **No Prosecutions**: DOJ says charges unlikely
-7. **International Fallout**: Resignations, investigations across Europe
-8. **Russian Connection**: $1.1 billion through sanctioned banks
+3. **Six Unredacted Names**: Nuara, Mikeladze, Leonov, Caputo, Bin Sulayem, Wexner revealed by Congress
+4. **Co-Conspirator Designations**: Wexner, Groff, Brunel formally unredacted as FBI-designated co-conspirators
+5. **Eastern Europe**: Systematic trafficking pipeline documented
+6. **Death Questions**: "Orange shape" raises new questions
+7. **Redaction Failures**: 43+ victims exposed
+8. **FBI Scrubbing**: Khanna alleges FBI removed survivor statements before DOJ release
+9. **No Prosecutions**: DOJ says charges unlikely
+10. **International Fallout**: Resignations, investigations across Europe
+11. **Russian Connection**: $1.1 billion through sanctioned banks
 
 ## Document Warning
 

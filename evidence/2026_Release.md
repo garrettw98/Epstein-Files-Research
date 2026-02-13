@@ -90,20 +90,18 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 | Set 11 | February 2026 |
 | Set 12 | February 2026 |
 
+<!-- REALTIME_STATUS:START -->
 ### Real-Time Status (As of Feb 13, 2026)
 
 - DOJ's public repository remains online and publicly lists releases through **Data Set 12**.
-- No additional numbered public data-set posting appears on the DOJ page as of this date.
 - Source: [DOJ Epstein Library](https://www.justice.gov/epstein)
 
-### Confirmed Fallout Updates (Feb 12-13, 2026)
+### Confirmed Fallout Updates
 
-- **Feb 12**: Goldman Sachs Chief Legal Officer **Kathryn Ruemmler** announced resignation effective **June 30, 2026** after scrutiny tied to Epstein-file reporting.
-- **Feb 13**: **Sultan Ahmed bin Sulayem** stepped down as DP World chairman and group CEO amid fallout from the files.
-- **Feb 13**: Former Israeli PM **Ehud Barak** publicly said he regrets knowing Epstein and apologized.
-- Sources:
-  - [Associated Press, Feb 12, 2026](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21)
-  - [Associated Press, Feb 13, 2026](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+- **Feb 12, 2026**: **Goldman legal leadership change**. Goldman Sachs Chief Legal Officer Kathryn Ruemmler announced she will step down effective June 30, 2026 after renewed scrutiny tied to Epstein-file disclosures. [Source](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21)
+- **Feb 13, 2026**: **DP World leadership change**. Sultan Ahmed bin Sulayem stepped down as chairman and group CEO amid fallout from the files. [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+- **Feb 13, 2026**: **Barak public apology**. Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly. [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+<!-- REALTIME_STATUS:END -->
 
 ### Contents Include
 - Court records

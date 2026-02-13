@@ -211,10 +211,14 @@ This timeline integrates all data points from this repository into a single chro
     *   **Resignations**: Mandelson (Labour, Lords), Lajcak (Slovakia), Rubinstein (Sweden UNHCR), Kamen (FIRST leave), Karp (Paul Weiss), Ross (SVA).
     *   **NFL**: Investigating Steve Tisch and Howard Lutnick.
     *   **Victims**: Fighting for website shutdown and proper redactions.
-*   **2026 (Feb 12)**: **Goldman Sachs leadership change**.
-    *   Chief Legal Officer **Kathryn Ruemmler** announces she will resign effective **June 30, 2026** after scrutiny tied to Epstein-file disclosures.
-    *   Source: [Associated Press, Feb 12, 2026](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21).
-*   **2026 (Feb 13)**: **DP World leadership change and Barak statement**.
-    *   **Sultan Ahmed bin Sulayem** steps down as DP World chairman and group CEO amid fallout from the Epstein files.
-    *   Former Israeli PM **Ehud Barak** says he regrets knowing Epstein and publicly apologizes.
-    *   Source: [Associated Press, Feb 13, 2026](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b).
+<!-- LIVE_TIMELINE:START -->
+*   **Feb 12, 2026**: **Goldman legal leadership change**.
+    *   Goldman Sachs Chief Legal Officer Kathryn Ruemmler announced she will step down effective June 30, 2026 after renewed scrutiny tied to Epstein-file disclosures.
+    *   Source: [Source](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21).
+*   **Feb 13, 2026**: **DP World leadership change**.
+    *   Sultan Ahmed bin Sulayem stepped down as chairman and group CEO amid fallout from the files.
+    *   Source: [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b).
+*   **Feb 13, 2026**: **Barak public apology**.
+    *   Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly.
+    *   Source: [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b).
+<!-- LIVE_TIMELINE:END -->

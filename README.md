@@ -43,11 +43,13 @@ This repository serves as a **verified, fact-based database**. We have organized
 
 ## The 2026 Release (Updated Feb 13, 2026)
 
-### Live Updates (Feb 12-13, 2026)
-*   **Goldman legal leadership change (Feb 12)**: Goldman Sachs Chief Legal Officer **Kathryn Ruemmler** announced she will step down effective **June 30, 2026** after renewed scrutiny tied to Epstein-file disclosures. [AP reporting](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21)
-*   **DP World leadership change (Feb 13)**: **Sultan Ahmed bin Sulayem** stepped down as chairman and group CEO amid fallout from the files. [AP reporting](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
-*   **Barak public apology (Feb 13)**: Former Israeli PM **Ehud Barak** said he regrets his relationship with Epstein and apologized publicly. [AP reporting](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
-*   **DOJ library status (Feb 13)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
+<!-- LIVE_UPDATES:START -->
+### Live Updates (As of Feb 13, 2026)
+*   **Goldman legal leadership change** (Feb 12, 2026): Goldman Sachs Chief Legal Officer Kathryn Ruemmler announced she will step down effective June 30, 2026 after renewed scrutiny tied to Epstein-file disclosures. [Source](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21)
+*   **DP World leadership change** (Feb 13, 2026): Sultan Ahmed bin Sulayem stepped down as chairman and group CEO amid fallout from the files. [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+*   **Barak public apology** (Feb 13, 2026): Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly. [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+*   **DOJ library status (Feb 13, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
+<!-- LIVE_UPDATES:END -->
 
 ### The Congressional Unredaction Battle (Feb 9-10, 2026)
 *   **[The Unredaction Battle](evidence/2026_Release.md#the-congressional-unredaction-battle-february-9-10-2026)**: Massie & Khanna force DOJ to reveal hidden names live on CNN.
@@ -134,6 +136,11 @@ A year-by-year breakdown of every major event, from 1953 to today.
 
 ## 📚 [Further Reading & Resources](topics/Further_Reading.md)
 Books, documentaries, and source material.
+
+## Repo Automation
+Run a full live-update refresh with one command:
+
+`./scripts/update_live_events.sh --as-of "Feb 13, 2026" --dataset 12 --events-file updates/live_events.latest.txt --commit --push`
 
 ---
 > **Note on Safety:** This database relies on **verified court documents** and **police reports**. We clearly label what is a *Fact* (✓) and what is just a *Theory* (?).

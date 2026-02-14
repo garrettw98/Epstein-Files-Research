@@ -3,11 +3,11 @@
 > **Role**: **Emirati Businessman / Email Correspondent**
 > **Status**: **NAMED ON HOUSE FLOOR (Feb 10, 2026)**
 > **Nationality**: United Arab Emirates
-> **Position**: Chairman and CEO, DP World (Dubai-based global logistics firm)
+> **Position**: Former Chairman and Group CEO, DP World (stepped down Feb 13, 2026)
 
 ## Who Is He?
 
-Sultan Ahmed bin Sulayem is a prominent Emirati businessman who serves as Chairman and Group CEO of **DP World**, one of the world's largest port and logistics companies, headquartered in Dubai. DP World operates in over 40 countries and handles roughly 10% of global container trade.
+Sultan Ahmed bin Sulayem is a prominent Emirati businessman who served as Chairman and Group CEO of **DP World**, one of the world's largest port and logistics companies, headquartered in Dubai. DP World operates in over 40 countries and handles roughly 10% of global container trade.
 
 ## The Connection to Epstein
 
@@ -57,6 +57,12 @@ As of February 10, 2026, neither DP World nor Sultan Ahmed bin Sulayem had publi
 According to Associated Press reporting, Bin Sulayem stepped down as **DP World chairman and group CEO** amid fallout from the Epstein files.
 
 Source: [Associated Press, Feb 13, 2026](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+
+### DP World Replacement Leadership (Feb 14, 2026)
+
+DP World announced **Essa Kazim** as interim chairman and **Yuvraj Narayan** as interim group CEO following Bin Sulayem's resignation.
+
+Source: [Associated Press, Feb 14, 2026](https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490)
 
 ## See Also
 

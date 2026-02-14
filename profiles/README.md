@@ -102,10 +102,12 @@ Reps. **Thomas Massie** and **Ro Khanna** discovered six men whose names were re
 
 *   **[Sultan Ahmed Bin Sulayem](Sultan_Ahmed_Bin_Sulayem.md)** - DP World CEO (Dubai); "torture video" email; 4,700+ file appearances.
 *   **[Salvatore Nuara](Salvatore_Nuara.md)** - Retired NYPD detective; Epstein black book contact; escort service discipline.
-*   **[Nicola Caputo](Nicola_Caputo.md)** - Former European Parliament member (Italy, 2014-2019).
+*   **[Nicola Caputo](Nicola_Caputo.md)** - Identity in released files not fully verified; public reporting notes a name match to a former MEP.
 *   **[Zurab Mikeladze](Zurab_Mikeladze.md)** - Unknown background; possibly Georgian nationality.
 *   **[Leonic Leonov](Leonic_Leonov.md)** - Unknown background; possibly Russian nationality.
 *   **[Leslie Wexner](Les_Wexner.md)** - Victoria's Secret founder; formally unredacted as FBI-designated **co-conspirator**.
+
+> **Update (Feb 11, 2026)**: DOJ spokesperson told CBS that four newly publicized names on this list appear once in one file and do not appear to directly implicate those men in criminal conduct.
 
 ### Enablers
 *   **[Daniel Siad](Daniel_Siad.md)** - Polish "scout"; recruited women from Kraków.

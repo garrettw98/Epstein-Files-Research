@@ -41,14 +41,20 @@ This repository serves as a **verified, fact-based database**. We have organized
 | **[International Investigations](topics/International_Investigations.md)**<br>Poland, Lithuania, Norway, UK probes. | **[Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)**<br>Congressional subpoenas & contempt. | **[Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**<br>The law (427-1 vote). |
 | **[The Draft Indictment](topics/The_Draft_Indictment.md)**<br>56-page Florida indictment never filed. | **[The Norway Scandal](topics/The_Norway_Scandal.md)**<br>Crown Princess, former PM, 5 figures. | **[The #MeToo Connection](topics/The_MeToo_Connection.md)**<br>Epstein tracking accused men. |
 
-## The 2026 Release (Updated Feb 13, 2026)
+## The 2026 Release (Updated Feb 14, 2026)
 
 <!-- LIVE_UPDATES:START -->
-### Live Updates (As of Feb 13, 2026)
+### Live Updates (As of Feb 14, 2026)
+*   **AP review: no DOJ "client list" finding** (Feb 8, 2026): AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men. [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
+*   **Congressional access to unredacted files opened** (Feb 9, 2026): DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice. [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
+*   **Maxwell deposition and clemency request** (Feb 9, 2026): AP reported Maxwell invoked the Fifth Amendment in a House deposition and later sought clemency before withdrawing the request. [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9)
+*   **Bondi testimony held before House Judiciary** (Feb 11, 2026): Bondi testified for over five hours and faced bipartisan criticism over unanswered questions about releases and redactions. [Source](https://apnews.com/article/7a40d416451df0ebd487cb021b0a706d)
+*   **DOJ search-logging controversy** (Feb 12, 2026): AP reported DOJ tracked how often and where lawmakers and aides searched the Epstein files, triggering bipartisan backlash. [Source](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220)
 *   **Goldman legal leadership change** (Feb 12, 2026): Goldman Sachs Chief Legal Officer Kathryn Ruemmler announced she will step down effective June 30, 2026 after renewed scrutiny tied to Epstein-file disclosures. [Source](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21)
 *   **DP World leadership change** (Feb 13, 2026): Sultan Ahmed bin Sulayem stepped down as chairman and group CEO amid fallout from the files. [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
 *   **Barak public apology** (Feb 13, 2026): Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly. [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
-*   **DOJ library status (Feb 13, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
+*   **DP World interim leadership announced** (Feb 14, 2026): DP World announced Esa Kazim as interim chairman and Yuvraj Narayan as interim group CEO after Bin Sulayem's resignation. [Source](https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490)
+*   **DOJ library status (Feb 14, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
 <!-- LIVE_UPDATES:END -->
 
 ### The Congressional Unredaction Battle (Feb 9-10, 2026)
@@ -58,7 +64,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **FBI scrubbing allegation**: Khanna accuses FBI of removing survivor statements before DOJ release.
 *   **Massie's "nuclear option"**: Threatens to read all client names on House floor.
 *   **Sen. Lummis reversal**: "Now I see what the big deal is" after viewing files; cites 9-year-old victims.
-*   **AG Bondi testimony**: Scheduled Feb 11 before House Judiciary Committee.
+*   **AG Bondi testimony (Feb 11)**: Hearing held; lawmakers from both parties pressed DOJ over redactions and release handling.
 
 ### The Documents
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3.5 million pages released.
@@ -88,7 +94,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **[William Burns](profiles/William_Burns.md)** - CIA Director; 2014 post-conviction meeting; FOIA requests.
 *   **[Sultan Ahmed Bin Sulayem](profiles/Sultan_Ahmed_Bin_Sulayem.md)** - DP World CEO (Dubai); "torture video" email; 4,700+ file appearances.
 *   **[Salvatore Nuara](profiles/Salvatore_Nuara.md)** - Retired NYPD detective; Epstein black book; escort service discipline.
-*   **[Nicola Caputo](profiles/Nicola_Caputo.md)** - Former European Parliament member (Italy); document EFTA00077895.
+*   **[Nicola Caputo](profiles/Nicola_Caputo.md)** - Name from document EFTA00077895; identity not fully verified in public reporting.
 *   **[Zurab Mikeladze](profiles/Zurab_Mikeladze.md)** - Unknown background; named on House floor Feb 10.
 *   **[Leonic Leonov](profiles/Leonic_Leonov.md)** - Unknown background; named on House floor Feb 10.
 *   **[All 2026 Profiles](profiles/README.md#the-2026-revelations-new)**: Full list of new profiles.
@@ -115,7 +121,10 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **Norway Scandal**: Crown Princess Mette-Marit (100+ emails), former PM Jagland (corruption probe), WEF CEO Brende (under review), Ambassador Juul (suspended).
 *   **Clinton Depositions**: Feb 26-27, 2026; Hillary demands public hearing.
 *   **Wexner Testimony**: Scheduled Feb 18, 2026 before House Oversight Committee.
-*   **Bondi Testimony**: Scheduled Feb 11, 2026 before House Judiciary Committee.
+*   **Bondi Testimony**: Held Feb 11, 2026 before House Judiciary Committee.
+*   **No "Client List" Finding (AP, Feb 8)**: AP review of FBI/DOJ records reported investigators found no evidence of a blackmail "client list" or a trafficking ring for powerful men.
+*   **DOJ Search Logging Controversy (Feb 12)**: AP reported DOJ tracked congressional search activity on the Epstein files; Speaker Johnson said he disapproved.
+*   **Four-Name Caveat (CBS, Feb 11)**: DOJ spokesperson told CBS that four newly discussed names appear once in a single file and do not appear to directly implicate them in crimes.
 *   **Bill Gates**: "I was foolish" (Feb 4 interview).
 *   **Elon Musk**: 16 emails revealed; "wildest party" request; multiple island visit plans.
 *   **CIA Director Burns**: 2014 post-conviction meeting with Epstein; FOIA requests for CIA ties.
@@ -140,7 +149,7 @@ Books, documentaries, and source material.
 ## Repo Automation
 Run a full live-update refresh with one command:
 
-`./scripts/update_live_events.sh --as-of "Feb 13, 2026" --dataset 12 --events-file updates/live_events.latest.txt --commit --push`
+`./scripts/update_live_events.sh --as-of "Feb 14, 2026" --dataset 12 --events-file updates/live_events.latest.txt --commit --push`
 
 ---
 > **Note on Safety:** This database relies on **verified court documents** and **police reports**. We clearly label what is a *Fact* (✓) and what is just a *Theory* (?).

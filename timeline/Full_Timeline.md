@@ -1,6 +1,6 @@
 # 📅 The Master Timeline: Every Verified Event
 
-> **Scope**: 1953 - Feb 13, 2026
+> **Scope**: 1953 - Feb 14, 2026
 > **Sources**: Court documents, Flight Logs, Police Reports, 2024/2026 Releases.
 
 This timeline integrates all data points from this repository into a single chronological flow.
@@ -194,7 +194,7 @@ This timeline integrates all data points from this repository into a single chro
         1. **Salvatore Nuara** — retired NYPD detective; Epstein's black book contact
         2. **Zurab Mikeladze** — unknown background; possibly Georgian
         3. **Leonic Leonov** — unknown background; possibly Russian
-        4. **Nicola Caputo** — former European Parliament member (Italy, 2014-2019)
+        4. **Nicola Caputo** — name from document EFTA00077895; identity not fully verified in public reporting
         5. **Sultan Ahmed bin Sulayem** — DP World CEO; "torture video" email; 4,700+ file appearances
         6. **Leslie Wexner** — Victoria's Secret founder; ~200 file references; FBI co-conspirator
     *   Khanna accuses **"Donald Trump's FBI"** of **scrubbing files in March** — months before the Transparency Act — removing survivors' statements naming powerful men.
@@ -203,7 +203,7 @@ This timeline integrates all data points from this repository into a single chro
     *   DOJ tells lawmakers they **"just uploaded whatever the FBI sent us"** — suggesting FBI, not DOJ, responsible for scrubbing.
 *   **2026 (Feb 10)**: **Current Status**.
     *   **DOJ**: Data Sets 9-12 released; ~3 million pages still withheld; 16 names unredacted from 20-person list.
-    *   **Congress**: AG Bondi testimony before House Judiciary Committee scheduled Feb 11; Clinton depositions scheduled Feb 26-27; Wexner testimony Feb 18.
+    *   **Congress**: AG Bondi testimony held Feb 11; Clinton depositions scheduled Feb 26-27; Wexner testimony Feb 18.
     *   **Newly Named**: Six names revealed — Nuara, Mikeladze, Leonov, Caputo, Bin Sulayem, Wexner.
     *   **Co-Conspirators**: Wexner, Groff, Brunel formally designated alongside Maxwell.
     *   **FBI**: Accused of scrubbing files before DOJ release; internal "prominent names" presentation disclosed.
@@ -212,6 +212,21 @@ This timeline integrates all data points from this repository into a single chro
     *   **NFL**: Investigating Steve Tisch and Howard Lutnick.
     *   **Victims**: Fighting for website shutdown and proper redactions.
 <!-- LIVE_TIMELINE:START -->
+*   **Feb 8, 2026**: **AP review: no DOJ "client list" finding**.
+    *   AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men.
+    *   Source: [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b).
+*   **Feb 9, 2026**: **Congressional access to unredacted files opened**.
+    *   DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice.
+    *   Source: [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2).
+*   **Feb 9, 2026**: **Maxwell deposition and clemency request**.
+    *   AP reported Maxwell invoked the Fifth Amendment in a House deposition and later sought clemency before withdrawing the request.
+    *   Source: [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9).
+*   **Feb 11, 2026**: **Bondi testimony held before House Judiciary**.
+    *   Bondi testified for over five hours and faced bipartisan criticism over unanswered questions about releases and redactions.
+    *   Source: [Source](https://apnews.com/article/7a40d416451df0ebd487cb021b0a706d).
+*   **Feb 12, 2026**: **DOJ search-logging controversy**.
+    *   AP reported DOJ tracked how often and where lawmakers and aides searched the Epstein files, triggering bipartisan backlash.
+    *   Source: [Source](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220).
 *   **Feb 12, 2026**: **Goldman legal leadership change**.
     *   Goldman Sachs Chief Legal Officer Kathryn Ruemmler announced she will step down effective June 30, 2026 after renewed scrutiny tied to Epstein-file disclosures.
     *   Source: [Source](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21).
@@ -221,4 +236,7 @@ This timeline integrates all data points from this repository into a single chro
 *   **Feb 13, 2026**: **Barak public apology**.
     *   Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly.
     *   Source: [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b).
+*   **Feb 14, 2026**: **DP World interim leadership announced**.
+    *   DP World announced Esa Kazim as interim chairman and Yuvraj Narayan as interim group CEO after Bin Sulayem's resignation.
+    *   Source: [Source](https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490).
 <!-- LIVE_TIMELINE:END -->

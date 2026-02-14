@@ -91,16 +91,22 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 | Set 12 | February 2026 |
 
 <!-- REALTIME_STATUS:START -->
-### Real-Time Status (As of Feb 13, 2026)
+### Real-Time Status (As of Feb 14, 2026)
 
 - DOJ's public repository remains online and publicly lists releases through **Data Set 12**.
 - Source: [DOJ Epstein Library](https://www.justice.gov/epstein)
 
 ### Confirmed Fallout Updates
 
+- **Feb 8, 2026**: **AP review: no DOJ "client list" finding**. AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men. [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
+- **Feb 9, 2026**: **Congressional access to unredacted files opened**. DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice. [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
+- **Feb 9, 2026**: **Maxwell deposition and clemency request**. AP reported Maxwell invoked the Fifth Amendment in a House deposition and later sought clemency before withdrawing the request. [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9)
+- **Feb 11, 2026**: **Bondi testimony held before House Judiciary**. Bondi testified for over five hours and faced bipartisan criticism over unanswered questions about releases and redactions. [Source](https://apnews.com/article/7a40d416451df0ebd487cb021b0a706d)
+- **Feb 12, 2026**: **DOJ search-logging controversy**. AP reported DOJ tracked how often and where lawmakers and aides searched the Epstein files, triggering bipartisan backlash. [Source](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220)
 - **Feb 12, 2026**: **Goldman legal leadership change**. Goldman Sachs Chief Legal Officer Kathryn Ruemmler announced she will step down effective June 30, 2026 after renewed scrutiny tied to Epstein-file disclosures. [Source](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21)
 - **Feb 13, 2026**: **DP World leadership change**. Sultan Ahmed bin Sulayem stepped down as chairman and group CEO amid fallout from the files. [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
 - **Feb 13, 2026**: **Barak public apology**. Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly. [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+- **Feb 14, 2026**: **DP World interim leadership announced**. DP World announced Esa Kazim as interim chairman and Yuvraj Narayan as interim group CEO after Bin Sulayem's resignation. [Source](https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490)
 <!-- REALTIME_STATUS:END -->
 
 ### Contents Include
@@ -394,11 +400,13 @@ On **February 10, 2026**, Rep. Ro Khanna took to the **House floor** and publicl
 1. **[Salvatore Nuara](../profiles/Salvatore_Nuara.md)** — retired NYPD detective; appeared in Epstein's black book; disciplined for escort service connections
 2. **[Zurab Mikeladze](../profiles/Zurab_Mikeladze.md)** — minimal public information available; possibly Georgian nationality
 3. **[Leonic Leonov](../profiles/Leonic_Leonov.md)** — minimal public information available; possibly Russian nationality
-4. **[Nicola Caputo](../profiles/Nicola_Caputo.md)** — former European Parliament member (Italy, 2014-2019); document EFTA00077895
+4. **[Nicola Caputo](../profiles/Nicola_Caputo.md)** — name from document EFTA00077895; identity not fully verified in public reporting
 5. **[Sultan Ahmed bin Sulayem](../profiles/Sultan_Ahmed_Bin_Sulayem.md)** — CEO of DP World (Dubai); 4,700+ appearances in files; "torture video" email recipient
 6. **[Leslie Wexner](../profiles/Les_Wexner.md)** — Victoria's Secret founder; ~200 references; formally designated "co-conspirator" by FBI
 
 Four of the six (Nuara, Mikeladze, Leonov, Caputo) appeared in only **one document** each on the 20-person list. Bin Sulayem and Wexner appeared extensively throughout the files.
+
+On **Feb 11, 2026**, CBS News reported a DOJ spokesperson said those four one-document names do not appear to directly implicate the men in criminal conduct.
 
 ### Khanna's Key Quotes
 
@@ -438,13 +446,38 @@ A **21-slide FBI presentation**, created sometime after mid-July 2025, was inclu
 - The presentation included newly disclosed but **unverified claims** of sexual assault against Trump, Weinstein, and Black
 - It is unclear what steps were taken to verify any of the allegations
 
-### AG Bondi Testimony (Scheduled Feb 11)
+### AP Review of Investigative Files (Feb 8)
 
-Attorney General **Pam Bondi** is scheduled to testify before the **House Judiciary Committee** on **February 11, 2026**:
-- Lawmakers from both parties have said they want answers about the file handling
-- **Epstein survivors** wrote a letter with **15 questions** for Bondi
-- Reports indicate House **Republican leadership instructed members not to bring up the Epstein files** during the hearing
-- Massie stated: **"[Bondi] will be in front of my committee"** and he plans to ask why the remaining documents have not been released
+Associated Press reported that internal FBI/DOJ review material found:
+- No evidence investigators found a standalone Epstein **"client list"**
+- No evidence of a trafficking operation run specifically **to provide underage girls to powerful men**
+- Many allegations in the files remain unproven, disputed, or based on unverified tips
+
+Source: [Associated Press, Feb 8, 2026](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
+
+### AG Bondi Testimony (Held Feb 11)
+
+Attorney General **Pam Bondi** testified before the **House Judiciary Committee** on **February 11, 2026**:
+- Hearing lasted over five hours
+- Members from both parties pressed DOJ over file handling, redactions, and release sequencing
+- Bondi said she did not order DOJ to monitor congressional searching of the files and defended DOJ's process
+
+Source: [Associated Press, Feb 11, 2026](https://apnews.com/article/7a40d416451df0ebd487cb021b0a706d)
+
+### DOJ Search-Logging Dispute (Feb 12)
+
+AP reported DOJ tracked how often lawmakers and staff searched specific terms and names in the file portal:
+- Speaker Mike Johnson said he **disapproved** and asked DOJ for information
+- Democrats called the practice inappropriate and demanded explanation
+- DOJ said the access log was standard portal analytics and denied improper intent
+
+Source: [Associated Press, Feb 12, 2026](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220)
+
+### Caveat on Four of the Six Publicly Named Men (CBS, Feb 11)
+
+CBS News reported a DOJ spokesperson said four newly publicized names appear once in one file and **"do not appear to directly implicate"** those men in criminal conduct.
+
+Source: [CBS News, Feb 11, 2026](https://www.cbsnews.com/news/epstein-files-unredacted-list-of-names-ro-khanna/)
 
 ### Responses from Named Co-Conspirators
 
@@ -454,7 +487,7 @@ Attorney General **Pam Bondi** is scheduled to testify before the **House Judici
 
 **Jean-Luc Brunel**: Deceased (suicide in French prison, 2022). No response possible.
 
-**Sultan Ahmed bin Sulayem**: No public comment from him or DP World as of Feb 10, 2026.
+**Sultan Ahmed bin Sulayem**: Resigned as DP World chairman/group CEO on Feb 13; DP World announced interim replacements on Feb 14.
 
 ## Key Takeaways
 
@@ -467,8 +500,10 @@ Attorney General **Pam Bondi** is scheduled to testify before the **House Judici
 7. **Redaction Failures**: 43+ victims exposed
 8. **FBI Scrubbing**: Khanna alleges FBI removed survivor statements before DOJ release
 9. **No Prosecutions**: DOJ says charges unlikely
-10. **International Fallout**: Resignations, investigations across Europe
-11. **Russian Connection**: $1.1 billion through sanctioned banks
+10. **No "Client List" Finding (AP Review)**: AP's review of internal FBI/DOJ material reported no evidence of a standalone client list
+11. **Search-Logging Dispute**: DOJ tracking of congressional searches triggered bipartisan backlash
+12. **International Fallout**: Resignations, investigations across Europe
+13. **Russian Connection**: $1.1 billion through sanctioned banks
 
 ## Document Warning
 

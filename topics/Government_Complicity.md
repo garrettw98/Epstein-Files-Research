@@ -59,9 +59,13 @@ A **21-slide FBI presentation**, created after mid-July 2025, was found within t
 
 After reviewing the files Congress was told were "unredacted," Khanna reported that **70 to 80 percent of the files remained redacted** — even in the version shown to lawmakers in the DOJ's secure reading room. This contradicts the DOJ's claims of full compliance.
 
-## 6. The Republican Instruction (February 2026)
+## 6. House Oversight Conflict (February 2026)
 
-Reports emerged that **Republican House leadership instructed members not to bring up the Epstein files** during AG Pam Bondi's upcoming testimony before the House Judiciary Committee on February 11, 2026 — despite bipartisan demand for answers about the DOJ's handling of the files.
+During AG Pam Bondi's **February 11, 2026** House Judiciary testimony, members in both parties pressed DOJ over release practices and redactions.
+
+On **February 12, 2026**, AP reported DOJ had also tracked lawmakers' and staffers' search activity inside the file portal (including names and terms searched), creating an additional bipartisan dispute over transparency and oversight.
+
+Source: [Associated Press, Feb 12, 2026](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220)
 
 ## Verdict
 **Systemic Protection.** Whether through incompetence, corruption, or intelligence directives, multiple agencies (FBI, DOJ, State, Secret Service) failed to stop Epstein for 20 years — and the February 2026 revelations suggest the cover-up may still be ongoing, with the FBI accused of actively scrubbing files to protect powerful men even after Congress mandated full transparency.

@@ -106,6 +106,19 @@ Called the **"Epstein Library"**, it hosts:
 | Set 11 | February 2026 additions |
 | Set 12 | February 2026 additions |
 
+### Current Week Developments (Feb 8-14, 2026)
+
+- **Feb 8**: AP reported internal FBI/DOJ review material said investigators did not find evidence of a standalone Epstein "client list" or a trafficking ring specifically serving powerful men.
+- **Feb 9**: DOJ opened access for members of Congress to review unredacted files in a secure room.
+- **Feb 11**: AG Bondi testified before House Judiciary and faced bipartisan criticism over unanswered file-handling questions.
+- **Feb 12**: AP reported DOJ tracked lawmakers' and staffers' file-search activity; both parties criticized the practice.
+
+Sources:
+- [Associated Press, Feb 8, 2026](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
+- [Associated Press, Feb 9, 2026](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
+- [Associated Press, Feb 11, 2026](https://apnews.com/article/7a40d416451df0ebd487cb021b0a706d)
+- [Associated Press, Feb 12, 2026](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220)
+
 ## Criticisms
 
 ### Incomplete Disclosure
@@ -231,9 +244,11 @@ Khanna accused the **FBI** of **scrubbing files in March** 2025 — months befor
 
 Massie threatened to **read Epstein's client names** on the House floor if AG Bondi's DOJ refused to comply with the Act's transparency requirements.
 
-### AG Bondi Testimony
+### AG Bondi Testimony (Held Feb 11)
 
-AG **Pam Bondi** is scheduled to testify before the **House Judiciary Committee** on **February 11, 2026**, where she faces questions about the department's compliance with the Act. Epstein survivors submitted **15 questions** for Bondi. Reports indicate Republican leadership instructed members **not to bring up** the Epstein files during the hearing.
+AG **Pam Bondi** testified before the **House Judiciary Committee** on **February 11, 2026**. During more than five hours of testimony, she was pressed by members of both parties over redactions, release sequencing, and DOJ process decisions tied to the Transparency Act.
+
+Source: [Associated Press, Feb 11, 2026](https://apnews.com/article/7a40d416451df0ebd487cb021b0a706d)
 
 ### Remaining Issues
 

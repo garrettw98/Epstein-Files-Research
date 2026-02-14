@@ -16,6 +16,12 @@ Leonov's name appeared in the DOJ's Epstein files in a document that was **redac
 
 Leonov appears in only **one document** on the DOJ's 20-person list that had been heavily redacted.
 
+### Feb 11 Caveat (DOJ/CBS Reporting)
+
+CBS News reported a DOJ spokesperson said four newly publicized names, including Leonov, appear once in one file and do not appear to directly implicate those men in criminal conduct.
+
+Source: [CBS News, Feb 11, 2026](https://www.cbsnews.com/news/epstein-files-unredacted-list-of-names-ro-khanna/)
+
 ## How His Name Was Revealed
 
 On **February 10, 2026**, Rep. **Ro Khanna** (D-CA) read Leonov's name on the **House floor** as one of six men whose names were "wrongfully redacted" from the Epstein files. Khanna used the protection of the Constitution's **Speech or Debate Clause** to disclose the names without legal liability.

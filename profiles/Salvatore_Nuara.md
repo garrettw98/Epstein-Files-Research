@@ -31,6 +31,12 @@ On **February 10, 2026**, Rep. **Ro Khanna** (D-CA) named Nuara as one of six me
 
 Nuara appears in only **one document** on the DOJ's 20-person list that had been heavily redacted.
 
+### Feb 11 Caveat (DOJ/CBS Reporting)
+
+CBS News reported a DOJ spokesperson said four newly publicized names, including Nuara, appear once in one file and do not appear to directly implicate those men in criminal conduct.
+
+Source: [CBS News, Feb 11, 2026](https://www.cbsnews.com/news/epstein-files-unredacted-list-of-names-ro-khanna/)
+
 ## Important Caveats
 
 - Being named in the Epstein files does not constitute evidence of criminal activity

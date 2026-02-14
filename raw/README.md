@@ -12,5 +12,10 @@ Current ingest target:
 - `raw/bondi_hearing/` - Hearing-specific raw snapshots:
   - `*_cbs_liveblog.html`
   - `*_house_hearing.html`
+- `raw/primary_docs/` - Primary authority ingest snapshots:
+  - `*_courtlistener_*.json`
+  - `*_house_hearing.html`
+  - `*_govtrack_hr4405.html`
+  - `run_manifest_latest.json`
 
 Do not hand-edit raw files after ingest.

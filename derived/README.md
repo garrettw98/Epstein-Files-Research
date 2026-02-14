@@ -14,5 +14,10 @@ Current ingest outputs:
 - `derived/media_coverage/coverage_last7d_latest.tsv`
 - `derived/media_coverage/media_coverage_summary_latest.md`
 - `derived/media_coverage/outlet_endpoint_status_latest.tsv`
+- `derived/primary_docs/primary_documents_latest.tsv`
+- `derived/primary_docs/primary_documents_<timestamp>.tsv`
+- `derived/primary_docs/primary_documents_summary_latest.md`
+- `derived/claims/claim_registry_latest.tsv`
+- `derived/claims/claim_evidence_links_latest.tsv`
 
 Regenerate derived files by rerunning the ingest script.

@@ -1,0 +1,5 @@
+claim_id	doc_id	evidence_type	evidence_strength	evidence_url	quote_excerpt
+claim-bondi-hearing-date	doc-house-hearing-oversight-doj-2026	transcript	direct	https://judiciary.house.gov/committee-activity/hearings/oversight-us-department-justice-5	Hearing page lists date/time and witness as AG Pam Bondi.
+claim-hr4405-enacted	doc-govtrack-hr4405	release	direct	https://www.govtrack.us/congress/bills/119/hr4405	GovTrack status line shows enacted and signed by President on Nov. 19, 2025.
+claim-hr4405-enacted	doc-govinfo-pl119-38	filing	supporting	https://www.govinfo.gov/link/plaw/119/public/38	Public law link for Pub. L. 119-38.
+claim-doj-35m-pages	doc-doj-opa-35m-pages	release	direct	https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files	DOJ OPA release states 3.5 million responsive pages publication.

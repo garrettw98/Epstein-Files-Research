@@ -152,6 +152,12 @@ A year-by-year breakdown of every major event, from 1953 to today.
 ## 📚 [Further Reading & Resources](topics/Further_Reading.md)
 Books, documentaries, and source material.
 
+## Database Model (Phase 1)
+- **[Normalized Schema](schema/epstein_research_schema.sql)**: SQLite relational schema for documents, entities, events, claims, and evidence links.
+- **[Schema Guide](schema/README.md)**: Setup and ingestion workflow.
+- **[Claim Linking Spec](schema/CLAIM_LINKING_FORMAT.md)**: Required fields/rules for auditable claim-to-evidence mapping.
+- **[Claim Registry (latest)](derived/claims/claim_registry_latest.tsv)** and **[Claim Evidence Links (latest)](derived/claims/claim_evidence_links_latest.tsv)**.
+
 ## Repo Automation
 Run a full live-update refresh with one command:
 
@@ -172,6 +178,10 @@ Ingest the full Bondi hearing chronology (official House page + CBS live update 
 Build a 7-day outlet coverage map from ingested data:
 
 `./scripts/analyze_epstein_media_coverage.py`
+
+Ingest primary authority records (CourtListener + House Judiciary + GovTrack + GovInfo + DOJ OPA) into `raw/primary_docs/` and `derived/primary_docs/`:
+
+`./scripts/ingest_primary_authority_docs.py`
 
 ---
 > **Note on Safety:** This database relies on **verified court documents** and **police reports**. We clearly label what is a *Fact* (✓) and what is just a *Theory* (?).

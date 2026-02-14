@@ -154,5 +154,9 @@ Run a full live-update refresh with one command:
 
 `./scripts/update_live_events.sh --as-of "Feb 14, 2026" --dataset 12 --events-file updates/live_events.latest.txt --commit --push`
 
+Ingest DOJ Epstein library sources into `raw/` and normalized `derived/` indexes:
+
+`./scripts/ingest_epstein_library.sh`
+
 ---
 > **Note on Safety:** This database relies on **verified court documents** and **police reports**. We clearly label what is a *Fact* (✓) and what is just a *Theory* (?).

@@ -1,0 +1,5 @@
+ingested_at_utc	source_page	snapshot_file	url	path	link_type	status_code
+20260214T023646Z	https://www.justice.gov/epstein	raw/doj_epstein_library/20260214T023646Z_epstein.html	https://www.justice.gov/epstein	/epstein	epstein_page	200
+20260214T023646Z	https://www.justice.gov/epstein	raw/doj_epstein_library/20260214T023646Z_epstein.html	https://www.justice.gov/epstein#court-records	/epstein#court-records	epstein_page	200
+20260214T023646Z	https://www.justice.gov/epstein	raw/doj_epstein_library/20260214T023646Z_epstein.html	https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files	/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files	other	200
+20260214T023646Z	https://www.justice.gov/epstein	raw/doj_epstein_library/20260214T023646Z_epstein.html	https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files	/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files	other	200

@@ -13,6 +13,7 @@ make daily-pipeline
 
 1. `scripts/ingest_primary_authority_docs.py`
    - Pulls latest docs from CourtListener search, CourtListener RECAP (PACER filings), House Judiciary, GovTrack, GovInfo, and DOJ OPA.
+   - Applies phrase filtering (`Jeffrey Epstein`, `Ghislaine Maxwell`, `Epstein files`) to RECAP/transcript results to reduce unrelated records.
    - Writes snapshots to `raw/primary_docs/` and indexes to `derived/primary_docs/`.
 
 2. `scripts/load_epstein_sqlite.py`

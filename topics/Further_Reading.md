@@ -23,6 +23,13 @@
     *   *Focuses on her role.*
 
 ## 🗄️ Primary Sources (The Files)
-*   **CourtListener**: For tracking the *Giuffre v. Maxwell* docket.
-*   **The Miami Herald**: Archive of the original 2018 reporting.
-*   **The "Black Book"**: Available on various archive sites (use caution with unverified versions).
+*   **[Primary Sources Index](../evidence/Primary_Sources_Index.md)**: Curated list of DOJ, congressional, court, OIG, and major reporting links.
+*   **DOJ Epstein Library**: https://www.justice.gov/epstein
+*   **DOJ Epstein Court Records Hub**: https://www.justice.gov/epstein/court-records
+*   **Congress Bill Hub (H.R. 4405)**: https://www.congress.gov/bill/119th-congress/house-bill/4405
+*   **Public Law PDF (PL 119-38)**: https://www.govinfo.gov/link/plaw/119/public/38
+*   **Miami Herald Epstein Topic Hub**: https://www.miamiherald.com/topics/jeffrey-epstein/
+
+## 🧪 Analytical Frameworks
+*   **[Government Cover-Up Evidence Matrix](../analysis/Government_Coverup_Evidence_Matrix.md)**: Separates documented failures from allegations and unresolved questions.
+*   **[Government Complicity](Government_Complicity.md)**: Topic narrative with evidence-status breakdown.

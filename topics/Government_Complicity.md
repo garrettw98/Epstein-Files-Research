@@ -67,5 +67,25 @@ On **February 12, 2026**, AP reported DOJ had also tracked lawmakers' and staffe
 
 Source: [Associated Press, Feb 12, 2026](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220)
 
+## What Is Proven vs Alleged
+
+### Documented Failures
+- Federal investigators had early opportunities and did not fully stop the network in the 2006-2008 period.
+- Plea-era outcomes limited accountability for co-conspirators.
+- BOP custody/supervision failures before Epstein's death are documented in DOJ OIG findings.
+- 2025-2026 release process produced major redaction and handling controversies.
+
+### Credible Allegations (Not Fully Proven in Public Records)
+- Specific claims that names or statements were intentionally scrubbed to protect elites.
+- Claims that agencies coordinated to suppress disclosures beyond lawful redaction categories.
+
+### Unresolved Questions
+- Whether non-prosecution outcomes were driven by corruption, pressure, bureaucratic failure, or multiple factors.
+- Whether any withheld records would materially change criminal exposure for currently uncharged individuals.
+
 ## Verdict
-**Systemic Protection.** Whether through incompetence, corruption, or intelligence directives, multiple agencies (FBI, DOJ, State, Secret Service) failed to stop Epstein for 20 years — and the February 2026 revelations suggest the cover-up may still be ongoing, with the FBI accused of actively scrubbing files to protect powerful men even after Congress mandated full transparency.
+**Systemic Failure with Ongoing Cover-Up Allegations.** Multiple agencies failed to stop Epstein for years, and current disclosures show continuing disputes over redactions, access, and transparency. Intentional protection of specific individuals remains a serious allegation that is not fully proven in current public records.
+
+## Deep-Dive Matrix
+- [Government Cover-Up Evidence Matrix](../analysis/Government_Coverup_Evidence_Matrix.md)
+- [Primary Sources Index](../evidence/Primary_Sources_Index.md)

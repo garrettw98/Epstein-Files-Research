@@ -103,6 +103,7 @@ This timeline integrates all data points from this repository into a single chro
     *   6:30 AM: Found unresponsive.
     *   8:16 AM: **4chan Leak** announces death before news media.
 *   **Aug 16**: Officially ruled Suicide by Hanging.
+*   **Nov 19**: Two MCC correctional officers are charged in federal court with falsifying records related to prison checks the night before Epstein's death.
 *   **Nov**: Prince Andrew gives disastrous BBC interview ("No Sweat").
 
 ---
@@ -122,6 +123,7 @@ This timeline integrates all data points from this repository into a single chro
     *   JPMorgan pays $290M.
     *   **Jes Staley** banned from banking.
 *   **2023 (May)**: **Stephen Deckoff** buys the islands for $60 million.
+*   **2023 (Jun)**: DOJ OIG issues a major report detailing systemic Bureau of Prisons failures in custody, supervision, and staffing tied to Epstein's detention.
 
 ---
 

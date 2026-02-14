@@ -69,6 +69,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 ### The Documents
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3.5 million pages released.
 *   **[The Epstein Files Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**: The law that forced the release (427-1 vote).
+*   **[Primary Sources Index](evidence/Primary_Sources_Index.md)**: Official records, court hubs, congressional links, and major reporting sources.
 
 ### New Profiles (2026 Revelations)
 *   **[Howard Lutnick](profiles/Howard_Lutnick.md)** - Trump Commerce Secretary; 2012 island visit with family.
@@ -139,6 +140,8 @@ This repository serves as a **verified, fact-based database**. We have organized
 ## 🔎 The Evidence Explained
 *   **[Flight Logs vs. Black Book](evidence/Logs_vs_Book.md)**: Why being in his "book" is different from being on his "plane."
 *   **[The 2024 Files](evidence/2024_Release.md)**: What we learned from the January 2024 unsealing.
+*   **[Primary Sources Index](evidence/Primary_Sources_Index.md)**: Fast path to all core source material.
+*   **[Government Cover-Up Evidence Matrix](analysis/Government_Coverup_Evidence_Matrix.md)**: Proven failures vs allegations vs unresolved claims.
 
 ## 📅 [Full Timeline](timeline/Full_Timeline.md)
 A year-by-year breakdown of every major event, from 1953 to today.

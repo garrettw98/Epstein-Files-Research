@@ -45,6 +45,8 @@
   https://www.govtrack.us/congress/bills/119/hr4405
 - **Public law PDF (via GovInfo): Public Law 119-38**  
   https://www.govinfo.gov/link/plaw/119/public/38
+- **House Judiciary hearing page: Oversight of the U.S. Department of Justice (Feb 11, 2026)**  
+  https://judiciary.house.gov/committee-activity/hearings/oversight-us-department-justice-5
 
 ## Major Reporting Hubs (Tier 2)
 
@@ -56,6 +58,10 @@
   https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9
 - **Associated Press: Feb 12, 2026 DOJ search-logging controversy**  
   https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220
+- **Associated Press: Feb 11, 2026 Bondi House Judiciary hearing**  
+  https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd
+- **CBS News live updates: Bondi hearing chronology (Feb 11, 2026)**  
+  https://www.cbsnews.com/live-updates/pam-bondi-hearing-epstein-files-justice-department-congress/
 - **Associated Press: Feb 14, 2026 DP World interim leadership update**  
   https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490
 - **Miami Herald topic hub (archived index snapshot)**  

@@ -462,6 +462,17 @@ Attorney General **Pam Bondi** testified before the **House Judiciary Committee*
 - Members from both parties pressed DOJ over file handling, redactions, and release sequencing
 - Bondi said she did not order DOJ to monitor congressional searching of the files and defended DOJ's process
 
+Detailed hearing record now stored in:
+- **[Bondi Hearing Full Dossier](Bondi_Hearing_Feb_11_2026.md)**
+- `derived/bondi_hearing/bondi_hearing_updates_latest.tsv` (23 captured live updates with timestamps and full text)
+
+Major hearing clusters documented in the full dossier:
+- **Disclosure governance**: redactions, sequence of release, and whether additional names should be unredacted
+- **Investigation posture**: tension between claims of "pending investigations" and earlier statements that no new charges were expected
+- **Survivor treatment**: questioning about victim redactions, unredacted victim information, and DOJ outreach
+- **Executive-branch ties**: questioning on whether DOJ interviewed senior officials named in the files
+- **Portal logging fallout**: hearing statements that set up the next-day dispute about congressional search tracking
+
 Source: [Associated Press, Feb 11, 2026](https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd)
 
 ### DOJ Search-Logging Dispute (Feb 12)
@@ -513,6 +524,7 @@ The DOJ noted:
 ## See Also
 
 - [Primary Sources Index](Primary_Sources_Index.md) - Official and major-source reference map
+- [Bondi Hearing Full Dossier](Bondi_Hearing_Feb_11_2026.md) - Full hearing chronology and structured update table
 - [The Epstein Files Transparency Act](../topics/The_Epstein_Files_Transparency_Act.md) - The law
 - [The Eastern European Pipeline](../topics/The_Eastern_European_Pipeline.md) - Trafficking network
 - [International Investigations](../topics/International_Investigations.md) - Global response

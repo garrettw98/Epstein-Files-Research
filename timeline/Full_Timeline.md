@@ -5,6 +5,9 @@
 
 This timeline integrates all data points from this repository into a single chronological flow.
 
+For a source-focused map of official U.S. institutional actions (DOJ/Congress/oversight), see:
+- **[Government Response Timeline to the Epstein Files](Government_Response_To_Epstein_Files.md)**
+
 ---
 
 ## 🏗️ 1953 - 1989: Origins & The "Seed Money"
@@ -225,6 +228,7 @@ This timeline integrates all data points from this repository into a single chro
     *   Source: [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9).
 *   **Feb 11, 2026**: **Bondi testimony held before House Judiciary**.
     *   Bondi testified for over five hours and faced bipartisan criticism over unanswered questions about releases and redactions.
+    *   Full hearing dossier: [Bondi Hearing Full Dossier](../evidence/Bondi_Hearing_Feb_11_2026.md).
     *   Source: [Source](https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd).
 *   **Feb 12, 2026**: **DOJ search-logging controversy**.
     *   AP reported DOJ tracked how often and where lawmakers and aides searched the Epstein files, triggering bipartisan backlash.

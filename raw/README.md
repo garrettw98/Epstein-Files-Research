@@ -9,5 +9,8 @@ Current ingest target:
   - `discovery_candidates_latest.tsv`
   - `gdelt_*.json`
   - `run_manifest_latest.json`
+- `raw/bondi_hearing/` - Hearing-specific raw snapshots:
+  - `*_cbs_liveblog.html`
+  - `*_house_hearing.html`
 
 Do not hand-edit raw files after ingest.

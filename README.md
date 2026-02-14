@@ -68,8 +68,11 @@ This repository serves as a **verified, fact-based database**. We have organized
 
 ### The Documents
 *   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3.5 million pages released.
+*   **[Bondi Hearing Full Dossier (Feb 11, 2026)](evidence/Bondi_Hearing_Feb_11_2026.md)**: Full hearing chronology and structured update index.
 *   **[The Epstein Files Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**: The law that forced the release (427-1 vote).
 *   **[Primary Sources Index](evidence/Primary_Sources_Index.md)**: Official records, court hubs, congressional links, and major reporting sources.
+*   **[Government Response Timeline to the Files](timeline/Government_Response_To_Epstein_Files.md)**: Cross-year map of DOJ/Congress/court response phases.
+*   **[Media Coverage Response Map](analysis/Media_Coverage_Response_Map.md)**: Who is covering, low-visibility outlets, and monitoring constraints.
 
 ### New Profiles (2026 Revelations)
 *   **[Howard Lutnick](profiles/Howard_Lutnick.md)** - Trump Commerce Secretary; 2012 island visit with family.
@@ -161,6 +164,14 @@ Ingest DOJ Epstein library sources into `raw/` and normalized `derived/` indexes
 Run a broad multi-source ingest (DOJ/OIG/AP/Reuters/BBC/Guardian/Fox/GovTrack + GDELT) into `raw/epstein_universe/` and `derived/epstein_universe/`:
 
 `./scripts/ingest_epstein_universe.py`
+
+Ingest the full Bondi hearing chronology (official House page + CBS live update feed):
+
+`./scripts/ingest_bondi_hearing_liveblog.py`
+
+Build a 7-day outlet coverage map from ingested data:
+
+`./scripts/analyze_epstein_media_coverage.py`
 
 ---
 > **Note on Safety:** This database relies on **verified court documents** and **police reports**. We clearly label what is a *Fact* (✓) and what is just a *Theory* (?).

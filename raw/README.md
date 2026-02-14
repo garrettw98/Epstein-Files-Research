@@ -14,8 +14,10 @@ Current ingest target:
   - `*_house_hearing.html`
 - `raw/primary_docs/` - Primary authority ingest snapshots:
   - `*_courtlistener_*.json`
+  - `*_courtlistener_*_recap.json` (PACER/RECAP discovery)
   - `*_house_hearing.html`
   - `*_govtrack_hr4405.html`
+  - `*_govinfo_*.json` (Congressional transcript/hearing search payloads)
   - `run_manifest_latest.json`
 
 Do not hand-edit raw files after ingest.

@@ -28,4 +28,10 @@ Then ingest source docs:
 ./scripts/ingest_primary_authority_docs.py
 ```
 
-And load claim/evidence TSVs from `derived/claims/`.
+Then load normalized tables:
+
+```bash
+./scripts/load_epstein_sqlite.py
+```
+
+Claim/evidence TSVs are sourced from `derived/claims/`.

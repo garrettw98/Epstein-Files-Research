@@ -157,9 +157,11 @@ Books, documentaries, and source material.
 - **[Schema Guide](schema/README.md)**: Setup and ingestion workflow.
 - **[Claim Linking Spec](schema/CLAIM_LINKING_FORMAT.md)**: Required fields/rules for auditable claim-to-evidence mapping.
 - **[Claim Registry (latest)](derived/claims/claim_registry_latest.tsv)** and **[Claim Evidence Links (latest)](derived/claims/claim_evidence_links_latest.tsv)**.
+- **[Repository Organization](docs/REPO_ORGANIZATION.md)**: Directory and naming contract.
+- **[Data Pipeline Runbook](docs/DATA_PIPELINE.md)**: Daily update workflow and output map.
 
 ## Repo Automation
-Run a full live-update refresh with one command:
+Run a full live-update refresh for README/timeline sections:
 
 `./scripts/update_live_events.sh --as-of "Feb 14, 2026" --dataset 12 --events-file updates/live_events.latest.txt --commit --push`
 
@@ -182,6 +184,22 @@ Build a 7-day outlet coverage map from ingested data:
 Ingest primary authority records (CourtListener + House Judiciary + GovTrack + GovInfo + DOJ OPA) into `raw/primary_docs/` and `derived/primary_docs/`:
 
 `./scripts/ingest_primary_authority_docs.py`
+
+Load normalized outputs into SQLite (`derived/database/epstein_research.sqlite`):
+
+`./scripts/load_epstein_sqlite.py`
+
+Generate daily doc-diff + claim-status change reports (`derived/reports/`):
+
+`./scripts/generate_daily_change_report.py`
+
+Run end-to-end daily ingest/load/report:
+
+`./scripts/run_daily_pipeline.sh`
+
+Or use Make targets:
+
+`make daily-pipeline`
 
 ---
 > **Note on Safety:** This database relies on **verified court documents** and **police reports**. We clearly label what is a *Fact* (✓) and what is just a *Theory* (?).

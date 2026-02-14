@@ -158,5 +158,9 @@ Ingest DOJ Epstein library sources into `raw/` and normalized `derived/` indexes
 
 `./scripts/ingest_epstein_library.sh`
 
+Run a broad multi-source ingest (DOJ/OIG/AP/Reuters/BBC/Guardian/Fox/GovTrack + GDELT) into `raw/epstein_universe/` and `derived/epstein_universe/`:
+
+`./scripts/ingest_epstein_universe.py`
+
 ---
 > **Note on Safety:** This database relies on **verified court documents** and **police reports**. We clearly label what is a *Fact* (✓) and what is just a *Theory* (?).

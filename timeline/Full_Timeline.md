@@ -225,19 +225,19 @@ This timeline integrates all data points from this repository into a single chro
     *   Source: [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9).
 *   **Feb 11, 2026**: **Bondi testimony held before House Judiciary**.
     *   Bondi testified for over five hours and faced bipartisan criticism over unanswered questions about releases and redactions.
-    *   Source: [Source](https://apnews.com/article/7a40d416451df0ebd487cb021b0a706d).
+    *   Source: [Source](https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd).
 *   **Feb 12, 2026**: **DOJ search-logging controversy**.
     *   AP reported DOJ tracked how often and where lawmakers and aides searched the Epstein files, triggering bipartisan backlash.
     *   Source: [Source](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220).
 *   **Feb 12, 2026**: **Goldman legal leadership change**.
     *   Goldman Sachs Chief Legal Officer Kathryn Ruemmler announced she will step down effective June 30, 2026 after renewed scrutiny tied to Epstein-file disclosures.
-    *   Source: [Source](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21).
+    *   Source: [Source](https://apnews.com/article/3ba7b9e87cc8e38f563f91917630e484).
 *   **Feb 13, 2026**: **DP World leadership change**.
     *   Sultan Ahmed bin Sulayem stepped down as chairman and group CEO amid fallout from the files.
-    *   Source: [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b).
+    *   Source: [Source](https://apnews.com/article/5709588906fb10cd51bb49f30a9825d2).
 *   **Feb 13, 2026**: **Barak public apology**.
     *   Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly.
-    *   Source: [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b).
+    *   Source: [Source](https://apnews.com/article/5709588906fb10cd51bb49f30a9825d2).
 *   **Feb 14, 2026**: **DP World interim leadership announced**.
     *   DP World announced Esa Kazim as interim chairman and Yuvraj Narayan as interim group CEO after Bin Sulayem's resignation.
     *   Source: [Source](https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490).

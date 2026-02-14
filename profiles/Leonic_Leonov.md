@@ -20,7 +20,7 @@ Leonov appears in only **one document** on the DOJ's 20-person list that had bee
 
 CBS News reported a DOJ spokesperson said four newly publicized names, including Leonov, appear once in one file and do not appear to directly implicate those men in criminal conduct.
 
-Source: [CBS News, Feb 11, 2026](https://www.cbsnews.com/news/epstein-files-unredacted-list-of-names-ro-khanna/)
+Source: [CBS News, Feb 11, 2026](https://www.cbsnews.com/news/massie-khanna-epstein-files-6-men/)
 
 ## How His Name Was Revealed
 

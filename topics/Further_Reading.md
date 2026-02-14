@@ -25,10 +25,10 @@
 ## 🗄️ Primary Sources (The Files)
 *   **[Primary Sources Index](../evidence/Primary_Sources_Index.md)**: Curated list of DOJ, congressional, court, OIG, and major reporting links.
 *   **DOJ Epstein Library**: https://www.justice.gov/epstein
-*   **DOJ Epstein Court Records Hub**: https://www.justice.gov/epstein/court-records
-*   **Congress Bill Hub (H.R. 4405)**: https://www.congress.gov/bill/119th-congress/house-bill/4405
+*   **DOJ Epstein Court Records Section**: https://www.justice.gov/epstein#court-records
+*   **Congress Bill Hub (H.R. 4405 mirror)**: https://www.govtrack.us/congress/bills/119/hr4405
 *   **Public Law PDF (PL 119-38)**: https://www.govinfo.gov/link/plaw/119/public/38
-*   **Miami Herald Epstein Topic Hub**: https://www.miamiherald.com/topics/jeffrey-epstein/
+*   **Miami Herald Epstein Topic Hub (archived index)**: https://web.archive.org/web/20240201000000*/https://www.miamiherald.com/topics/jeffrey-epstein/
 
 ## 🧪 Analytical Frameworks
 *   **[Government Cover-Up Evidence Matrix](../analysis/Government_Coverup_Evidence_Matrix.md)**: Separates documented failures from allegations and unresolved questions.

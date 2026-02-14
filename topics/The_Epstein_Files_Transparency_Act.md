@@ -116,7 +116,7 @@ Called the **"Epstein Library"**, it hosts:
 Sources:
 - [Associated Press, Feb 8, 2026](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
 - [Associated Press, Feb 9, 2026](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
-- [Associated Press, Feb 11, 2026](https://apnews.com/article/7a40d416451df0ebd487cb021b0a706d)
+- [Associated Press, Feb 11, 2026](https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd)
 - [Associated Press, Feb 12, 2026](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220)
 
 ## Criticisms
@@ -248,7 +248,7 @@ Massie threatened to **read Epstein's client names** on the House floor if AG Bo
 
 AG **Pam Bondi** testified before the **House Judiciary Committee** on **February 11, 2026**. During more than five hours of testimony, she was pressed by members of both parties over redactions, release sequencing, and DOJ process decisions tied to the Transparency Act.
 
-Source: [Associated Press, Feb 11, 2026](https://apnews.com/article/7a40d416451df0ebd487cb021b0a706d)
+Source: [Associated Press, Feb 11, 2026](https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd)
 
 ### Remaining Issues
 

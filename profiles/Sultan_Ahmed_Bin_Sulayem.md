@@ -56,7 +56,7 @@ As of February 10, 2026, neither DP World nor Sultan Ahmed bin Sulayem had publi
 
 According to Associated Press reporting, Bin Sulayem stepped down as **DP World chairman and group CEO** amid fallout from the Epstein files.
 
-Source: [Associated Press, Feb 13, 2026](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+Source: [Associated Press, Feb 13, 2026](https://apnews.com/article/5709588906fb10cd51bb49f30a9825d2)
 
 ### DP World Replacement Leadership (Feb 14, 2026)
 

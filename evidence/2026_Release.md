@@ -101,11 +101,11 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 - **Feb 8, 2026**: **AP review: no DOJ "client list" finding**. AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men. [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
 - **Feb 9, 2026**: **Congressional access to unredacted files opened**. DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice. [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
 - **Feb 9, 2026**: **Maxwell deposition and clemency request**. AP reported Maxwell invoked the Fifth Amendment in a House deposition and later sought clemency before withdrawing the request. [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9)
-- **Feb 11, 2026**: **Bondi testimony held before House Judiciary**. Bondi testified for over five hours and faced bipartisan criticism over unanswered questions about releases and redactions. [Source](https://apnews.com/article/7a40d416451df0ebd487cb021b0a706d)
+- **Feb 11, 2026**: **Bondi testimony held before House Judiciary**. Bondi testified for over five hours and faced bipartisan criticism over unanswered questions about releases and redactions. [Source](https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd)
 - **Feb 12, 2026**: **DOJ search-logging controversy**. AP reported DOJ tracked how often and where lawmakers and aides searched the Epstein files, triggering bipartisan backlash. [Source](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220)
-- **Feb 12, 2026**: **Goldman legal leadership change**. Goldman Sachs Chief Legal Officer Kathryn Ruemmler announced she will step down effective June 30, 2026 after renewed scrutiny tied to Epstein-file disclosures. [Source](https://apnews.com/article/goldman-sachs-kathryn-ruemmler-epstein-files-0369f0150efe013f1f29800f32af7b21)
-- **Feb 13, 2026**: **DP World leadership change**. Sultan Ahmed bin Sulayem stepped down as chairman and group CEO amid fallout from the files. [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
-- **Feb 13, 2026**: **Barak public apology**. Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly. [Source](https://apnews.com/article/epstein-files-dubai-israel-barak-bin-sulayem-6fcb6de2894a7d8f6d3066ec57518f4b)
+- **Feb 12, 2026**: **Goldman legal leadership change**. Goldman Sachs Chief Legal Officer Kathryn Ruemmler announced she will step down effective June 30, 2026 after renewed scrutiny tied to Epstein-file disclosures. [Source](https://apnews.com/article/3ba7b9e87cc8e38f563f91917630e484)
+- **Feb 13, 2026**: **DP World leadership change**. Sultan Ahmed bin Sulayem stepped down as chairman and group CEO amid fallout from the files. [Source](https://apnews.com/article/5709588906fb10cd51bb49f30a9825d2)
+- **Feb 13, 2026**: **Barak public apology**. Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly. [Source](https://apnews.com/article/5709588906fb10cd51bb49f30a9825d2)
 - **Feb 14, 2026**: **DP World interim leadership announced**. DP World announced Esa Kazim as interim chairman and Yuvraj Narayan as interim group CEO after Bin Sulayem's resignation. [Source](https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490)
 <!-- REALTIME_STATUS:END -->
 
@@ -462,7 +462,7 @@ Attorney General **Pam Bondi** testified before the **House Judiciary Committee*
 - Members from both parties pressed DOJ over file handling, redactions, and release sequencing
 - Bondi said she did not order DOJ to monitor congressional searching of the files and defended DOJ's process
 
-Source: [Associated Press, Feb 11, 2026](https://apnews.com/article/7a40d416451df0ebd487cb021b0a706d)
+Source: [Associated Press, Feb 11, 2026](https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd)
 
 ### DOJ Search-Logging Dispute (Feb 12)
 
@@ -477,7 +477,7 @@ Source: [Associated Press, Feb 12, 2026](https://apnews.com/article/13eeb9ccadcc
 
 CBS News reported a DOJ spokesperson said four newly publicized names appear once in one file and **"do not appear to directly implicate"** those men in criminal conduct.
 
-Source: [CBS News, Feb 11, 2026](https://www.cbsnews.com/news/epstein-files-unredacted-list-of-names-ro-khanna/)
+Source: [CBS News, Feb 11, 2026](https://www.cbsnews.com/news/massie-khanna-epstein-files-6-men/)
 
 ### Responses from Named Co-Conspirators
 

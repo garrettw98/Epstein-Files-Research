@@ -14,8 +14,8 @@
 
 - **DOJ Epstein Library (official portal)**  
   https://www.justice.gov/epstein
-- **DOJ Epstein court-record hub**  
-  https://www.justice.gov/epstein/court-records
+- **DOJ Epstein court-record section (portal anchor)**  
+  https://www.justice.gov/epstein#court-records
 - **DOJ OPA: first phase of declassified files (Feb 27, 2025)**  
   https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files
 - **DOJ OPA: 3.5 million pages release (Jan 30, 2026)**  
@@ -41,8 +41,8 @@
 
 ## Congressional / Legal Authority (Tier 1)
 
-- **Congress bill page: H.R. 4405 (Epstein Files Transparency Act)**  
-  https://www.congress.gov/bill/119th-congress/house-bill/4405
+- **GovTrack bill page (H.R. 4405 mirror)**  
+  https://www.govtrack.us/congress/bills/119/hr4405
 - **Public law PDF (via GovInfo): Public Law 119-38**  
   https://www.govinfo.gov/link/plaw/119/public/38
 
@@ -58,8 +58,8 @@
   https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220
 - **Associated Press: Feb 14, 2026 DP World interim leadership update**  
   https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490
-- **Miami Herald topic hub (historical investigations including 2018 reporting)**  
-  https://www.miamiherald.com/topics/jeffrey-epstein/
+- **Miami Herald topic hub (archived index snapshot)**  
+  https://web.archive.org/web/20240201000000*/https://www.miamiherald.com/topics/jeffrey-epstein/
 
 ## Source Quality Rules for This Repo
 

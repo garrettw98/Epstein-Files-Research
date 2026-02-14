@@ -17,9 +17,14 @@ Current ingest outputs:
 - `derived/primary_docs/primary_documents_latest.tsv`
 - `derived/primary_docs/primary_documents_<timestamp>.tsv`
 - `derived/primary_docs/primary_documents_summary_latest.md`
+- `derived/topics/primary_doc_topic_index_latest.tsv`
+- `derived/topics/topic_catalog_latest.tsv`
+- `derived/topics/primary_doc_topics_summary_latest.md`
 - `derived/database/epstein_research.sqlite`
 - `derived/claims/claim_registry_latest.tsv`
 - `derived/claims/claim_evidence_links_latest.tsv`
+- `derived/claims/claim_candidates_latest.tsv`
+- `derived/claims/claim_candidates_summary_latest.md`
 - `derived/claims/history/claim_registry_<timestamp>.tsv`
 - `derived/reports/daily_change_report_latest.md`
 - `derived/reports/daily_primary_doc_diff_latest.tsv`
@@ -28,5 +33,7 @@ Current ingest outputs:
 Regenerate derived files with:
 
 - `./scripts/ingest_primary_authority_docs.py`
+- `./scripts/derive_primary_doc_topics.py`
+- `./scripts/generate_claim_candidates.py`
 - `./scripts/load_epstein_sqlite.py`
 - `./scripts/generate_daily_change_report.py`

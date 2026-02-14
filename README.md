@@ -185,6 +185,14 @@ Ingest primary authority records (CourtListener + House Judiciary + GovTrack + G
 
 `./scripts/ingest_primary_authority_docs.py`
 
+Derive topic taxonomy tags from latest primary docs into `derived/topics/`:
+
+`./scripts/derive_primary_doc_topics.py`
+
+Generate pending-review claim candidates into `derived/claims/`:
+
+`./scripts/generate_claim_candidates.py`
+
 Load normalized outputs into SQLite (`derived/database/epstein_research.sqlite`):
 
 `./scripts/load_epstein_sqlite.py`

@@ -1,0 +1,4 @@
+claim_id	claim_text	claim_type	asserted_by	first_seen_date	status	confidence	notes
+claim-bondi-hearing-date	Pam Bondi testified before the House Judiciary Committee on February 11, 2026.	timeline	House Judiciary Committee	2026-02-11	verified	0.99	Verified by committee hearing page and coverage records.
+claim-hr4405-enacted	The Epstein Files Transparency Act (H.R. 4405) was enacted on November 19, 2025.	legal	GovTrack/GovInfo	2025-11-19	verified	0.99	Confirmed by GovTrack status + Public Law link.
+claim-doj-35m-pages	DOJ announced publication of 3.5 million responsive pages related to Epstein files on January 30, 2026.	procedural	DOJ OPA	2026-01-30	verified	0.97	Based on DOJ OPA release statement.

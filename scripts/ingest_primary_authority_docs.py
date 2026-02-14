@@ -204,6 +204,17 @@ def is_target_relevant(*parts: str) -> bool:
     return any(phrase in haystack for phrase in TARGET_PHRASES)
 
 
+def is_court_record_relevant(*parts: str) -> bool:
+    haystack = " ".join((part or "").lower() for part in parts)
+    if "epstein" in haystack:
+        return True
+    if "ghislaine" in haystack or "giuffre" in haystack:
+        return True
+    if "maxwell" in haystack and any(token in haystack for token in ("ghislaine", "epstein", "giuffre", "dershowitz", "united states v. maxwell")):
+        return True
+    return False
+
+
 def main() -> int:
     args = parse_args()
     run_utc = ts_utc()
@@ -239,6 +250,9 @@ def main() -> int:
             if not record_url:
                 continue
             title = to_tsv(str(row.get("caseName", ""))) or "Untitled court record"
+            snippet = to_tsv(str(row.get("snippet", "")))
+            if not is_court_record_relevant(title, snippet, record_url):
+                continue
             filed = to_tsv(str(row.get("dateFiled", "")))
             court = to_tsv(str(row.get("court", "")))
             docket = to_tsv(str(row.get("docketNumber", "")))
@@ -290,7 +304,7 @@ def main() -> int:
                 short_desc = to_tsv(str(recap.get("short_description", "")))
                 long_desc = to_tsv(str(recap.get("description", "")))
                 snippet = to_tsv(str(recap.get("snippet", "")))
-                if not is_target_relevant(case_name, short_desc, long_desc, snippet):
+                if not is_court_record_relevant(case_name, short_desc, long_desc, snippet, recap_url):
                     continue
                 entry_num = to_tsv(str(recap.get("entry_number", "")))
                 doc_number = to_tsv(str(recap.get("document_number", "")))
@@ -377,6 +391,7 @@ def main() -> int:
         if not action_label:
             continue
         action_url = f"{GOVTRACK_BILL_URL}#status-row-grid"
+        action_date_iso = parse_textual_date(action_date) or action_date
         docs.append(
             {
                 "doc_id": doc_id(f"doc-govtrack-action-{idx:02d}", action_url + action_date + action_label),
@@ -384,7 +399,7 @@ def main() -> int:
                 "document_type": "bill_action",
                 "jurisdiction": "US Congress",
                 "title": action_label,
-                "doc_date": action_date,
+                "doc_date": action_date_iso,
                 "url": action_url,
                 "citation": "H.R. 4405 action",
                 "entity_tags": "epstein_files_transparency_act",

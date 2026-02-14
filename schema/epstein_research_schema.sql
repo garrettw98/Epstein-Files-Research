@@ -115,3 +115,22 @@ CREATE TABLE IF NOT EXISTS claim_contradictions (
 
 CREATE INDEX IF NOT EXISTS idx_claim_contradictions_claim ON claim_contradictions(claim_id);
 
+CREATE TABLE IF NOT EXISTS claim_candidates (
+  candidate_id TEXT PRIMARY KEY,
+  claim_text TEXT NOT NULL,
+  claim_type TEXT NOT NULL,
+  asserted_by TEXT,
+  first_seen_date TEXT,
+  proposed_status TEXT NOT NULL, -- pending_review, promoted, discarded
+  confidence REAL CHECK(confidence >= 0.0 AND confidence <= 1.0),
+  topic_id TEXT,
+  evidence_doc_id TEXT,
+  evidence_url TEXT,
+  rationale TEXT,
+  created_at_utc TEXT NOT NULL,
+  updated_at_utc TEXT NOT NULL,
+  FOREIGN KEY(evidence_doc_id) REFERENCES documents(doc_id)
+);
+
+CREATE INDEX IF NOT EXISTS idx_claim_candidates_status ON claim_candidates(proposed_status);
+CREATE INDEX IF NOT EXISTS idx_claim_candidates_topic ON claim_candidates(topic_id);

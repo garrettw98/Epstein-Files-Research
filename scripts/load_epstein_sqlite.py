@@ -82,6 +82,11 @@ def parse_args() -> argparse.Namespace:
         help="Claim evidence TSV path.",
     )
     parser.add_argument(
+        "--candidates-tsv",
+        default=str(root / "derived" / "claims" / "claim_candidates_latest.tsv"),
+        help="Claim candidates TSV path.",
+    )
+    parser.add_argument(
         "--no-prune-missing-docs",
         action="store_true",
         help="Keep old pipeline documents not present in the current docs TSV.",
@@ -133,6 +138,7 @@ def main() -> int:
     docs_tsv = pathlib.Path(args.docs_tsv).resolve()
     claims_tsv = pathlib.Path(args.claims_tsv).resolve()
     links_tsv = pathlib.Path(args.links_tsv).resolve()
+    candidates_tsv = pathlib.Path(args.candidates_tsv).resolve()
 
     db_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -143,6 +149,7 @@ def main() -> int:
     documents = read_tsv(docs_tsv)
     claims = read_tsv(claims_tsv)
     links = read_tsv(links_tsv)
+    candidates = read_tsv(candidates_tsv)
 
     run_id = run_id_now()
     now_iso = utc_now_iso()
@@ -411,6 +418,60 @@ def main() -> int:
                 ),
             )
 
+        # Replace candidate backlog on each load with current generated set.
+        conn.execute("DELETE FROM claim_candidates")
+        for row in candidates:
+            candidate_id = (row.get("candidate_id") or "").strip()
+            if not candidate_id:
+                continue
+            evidence_doc_id = (row.get("evidence_doc_id") or "").strip()
+            if evidence_doc_id and evidence_doc_id not in existing_docs:
+                ensure_placeholder_document(
+                    conn=conn,
+                    doc_id=evidence_doc_id,
+                    url=(row.get("evidence_url") or "").strip(),
+                    run_id=run_id,
+                    now_iso=now_iso,
+                )
+                existing_docs.add(evidence_doc_id)
+
+            conn.execute(
+                """
+                INSERT INTO claim_candidates (
+                  candidate_id, claim_text, claim_type, asserted_by, first_seen_date,
+                  proposed_status, confidence, topic_id, evidence_doc_id, evidence_url,
+                  rationale, created_at_utc, updated_at_utc
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ON CONFLICT(candidate_id) DO UPDATE SET
+                  claim_text = excluded.claim_text,
+                  claim_type = excluded.claim_type,
+                  asserted_by = excluded.asserted_by,
+                  first_seen_date = excluded.first_seen_date,
+                  proposed_status = excluded.proposed_status,
+                  confidence = excluded.confidence,
+                  topic_id = excluded.topic_id,
+                  evidence_doc_id = excluded.evidence_doc_id,
+                  evidence_url = excluded.evidence_url,
+                  rationale = excluded.rationale,
+                  updated_at_utc = excluded.updated_at_utc
+                """,
+                (
+                    candidate_id,
+                    (row.get("claim_text") or "").strip(),
+                    (row.get("claim_type") or "").strip(),
+                    (row.get("asserted_by") or "").strip(),
+                    (row.get("first_seen_date") or "").strip(),
+                    (row.get("proposed_status") or "").strip() or "pending_review",
+                    to_float((row.get("confidence") or "").strip()),
+                    (row.get("topic_id") or "").strip(),
+                    evidence_doc_id or None,
+                    (row.get("evidence_url") or "").strip(),
+                    (row.get("rationale") or "").strip(),
+                    now_iso,
+                    now_iso,
+                ),
+            )
+
     conn.close()
 
     print("SQLite load complete.")
@@ -418,6 +479,7 @@ def main() -> int:
     print(f"- Documents loaded: {len(documents)}")
     print(f"- Claims loaded: {len(claims)}")
     print(f"- Claim evidence links loaded: {len(links)}")
+    print(f"- Claim candidates loaded: {len(candidates)}")
     return 0
 
 

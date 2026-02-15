@@ -1,6 +1,6 @@
 # 📅 The Master Timeline: Every Verified Event
 
-> **Scope**: 1953 - Feb 14, 2026
+> **Scope**: 1953 - Feb 15, 2026
 > **Sources**: Court documents, Flight Logs, Police Reports, 2024/2026 Releases.
 
 This timeline integrates all data points from this repository into a single chronological flow.
@@ -228,7 +228,6 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   Source: [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9).
 *   **Feb 11, 2026**: **Bondi testimony held before House Judiciary**.
     *   Bondi testified for over five hours and faced bipartisan criticism over unanswered questions about releases and redactions.
-    *   Full hearing dossier: [Bondi Hearing Full Dossier](../evidence/Bondi_Hearing_Feb_11_2026.md).
     *   Source: [Source](https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd).
 *   **Feb 12, 2026**: **DOJ search-logging controversy**.
     *   AP reported DOJ tracked how often and where lawmakers and aides searched the Epstein files, triggering bipartisan backlash.
@@ -245,4 +244,16 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 14, 2026**: **DP World interim leadership announced**.
     *   DP World announced Esa Kazim as interim chairman and Yuvraj Narayan as interim group CEO after Bin Sulayem's resignation.
     *   Source: [Source](https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490).
+*   **Feb 14, 2026**: **LA28 organizer to sell agency after Maxwell emails release**.
+    *   AP reported LA 2028 organizing chair Casey Wasserman is selling his talent agency after publication of emails with Ghislaine Maxwell.
+    *   Source: [Source](https://apnews.com/article/jeffrey-epstein-casey-wasserman-ghislaine-maxwell-olympics-02bc53aa1b6fa6fecac47e3a31a29ef1).
+*   **Feb 14, 2026**: **AP details Nobel-network outreach in Epstein files**.
+    *   AP reported files show Epstein highlighted contact with the Nobel committee leadership in communications with high-profile figures.
+    *   Source: [Source](https://apnews.com/article/epstein-nobel-jagland-branson-summers-bannon-trump-a947bbf2bd307658014862d01517d21f).
+*   **Feb 14, 2026**: **Schools drop Lifetouch sessions after Epstein-related claims spread**.
+    *   AP reported some U.S. school districts canceled class-picture plans after viral posts tied Lifetouch to a billionaire linked to Epstein.
+    *   Source: [Source](https://apnews.com/article/jeffrey-epstein-lifetouch-school-pictures-leon-black-c08e0563f5acd4097bee37225cb33463).
+*   **Feb 15, 2026**: **Reuters: DOJ sent lawmakers letter on redactions**.
+    *   Reuters, citing Politico, reported DOJ told lawmakers the redaction process followed standard protections and said four newly discussed names were not directly tied to criminal activity in reviewed records.
+    *   Source: [Source](https://www.yahoo.com/news/us-justice-department-sends-letter-072131716.html).
 <!-- LIVE_TIMELINE:END -->

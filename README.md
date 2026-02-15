@@ -41,10 +41,10 @@ This repository serves as a **verified, fact-based database**. We have organized
 | **[International Investigations](topics/International_Investigations.md)**<br>Poland, Lithuania, Norway, UK probes. | **[Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)**<br>Congressional subpoenas & contempt. | **[Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**<br>The law (427-1 vote). |
 | **[The Draft Indictment](topics/The_Draft_Indictment.md)**<br>56-page Florida indictment never filed. | **[The Norway Scandal](topics/The_Norway_Scandal.md)**<br>Crown Princess, former PM, 5 figures. | **[The #MeToo Connection](topics/The_MeToo_Connection.md)**<br>Epstein tracking accused men. |
 
-## The 2026 Release (Updated Feb 14, 2026)
+## The 2026 Release (Updated Feb 15, 2026)
 
 <!-- LIVE_UPDATES:START -->
-### Live Updates (As of Feb 14, 2026)
+### Live Updates (As of Feb 15, 2026)
 *   **AP review: no DOJ "client list" finding** (Feb 8, 2026): AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men. [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
 *   **Congressional access to unredacted files opened** (Feb 9, 2026): DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice. [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
 *   **Maxwell deposition and clemency request** (Feb 9, 2026): AP reported Maxwell invoked the Fifth Amendment in a House deposition and later sought clemency before withdrawing the request. [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9)
@@ -54,7 +54,11 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **DP World leadership change** (Feb 13, 2026): Sultan Ahmed bin Sulayem stepped down as chairman and group CEO amid fallout from the files. [Source](https://apnews.com/article/5709588906fb10cd51bb49f30a9825d2)
 *   **Barak public apology** (Feb 13, 2026): Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly. [Source](https://apnews.com/article/5709588906fb10cd51bb49f30a9825d2)
 *   **DP World interim leadership announced** (Feb 14, 2026): DP World announced Esa Kazim as interim chairman and Yuvraj Narayan as interim group CEO after Bin Sulayem's resignation. [Source](https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490)
-*   **DOJ library status (Feb 14, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
+*   **LA28 organizer to sell agency after Maxwell emails release** (Feb 14, 2026): AP reported LA 2028 organizing chair Casey Wasserman is selling his talent agency after publication of emails with Ghislaine Maxwell. [Source](https://apnews.com/article/jeffrey-epstein-casey-wasserman-ghislaine-maxwell-olympics-02bc53aa1b6fa6fecac47e3a31a29ef1)
+*   **AP details Nobel-network outreach in Epstein files** (Feb 14, 2026): AP reported files show Epstein highlighted contact with the Nobel committee leadership in communications with high-profile figures. [Source](https://apnews.com/article/epstein-nobel-jagland-branson-summers-bannon-trump-a947bbf2bd307658014862d01517d21f)
+*   **Schools drop Lifetouch sessions after Epstein-related claims spread** (Feb 14, 2026): AP reported some U.S. school districts canceled class-picture plans after viral posts tied Lifetouch to a billionaire linked to Epstein. [Source](https://apnews.com/article/jeffrey-epstein-lifetouch-school-pictures-leon-black-c08e0563f5acd4097bee37225cb33463)
+*   **Reuters: DOJ sent lawmakers letter on redactions** (Feb 15, 2026): Reuters, citing Politico, reported DOJ told lawmakers the redaction process followed standard protections and said four newly discussed names were not directly tied to criminal activity in reviewed records. [Source](https://www.yahoo.com/news/us-justice-department-sends-letter-072131716.html)
+*   **DOJ library status (Feb 15, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
 <!-- LIVE_UPDATES:END -->
 
 ### The Congressional Unredaction Battle (Feb 9-10, 2026)

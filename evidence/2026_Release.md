@@ -91,7 +91,7 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 | Set 12 | February 2026 |
 
 <!-- REALTIME_STATUS:START -->
-### Real-Time Status (As of Feb 14, 2026)
+### Real-Time Status (As of Feb 15, 2026)
 
 - DOJ's public repository remains online and publicly lists releases through **Data Set 12**.
 - Source: [DOJ Epstein Library](https://www.justice.gov/epstein)
@@ -107,6 +107,10 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 - **Feb 13, 2026**: **DP World leadership change**. Sultan Ahmed bin Sulayem stepped down as chairman and group CEO amid fallout from the files. [Source](https://apnews.com/article/5709588906fb10cd51bb49f30a9825d2)
 - **Feb 13, 2026**: **Barak public apology**. Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly. [Source](https://apnews.com/article/5709588906fb10cd51bb49f30a9825d2)
 - **Feb 14, 2026**: **DP World interim leadership announced**. DP World announced Esa Kazim as interim chairman and Yuvraj Narayan as interim group CEO after Bin Sulayem's resignation. [Source](https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490)
+- **Feb 14, 2026**: **LA28 organizer to sell agency after Maxwell emails release**. AP reported LA 2028 organizing chair Casey Wasserman is selling his talent agency after publication of emails with Ghislaine Maxwell. [Source](https://apnews.com/article/jeffrey-epstein-casey-wasserman-ghislaine-maxwell-olympics-02bc53aa1b6fa6fecac47e3a31a29ef1)
+- **Feb 14, 2026**: **AP details Nobel-network outreach in Epstein files**. AP reported files show Epstein highlighted contact with the Nobel committee leadership in communications with high-profile figures. [Source](https://apnews.com/article/epstein-nobel-jagland-branson-summers-bannon-trump-a947bbf2bd307658014862d01517d21f)
+- **Feb 14, 2026**: **Schools drop Lifetouch sessions after Epstein-related claims spread**. AP reported some U.S. school districts canceled class-picture plans after viral posts tied Lifetouch to a billionaire linked to Epstein. [Source](https://apnews.com/article/jeffrey-epstein-lifetouch-school-pictures-leon-black-c08e0563f5acd4097bee37225cb33463)
+- **Feb 15, 2026**: **Reuters: DOJ sent lawmakers letter on redactions**. Reuters, citing Politico, reported DOJ told lawmakers the redaction process followed standard protections and said four newly discussed names were not directly tied to criminal activity in reviewed records. [Source](https://www.yahoo.com/news/us-justice-department-sends-letter-072131716.html)
 <!-- REALTIME_STATUS:END -->
 
 ### Contents Include

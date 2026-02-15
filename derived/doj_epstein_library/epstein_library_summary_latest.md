@@ -1,10 +1,10 @@
 # Epstein Library Ingest Summary
 
-- Run UTC: 20260215T162134Z
+- Run UTC: 20260215T163229Z
 - Source page: https://www.justice.gov/epstein
-- Raw snapshot: raw/doj_epstein_library/20260215T162134Z_epstein.html
+- Raw snapshot: raw/doj_epstein_library/20260215T163229Z_epstein.html
 - Index latest: derived/doj_epstein_library/epstein_library_index_latest.tsv
-- Index snapshot: derived/doj_epstein_library/epstein_library_index_20260215T162134Z.tsv
+- Index snapshot: derived/doj_epstein_library/epstein_library_index_20260215T163229Z.tsv
 - URL count: 21
 
 ## By Link Type

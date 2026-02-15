@@ -229,6 +229,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 11, 2026**: **Bondi testimony held before House Judiciary**.
     *   Bondi testified for over five hours and faced bipartisan criticism over unanswered questions about releases and redactions.
     *   Source: [Source](https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd).
+*   **Feb 11, 2026**: **AP: Lutnick acknowledged pre-government meetings with Epstein**.
+    *   AP reported Commerce Secretary Howard Lutnick said he met Epstein before entering government service, contradicting earlier White House denials that he had ever met him.
+    *   Source: [Source](https://apnews.com/article/epstein-howard-lutnick-trump-administration-2ead9f28f66e0df4da8f8e2d266ebe4f).
 *   **Feb 12, 2026**: **DOJ search-logging controversy**.
     *   AP reported DOJ tracked how often and where lawmakers and aides searched the Epstein files, triggering bipartisan backlash.
     *   Source: [Source](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220).

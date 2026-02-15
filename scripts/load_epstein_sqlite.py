@@ -239,6 +239,9 @@ def main() -> int:
             if obsolete_doc_ids:
                 placeholders = ",".join("?" for _ in obsolete_doc_ids)
                 conn.execute(f"DELETE FROM claim_evidence_links WHERE doc_id IN ({placeholders})", obsolete_doc_ids)
+                # Claim candidates can still reference old managed docs until the backlog refresh later in the run.
+                # Remove those rows first so document pruning does not trip FK checks.
+                conn.execute(f"DELETE FROM claim_candidates WHERE evidence_doc_id IN ({placeholders})", obsolete_doc_ids)
                 conn.execute(f"DELETE FROM events WHERE source_doc_id IN ({placeholders})", obsolete_doc_ids)
                 conn.execute(f"DELETE FROM documents WHERE doc_id IN ({placeholders})", obsolete_doc_ids)
 

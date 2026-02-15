@@ -112,6 +112,7 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 - **Feb 14, 2026**: **AP details Nobel-network outreach in Epstein files**. AP reported files show Epstein highlighted contact with the Nobel committee leadership in communications with high-profile figures. [Source](https://apnews.com/article/epstein-nobel-jagland-branson-summers-bannon-trump-a947bbf2bd307658014862d01517d21f)
 - **Feb 14, 2026**: **Schools drop Lifetouch sessions after Epstein-related claims spread**. AP reported some U.S. school districts canceled class-picture plans after viral posts tied Lifetouch to a billionaire linked to Epstein. [Source](https://apnews.com/article/jeffrey-epstein-lifetouch-school-pictures-leon-black-c08e0563f5acd4097bee37225cb33463)
 - **Feb 15, 2026**: **Reuters: DOJ sent lawmakers letter on redactions**. Reuters, citing Politico, reported DOJ told lawmakers the redaction process followed standard protections and said four newly discussed names were not directly tied to criminal activity in reviewed records. [Source](https://www.yahoo.com/news/us-justice-department-sends-letter-072131716.html)
+- **Feb 15, 2026**: **DOJ letter listed 300+ names but gave no per-name context**. Reuters and CNN reporting said DOJ provided lawmakers a list of more than 300 officials and politically exposed persons mentioned in the files, while stating inclusion does not itself imply interaction with Epstein or wrongdoing. [Source](https://keyt.com/news/national-world/cnn-us-politics/2026/02/15/doj-letter-on-epstein-files-lists-hundreds-of-names-but-doesnt-provide-context/)
 <!-- REALTIME_STATUS:END -->
 
 ### Contents Include
@@ -495,6 +496,25 @@ CBS News reported a DOJ spokesperson said four newly publicized names appear onc
 
 Source: [CBS News, Feb 11, 2026](https://www.cbsnews.com/news/massie-khanna-epstein-files-6-men/)
 
+### DOJ 300+ Name List Without Per-Name Context (Feb 14 letter, reported Feb 15)
+
+Reuters and CNN reporting on DOJ's Feb 14 letter to Congress added a key context point:
+- DOJ provided lawmakers a list of **300+ officials and politically exposed persons** mentioned in the records (Reuters reported a count of 318)
+- DOJ's letter said the list did not include per-name context and that inclusion does not itself prove contact with Epstein or criminal conduct
+- Reuters reported DOJ told lawmakers some listed names were captured from press reporting and other indirect references
+
+Public reaction split across lines of critique and defense:
+- Rep. Ro Khanna argued the no-context list was **"purposefully muddying the waters"** between predatory conduct and incidental mentions
+- DOJ's framing, as reported, was that standard privacy/protection redactions were applied and mention alone should not be treated as guilt evidence
+
+Research rule used in this repository:
+- A name-only mention is not treated as an implication of wrongdoing unless tied to a specific record context (meeting/travel/financial/legal/communication evidence)
+
+Sources:
+- [Reuters, Feb 15, 2026 (syndicated)](https://whbl.com/2026/02/15/us-justice-department-sends-letter-on-epstein-files-redactions-to-congress/)
+- [CNN, Feb 15, 2026 (syndicated)](https://keyt.com/news/national-world/cnn-us-politics/2026/02/15/doj-letter-on-epstein-files-lists-hundreds-of-names-but-doesnt-provide-context/)
+- [Fox News, Feb 15, 2026](https://www.foxnews.com/us/ag-pam-bondi-announces-all-epstein-files-released-listing-high-profile-names)
+
 ### Responses from Named Co-Conspirators
 
 **Les Wexner**: Legal representative stated he was **"neither a co-conspirator nor target in any respect"** and was identified as an "information source."
@@ -520,6 +540,7 @@ Source: [CBS News, Feb 11, 2026](https://www.cbsnews.com/news/massie-khanna-epst
 11. **Search-Logging Dispute**: DOJ tracking of congressional searches triggered bipartisan backlash
 12. **International Fallout**: Resignations, investigations across Europe
 13. **Russian Connection**: $1.1 billion through sanctioned banks
+14. **300+ Name Context Gap**: DOJ's congress letter listed hundreds of names without per-name context; mention-only entries require document-level verification before inference
 
 ## Document Warning
 

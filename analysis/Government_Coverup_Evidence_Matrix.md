@@ -1,7 +1,7 @@
 # Government Cover-Up Evidence Matrix
 
 > **Scope**: Distinguish documented institutional failures from allegations and unresolved questions.
-> **Updated**: February 14, 2026
+> **Updated**: February 15, 2026
 > **Important**: "Cover-up" is often used broadly. This matrix separates what is proven from what is currently inferential.
 
 ## Status Key
@@ -20,6 +20,7 @@
 | 2025-2026 DOJ release had major redaction/privacy failures | DOJ released large sets and acknowledged removals/corrections while victim-identifying issues surfaced | Scale and urgency complicated processing, but does not excuse errors | Documented | [DOJ 3.5M page release](https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files), [DOJ library](https://www.justice.gov/epstein) |
 | FBI/DOJ "scrubbing" of names to protect elites | Khanna/Massie publicly alleged files were scrubbed and over-redacted | Allegation requires full documentary chain; not independently proven in public record | Credible allegation | [AP Feb 9 congressional access](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2), [DOJ library](https://www.justice.gov/epstein) |
 | DOJ tracked congressional searching of file portal | AP reported DOJ logged search activity by lawmakers/staff, triggering bipartisan pushback | Logging may be framed as standard analytics absent malicious intent evidence | Documented (event) / Unresolved (intent) | [AP Feb 12 search-logging](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220) |
+| DOJ letter listed 300+ names without per-name context | Reuters/CNN reported DOJ sent Congress a list of hundreds of officials/PEPs mentioned in files and said inclusion does not itself imply wrongdoing | A no-context list can blur distinctions between direct involvement and incidental mention; intent to mislead is alleged, not proven | Documented (letter content) / Credible allegation (intent) | [Reuters Feb 15 letter summary](https://whbl.com/2026/02/15/us-justice-department-sends-letter-on-epstein-files-redactions-to-congress/), [CNN Feb 15 context report](https://keyt.com/news/national-world/cnn-us-politics/2026/02/15/doj-letter-on-epstein-files-lists-hundreds-of-names-but-doesnt-provide-context/) |
 | Existence of a standalone "client list" used for blackmail | AP reported internal review material said investigators did not find such a list | Absence of found evidence is not proof no related coercive material ever existed | Documented (current finding) | [AP Feb 8 review](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b) |
 | Government intentionally protected specific powerful men | Pattern of non-prosecution, delayed accountability, and partial disclosures is well documented | Direct proof of coordinated intent remains incomplete in public documents | Unresolved | [DOJ library](https://www.justice.gov/epstein), [DOJ OIG report](https://oig.justice.gov/reports/investigation-and-review-federal-bureau-prisons-custody-care-and-supervision-jeffrey), [AP Feb 8 review](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b) |
 

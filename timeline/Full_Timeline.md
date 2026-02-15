@@ -259,4 +259,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 15, 2026**: **Reuters: DOJ sent lawmakers letter on redactions**.
     *   Reuters, citing Politico, reported DOJ told lawmakers the redaction process followed standard protections and said four newly discussed names were not directly tied to criminal activity in reviewed records.
     *   Source: [Source](https://www.yahoo.com/news/us-justice-department-sends-letter-072131716.html).
+*   **Feb 15, 2026**: **DOJ letter listed 300+ names but gave no per-name context**.
+    *   Reuters and CNN reporting said DOJ provided lawmakers a list of more than 300 officials and politically exposed persons mentioned in the files, while stating inclusion does not itself imply interaction with Epstein or wrongdoing.
+    *   Source: [Source](https://keyt.com/news/national-world/cnn-us-politics/2026/02/15/doj-letter-on-epstein-files-lists-hundreds-of-names-but-doesnt-provide-context/).
 <!-- LIVE_TIMELINE:END -->

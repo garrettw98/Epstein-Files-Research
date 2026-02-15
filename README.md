@@ -59,6 +59,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **AP details Nobel-network outreach in Epstein files** (Feb 14, 2026): AP reported files show Epstein highlighted contact with the Nobel committee leadership in communications with high-profile figures. [Source](https://apnews.com/article/epstein-nobel-jagland-branson-summers-bannon-trump-a947bbf2bd307658014862d01517d21f)
 *   **Schools drop Lifetouch sessions after Epstein-related claims spread** (Feb 14, 2026): AP reported some U.S. school districts canceled class-picture plans after viral posts tied Lifetouch to a billionaire linked to Epstein. [Source](https://apnews.com/article/jeffrey-epstein-lifetouch-school-pictures-leon-black-c08e0563f5acd4097bee37225cb33463)
 *   **Reuters: DOJ sent lawmakers letter on redactions** (Feb 15, 2026): Reuters, citing Politico, reported DOJ told lawmakers the redaction process followed standard protections and said four newly discussed names were not directly tied to criminal activity in reviewed records. [Source](https://www.yahoo.com/news/us-justice-department-sends-letter-072131716.html)
+*   **DOJ letter listed 300+ names but gave no per-name context** (Feb 15, 2026): Reuters and CNN reporting said DOJ provided lawmakers a list of more than 300 officials and politically exposed persons mentioned in the files, while stating inclusion does not itself imply interaction with Epstein or wrongdoing. [Source](https://keyt.com/news/national-world/cnn-us-politics/2026/02/15/doj-letter-on-epstein-files-lists-hundreds-of-names-but-doesnt-provide-context/)
 *   **DOJ library status (Feb 15, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
 <!-- LIVE_UPDATES:END -->
 
@@ -134,6 +135,7 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **No "Client List" Finding (AP, Feb 8)**: AP review of FBI/DOJ records reported investigators found no evidence of a blackmail "client list" or a trafficking ring for powerful men.
 *   **DOJ Search Logging Controversy (Feb 12)**: AP reported DOJ tracked congressional search activity on the Epstein files; Speaker Johnson said he disapproved.
 *   **Four-Name Caveat (CBS, Feb 11)**: DOJ spokesperson told CBS that four newly discussed names appear once in a single file and do not appear to directly implicate them in crimes.
+*   **300+ Name List Context Gap (Feb 15 reporting)**: Reuters/CNN reported DOJ sent Congress a 300+ name list without per-name context and said mention alone is not evidence of misconduct; critics said this muddies interpretation.
 *   **Bill Gates**: "I was foolish" (Feb 4 interview).
 *   **Elon Musk**: 16 emails revealed; "wildest party" request; multiple island visit plans.
 *   **CIA Director Burns**: 2014 post-conviction meeting with Epstein; FOIA requests for CIA ties.

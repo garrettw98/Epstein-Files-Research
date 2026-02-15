@@ -164,6 +164,8 @@ Books, documentaries, and source material.
 - **[Schema Guide](schema/README.md)**: Setup and ingestion workflow.
 - **[Claim Linking Spec](schema/CLAIM_LINKING_FORMAT.md)**: Required fields/rules for auditable claim-to-evidence mapping.
 - **[Claim Registry (latest)](derived/claims/claim_registry_latest.tsv)** and **[Claim Evidence Links (latest)](derived/claims/claim_evidence_links_latest.tsv)**.
+- **Entity resolution + mentions**: **[Entity Aliases (latest)](derived/entities/entity_aliases_resolved_latest.tsv)** and **[Entity Mentions (latest)](derived/entities/entity_mentions_latest.tsv)**.
+- **Claim quality controls**: **[Claim Quality Flags (latest)](derived/claims/claim_quality_flags_latest.tsv)** and **[Coverage Gap Dashboard (latest)](derived/reports/coverage_gap_dashboard_latest.md)**.
 - **[Repository Organization](docs/REPO_ORGANIZATION.md)**: Directory and naming contract.
 - **[Data Pipeline Runbook](docs/DATA_PIPELINE.md)**: Daily update workflow and output map.
 
@@ -200,6 +202,14 @@ Generate pending-review claim candidates into `derived/claims/`:
 
 `./scripts/generate_claim_candidates.py`
 
+Derive canonical entity aliases + context-typed mentions into `derived/entities/`:
+
+`./scripts/derive_entity_mentions.py`
+
+Assess claim context quality and flag weak/name-only inference claims:
+
+`./scripts/assess_claim_context_quality.py`
+
 Load normalized outputs into SQLite (`derived/database/epstein_research.sqlite`):
 
 `./scripts/load_epstein_sqlite.py`
@@ -207,6 +217,10 @@ Load normalized outputs into SQLite (`derived/database/epstein_research.sqlite`)
 Generate daily doc-diff + claim-status change reports (`derived/reports/`):
 
 `./scripts/generate_daily_change_report.py`
+
+Generate dataset/source coverage-gap dashboard (`derived/reports/`):
+
+`./scripts/generate_coverage_gap_dashboard.py`
 
 Run end-to-end daily ingest/load/report:
 

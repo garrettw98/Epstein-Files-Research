@@ -13,7 +13,7 @@ Required columns:
 - `claim_type`: `factual|procedural|legal|allegation|timeline`.
 - `asserted_by`: person/org/agency string (or `system`).
 - `first_seen_date`: `YYYY-MM-DD` when claim first appears in known record.
-- `status`: `verified|disputed|unverified|retracted|pending_review`.
+- `status`: `verified_primary|verified_secondary|alleged|disputed|retracted|pending_review`.
 - `confidence`: `0.0` to `1.0`.
 - `notes`: brief qualification or scope note.
 
@@ -27,8 +27,12 @@ Required columns:
 - `doc_id`: canonical document ID from primary docs ingest (preferred) or stable pseudo-ID.
 - `evidence_type`: `primary|secondary|transcript|filing|release`.
 - `evidence_strength`: `direct|supporting|contextual|contradictory`.
+- `evidence_locator`: optional page/section/line locator when known.
 - `evidence_url`: URL to the referenced source.
 - `quote_excerpt`: concise excerpt or summary anchor.
+- `snippet_hash`: optional SHA1 for exact snippet traceability.
+- `span_id`: optional FK into `evidence_spans` for normalized span-level citation reuse.
+- `provenance_note`: optional note about extraction method (`api`, `html_scrape`, `manual_review`).
 
 ## Rules
 
@@ -36,3 +40,5 @@ Required columns:
 - Prefer primary docs over secondary reports whenever available.
 - If status changes, update row in place and retain a clear note.
 - If evidence contradicts a verified claim, downgrade status until resolved.
+- A name-only mention does not imply misconduct; keep such claims at `alleged` or `verified_secondary` unless direct context exists.
+- For high-risk claims, attach a locator and snippet hash so evidence can be re-audited quickly.

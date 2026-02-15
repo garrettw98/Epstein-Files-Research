@@ -7,7 +7,10 @@ cd "$ROOT_DIR"
 python3 scripts/ingest_primary_authority_docs.py "$@"
 python3 scripts/derive_primary_doc_topics.py
 python3 scripts/generate_claim_candidates.py
+python3 scripts/derive_entity_mentions.py
+python3 scripts/assess_claim_context_quality.py
 python3 scripts/load_epstein_sqlite.py
 python3 scripts/generate_daily_change_report.py
+python3 scripts/generate_coverage_gap_dashboard.py
 
 echo "Daily pipeline complete."

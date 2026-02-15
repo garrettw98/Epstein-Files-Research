@@ -1,8 +1,8 @@
 # Daily Change Report
 
-- Run UTC: 20260215T171251Z
+- Run UTC: 20260215T171222Z
 - Primary documents compared: primary_documents_20260215T163448Z.tsv -> primary_documents_20260215T171138Z.tsv
-- Claim snapshots compared: claim_registry_20260215T171222Z.tsv -> claim_registry_20260215T171251Z.tsv
+- Claim snapshots compared: claim_registry_20260215T171142Z.tsv -> claim_registry_20260215T171222Z.tsv
 - Primary doc changes: 14
 - Claim changes: 0
 

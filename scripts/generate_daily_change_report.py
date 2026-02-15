@@ -10,6 +10,7 @@ import pathlib
 import re
 import shutil
 import sys
+from collections import Counter
 
 
 def now_utc_stamp() -> str:
@@ -235,6 +236,9 @@ def main() -> int:
     write_tsv(claim_latest_out, claim_headers, claim_diff_rows)
     shutil.copyfile(claim_latest_out, claim_stamp_out)
 
+    quality_flags = read_tsv(claims_dir / "claim_quality_flags_latest.tsv")
+    quality_by_severity = Counter((row.get("severity") or "").strip().lower() for row in quality_flags if row.get("severity"))
+
     summary_latest = reports_dir / "daily_change_report_latest.md"
     summary_stamp = reports_dir / f"daily_change_report_{run_utc}.md"
     with summary_latest.open("w", encoding="utf-8") as handle:
@@ -260,6 +264,15 @@ def main() -> int:
         else:
             for row in claim_diff_rows[:20]:
                 handle.write(f"- {row[0]}: {row[1]} ({row[2]} -> {row[3]})\n")
+
+        handle.write("\n## Claim Quality Flags (Latest)\n")
+        if not quality_flags:
+            handle.write("- No claim quality flag file found for this run.\n")
+        else:
+            total = len(quality_flags)
+            handle.write(f"- Total flags: {total}\n")
+            for severity in ("high", "warn", "info"):
+                handle.write(f"- {severity}: {quality_by_severity.get(severity, 0)}\n")
 
     shutil.copyfile(summary_latest, summary_stamp)
 

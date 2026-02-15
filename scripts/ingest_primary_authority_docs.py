@@ -93,6 +93,47 @@ def doc_id(prefix: str, url: str) -> str:
     return f"{prefix}-{digest}"
 
 
+def source_tier_for_source(source_system: str) -> str:
+    if source_system in {
+        "govinfo",
+        "govinfo_wssearch",
+        "govtrack",
+        "house_judiciary",
+        "justice_opa",
+        "courtlistener",
+        "courtlistener_recap",
+    }:
+        return "tier1_primary"
+    return "tier2_secondary"
+
+
+def capture_method_for_row(row: dict[str, str]) -> str:
+    source_system = (row.get("source_system") or "").strip()
+    extracted_from = (row.get("extracted_from") or "").strip().lower()
+    if source_system in {"courtlistener", "courtlistener_recap", "govinfo_wssearch"}:
+        return "api"
+    if source_system in {"govinfo", "justice_opa"} and extracted_from == "govinfo":
+        return "direct_link"
+    if source_system in {"house_judiciary", "govtrack"}:
+        return "html_scrape"
+    if extracted_from.startswith("govtrack"):
+        return "html_scrape"
+    return "manual"
+
+
+def content_checksum_for_row(row: dict[str, str]) -> str:
+    seed = "|".join(
+        [
+            row.get("url", ""),
+            row.get("title", ""),
+            row.get("citation", ""),
+            row.get("doc_date", ""),
+            row.get("status", ""),
+        ]
+    )
+    return hashlib.sha1(seed.encode("utf-8")).hexdigest()
+
+
 def parse_args() -> argparse.Namespace:
     root = pathlib.Path(__file__).resolve().parents[1]
     parser = argparse.ArgumentParser(description="Ingest primary authority docs.")
@@ -516,6 +557,9 @@ def main() -> int:
                 "ingested_at_utc",
                 "doc_id",
                 "source_system",
+                "source_tier",
+                "capture_method",
+                "content_checksum",
                 "document_type",
                 "jurisdiction",
                 "title",
@@ -533,6 +577,9 @@ def main() -> int:
                     run_utc,
                     to_tsv(row["doc_id"]),
                     to_tsv(row["source_system"]),
+                    source_tier_for_source(to_tsv(row["source_system"])),
+                    capture_method_for_row(row),
+                    content_checksum_for_row(row),
                     to_tsv(row["document_type"]),
                     to_tsv(row["jurisdiction"]),
                     to_tsv(row["title"]),

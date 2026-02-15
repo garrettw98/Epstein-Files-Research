@@ -10,6 +10,7 @@ This guide defines where content belongs so additions stay readable and auditabl
 - `timeline/` - Chronological products.
 - `raw/` - Immutable source snapshots from ingest scripts.
 - `derived/` - Machine-readable normalized outputs generated from `raw/`.
+  - `derived/entities/` - Canonical IDs, alias resolution, and context-typed mention extraction outputs.
 - `schema/` - Relational schema and claim-linking standards.
 - `scripts/` - Ingestion, normalization, and reporting automation.
 - `analysis/` - Synthetic analysis products based on sourced data.
@@ -28,6 +29,7 @@ This guide defines where content belongs so additions stay readable and auditabl
 - Treat `derived/` as generated artifacts; update by rerunning scripts.
 - Every non-trivial claim should have a row in `derived/claims/claim_registry_latest.tsv` and at least one row in `derived/claims/claim_evidence_links_latest.tsv`.
 - If a claim status changes, update claim notes with why and source basis.
+- Keep `derived/claims/claim_quality_flags_latest.tsv` under review; high-severity flags should be triaged before promoting new claims.
 
 ## Readability Rules
 

@@ -8,12 +8,15 @@ This folder defines the baseline relational model for moving this repository fro
 
 ## Core Model
 
-- `documents`: canonical source records (court filings, hearings, releases, statutes).
+- `documents`: canonical source records with provenance (`source_tier`, `capture_method`, checksums, first/last seen).
 - `entities` + `entity_aliases`: people/orgs/agencies and name resolution.
+- `entity_mentions`: context-typed mentions (`news_clipping`, `email_body`, `legal_filing`, etc.) per document.
 - `events`: dated actions tied to source docs.
 - `claims`: atomic claims with status and confidence.
 - `claim_candidates`: pending-review claims auto-derived from primary docs.
-- `claim_evidence_links`: evidence graph linking each claim to specific docs.
+- `evidence_spans`: normalized page/section/line/timestamp anchors with snippet hashes.
+- `claim_evidence_links`: evidence graph linking each claim to specific docs and span-level citations.
+- `claim_quality_flags`: rule-engine flags for weak inference patterns (e.g., name-only implication risk).
 - `claim_contradictions`: explicit contradiction tracking.
 - `ingest_runs`: provenance for import/update pipelines.
 

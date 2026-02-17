@@ -5,6 +5,11 @@
 ## The Connection
 Thomas Pritzker is the Executive Chairman of Hyatt Hotels Corporation and president of the Pritzker Family Philanthropic Fund, which oversees the prestigious Pritzker Architecture Prize. The January 2026 document release revealed **7,000+ search results** connecting him to Epstein's files — one of the highest volumes of any named individual.
 
+## February 2026 Update
+
+Reuters reported on **February 16, 2026** that Pritzker said he will step down as Hyatt executive chairman at the end of 2026, describing his ties to Epstein as "terrible judgment" while stating he had no knowledge of Epstein's crimes.
+- Source: https://www.reuters.com/sustainability/hyatt-executive-chairman-pritzker-steps-down-cites-terrible-judgment-epstein-2026-02-16/
+
 ## The Accusation
 
 ### Virginia Giuffre's Testimony

@@ -1,7 +1,7 @@
 # Primary Sources Index (Epstein Research)
 
 > **Purpose**: A high-confidence index of source hubs and official records for this repository.
-> **Updated**: February 14, 2026
+> **Updated**: February 17, 2026
 > **Use Rule**: Treat official documents and court filings as primary; treat media as secondary context unless independently corroborated.
 
 ## Evidence Tiers
@@ -64,6 +64,12 @@
   https://www.cbsnews.com/live-updates/pam-bondi-hearing-epstein-files-justice-department-congress/
 - **Associated Press: Feb 14, 2026 DP World interim leadership update**  
   https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490
+- **Reuters: Feb 16, 2026 French police raid linked to Jack Lang inquiry**  
+  https://www.reuters.com/world/french-police-raid-arab-world-institute-epstein-linked-probe-into-jack-lang-2026-02-16/
+- **Reuters: Feb 16, 2026 Hyatt chairman Tom Pritzker step-down statement**  
+  https://www.reuters.com/sustainability/hyatt-executive-chairman-pritzker-steps-down-cites-terrible-judgment-epstein-2026-02-16/
+- **Reuters: Feb 17, 2026 New Mexico Zorro Ranch commission approval**  
+  https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/
 - **Miami Herald topic hub (archived index snapshot)**  
   https://web.archive.org/web/20240201000000*/https://www.miamiherald.com/topics/jeffrey-epstein/
 

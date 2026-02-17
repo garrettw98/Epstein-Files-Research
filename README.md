@@ -1,50 +1,85 @@
-# The Epstein Files: A Plain English Guide
+# The Epstein Files Research Database
 
-**Welcome.** If you are reading this, you probably want to understand the Jeffrey Epstein scandal without getting lost in legal jargon or internet conspiracy theories.
+This repository is a source-linked research index for documents, entities, events, and claims connected to Jeffrey Epstein.
 
-This repository serves as a **verified, fact-based database**. We have organized the millions of pages of documents into simple, readable sections.
+## Quick navigation
+- **Fast orientation (10 minutes):** [Who was Jeffrey Epstein?](profiles/Jeffrey_Epstein.md), [FAQ](topics/FAQ.md), [Glossary](GLOSSARY.md), [Network Map](topics/Network_Map.md).
+- **Timeline-first reading path (recommended):** [Full Timeline](timeline/Full_Timeline.md), [Government Response Timeline](timeline/Government_Response_To_Epstein_Files.md), [2026 Release Dossier](evidence/2026_Release.md), [Bondi Hearing Dossier](evidence/Bondi_Hearing_Feb_11_2026.md).
+- **Evidence-first reading path:** [Primary Sources Index](evidence/Primary_Sources_Index.md), [Logs vs Black Book](evidence/Logs_vs_Book.md), [2024 Release](evidence/2024_Release.md), [Government Response Matrix](analysis/Government_Coverup_Evidence_Matrix.md).
+- **People index:** [Profiles Directory](profiles/README.md).
+- **Topic index:** expand the section below: **Detailed topic directory**.
 
-## 🏁 Start Here: The Basics
-*   **[Who was Jeffrey Epstein?](profiles/Jeffrey_Epstein.md)**: A brief summary of the man, his crimes, and his death.
-*   **[The Spiderweb Map](topics/Network_Map.md)**: A visual guide to how everyone is connected.
-*   **[The "List"](profiles/README.md)**: A directory of every major person involved (Prince Andrew, Bill Clinton, etc.) and exactly what the evidence says about them.
-*   **[FAQ (Frequently Asked Questions)](topics/FAQ.md)**: Did Elon go to the island? Is the Client List real? (Start here for quick answers).
-*   **[Glossary](GLOSSARY.md)**: A cheat sheet for terms like "Lolita Express" and "NPA."
-
-## 🦸‍♀️ The Good Guys
-*   **[The Survivors](profiles/Virginia_Giuffre.md)**: Virginia Giuffre, Maria Farmer, and **[Sarah Ransome](profiles/Sarah_Ransome.md)** (The Escape Artist).
-*   **[The Journalists](profiles/The_Journalists.md)**: Julie K. Brown and the reporters who exposed the truth.
-*   **[The Legal Crusaders](profiles/The_Legal_Crusaders.md)**: Brad Edwards & the lawyers who sued Epstein when the government failed.
-
-## ⚙️ The Machinery (How It Worked)
-*   **[The Abuse System](topics/The_Abuse_System.md)**: The "Pyramid Scheme," the "Massage," and the "Egg" description.
-*   **[The Money Trail](topics/The_Money_Trail.md)**: Offshore shells, the "1953 Trust," and the $80k cash withdrawals.
-*   **[The Origin Story](topics/The_Origin_Story.md)**: Where did the money come from? (The Ponzi Scheme theory).
-*   **[Les Wexner](profiles/Les_Wexner.md)**: The Patron who gave Epstein the money and house.
-*   **[The Executors](profiles/The_Lawyers.md)**: Indyke & Kahn—the lawyers who still control the estate.
-*   **[The Ghost Business](topics/The_Ghost_Business.md)**<br>The "Fund Manager" myth. | **[The Cult Tactics](topics/The_Cult_Tactics.md)**<br>Mind Control & "Slave Contracts." | **[The Protégés](topics/The_Proteges.md)**<br>Epstein as "Mentor" (MBS, Musk, Staley).
-
-## 📂 Explore by Topic
-| 🏛️ The System | 🕵️ The Mystery | 💰 The Money |
+## At-a-glance timeline
+| Period | What changed | Start here |
 | :--- | :--- | :--- |
-| **[The Banks](topics/The_Banks.md)**<br>How JPMorgan & Deutsche Bank helped him. | **[Intelligence Ties](topics/Intelligence.md)**<br>([Deep Dive: Israel/Mossad](topics/Deep_Dive_Israel_Mossad.md))<br>**[TerraMar Project](topics/The_TerraMar_Project.md)**<br>Ghislaine's UN Front. | **[The Science Club](topics/Science_and_Tech.md)**<br>Bill Gates, MIT, and tech moguls.<br>**[The MIT Scandal](topics/The_MIT_Scandal.md)**<br>Joi Ito & the cover-up. |
-| **[The Legal Labyrinth](topics/Legal_Battles.md)**<br>A guide to the confusing web of lawsuits. | **[The Media Cover-Up](topics/The_Media_Coverup.md)**<br>Why Vanity Fair killed the story in 2003.<br>**[The Intimidation Machine](topics/The_Intimidation_Machine.md)**<br>PIs, Stalking, & Threats. | **[The Islands](topics/The_Properties.md)**<br>LSJ & **[Great St. James](topics/Great_St_James.md)**<br>(The "Underwater Office"). |
-| **[The Plea Deal](topics/The_Plea_Deal.md)**<br>How the government let him off in 2008. | **[The Death (Deep Dive)](topics/Deep_Dive_The_Death.md)**<br>Suicide, the 4chan leak, and body double theories.<br>**[The "First Attempt"](topics/July_23_Incident.md)** (July 23). | **[The Science of Evil](topics/Transhumanism_and_Eugenics.md)**<br>Baby breeding ranches & cryonics. |
-| **[Government Complicity](topics/Government_Complicity.md)**<br>FBI/DOJ failures. | **[The Tapes](topics/The_Tapes.md)**<br>Did he film them? What was found in the safe? | **[Weird FBI Tips](topics/Unverified_Tips.md)**<br>Addressing the "Human Sacrifice" rumors. |
-| **[The Palm Beach War](topics/The_Palm_Beach_Investigation.md)**<br>Local Police vs. Corrupt Prosecutors.<br>**[Work Release Scandal](topics/The_Work_Release_Scandal.md)**<br>How he bought the jail. | **[False Flags](topics/Disinformation_and_False_Flags.md)**<br>Pizzagate & QAnon distractions. | **[Island Secrets](topics/The_Island_Secrets.md)**<br>Tunnels & Submarines. |
-| **[The French Connection](topics/The_French_Connection.md)**<br>Paris apartment & Brunel. | **[Missing Evidence](topics/Missing_Evidence.md)**<br>What we still don't know. | **[Why No Arrests?](topics/Why_No_More_Arrests.md)**<br>The legal reality check. |
-| **[The Middle East Connection](topics/The_Middle_East_Connection.md)**<br>Saudi passports & MBS. | **[The Dead](topics/The_Dead.md)**<br>Suspicious deaths: Brunel, Hoffenberg, Middleton. | **[The Dream Team Defense](profiles/The_Dream_Team_Defense.md)**<br>Ken Starr & the Scorched Earth. |
-| **[Accountability Log](topics/The_Accountability_Log.md)**<br>Who Apologized vs. Who Denied. | **[Key Itineraries](topics/Key_Itineraries.md)**<br>Africa Trip & Science Dinners. | **[The Email Troves](topics/The_Email_Troves.md)**<br>Chomsky, Bard College, & Woody Allen (2024). |
-| **[The Crypto Connection](topics/The_Crypto_Connection.md)**<br>Bitcoin funding & Zero-Day hacks. | **[Religious Figures](profiles/Religious_Figures.md)**<br>Dalai Lama & The Pope. | **[Shadow Diplomacy](topics/Shadow_Diplomacy.md)**<br>Russia, Iran, & India backchannels. |
-| **[Local Influence](topics/Local_Influence.md)**<br>Buying the USVI (Schools/Charity). | **[Anomalies & Curiosities](topics/Anomalies_and_Curiosities.md)**<br>The "Marius Fortelni" Passport & Body Doubles. | **[AI & Neuroscience](topics/AI_and_Neuroscience.md)**<br>Funding the future mind. |
-| **[The Exhibit Inventory](topics/The_Exhibit_Inventory.md)**<br>List of physical evidence (Diamonds/CDs). | **[The Defense Playbook](topics/The_Defense_Playbook.md)**<br>Victim shaming strategies. | **[Eastern European Pipeline](topics/The_Eastern_European_Pipeline.md)**<br>Poland, Ukraine trafficking. |
-| **[International Investigations](topics/International_Investigations.md)**<br>Poland, Lithuania, Norway, UK probes. | **[Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)**<br>Congressional subpoenas & contempt. | **[Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**<br>The law (427-1 vote). |
-| **[The Draft Indictment](topics/The_Draft_Indictment.md)**<br>56-page Florida indictment never filed. | **[The Norway Scandal](topics/The_Norway_Scandal.md)**<br>Crown Princess, former PM, 5 figures. | **[The #MeToo Connection](topics/The_MeToo_Connection.md)**<br>Epstein tracking accused men. |
+| 1970s-2005 | Early network formation, recruitment model, and money infrastructure. | [Origin Story](topics/The_Origin_Story.md), [Abuse System](topics/The_Abuse_System.md), [Money Trail](topics/The_Money_Trail.md) |
+| 2005-2008 | Palm Beach investigation, non-prosecution deal, and work-release failures. | [Palm Beach Investigation](topics/The_Palm_Beach_Investigation.md), [Plea Deal](topics/The_Plea_Deal.md), [Work Release Scandal](topics/The_Work_Release_Scandal.md) |
+| 2009-2018 | Civil litigation, reporting breakthroughs, and unresolved enforcement questions. | [Legal Battles](topics/Legal_Battles.md), [The Journalists](profiles/The_Journalists.md), [Why No More Arrests?](topics/Why_No_More_Arrests.md) |
+| 2019 | Federal arrest period, jail events, and search evidence. | [The Raid](topics/The_Raid.md), [July 23 Incident](topics/July_23_Incident.md), [The Death](topics/The_Death.md) |
+| 2020-2024 | Maxwell conviction era, civil disclosures, and major public unsealing. | [The Aftermath](topics/The_Aftermath.md), [2024 Release](evidence/2024_Release.md), [Logs vs Black Book](evidence/Logs_vs_Book.md) |
+| 2025-2026 | Transparency Act pressure, redaction disputes, congressional access, and ongoing fallout. | [2026 Release](evidence/2026_Release.md), [Transparency Act](topics/The_Epstein_Files_Transparency_Act.md), [Government Response Timeline](timeline/Government_Response_To_Epstein_Files.md) |
 
-## The 2026 Release (Updated Feb 15, 2026)
+## Repo map (where to find what)
+- `timeline/`: chronology and response sequencing.
+- `evidence/`: source bundles and release-by-release document breakdowns.
+- `profiles/`: person-level files with sourcing notes.
+- `topics/`: thematic deep dives (legal, financial, intelligence, media, international).
+- `analysis/`: synthesized maps and matrices.
+- `schema/`: normalized schema, claim-link spec, and database docs.
+- `derived/`: generated tables, entity mentions, quality flags, and reports.
+- `scripts/`: ingestion, enrichment, loading, and reporting automation.
+
+## Detailed topic directory
+
+<details>
+<summary><strong>Core people and roles</strong></summary>
+
+- **Survivors and victim advocates:** [Virginia Giuffre](profiles/Virginia_Giuffre.md), [Maria Farmer](profiles/Maria_Farmer.md), [Sarah Ransome](profiles/Sarah_Ransome.md), [Courtney Wild](profiles/Courtney_Wild.md)
+- **Investigative reporting:** [The Journalists](profiles/The_Journalists.md)
+- **Legal teams and litigators:** [The Legal Crusaders](profiles/The_Legal_Crusaders.md), [The Lawyers](profiles/The_Lawyers.md), [The Dream Team Defense](profiles/The_Dream_Team_Defense.md)
+- **Main actor directory:** [Profiles README](profiles/README.md)
+
+</details>
+
+<details>
+<summary><strong>How the system operated</strong></summary>
+
+- [The Abuse System](topics/The_Abuse_System.md)
+- [The Recruitment Pipeline](topics/The_Recruitment_Pipeline.md)
+- [The Staff Rulebook](topics/The_Staff_Rulebook.md)
+- [The Money Trail](topics/The_Money_Trail.md)
+- [The Ghost Business](topics/The_Ghost_Business.md)
+- [The Proteges](topics/The_Proteges.md)
+- [The Properties](topics/The_Properties.md)
+- [Great St. James](topics/Great_St_James.md)
+
+</details>
+
+<details>
+<summary><strong>Full topic map</strong></summary>
+
+| System and enforcement | Networks and unexplained areas | Money and influence |
+| :--- | :--- | :--- |
+| **[The Banks](topics/The_Banks.md)** | **[Intelligence](topics/Intelligence.md)** and **[Deep Dive: Israel/Mossad](topics/Deep_Dive_Israel_Mossad.md)** | **[Science and Tech](topics/Science_and_Tech.md)** and **[The MIT Scandal](topics/The_MIT_Scandal.md)** |
+| **[Legal Battles](topics/Legal_Battles.md)** | **[The Media Coverup](topics/The_Media_Coverup.md)** and **[The Intimidation Machine](topics/The_Intimidation_Machine.md)** | **[The Properties](topics/The_Properties.md)** and **[Great St. James](topics/Great_St_James.md)** |
+| **[The Plea Deal](topics/The_Plea_Deal.md)** | **[Deep Dive: The Death](topics/Deep_Dive_The_Death.md)** and **[July 23 Incident](topics/July_23_Incident.md)** | **[Transhumanism and Eugenics](topics/Transhumanism_and_Eugenics.md)** |
+| **[Government Complicity](topics/Government_Complicity.md)** | **[The Tapes](topics/The_Tapes.md)** | **[Unverified Tips](topics/Unverified_Tips.md)** |
+| **[Palm Beach Investigation](topics/The_Palm_Beach_Investigation.md)** and **[Work Release Scandal](topics/The_Work_Release_Scandal.md)** | **[Disinformation and False Flags](topics/Disinformation_and_False_Flags.md)** | **[The Island Secrets](topics/The_Island_Secrets.md)** |
+| **[The French Connection](topics/The_French_Connection.md)** | **[Missing Evidence](topics/Missing_Evidence.md)** | **[Why No More Arrests?](topics/Why_No_More_Arrests.md)** |
+| **[Middle East Connection](topics/The_Middle_East_Connection.md)** | **[The Dead](topics/The_Dead.md)** | **[The Dream Team Defense](profiles/The_Dream_Team_Defense.md)** |
+| **[Accountability Log](topics/The_Accountability_Log.md)** | **[Key Itineraries](topics/Key_Itineraries.md)** | **[The Email Troves](topics/The_Email_Troves.md)** |
+| **[The Crypto Connection](topics/The_Crypto_Connection.md)** | **[Religious Figures](profiles/Religious_Figures.md)** | **[Shadow Diplomacy](topics/Shadow_Diplomacy.md)** |
+| **[Local Influence](topics/Local_Influence.md)** | **[Anomalies and Curiosities](topics/Anomalies_and_Curiosities.md)** | **[AI and Neuroscience](topics/AI_and_Neuroscience.md)** |
+| **[Exhibit Inventory](topics/The_Exhibit_Inventory.md)** | **[Defense Playbook](topics/The_Defense_Playbook.md)** | **[Eastern European Pipeline](topics/The_Eastern_European_Pipeline.md)** |
+| **[International Investigations](topics/International_Investigations.md)** | **[Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)** | **[Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)** |
+| **[The Draft Indictment](topics/The_Draft_Indictment.md)** | **[The Norway Scandal](topics/The_Norway_Scandal.md)** | **[#MeToo Connection](topics/The_MeToo_Connection.md)** |
+
+</details>
+
+## The 2026 Release (Updated Feb 17, 2026)
 
 <!-- LIVE_UPDATES:START -->
-### Live Updates (As of Feb 15, 2026)
+### Live Updates (As of Feb 17, 2026)
 *   **AP review: no DOJ "client list" finding** (Feb 8, 2026): AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men. [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
 *   **Congressional access to unredacted files opened** (Feb 9, 2026): DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice. [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
 *   **Maxwell deposition and clemency request** (Feb 9, 2026): AP reported Maxwell invoked the Fifth Amendment in a House deposition and later sought clemency before withdrawing the request. [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9)
@@ -60,116 +95,97 @@ This repository serves as a **verified, fact-based database**. We have organized
 *   **Schools drop Lifetouch sessions after Epstein-related claims spread** (Feb 14, 2026): AP reported some U.S. school districts canceled class-picture plans after viral posts tied Lifetouch to a billionaire linked to Epstein. [Source](https://apnews.com/article/jeffrey-epstein-lifetouch-school-pictures-leon-black-c08e0563f5acd4097bee37225cb33463)
 *   **Reuters: DOJ sent lawmakers letter on redactions** (Feb 15, 2026): Reuters, citing Politico, reported DOJ told lawmakers the redaction process followed standard protections and said four newly discussed names were not directly tied to criminal activity in reviewed records. [Source](https://www.yahoo.com/news/us-justice-department-sends-letter-072131716.html)
 *   **DOJ letter listed 300+ names but gave no per-name context** (Feb 15, 2026): Reuters and CNN reporting said DOJ provided lawmakers a list of more than 300 officials and politically exposed persons mentioned in the files, while stating inclusion does not itself imply interaction with Epstein or wrongdoing. [Source](https://keyt.com/news/national-world/cnn-us-politics/2026/02/15/doj-letter-on-epstein-files-lists-hundreds-of-names-but-doesnt-provide-context/)
-*   **DOJ library status (Feb 15, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
+*   **Reuters: French police searched Arab World Institute and homes linked to Jack Lang** (Feb 16, 2026): Reuters reported French investigators searched the Arab World Institute and residences linked to former Culture Minister Jack Lang as part of an inquiry tied to Epstein-linked allegations; Lang denied wrongdoing. [Source](https://www.reuters.com/world/french-police-raid-arab-world-institute-epstein-linked-probe-into-jack-lang-2026-02-16/)
+*   **Reuters: Hyatt chairman Tom Pritzker announced step-down** (Feb 16, 2026): Reuters reported Hyatt executive chairman Tom Pritzker said he will step down at the end of 2026, citing "terrible judgment" over his association with Epstein while denying knowledge of Epstein's crimes. [Source](https://www.reuters.com/sustainability/hyatt-executive-chairman-pritzker-steps-down-cites-terrible-judgment-epstein-2026-02-16/)
+*   **Reuters: New Mexico approved Zorro Ranch investigation commission** (Feb 17, 2026): Reuters reported New Mexico lawmakers approved a state commission to investigate allegations tied to Epstein's Zorro Ranch, with hearings and a final report planned in 2027. [Source](https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/)
+*   **DOJ library status (Feb 17, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
 <!-- LIVE_UPDATES:END -->
 
-### The Congressional Unredaction Battle (Feb 9-10, 2026)
-*   **[The Unredaction Battle](evidence/2026_Release.md#the-congressional-unredaction-battle-february-9-10-2026)**: Massie & Khanna force DOJ to reveal hidden names live on CNN.
-*   **Six names revealed on House floor**: [Sultan Ahmed Bin Sulayem](profiles/Sultan_Ahmed_Bin_Sulayem.md), [Salvatore Nuara](profiles/Salvatore_Nuara.md), [Nicola Caputo](profiles/Nicola_Caputo.md), [Zurab Mikeladze](profiles/Zurab_Mikeladze.md), [Leonic Leonov](profiles/Leonic_Leonov.md), [Les Wexner](profiles/Les_Wexner.md).
-*   **Co-conspirators formally unredacted**: [Wexner](profiles/Les_Wexner.md), [Groff](profiles/Lesley_Groff.md), [Brunel](profiles/Jean_Luc_Brunel.md) designated alongside Maxwell.
-*   **FBI scrubbing allegation**: Khanna accuses FBI of removing survivor statements before DOJ release.
-*   **Massie's "nuclear option"**: Threatens to read all client names on House floor.
-*   **Sen. Lummis reversal**: "Now I see what the big deal is" after viewing files; cites 9-year-old victims.
-*   **AG Bondi testimony (Feb 11)**: Hearing held; lawmakers from both parties pressed DOJ over redactions and release handling.
+### Core 2026 release files
+- [2026 Release Dossier](evidence/2026_Release.md)
+- [Bondi Hearing Full Dossier (Feb 11, 2026)](evidence/Bondi_Hearing_Feb_11_2026.md)
+- [Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)
+- [Primary Sources Index](evidence/Primary_Sources_Index.md)
+- [Government Response Timeline](timeline/Government_Response_To_Epstein_Files.md)
+- [Media Coverage Response Map](analysis/Media_Coverage_Response_Map.md)
+- [New Developments Deep Dive (Feb 17, 2026)](analysis/New_Developments_Feb_17_2026.md)
 
-### The Documents
-*   **[The "Transparency Act" Files](evidence/2026_Release.md)**: Breakdown of the 3.5 million pages released.
-*   **[Bondi Hearing Full Dossier (Feb 11, 2026)](evidence/Bondi_Hearing_Feb_11_2026.md)**: Full hearing chronology and structured update index.
-*   **[The Epstein Files Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**: The law that forced the release (427-1 vote).
-*   **[Primary Sources Index](evidence/Primary_Sources_Index.md)**: Official records, court hubs, congressional links, and major reporting sources.
-*   **[Government Response Timeline to the Files](timeline/Government_Response_To_Epstein_Files.md)**: Cross-year map of DOJ/Congress/court response phases.
-*   **[Media Coverage Response Map](analysis/Media_Coverage_Response_Map.md)**: Who is covering, low-visibility outlets, and monitoring constraints.
+<details>
+<summary><strong>2026 congressional and release-phase highlights</strong></summary>
 
-### New Profiles (2026 Revelations)
-*   **[Howard Lutnick](profiles/Howard_Lutnick.md)** - Trump Commerce Secretary; 2012 island visit with family.
-*   **[Steve Tisch](profiles/Steve_Tisch.md)** - NY Giants co-owner; "pro or civilian" emails about women.
-*   **[Richard Branson](profiles/Richard_Branson.md)** - Virgin founder; "bring your harem" email.
-*   **[Miroslav Lajcak](profiles/Miroslav_Lajcak.md)** - Slovak official; **resigned Jan 31, 2026**.
-*   **[Daniel Siad](profiles/Daniel_Siad.md)** - Polish "scout"; recruited women from Kraków.
-*   **[Brett Ratner](profiles/Brett_Ratner.md)** - *Melania* director; photos with Epstein on couch.
-*   **[Dean Kamen](profiles/Dean_Kamen.md)** - Segway inventor; island visitor; **placed on leave from FIRST**.
-*   **[Joanna Rubinstein](profiles/Joanna_Rubinstein.md)** - Sweden UNHCR chair; **resigned Feb 2, 2026**.
-*   **[Sergey Brin](profiles/Sergey_Brin.md)** - Google co-founder; Maxwell communications; dinner guest lists.
-*   **[Ehud Barak](profiles/Ehud_Barak.md)** - Former Israeli PM; NYC apartment stays; FBI Mossad memo.
-*   **[Brad Karp](profiles/Brad_Karp.md)** - Paul Weiss chairman; **resigned Feb 4, 2026**; shared client confidences.
-*   **[Tom Pritzker](profiles/Tom_Pritzker.md)** - Hyatt exec chairman; 7,000+ search results in files; Giuffre accusation.
-*   **[Thorbjorn Jagland](profiles/Thorbjorn_Jagland.md)** - Norwegian former PM; Nobel Committee chair; **aggravated corruption probe**.
-*   **[Crown Princess Mette-Marit](profiles/Crown_Princess_Mette_Marit.md)** - Norwegian heir to throne; 100+ emails; Palm Beach stay.
-*   **[Tom Barrack](profiles/Tom_Barrack.md)** - Colony Capital; introduced Thiel to Epstein; Barak/Churkin dinner.
-*   **[Deepak Chopra](profiles/Deepak_Chopra.md)** - "Cute girls are real" email; 23andMe test with Epstein.
-*   **[Peggy Siegal](profiles/Peggy_Siegal.md)** - Celebrity publicist; social access facilitator.
-*   **[Naomi Campbell](profiles/Naomi_Campbell.md)** - Supermodel; flight logs; island visit with Brunel.
-*   **[Katie Couric](profiles/Katie_Couric.md)** - "ROCKIN lasagna"; "world of trouble" warning email.
-*   **[David Copperfield](profiles/David_Copperfield.md)** - Illusionist; dinner party magic; Giuffre deposition.
-*   **[William Burns](profiles/William_Burns.md)** - CIA Director; 2014 post-conviction meeting; FOIA requests.
-*   **[Sultan Ahmed Bin Sulayem](profiles/Sultan_Ahmed_Bin_Sulayem.md)** - DP World CEO (Dubai); "torture video" email; 4,700+ file appearances.
-*   **[Salvatore Nuara](profiles/Salvatore_Nuara.md)** - Retired NYPD detective; Epstein black book; escort service discipline.
-*   **[Nicola Caputo](profiles/Nicola_Caputo.md)** - Name from document EFTA00077895; identity not fully verified in public reporting.
-*   **[Zurab Mikeladze](profiles/Zurab_Mikeladze.md)** - Unknown background; named on House floor Feb 10.
-*   **[Leonic Leonov](profiles/Leonic_Leonov.md)** - Unknown background; named on House floor Feb 10.
-*   **[All 2026 Profiles](profiles/README.md#the-2026-revelations-new)**: Full list of new profiles.
+- [The Unredaction Battle](evidence/2026_Release.md#the-congressional-unredaction-battle-february-9-10-2026)
+- Six names revealed on House floor: [Sultan Ahmed Bin Sulayem](profiles/Sultan_Ahmed_Bin_Sulayem.md), [Salvatore Nuara](profiles/Salvatore_Nuara.md), [Nicola Caputo](profiles/Nicola_Caputo.md), [Zurab Mikeladze](profiles/Zurab_Mikeladze.md), [Leonic Leonov](profiles/Leonic_Leonov.md), [Les Wexner](profiles/Les_Wexner.md)
+- Co-conspirators formally unredacted: [Les Wexner](profiles/Les_Wexner.md), [Lesley Groff](profiles/Lesley_Groff.md), [Jean-Luc Brunel](profiles/Jean_Luc_Brunel.md)
+- AG Bondi testimony held on Feb 11, 2026 before House Judiciary
 
-### New Topics (2026)
-*   **[The Eastern European Pipeline](topics/The_Eastern_European_Pipeline.md)**: Poland, Ukraine, Russia trafficking network; $1.1B through sanctioned banks.
-*   **[International Investigations](topics/International_Investigations.md)**: Poland, Lithuania, Latvia, Turkey, UK, Norway investigations launched.
-*   **[The Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)**: Subpoenas, contempt vote, Feb 26-27 testimony.
-*   **[The Epstein Files Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)**: 427-1 vote; discharge petition; DOJ compliance battles.
-*   **[The Draft Indictment](topics/The_Draft_Indictment.md)**: The 56-page Florida indictment that was never filed (32 counts, 19 victims).
-*   **[The #MeToo Connection](topics/The_MeToo_Connection.md)**: Epstein monitoring accused men; Ruemmler as crisis fixer.
-*   **[The Norway Scandal](topics/The_Norway_Scandal.md)**: 5 Norwegian figures implicated; Crown Princess, former PM, Nobel chair.
+</details>
 
-### Key Findings
-*   **Six Hidden Names Revealed**: Massie & Khanna discovered six men redacted from public files; Khanna named them on House floor (Feb 10).
-*   **Co-Conspirators Unredacted**: Wexner, Groff, Brunel formally designated as FBI co-conspirators alongside Maxwell.
-*   **FBI Scrubbing Alleged**: Khanna accuses Trump's FBI of removing survivor statements naming powerful men (March 2025).
-*   **70-80% Still Redacted**: Even "unredacted" files shown to Congress remain heavily redacted.
-*   **No New Prosecutions**: Deputy AG Blanche says charges unlikely.
-*   **"Orange Shape" Mystery**: New death investigation questions (see [The Death](topics/The_Death.md)).
-*   **Redaction Scandal**: 43+ victims exposed; emergency shutdown requested.
-*   **International Resignations**: Lajcak (Slovakia), Mandelson (UK Labour + House of Lords), Rubinstein (Sweden UNHCR), Kamen (leave from FIRST), Karp (Paul Weiss), Ross (SVA).
-*   **Criminal Investigations**: UK Metropolitan Police probe of Mandelson; Norway aggravated corruption probe of Jagland; Poland, Lithuania, Latvia, Turkey trafficking probes.
-*   **Norway Scandal**: Crown Princess Mette-Marit (100+ emails), former PM Jagland (corruption probe), WEF CEO Brende (under review), Ambassador Juul (suspended).
-*   **Clinton Depositions**: Feb 26-27, 2026; Hillary demands public hearing.
-*   **Wexner Testimony**: Scheduled Feb 18, 2026 before House Oversight Committee.
-*   **Bondi Testimony**: Held Feb 11, 2026 before House Judiciary Committee.
-*   **No "Client List" Finding (AP, Feb 8)**: AP review of FBI/DOJ records reported investigators found no evidence of a blackmail "client list" or a trafficking ring for powerful men.
-*   **DOJ Search Logging Controversy (Feb 12)**: AP reported DOJ tracked congressional search activity on the Epstein files; Speaker Johnson said he disapproved.
-*   **Four-Name Caveat (CBS, Feb 11)**: DOJ spokesperson told CBS that four newly discussed names appear once in a single file and do not appear to directly implicate them in crimes.
-*   **300+ Name List Context Gap (Feb 15 reporting)**: Reuters/CNN reported DOJ sent Congress a 300+ name list without per-name context and said mention alone is not evidence of misconduct; critics said this muddies interpretation.
-*   **Bill Gates**: "I was foolish" (Feb 4 interview).
-*   **Elon Musk**: 16 emails revealed; "wildest party" request; multiple island visit plans.
-*   **CIA Director Burns**: 2014 post-conviction meeting with Epstein; FOIA requests for CIA ties.
-*   **The Draft Indictment**: Unreleased 56-page Florida indictment (32 counts, 19 victims, 3 redacted co-conspirators).
-*   **Sen. Lummis Reversal**: GOP senator admits "now I see what the big deal is" after reviewing unredacted files.
+<details>
+<summary><strong>2026 profiles added</strong></summary>
 
-## 🔎 The "Shocking" Details (Viewer Discretion)
-*   **[The Raid & The Safe](topics/The_Raid.md)**: Fake passports, diamonds, and the "Blue Dress" painting.
-*   **[Viral Rumors Debunked](profiles/Viral_Names.md)**: Stephen Hawking, Michael Jackson, and David Copperfield.
-*   **[The Weirdness](topics/The_Weirdness.md)**: Mannequins, Eyeballs, and the decor.
+- [Howard Lutnick](profiles/Howard_Lutnick.md)
+- [Steve Tisch](profiles/Steve_Tisch.md)
+- [Richard Branson](profiles/Richard_Branson.md)
+- [Miroslav Lajcak](profiles/Miroslav_Lajcak.md)
+- [Daniel Siad](profiles/Daniel_Siad.md)
+- [Brett Ratner](profiles/Brett_Ratner.md)
+- [Dean Kamen](profiles/Dean_Kamen.md)
+- [Joanna Rubinstein](profiles/Joanna_Rubinstein.md)
+- [Sergey Brin](profiles/Sergey_Brin.md)
+- [Ehud Barak](profiles/Ehud_Barak.md)
+- [Brad Karp](profiles/Brad_Karp.md)
+- [Tom Pritzker](profiles/Tom_Pritzker.md)
+- [Thorbjorn Jagland](profiles/Thorbjorn_Jagland.md)
+- [Crown Princess Mette-Marit](profiles/Crown_Princess_Mette_Marit.md)
+- [Tom Barrack](profiles/Tom_Barrack.md)
+- [Deepak Chopra](profiles/Deepak_Chopra.md)
+- [Peggy Siegal](profiles/Peggy_Siegal.md)
+- [Naomi Campbell](profiles/Naomi_Campbell.md)
+- [Katie Couric](profiles/Katie_Couric.md)
+- [David Copperfield](profiles/David_Copperfield.md)
+- [William Burns](profiles/William_Burns.md)
+- [Sultan Ahmed Bin Sulayem](profiles/Sultan_Ahmed_Bin_Sulayem.md)
+- [Salvatore Nuara](profiles/Salvatore_Nuara.md)
+- [Nicola Caputo](profiles/Nicola_Caputo.md)
+- [Zurab Mikeladze](profiles/Zurab_Mikeladze.md)
+- [Leonic Leonov](profiles/Leonic_Leonov.md)
+- Full index: [All 2026 profiles](profiles/README.md#the-2026-revelations-new)
 
-## 🔎 The Evidence Explained
-*   **[Flight Logs vs. Black Book](evidence/Logs_vs_Book.md)**: Why being in his "book" is different from being on his "plane."
-*   **[The 2024 Files](evidence/2024_Release.md)**: What we learned from the January 2024 unsealing.
-*   **[Primary Sources Index](evidence/Primary_Sources_Index.md)**: Fast path to all core source material.
-*   **[Government Cover-Up Evidence Matrix](analysis/Government_Coverup_Evidence_Matrix.md)**: Proven failures vs allegations vs unresolved claims.
+</details>
 
-## 📅 [Full Timeline](timeline/Full_Timeline.md)
-A year-by-year breakdown of every major event, from 1953 to today.
+<details>
+<summary><strong>2026 topics added</strong></summary>
 
-## 📚 [Further Reading & Resources](topics/Further_Reading.md)
-Books, documentaries, and source material.
+- [Eastern European Pipeline](topics/The_Eastern_European_Pipeline.md)
+- [International Investigations](topics/International_Investigations.md)
+- [Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)
+- [Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)
+- [Draft Indictment](topics/The_Draft_Indictment.md)
+- [#MeToo Connection](topics/The_MeToo_Connection.md)
+- [Norway Scandal](topics/The_Norway_Scandal.md)
 
-## Database Model (Phase 1)
-- **[Normalized Schema](schema/epstein_research_schema.sql)**: SQLite relational schema for documents, entities, events, claims, and evidence links.
-- **[Schema Guide](schema/README.md)**: Setup and ingestion workflow.
-- **[Claim Linking Spec](schema/CLAIM_LINKING_FORMAT.md)**: Required fields/rules for auditable claim-to-evidence mapping.
-- **[Claim Registry (latest)](derived/claims/claim_registry_latest.tsv)** and **[Claim Evidence Links (latest)](derived/claims/claim_evidence_links_latest.tsv)**.
-- **Entity resolution + mentions**: **[Entity Aliases (latest)](derived/entities/entity_aliases_resolved_latest.tsv)** and **[Entity Mentions (latest)](derived/entities/entity_mentions_latest.tsv)**.
-- **Claim quality controls**: **[Claim Quality Flags (latest)](derived/claims/claim_quality_flags_latest.tsv)** and **[Coverage Gap Dashboard (latest)](derived/reports/coverage_gap_dashboard_latest.md)**.
-- **[Repository Organization](docs/REPO_ORGANIZATION.md)**: Directory and naming contract.
-- **[Data Pipeline Runbook](docs/DATA_PIPELINE.md)**: Daily update workflow and output map.
+</details>
 
-## Repo Automation
+## Evidence and interpretation notes
+- [Flight Logs vs Black Book](evidence/Logs_vs_Book.md): appearance in one artifact does not equal criminal liability.
+- [Primary Sources Index](evidence/Primary_Sources_Index.md): direct links to core records and major reporting.
+- [Government Response Matrix](analysis/Government_Coverup_Evidence_Matrix.md): separates verified actions, allegations, and unresolved claims.
+- [Further Reading and Resources](topics/Further_Reading.md).
+
+## Database model and outputs
+- [Normalized Schema](schema/epstein_research_schema.sql)
+- [Schema Guide](schema/README.md)
+- [Claim Linking Spec](schema/CLAIM_LINKING_FORMAT.md)
+- [Claim Registry (latest)](derived/claims/claim_registry_latest.tsv)
+- [Claim Evidence Links (latest)](derived/claims/claim_evidence_links_latest.tsv)
+- [Entity Aliases (latest)](derived/entities/entity_aliases_resolved_latest.tsv)
+- [Entity Mentions (latest)](derived/entities/entity_mentions_latest.tsv)
+- [Claim Quality Flags (latest)](derived/claims/claim_quality_flags_latest.tsv)
+- [Coverage Gap Dashboard (latest)](derived/reports/coverage_gap_dashboard_latest.md)
+- [Repository Organization](docs/REPO_ORGANIZATION.md)
+- [Data Pipeline Runbook](docs/DATA_PIPELINE.md)
+
+## Repo automation
 Run a full live-update refresh for README/timeline sections:
 
 `./scripts/update_live_events.sh --as-of "Feb 14, 2026" --dataset 12 --events-file updates/live_events.latest.txt --commit --push`
@@ -231,4 +247,5 @@ Or use Make targets:
 `make daily-pipeline`
 
 ---
-> **Note on Safety:** This database relies on **verified court documents** and **police reports**. We clearly label what is a *Fact* (✓) and what is just a *Theory* (?).
+
+> Note: This database prioritizes source-linked records and explicit claim status labels so readers can separate verified evidence from open or disputed claims.

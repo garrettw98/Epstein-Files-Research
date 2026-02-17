@@ -1,42 +1,39 @@
-# Media Coverage Map: Who Covered the Epstein Files and Who Is Hard to Observe
+# Media Coverage Map: Who Covered the Epstein Files and What We Still Cannot Reliably Observe
 
-## Method Used (Repository-Ingest Based)
+## Method Used (Repository Ingest)
 
-- Coverage window: last 7 days ending **Feb 14, 2026**.
+- Coverage window: last 7 days ending **Feb 17, 2026**.
 - Primary dataset: `derived/epstein_universe/epstein_universe_index_latest.tsv`.
-- Supplement for Bondi hearing detail: `derived/bondi_hearing/bondi_hearing_updates_latest.tsv`.
-- Outlet endpoint checks: `derived/media_coverage/outlet_endpoint_status_latest.tsv`.
+- Supplemental hearing stream: `derived/bondi_hearing/bondi_hearing_updates_latest.tsv`.
+- Endpoint checks: `derived/media_coverage/outlet_endpoint_status_latest.tsv`.
 
-## Outlets With Strong Observable Coverage in This Window
+## Strong Observable Coverage in Current Window
 
-- **AP**: 64 URLs in monitored ingest window.
-- **Fox News**: 26 URLs in monitored ingest window.
-- **BBC**: 19 URLs in monitored ingest window.
-- **Guardian**: 16 URLs in monitored ingest window.
-- **Reuters**: 10 URLs in monitored ingest window.
-- **CBS (Bondi hearing)**: 23 live-blog updates captured in the hearing-specific ingest.
+- **AP**: 51 URLs in monitored ingest window.
+- **Fox News**: 20 URLs in monitored ingest window.
+- **Guardian**: 7 URLs in monitored ingest window.
+- **BBC**: 7 URLs in monitored ingest window.
+- **Reuters**: 3 URLs in monitored ingest window.
+- **CBS Bondi liveblog**: 23 captured updates.
 
 Source artifact: `derived/media_coverage/coverage_last7d_latest.tsv`
 
-## Outlets Not Reliably Observable in Current Automation (or Low Visibility)
+## Outlets with Monitoring Friction (Technical, Not Editorial Proof)
 
-- **NYTimes**: endpoint returned HTTP 403 for sitemap access in this run.
-- **NPR**: tested sitemap index endpoint returned HTTP 404.
-- **CNN**: endpoint status was unstable in automated checks; no stable high-volume extraction in this run.
-- **WSJ**: sitemap root reachable, but automated extraction did not produce comparable matched-output volume in this run.
+- **AP**: HTTP 429 on sitemap endpoint in this run.
+- **NYTimes**: HTTP 403 on sitemap endpoint.
+- **NPR**: HTTP 404 on tested sitemap endpoint.
 
 Source artifact: `derived/media_coverage/outlet_endpoint_status_latest.tsv`
 
-## Why "Who Isn't Covering" Is Hard (Important Constraint)
+## Why "Who Isn't Covering" Requires Caution
 
-- Automated monitoring depends on machine-readable endpoints (sitemaps, feeds, or accessible search pages).
-- Some outlets block automation, rate-limit, or require interactive rendering/paywall traversal.
-- Coverage can exist without being capturable in a feed-driven ingest.
+- Feed/sitemap monitoring only captures what endpoints expose.
+- Some outlets are rate-limited, paywalled, or script-rendered in ways that reduce machine-readability.
+- A low observed count can indicate ingestion limits, not absence of reporting.
 
-Because of those constraints, this repository can defensibly state **"not observed in monitored output"** but cannot prove **"not covered at all"** without manual outlet-by-outlet editorial review.
+## Practical Read
 
-## Practical Interpretation
-
-- Coverage is broad across major wire/international outlets in monitored data.
-- Bondi-hearing-specific coverage is dense in CBS live updates plus AP follow-up.
-- The largest blind spots are technical observability limits, not proof of editorial suppression by themselves.
+- Coverage remains broad across wire and major international outlets.
+- The strongest near-real-time blind spots are endpoint accessibility and rate limits.
+- Claims about suppression should remain separate from endpoint observability limitations unless independently corroborated.

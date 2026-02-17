@@ -52,6 +52,7 @@ These women were the "middle management" of the operation. Most were granted imm
 ### Political/Government
 *   **[Steve Bannon](Steve_Bannon.md)** - Media strategist; 15 hours of interviews; Trump text messages.
 *   **[Peter Mandelson](Peter_Mandelson.md)** - UK Politician; criminal investigation for sharing govt secrets.
+*   **[Jack Lang](Jack_Lang.md)** - Former French culture minister; Feb 16, 2026 French searches reported; denies wrongdoing.
 *   **[Kathryn Ruemmler](Kathryn_Ruemmler.md)** - Obama WH Counsel; "adoration" emails; #MeToo crisis fixer; "Uncle Jeffrey."
 *   **[Howard Lutnick](Howard_Lutnick.md)** - Trump Commerce Secretary; 2012 island visit with family.
 *   **[Miroslav Lajcak](Miroslav_Lajcak.md)** - Slovak National Security Adviser; **resigned Jan 31, 2026**.

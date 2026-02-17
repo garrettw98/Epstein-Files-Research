@@ -91,7 +91,7 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 | Set 12 | February 2026 |
 
 <!-- REALTIME_STATUS:START -->
-### Real-Time Status (As of Feb 15, 2026)
+### Real-Time Status (As of Feb 17, 2026)
 
 - DOJ's public repository remains online and publicly lists releases through **Data Set 12**.
 - Source: [DOJ Epstein Library](https://www.justice.gov/epstein)
@@ -113,6 +113,9 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 - **Feb 14, 2026**: **Schools drop Lifetouch sessions after Epstein-related claims spread**. AP reported some U.S. school districts canceled class-picture plans after viral posts tied Lifetouch to a billionaire linked to Epstein. [Source](https://apnews.com/article/jeffrey-epstein-lifetouch-school-pictures-leon-black-c08e0563f5acd4097bee37225cb33463)
 - **Feb 15, 2026**: **Reuters: DOJ sent lawmakers letter on redactions**. Reuters, citing Politico, reported DOJ told lawmakers the redaction process followed standard protections and said four newly discussed names were not directly tied to criminal activity in reviewed records. [Source](https://www.yahoo.com/news/us-justice-department-sends-letter-072131716.html)
 - **Feb 15, 2026**: **DOJ letter listed 300+ names but gave no per-name context**. Reuters and CNN reporting said DOJ provided lawmakers a list of more than 300 officials and politically exposed persons mentioned in the files, while stating inclusion does not itself imply interaction with Epstein or wrongdoing. [Source](https://keyt.com/news/national-world/cnn-us-politics/2026/02/15/doj-letter-on-epstein-files-lists-hundreds-of-names-but-doesnt-provide-context/)
+- **Feb 16, 2026**: **Reuters: French police searched Arab World Institute and homes linked to Jack Lang**. Reuters reported French investigators searched the Arab World Institute and residences linked to former Culture Minister Jack Lang as part of an inquiry tied to Epstein-linked allegations; Lang denied wrongdoing. [Source](https://www.reuters.com/world/french-police-raid-arab-world-institute-epstein-linked-probe-into-jack-lang-2026-02-16/)
+- **Feb 16, 2026**: **Reuters: Hyatt chairman Tom Pritzker announced step-down**. Reuters reported Hyatt executive chairman Tom Pritzker said he will step down at the end of 2026, citing "terrible judgment" over his association with Epstein while denying knowledge of Epstein's crimes. [Source](https://www.reuters.com/sustainability/hyatt-executive-chairman-pritzker-steps-down-cites-terrible-judgment-epstein-2026-02-16/)
+- **Feb 17, 2026**: **Reuters: New Mexico approved Zorro Ranch investigation commission**. Reuters reported New Mexico lawmakers approved a state commission to investigate allegations tied to Epstein's Zorro Ranch, with hearings and a final report planned in 2027. [Source](https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/)
 <!-- REALTIME_STATUS:END -->
 
 ### Contents Include

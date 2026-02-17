@@ -3,6 +3,7 @@ set -euo pipefail
 
 ROOT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")/.." && pwd)"
 SOURCE_URL="https://www.justice.gov/epstein"
+DISCLOSURES_URL="https://www.justice.gov/epstein/doj-disclosures"
 RAW_DIR="${ROOT_DIR}/raw/doj_epstein_library"
 DERIVED_DIR="${ROOT_DIR}/derived/doj_epstein_library"
 SEED_FILE="${ROOT_DIR}/evidence/Primary_Sources_Index.md"
@@ -16,6 +17,8 @@ Usage:
 
 Options:
   --source-url URL      Source page to ingest (default: https://www.justice.gov/epstein)
+  --disclosures-url URL Optional disclosures page URL for dataset discovery fallback
+                        (default: https://www.justice.gov/epstein/doj-disclosures)
   --raw-dir PATH        Raw snapshot directory (default: raw/doj_epstein_library)
   --derived-dir PATH    Derived output directory (default: derived/doj_epstein_library)
   --seed-file PATH      Optional markdown/txt file with seed URLs to include
@@ -64,6 +67,10 @@ while [[ $# -gt 0 ]]; do
       SOURCE_URL="${2:-}"
       shift 2
       ;;
+    --disclosures-url)
+      DISCLOSURES_URL="${2:-}"
+      shift 2
+      ;;
     --raw-dir)
       RAW_DIR="${2:-}"
       shift 2
@@ -100,6 +107,7 @@ mkdir -p "${RAW_DIR}" "${DERIVED_DIR}"
 
 TIMESTAMP_UTC="$(date -u +"%Y%m%dT%H%M%SZ")"
 SNAPSHOT_HTML="${RAW_DIR}/${TIMESTAMP_UTC}_epstein.html"
+DISCLOSURES_SNAPSHOT_HTML="${RAW_DIR}/${TIMESTAMP_UTC}_epstein_doj_disclosures.html"
 INDEX_LATEST="${DERIVED_DIR}/epstein_library_index_latest.tsv"
 INDEX_TIMESTAMPED="${DERIVED_DIR}/epstein_library_index_${TIMESTAMP_UTC}.tsv"
 SUMMARY_LATEST="${DERIVED_DIR}/epstein_library_summary_latest.md"
@@ -128,6 +136,19 @@ if [[ "$(wc -l < "${TMP_HREFS}")" -lt 5 ]]; then
   sort -u -o "${TMP_HREFS}" "${TMP_HREFS}"
 fi
 
+HAS_DISCLOSURES_SNAPSHOT="false"
+if [[ -n "${DISCLOSURES_URL}" ]]; then
+  if curl -A "Mozilla/5.0" -fsSL --retry 3 --connect-timeout 20 --max-time 120 \
+    "${DISCLOSURES_URL}" -o "${DISCLOSURES_SNAPSHOT_HTML}"; then
+    HAS_DISCLOSURES_SNAPSHOT="true"
+    grep -Eo "href=['\"][^'\"]+['\"]" "${DISCLOSURES_SNAPSHOT_HTML}" \
+      | sed -E "s/^href=['\"]//; s/['\"]$//" \
+      | sed 's/&amp;/\&/g' \
+      >> "${TMP_HREFS}"
+    sort -u -o "${TMP_HREFS}" "${TMP_HREFS}"
+  fi
+fi
+
 SOURCE_PREFIX="${SOURCE_URL%/}"
 SOURCE_DIR="${SOURCE_PREFIX%/*}"
 
@@ -136,6 +157,7 @@ while IFS= read -r link; do
   [[ "${link}" =~ ^# ]] && continue
   [[ "${link}" =~ ^mailto: ]] && continue
   [[ "${link}" =~ ^javascript: ]] && continue
+  [[ "${link}" =~ (facebook\.com/sharer|twitter\.com/intent/tweet|linkedin\.com/shareArticle) ]] && continue
 
   if [[ "${link}" =~ ^https?:// ]]; then
     norm="${link}"
@@ -215,7 +237,13 @@ cp "${INDEX_LATEST}" "${INDEX_TIMESTAMPED}"
   echo
   echo "- Run UTC: ${TIMESTAMP_UTC}"
   echo "- Source page: ${SOURCE_URL}"
+  if [[ "${HAS_DISCLOSURES_SNAPSHOT}" == "true" ]]; then
+    echo "- Disclosures page: ${DISCLOSURES_URL}"
+  fi
   echo "- Raw snapshot: ${SNAPSHOT_HTML#${ROOT_DIR}/}"
+  if [[ "${HAS_DISCLOSURES_SNAPSHOT}" == "true" ]]; then
+    echo "- Disclosures snapshot: ${DISCLOSURES_SNAPSHOT_HTML#${ROOT_DIR}/}"
+  fi
   echo "- Index latest: ${INDEX_LATEST#${ROOT_DIR}/}"
   echo "- Index snapshot: ${INDEX_TIMESTAMPED#${ROOT_DIR}/}"
   echo "- URL count: $(( $(wc -l < "${INDEX_LATEST}") - 1 ))"
@@ -229,6 +257,9 @@ cp "${INDEX_LATEST}" "${INDEX_TIMESTAMPED}"
 
 echo "Ingest complete."
 echo "- ${SNAPSHOT_HTML#${ROOT_DIR}/}"
+if [[ "${HAS_DISCLOSURES_SNAPSHOT}" == "true" ]]; then
+  echo "- ${DISCLOSURES_SNAPSHOT_HTML#${ROOT_DIR}/}"
+fi
 echo "- ${INDEX_LATEST#${ROOT_DIR}/}"
 echo "- ${INDEX_TIMESTAMPED#${ROOT_DIR}/}"
 echo "- ${SUMMARY_LATEST#${ROOT_DIR}/}"

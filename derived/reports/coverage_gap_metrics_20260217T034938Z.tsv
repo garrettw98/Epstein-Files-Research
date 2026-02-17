@@ -1,0 +1,10 @@
+metric	value	status	detail
+expected_dataset_max	12	ok	Max dataset number parsed from README live status.
+ingested_dataset_count	12	ok	Detected dataset numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12
+missing_dataset_count	0	ok	Missing datasets: none
+doj_library_broken_links	3	warn	Non-200/301/302 status codes in DOJ library index.
+media_endpoint_failures	3	warn	Outlet endpoints currently non-200/301/302.
+primary_docs_total	40	ok	Current primary documents in latest snapshot.
+missing_primary_source_systems	0	ok	Missing: none
+stale_inputs	0	ok	none
+claim_quality_high_flags	3	warn	Open high-severity inference quality flags.

@@ -1,7 +1,7 @@
 # International Investigations (2026)
 
 > **Status**: **ONGOING**
-> **Countries**: Poland, Lithuania, Latvia, Turkey, Slovakia, United Kingdom, Norway, France (disinformation), Sweden
+> **Countries**: Poland, Lithuania, Latvia, Turkey, Slovakia, United Kingdom, Norway, France (disinformation + inquiry activity), Sweden
 > **Trigger**: January 2026 DOJ Document Release
 
 ## Summary
@@ -179,6 +179,14 @@ A large-scale **Russian disinformation operation** has used doctored French medi
 - **Caroline Lang** (intermediary) emailed Epstein that *"Macron is going to announce a reshuffle of the government soon"*
 - **No evidence** that Macron and Epstein ever met or communicated directly
 
+### Inquiry Activity (Feb 16, 2026)
+
+Reuters reported French investigators searched the **Arab World Institute** and properties linked to former culture minister **Jack Lang**, in connection with a broader inquiry tied to Epstein-related allegations.
+
+- Prosecutors said the searches were part of an inquiry opened in 2021 after complaints.
+- Reuters reported Lang denied any wrongdoing.
+- This is distinct from the documented Russian disinformation operation targeting Macron.
+
 ## European Union Impact
 
 ### Pattern Recognition
@@ -275,6 +283,7 @@ Countries may need to coordinate on:
 | Feb 5, 2026 | Norway | Ambassador Mona Juul suspended |
 | Feb 5, 2026 | Norway | WEF launches review of CEO Børge Brende |
 | Feb 6, 2026 | France | Viginum identifies Russian disinfo campaign linking Macron to files |
+| Feb 16, 2026 | France | Investigators search Arab World Institute and properties linked to Jack Lang (Reuters) |
 | Ongoing | UK | Mandelson criminal investigation for misconduct in public office |
 | Ongoing | Norway | Jagland corruption investigation; immunity revocation sought |
 

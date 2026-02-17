@@ -21,3 +21,9 @@ After Epstein's arrest in the US, French prosecutors opened their own probe.
 
 ## The End of the Line
 With Brunel's death in a Paris prison (2022), the French criminal case was largely closed, leaving many European victims without their day in court.
+
+## 2026 Reopen Signals
+Reuters reported that on **February 16, 2026**, French investigators searched the **Arab World Institute** and properties linked to former culture minister **Jack Lang** as part of an inquiry tied to Epstein-related allegations opened in 2021.
+
+- Lang denied wrongdoing in Reuters reporting.
+- This appears to be a separate investigative track from the Macron disinformation campaign described in [International Investigations](International_Investigations.md).

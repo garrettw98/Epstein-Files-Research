@@ -1,0 +1,12 @@
+outlet	endpoint	http_status
+AP	https://apnews.com/sitemap.xml	429
+Reuters	https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml	200
+BBC	https://www.bbc.com/sitemaps/https-index-com-news.xml	200
+Guardian	https://www.theguardian.com/sitemaps/news.xml	200
+Fox News	https://www.foxnews.com/sitemap.xml	200
+CNN	https://www.cnn.com/sitemaps/sitemap-index.xml	200
+NYTimes	https://www.nytimes.com/sitemap.xml	403
+WSJ	https://www.wsj.com/sitemap.xml	200
+NPR	https://www.npr.org/sitemaps/sitemap-index.xml	404
+CBS	https://www.cbsnews.com/live-updates/pam-bondi-hearing-epstein-files-justice-department-congress/	200
+ABC News	https://abcnews.go.com/sitemap	200

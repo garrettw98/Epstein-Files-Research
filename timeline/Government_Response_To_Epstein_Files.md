@@ -44,6 +44,12 @@ This timeline maps how U.S. government response evolved from prosecution activit
   - https://www.cbsnews.com/live-updates/pam-bondi-hearing-epstein-files-justice-department-congress/
 - **February 12, 2026**: AP reports dispute over DOJ logging of congressional search activity in the file portal.  
   Source: https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220
+- **February 15, 2026**: Reuters reports DOJ letter to lawmakers saying inclusion of names in records is not itself evidence of criminal activity and describing redaction rationale.  
+  Sources:  
+  - https://www.yahoo.com/news/us-justice-department-sends-letter-072131716.html  
+  - https://keyt.com/news/national-world/cnn-us-politics/2026/02/15/doj-letter-on-epstein-files-lists-hundreds-of-names-but-doesnt-provide-context/
+- **February 17, 2026**: Reuters reports New Mexico lawmakers approved a state-level commission process to investigate allegations tied to Epstein's Zorro Ranch.  
+  Source: https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/
 
 ## Government Response Pattern (What Changed)
 

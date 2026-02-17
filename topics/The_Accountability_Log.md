@@ -15,6 +15,7 @@ After the 2019 arrest, everyone in Epstein's orbit had to make a choice: Apologi
 *   **Reid Hoffman**: Apologized for visiting the island, stating, *"It was a mistake to trust him."*
 *   **Jes Staley**: Expressed "regret" for his relationship with Epstein but denied knowing about the crimes. (Regulators disagreed, banning him).
 *   **Les Wexner**: Claimed he was "deceived" and "betrayed" by Epstein. Apologized to the Wexner Foundation community for the association.
+*   **Tom Pritzker**: Reuters reported he called the association "terrible judgment" and announced he will step down as Hyatt executive chairman by end of 2026.
 
 ## 🟢 The "Cooperators" (Forced or Voluntary)
 *   **Darren Indyke & Richard Kahn**: The estate lawyers. They settled with the USVI and agreed to cooperate with authorities to avoid liability.

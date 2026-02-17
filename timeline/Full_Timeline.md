@@ -1,6 +1,6 @@
 # 📅 The Master Timeline: Every Verified Event
 
-> **Scope**: 1953 - Feb 15, 2026
+> **Scope**: 1953 - Feb 17, 2026
 > **Sources**: Court documents, Flight Logs, Police Reports, 2024/2026 Releases.
 
 This timeline integrates all data points from this repository into a single chronological flow.
@@ -262,4 +262,13 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 15, 2026**: **DOJ letter listed 300+ names but gave no per-name context**.
     *   Reuters and CNN reporting said DOJ provided lawmakers a list of more than 300 officials and politically exposed persons mentioned in the files, while stating inclusion does not itself imply interaction with Epstein or wrongdoing.
     *   Source: [Source](https://keyt.com/news/national-world/cnn-us-politics/2026/02/15/doj-letter-on-epstein-files-lists-hundreds-of-names-but-doesnt-provide-context/).
+*   **Feb 16, 2026**: **Reuters: French police searched Arab World Institute and homes linked to Jack Lang**.
+    *   Reuters reported French investigators searched the Arab World Institute and residences linked to former Culture Minister Jack Lang as part of an inquiry tied to Epstein-linked allegations; Lang denied wrongdoing.
+    *   Source: [Source](https://www.reuters.com/world/french-police-raid-arab-world-institute-epstein-linked-probe-into-jack-lang-2026-02-16/).
+*   **Feb 16, 2026**: **Reuters: Hyatt chairman Tom Pritzker announced step-down**.
+    *   Reuters reported Hyatt executive chairman Tom Pritzker said he will step down at the end of 2026, citing "terrible judgment" over his association with Epstein while denying knowledge of Epstein's crimes.
+    *   Source: [Source](https://www.reuters.com/sustainability/hyatt-executive-chairman-pritzker-steps-down-cites-terrible-judgment-epstein-2026-02-16/).
+*   **Feb 17, 2026**: **Reuters: New Mexico approved Zorro Ranch investigation commission**.
+    *   Reuters reported New Mexico lawmakers approved a state commission to investigate allegations tied to Epstein's Zorro Ranch, with hearings and a final report planned in 2027.
+    *   Source: [Source](https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/).
 <!-- LIVE_TIMELINE:END -->

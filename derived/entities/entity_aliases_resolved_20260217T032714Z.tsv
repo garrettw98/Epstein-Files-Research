@@ -1,0 +1,160 @@
+run_utc	entity_id	entity_type	canonical_name	alias_name	normalized_alias_name	alias_type	resolution_method	similarity	source	source_doc_id	source_url
+20260217T032714Z	entity-4698c87b28037f89	person	Ace Greenberg	Ace Greenberg	ace greenberg	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-4698c87b28037f89	person	Ace Greenberg	Ace Greenberg	ace greenberg	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-f5a72c04f6dd7552	person	Adriana Ross	Adriana Ross	adriana ross	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-f5a72c04f6dd7552	person	Adriana Ross	Adriana Ross	adriana ross	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-679804c61adb852d	person	Alan Dershowitz	Alan Dershowitz	alan dershowitz	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-679804c61adb852d	person	Alan Dershowitz	Alan Dershowitz	alan dershowitz	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-036ae4632e833c81	organization	AP	AP	ap	asserted_by	canonical_create	1.00	claim_registry		
+20260217T032714Z	entity-036ae4632e833c81	organization	AP	AP	ap	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-1224cb9b9413e417	person	Bill Clinton	Bill Clinton	bill clinton	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-1224cb9b9413e417	person	Bill Clinton	Bill Clinton	bill clinton	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-1aa87865f2661e67	person	Bill Gates	Bill Gates	bill gates	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-1aa87865f2661e67	person	Bill Gates	Bill Gates	bill gates	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-93fb04647e3bb66c	person	Bill Richardson	Bill Richardson	bill richardson	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-93fb04647e3bb66c	person	Bill Richardson	Bill Richardson	bill richardson	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-5b324f883bea1785	person	Brad Karp	Brad Karp	brad karp	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-5b324f883bea1785	person	Brad Karp	Brad Karp	brad karp	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-151d0766bc9ea7e5	person	Brett Ratner	Brett Ratner	brett ratner	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-151d0766bc9ea7e5	person	Brett Ratner	Brett Ratner	brett ratner	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-26fdf29c448e0da9	person	Casey Wasserman	Casey Wasserman	casey wasserman	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-26fdf29c448e0da9	person	Casey Wasserman	Casey Wasserman	casey wasserman	extracted_variant	canonical_create	1.00	claim_registry		
+20260217T032714Z	entity-b728212cae942eee	person	Commerce Secretary Howard Lutnick	Commerce Secretary Howard Lutnick	commerce secretary howard lutnick	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-b728212cae942eee	person	Commerce Secretary Howard Lutnick	Commerce Secretary Howard Lutnick	commerce secretary howard lutnick	extracted_variant	canonical_create	1.00	claim_registry		
+20260217T032714Z	entity-9b99eb08b55078d3	organization	Courtney Wild	Courtney Wild	courtney wild	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-9b99eb08b55078d3	organization	Courtney Wild	Courtney Wild	courtney wild	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-43313d7eec1057d6	person	Crown Princess Mette Marit	Crown Princess Mette Marit	crown princess mette marit	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-43313d7eec1057d6	person	Crown Princess Mette Marit	Crown Princess Mette Marit	crown princess mette marit	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-fb1c798c4c966c60	person	Daniel Siad	Daniel Siad	daniel siad	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-fb1c798c4c966c60	person	Daniel Siad	Daniel Siad	daniel siad	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-c5583389b7908d66	person	David Copperfield	David Copperfield	david copperfield	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-c5583389b7908d66	person	David Copperfield	David Copperfield	david copperfield	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-22cd676cce512bc3	person	Dean Kamen	Dean Kamen	dean kamen	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-22cd676cce512bc3	person	Dean Kamen	Dean Kamen	dean kamen	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-b0b98eed53269024	person	Deepak Chopra	Deepak Chopra	deepak chopra	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-b0b98eed53269024	person	Deepak Chopra	Deepak Chopra	deepak chopra	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-6c371071fbd36978	organization	DOJ (reported by Reuters/CNN)	DOJ (reported by Reuters/CNN)	doj reported by reuters cnn	asserted_by	canonical_create	1.00	claim_registry		
+20260217T032714Z	entity-6c371071fbd36978	organization	DOJ (reported by Reuters/CNN)	DOJ (reported by Reuters/CNN)	doj reported by reuters cnn	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-fd0bdbd930fee3f7	organization	DOJ OPA	DOJ OPA	doj opa	asserted_by	canonical_create	1.00	claim_registry		
+20260217T032714Z	entity-fd0bdbd930fee3f7	organization	DOJ OPA	DOJ OPA	doj opa	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-d6bb4e194670c116	person	Donald Trump	Donald Trump	donald trump	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-d6bb4e194670c116	person	Donald Trump	Donald Trump	donald trump	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-5fef7ebbff6ee0d9	person	Ehud Barak	Ehud Barak	ehud barak	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-5fef7ebbff6ee0d9	person	Ehud Barak	Ehud Barak	ehud barak	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-25c08d53577a23b8	person	Elon Musk	Elon Musk	elon musk	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-25c08d53577a23b8	person	Elon Musk	Elon Musk	elon musk	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-4ca90d4d3ed57d19	person	George Mitchell	George Mitchell	george mitchell	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-4ca90d4d3ed57d19	person	George Mitchell	George Mitchell	george mitchell	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-ee21b747d67e15ad	person	George Stephanopoulos	George Stephanopoulos	george stephanopoulos	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-ee21b747d67e15ad	person	George Stephanopoulos	George Stephanopoulos	george stephanopoulos	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-23105438c998fc4a	person	Ghislaine Maxwell	Ghislaine Maxwell	ghislaine maxwell	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-23105438c998fc4a	person	Ghislaine Maxwell	Ghislaine Maxwell	ghislaine maxwell	extracted_variant	exact	1.00	claim_registry		
+20260217T032714Z	entity-23105438c998fc4a	person	Ghislaine Maxwell	Ghislaine Maxwell	ghislaine maxwell	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-3ea30066741268c4	organization	Glenn and Eva Dubin	Glenn and Eva Dubin	glenn and eva dubin	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-3ea30066741268c4	organization	Glenn and Eva Dubin	Glenn and Eva Dubin	glenn and eva dubin	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-4f597482babfa436	organization	GovTrack/GovInfo	GovTrack/GovInfo	govtrack govinfo	asserted_by	canonical_create	1.00	claim_registry		
+20260217T032714Z	entity-4f597482babfa436	organization	GovTrack/GovInfo	GovTrack/GovInfo	govtrack govinfo	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-49f9302382c48909	organization	House Judiciary Committee	House Judiciary Committee	house judiciary committee	asserted_by	canonical_create	1.00	claim_registry		
+20260217T032714Z	entity-49f9302382c48909	organization	House Judiciary Committee	House Judiciary Committee	house judiciary committee	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-528080b5c42d76ad	person	Howard Lutnick	Howard Lutnick	howard lutnick	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-528080b5c42d76ad	person	Howard Lutnick	Howard Lutnick	howard lutnick	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-a07cef76d1a9c728	person	Jean Luc Brunel	Jean Luc Brunel	jean luc brunel	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-a07cef76d1a9c728	person	Jean Luc Brunel	Jean Luc Brunel	jean luc brunel	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-17edfc05a9d55882	person	Jeffrey Epstein	Jeffrey Epstein	jeffrey epstein	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-17edfc05a9d55882	person	Jeffrey Epstein	Jeffrey Epstein	jeffrey epstein	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-903bf7705a320376	person	Jes Staley	Jes Staley	jes staley	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-903bf7705a320376	person	Jes Staley	Jes Staley	jes staley	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-ada2a628a7f903b3	person	Joanna Rubinstein	Joanna Rubinstein	joanna rubinstein	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-ada2a628a7f903b3	person	Joanna Rubinstein	Joanna Rubinstein	joanna rubinstein	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-787ff5fe521e532a	person	John Brockman	John Brockman	john brockman	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-787ff5fe521e532a	person	John Brockman	John Brockman	john brockman	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-04d2a35d42e00474	person	Kathryn Ruemmler	Kathryn Ruemmler	kathryn ruemmler	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-04d2a35d42e00474	person	Kathryn Ruemmler	Kathryn Ruemmler	kathryn ruemmler	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-a904f44f28eb642d	person	Katie Couric	Katie Couric	katie couric	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-a904f44f28eb642d	person	Katie Couric	Katie Couric	katie couric	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-7bc876982c65b8e8	person	Leon Black	Leon Black	leon black	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-7bc876982c65b8e8	person	Leon Black	Leon Black	leon black	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-538c71835aafd9ba	person	Leonic Leonov	Leonic Leonov	leonic leonov	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-538c71835aafd9ba	person	Leonic Leonov	Leonic Leonov	leonic leonov	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-faf4c42a5f91cfea	person	Les Wexner	Les Wexner	les wexner	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-faf4c42a5f91cfea	person	Les Wexner	Les Wexner	les wexner	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-2bbd065a7f1922ca	person	Lesley Groff	Lesley Groff	lesley groff	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-2bbd065a7f1922ca	person	Lesley Groff	Lesley Groff	lesley groff	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-01239f8ef0032a65	person	Maria Farmer	Maria Farmer	maria farmer	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-01239f8ef0032a65	person	Maria Farmer	Maria Farmer	maria farmer	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-a743e4716534a059	organization	Miles and Cathy Alexander	Miles and Cathy Alexander	miles and cathy alexander	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-a743e4716534a059	organization	Miles and Cathy Alexander	Miles and Cathy Alexander	miles and cathy alexander	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-df294980477f3197	person	Miroslav Lajcak	Miroslav Lajcak	miroslav lajcak	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-df294980477f3197	person	Miroslav Lajcak	Miroslav Lajcak	miroslav lajcak	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-3c7a114f849b4dac	person	Nadia Marcinkova	Nadia Marcinkova	nadia marcinkova	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-3c7a114f849b4dac	person	Nadia Marcinkova	Nadia Marcinkova	nadia marcinkova	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-67d62f82fe25ad2e	person	Naomi Campbell	Naomi Campbell	naomi campbell	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-67d62f82fe25ad2e	person	Naomi Campbell	Naomi Campbell	naomi campbell	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-a09a334f308bae44	person	Nicola Caputo	Nicola Caputo	nicola caputo	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-a09a334f308bae44	person	Nicola Caputo	Nicola Caputo	nicola caputo	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-5fece04059ba0949	person	Pam Bondi	Pam Bondi	pam bondi	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-5fece04059ba0949	person	Pam Bondi	Pam Bondi	pam bondi	extracted_variant	canonical_create	1.00	claim_registry		
+20260217T032714Z	entity-fed4fade51cbe286	person	Peggy Siegal	Peggy Siegal	peggy siegal	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-fed4fade51cbe286	person	Peggy Siegal	Peggy Siegal	peggy siegal	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-149c0e1ea308d3e4	person	Peter Attia	Peter Attia	peter attia	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-149c0e1ea308d3e4	person	Peter Attia	Peter Attia	peter attia	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-b8888eb121d9b858	person	Peter Mandelson	Peter Mandelson	peter mandelson	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-b8888eb121d9b858	person	Peter Mandelson	Peter Mandelson	peter mandelson	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-431689d8ab66328c	person	Prince Andrew	Prince Andrew	prince andrew	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-431689d8ab66328c	person	Prince Andrew	Prince Andrew	prince andrew	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-cf534114040acf27	person	Reid Hoffman	Reid Hoffman	reid hoffman	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-cf534114040acf27	person	Reid Hoffman	Reid Hoffman	reid hoffman	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-38f1b76d45aaef3a	person	Religious Figures	Religious Figures	religious figures	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-38f1b76d45aaef3a	person	Religious Figures	Religious Figures	religious figures	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-651ce0659f433655	organization	Reuters	Reuters	reuters	asserted_by	canonical_create	1.00	claim_registry		
+20260217T032714Z	entity-651ce0659f433655	organization	Reuters	Reuters	reuters	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-7b458a06b427d96a	person	Richard Branson	Richard Branson	richard branson	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-7b458a06b427d96a	person	Richard Branson	Richard Branson	richard branson	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-d91a1d1c21ec91f8	person	Salvatore Nuara	Salvatore Nuara	salvatore nuara	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-d91a1d1c21ec91f8	person	Salvatore Nuara	Salvatore Nuara	salvatore nuara	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-66f129ec3d0de354	person	Sarah Ferguson	Sarah Ferguson	sarah ferguson	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-66f129ec3d0de354	person	Sarah Ferguson	Sarah Ferguson	sarah ferguson	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-38278b8370613fbb	person	Sarah Kellen	Sarah Kellen	sarah kellen	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-38278b8370613fbb	person	Sarah Kellen	Sarah Kellen	sarah kellen	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-b8e4d7b6ef48b86d	person	Sarah Ransome	Sarah Ransome	sarah ransome	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-b8e4d7b6ef48b86d	person	Sarah Ransome	Sarah Ransome	sarah ransome	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-8ea464fc7534ce4f	person	Sergey Brin	Sergey Brin	sergey brin	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-8ea464fc7534ce4f	person	Sergey Brin	Sergey Brin	sergey brin	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-b95367556c1a26df	person	Steve Bannon	Steve Bannon	steve bannon	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-b95367556c1a26df	person	Steve Bannon	Steve Bannon	steve bannon	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-49cc77e32a9b1d9e	person	Steve Tisch	Steve Tisch	steve tisch	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-49cc77e32a9b1d9e	person	Steve Tisch	Steve Tisch	steve tisch	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-928cdf9846dba2ab	person	Sultan Ahmed Bin Sulayem	Sultan Ahmed Bin Sulayem	sultan ahmed bin sulayem	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-928cdf9846dba2ab	person	Sultan Ahmed Bin Sulayem	Sultan Ahmed Bin Sulayem	sultan ahmed bin sulayem	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-5b7413741ca3f7dc	person	Terje Rod Larsen	Terje Rod Larsen	terje rod larsen	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-5b7413741ca3f7dc	person	Terje Rod Larsen	Terje Rod Larsen	terje rod larsen	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-3672e8ded5e31ce6	person	The Dream Team Defense	The Dream Team Defense	the dream team defense	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-3672e8ded5e31ce6	person	The Dream Team Defense	The Dream Team Defense	the dream team defense	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-983fc8c874d896dd	person	The Epstein Files Transparency	The Epstein Files Transparency	the epstein files transparency	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-983fc8c874d896dd	person	The Epstein Files Transparency	The Epstein Files Transparency	the epstein files transparency	extracted_variant	canonical_create	1.00	claim_registry		
+20260217T032714Z	entity-4a05c0472738a6ce	person	The Hollywood Circle	The Hollywood Circle	the hollywood circle	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-4a05c0472738a6ce	person	The Hollywood Circle	The Hollywood Circle	the hollywood circle	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-1d223d54ce882794	organization	The Household Staff	The Household Staff	the household staff	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-1d223d54ce882794	organization	The Household Staff	The Household Staff	the household staff	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-f218b4460c3f0316	person	The Journalists	The Journalists	the journalists	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-f218b4460c3f0316	person	The Journalists	The Journalists	the journalists	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-4bf7043840582bf6	person	The Lawyers	The Lawyers	the lawyers	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-4bf7043840582bf6	person	The Lawyers	The Lawyers	the lawyers	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-b402670715e027a9	person	The Legal Crusaders	The Legal Crusaders	the legal crusaders	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-b402670715e027a9	person	The Legal Crusaders	The Legal Crusaders	the legal crusaders	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-0d87c75375c7e8ed	person	Thorbjorn Jagland	Thorbjorn Jagland	thorbjorn jagland	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-0d87c75375c7e8ed	person	Thorbjorn Jagland	Thorbjorn Jagland	thorbjorn jagland	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-768430ab506bd48f	person	Tom Barrack	Tom Barrack	tom barrack	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-768430ab506bd48f	person	Tom Barrack	Tom Barrack	tom barrack	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-cc78f2117c9671a9	person	Tom Pritzker	Tom Pritzker	tom pritzker	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-cc78f2117c9671a9	person	Tom Pritzker	Tom Pritzker	tom pritzker	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-74a98f99f9795091	person	Viral Names	Viral Names	viral names	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-74a98f99f9795091	person	Viral Names	Viral Names	viral names	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-9596e84dc49b2515	person	Virginia Giuffre	Virginia Giuffre	virginia giuffre	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-9596e84dc49b2515	person	Virginia Giuffre	Virginia Giuffre	virginia giuffre	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-48588e921db6809a	organization	White House	White House	white house	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-48588e921db6809a	organization	White House	White House	white house	extracted_variant	canonical_create	1.00	claim_registry		
+20260217T032714Z	entity-5d429ce4d4edb06f	person	William Burns	William Burns	william burns	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-5d429ce4d4edb06f	person	William Burns	William Burns	william burns	profile_slug	canonical_create	1.00	profiles		
+20260217T032714Z	entity-73f760f84bb3574b	person	Zurab Mikeladze	Zurab Mikeladze	zurab mikeladze	canonical	exact	1.00	canonical_seed		
+20260217T032714Z	entity-73f760f84bb3574b	person	Zurab Mikeladze	Zurab Mikeladze	zurab mikeladze	profile_slug	canonical_create	1.00	profiles		

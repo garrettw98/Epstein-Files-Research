@@ -186,6 +186,29 @@ CREATE TABLE IF NOT EXISTS claim_quality_flags (
 CREATE INDEX IF NOT EXISTS idx_claim_quality_claim ON claim_quality_flags(claim_id);
 CREATE INDEX IF NOT EXISTS idx_claim_quality_severity ON claim_quality_flags(severity);
 
+CREATE TABLE IF NOT EXISTS claim_review_queue (
+  queue_id TEXT PRIMARY KEY,
+  claim_id TEXT NOT NULL,
+  priority TEXT NOT NULL, -- p1, p2, p3
+  claim_status TEXT NOT NULL,
+  triage_status TEXT NOT NULL, -- open, in_review, resolved, deferred
+  flag_count INTEGER NOT NULL DEFAULT 0,
+  high_flag_count INTEGER NOT NULL DEFAULT 0,
+  warn_flag_count INTEGER NOT NULL DEFAULT 0,
+  rule_ids TEXT NOT NULL,
+  evidence_gap TEXT NOT NULL,
+  recommended_action TEXT NOT NULL,
+  related_doc_ids TEXT,
+  related_source_urls TEXT,
+  created_at_utc TEXT NOT NULL,
+  updated_at_utc TEXT NOT NULL,
+  FOREIGN KEY(claim_id) REFERENCES claims(claim_id) ON DELETE CASCADE
+);
+
+CREATE INDEX IF NOT EXISTS idx_claim_review_claim ON claim_review_queue(claim_id);
+CREATE INDEX IF NOT EXISTS idx_claim_review_priority ON claim_review_queue(priority);
+CREATE INDEX IF NOT EXISTS idx_claim_review_status ON claim_review_queue(triage_status);
+
 CREATE TABLE IF NOT EXISTS claim_candidates (
   candidate_id TEXT PRIMARY KEY,
   claim_text TEXT NOT NULL,

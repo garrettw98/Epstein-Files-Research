@@ -101,6 +101,19 @@ This repository is a source-linked research index for documents, entities, event
 *   **DOJ library status (Feb 17, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
 <!-- LIVE_UPDATES:END -->
 
+<!-- LAST24H:START -->
+### What Changed in Last 24 Hours (Auto-generated)
+- Window: Feb 16, 2026 14:14 UTC to Feb 17, 2026 14:14 UTC.
+- Monitored link updates: 0 across 0 domains.
+- Primary-doc diffs: added 5, removed 5, changed 0.
+- Claim-status diffs: added 0, removed 0, changed 0.
+- Claim review queue (open): p1=2, p2=4, p3=0.
+- DOJ data-set file index: 12/12 sets with files, 524 total indexed files.
+
+#### Recent items (latest first)
+- No monitored links in the current 24-hour window.
+<!-- LAST24H:END -->
+
 ### Core 2026 release files
 - [2026 Release Dossier](evidence/2026_Release.md)
 - [Bondi Hearing Full Dossier (Feb 11, 2026)](evidence/Bondi_Hearing_Feb_11_2026.md)
@@ -181,6 +194,8 @@ This repository is a source-linked research index for documents, entities, event
 - [Entity Aliases (latest)](derived/entities/entity_aliases_resolved_latest.tsv)
 - [Entity Mentions (latest)](derived/entities/entity_mentions_latest.tsv)
 - [Claim Quality Flags (latest)](derived/claims/claim_quality_flags_latest.tsv)
+- [Claim Review Queue (latest)](derived/claims/claim_review_queue_latest.tsv)
+- [DOJ Data Set File Counts (latest)](derived/doj_epstein_library/dataset_file_counts_latest.tsv)
 - [Coverage Gap Dashboard (latest)](derived/reports/coverage_gap_dashboard_latest.md)
 - [Repository Organization](docs/REPO_ORGANIZATION.md)
 - [Data Pipeline Runbook](docs/DATA_PIPELINE.md)
@@ -193,6 +208,10 @@ Run a full live-update refresh for README/timeline sections:
 Ingest DOJ Epstein library sources into `raw/` and normalized `derived/` indexes:
 
 `./scripts/ingest_epstein_library.sh`
+
+Derive per-data-set file counts and listing completeness from DOJ data-set pages:
+
+`./scripts/derive_doj_dataset_completeness.py`
 
 Run a broad multi-source ingest (DOJ/OIG/AP/Reuters/BBC/Guardian/Fox/GovTrack + GDELT) into `raw/epstein_universe/` and `derived/epstein_universe/`:
 
@@ -226,6 +245,10 @@ Assess claim context quality and flag weak/name-only inference claims:
 
 `./scripts/assess_claim_context_quality.py`
 
+Auto-triage claim-quality flags into prioritized review queue outputs:
+
+`./scripts/triage_claim_quality_flags.py`
+
 Load normalized outputs into SQLite (`derived/database/epstein_research.sqlite`):
 
 `./scripts/load_epstein_sqlite.py`
@@ -238,6 +261,10 @@ Generate dataset/source coverage-gap dashboard (`derived/reports/`):
 
 `./scripts/generate_coverage_gap_dashboard.py`
 
+Update README/timeline with the rolling 24-hour change brief:
+
+`./scripts/update_last24h_brief.py`
+
 Run end-to-end daily ingest/load/report:
 
 `./scripts/run_daily_pipeline.sh`
@@ -249,3 +276,4 @@ Or use Make targets:
 ---
 
 > Note: This database prioritizes source-linked records and explicit claim status labels so readers can separate verified evidence from open or disputed claims.
+

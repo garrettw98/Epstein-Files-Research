@@ -1,0 +1,112 @@
+source	sitemap_url	parent_sitemap	status_code	final_url	content_type
+doj	https://www.justice.gov/sitemap.xml	https://www.justice.gov/sitemap.xml	200	https://www.justice.gov/sitemap.xml	application/xml; charset=utf-8
+doj_oig	https://oig.justice.gov/sitemap.xml	https://oig.justice.gov/sitemap.xml	200	https://oig.justice.gov/sitemap.xml	application/xml; charset=utf-8
+doj_oig	https://oig.justice.gov/sitemap.xml?page=1	https://oig.justice.gov/sitemap.xml	200	https://oig.justice.gov/sitemap.xml?page=1	application/xml; charset=utf-8
+doj_oig	https://oig.justice.gov/sitemap.xml?page=2	https://oig.justice.gov/sitemap.xml	200	https://oig.justice.gov/sitemap.xml?page=2	application/xml; charset=utf-8
+doj_oig	https://oig.justice.gov/sitemap.xml?page=3	https://oig.justice.gov/sitemap.xml	200	https://oig.justice.gov/sitemap.xml?page=3	application/xml; charset=utf-8
+ap_latest	https://apnews.com/ap-sitemap-latest.xml	https://apnews.com/ap-sitemap-latest.xml	200	https://apnews.com/ap-sitemap-latest.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/sitemap.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202404.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202404.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202403.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202403.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202602.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202602.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202511.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202511.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202303.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202303.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202601.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202601.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202510.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202510.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202309.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202309.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202512.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202512.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202203.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202203.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202509.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202509.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202109.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202109.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202209.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202209.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202508.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202508.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202507.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202507.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202505.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202505.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202506.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202506.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202501.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202501.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202503.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202503.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202412.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202412.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202411.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202411.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202502.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202502.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202410.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202410.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202408.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202408.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202409.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202409.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202407.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202407.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202406.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202406.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202405.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202405.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202402.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202402.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202308.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202308.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-202202.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-202202.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-200610.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-200610.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-200707.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-200707.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-200708.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-200708.xml	text/xml;charset=UTF-8
+ap_archive	https://apnews.com/ap-sitemap-200709.xml	https://apnews.com/sitemap.xml	200	https://apnews.com/ap-sitemap-200709.xml	text/xml;charset=UTF-8
+reuters_news	https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml	https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml	200	https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml	application/xml; charset=utf-8
+reuters_news	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml	https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml	200	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml	application/xml; charset=utf-8
+reuters_news	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=100	https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml	200	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=100	application/xml; charset=utf-8
+reuters_news	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=200	https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml	200	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=200	application/xml; charset=utf-8
+reuters_news	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=300	https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml	200	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=300	application/xml; charset=utf-8
+reuters_news	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=400	https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml	200	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=400	application/xml; charset=utf-8
+reuters_news	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=500	https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml	200	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=500	application/xml; charset=utf-8
+reuters_news	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=600	https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml	200	https://www.reuters.com/arc/outboundfeeds/news-sitemap/?outputType=xml&from=600	application/xml; charset=utf-8
+cnn_news	https://www.cnn.com/sitemaps/sitemap-index.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-index.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-pages.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-pages.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/style-sitemap.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/style-sitemap.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-travel.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-travel.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-livestreams.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-livestreams.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-interactive.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-interactive.xml	text/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-section.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-section.xml	text/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-articles-politics-live-debate.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-articles-politics-live-debate.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2010-04.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2010-04.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2010-03.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2010-03.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2010-01.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2010-01.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2010-02.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2010-02.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2010-06.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2010-06.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2010-09.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	0	https://www.cnn.com/sitemaps/sitemap-2010-09.xml	
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2009-12.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2009-12.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2010-08.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2010-08.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2010-07.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2010-07.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2010-05.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2010-05.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2009-06.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2009-06.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2009-04.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2009-04.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2009-03.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2009-03.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2009-02.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2009-02.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2009-01.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2009-01.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2009-05.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2009-05.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2010-10.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2010-10.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2009-10.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2009-10.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2009-09.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2009-09.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2009-08.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2009-08.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2009-07.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2009-07.xml	application/xml
+cnn_news	https://www.cnn.com/sitemaps/sitemap-2009-11.xml	https://www.cnn.com/sitemaps/sitemap-index.xml	200	https://www.cnn.com/sitemaps/sitemap-2009-11.xml	application/xml
+bbc_news	https://www.bbc.com/sitemaps/https-index-com-news.xml	https://www.bbc.com/sitemaps/https-index-com-news.xml	200	https://www.bbc.com/sitemaps/https-index-com-news.xml	application/xml
+bbc_news	https://www.bbc.com/sitemaps/https-sitemap-com-news-2.xml	https://www.bbc.com/sitemaps/https-index-com-news.xml	200	https://www.bbc.com/sitemaps/https-sitemap-com-news-2.xml	application/xml
+bbc_news	https://www.bbc.com/sitemaps/https-sitemap-com-news-1.xml	https://www.bbc.com/sitemaps/https-index-com-news.xml	200	https://www.bbc.com/sitemaps/https-sitemap-com-news-1.xml	application/xml
+guardian_news	https://www.theguardian.com/sitemaps/news.xml	https://www.theguardian.com/sitemaps/news.xml	200	https://www.theguardian.com/sitemaps/news.xml	text/xml; charset=UTF-8
+fox_news	https://www.foxnews.com/sitemap.xml	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=fastchanging	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=fastchanging	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=articles	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=articles	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=videos	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=videos	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=categories	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=categories	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=liveblogs	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=liveblogs	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=news	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=news	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=pages	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=pages	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=personalities	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=personalities	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=sections	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=sections	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=shows	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=shows	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=videoshows	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=videoshows	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=fastchanging-video	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=fastchanging-video	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=articles&page=10	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=articles&page=10	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=articles&page=100	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=articles&page=100	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=articles&page=101	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=articles&page=101	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=articles&page=102	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=articles&page=102	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=articles&page=103	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=articles&page=103	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=articles&page=104	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=articles&page=104	application/xml; charset=utf-8
+fox_news	https://www.foxnews.com/sitemap.xml?type=articles&page=105	https://www.foxnews.com/sitemap.xml	200	https://www.foxnews.com/sitemap.xml?type=articles&page=105	application/xml; charset=utf-8
+govtrack	https://www.govtrack.us/sitemap.xml	https://www.govtrack.us/sitemap.xml	200	https://www.govtrack.us/sitemap.xml	application/xml
+govtrack	https://www.govtrack.us/sitemap-bills_current.xml	https://www.govtrack.us/sitemap.xml	200	https://www.govtrack.us/sitemap-bills_current.xml	application/xml
+govtrack	https://www.govtrack.us/sitemap-people_current.xml	https://www.govtrack.us/sitemap.xml	200	https://www.govtrack.us/sitemap-people_current.xml	application/xml
+govtrack	https://www.govtrack.us/sitemap-people_archive.xml	https://www.govtrack.us/sitemap.xml	200	https://www.govtrack.us/sitemap-people_archive.xml	application/xml
+govtrack	https://www.govtrack.us/sitemap-districts.xml	https://www.govtrack.us/sitemap.xml	200	https://www.govtrack.us/sitemap-districts.xml	application/xml
+govtrack	https://www.govtrack.us/sitemap-committees.xml	https://www.govtrack.us/sitemap.xml	200	https://www.govtrack.us/sitemap-committees.xml	application/xml
+govtrack	https://www.govtrack.us/sitemap-votes_current.xml	https://www.govtrack.us/sitemap.xml	200	https://www.govtrack.us/sitemap-votes_current.xml	application/xml

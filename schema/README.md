@@ -17,6 +17,7 @@ This folder defines the baseline relational model for moving this repository fro
 - `evidence_spans`: normalized page/section/line/timestamp anchors with snippet hashes.
 - `claim_evidence_links`: evidence graph linking each claim to specific docs and span-level citations.
 - `claim_quality_flags`: rule-engine flags for weak inference patterns (e.g., name-only implication risk).
+- `claim_review_queue`: prioritized triage queue generated from open claim quality flags.
 - `claim_contradictions`: explicit contradiction tracking.
 - `ingest_runs`: provenance for import/update pipelines.
 

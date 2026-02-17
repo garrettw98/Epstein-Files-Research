@@ -9,6 +9,7 @@ import datetime as dt
 import json
 import pathlib
 import re
+import urllib.parse
 from collections import Counter
 
 
@@ -49,6 +50,13 @@ def parse_compact_utc(value: str) -> dt.datetime | None:
         except ValueError:
             continue
     return None
+
+
+def url_host(url: str) -> str:
+    host = urllib.parse.urlsplit(url or "").netloc.lower()
+    if host.startswith("www."):
+        host = host[4:]
+    return host
 
 
 def extract_expected_dataset_max(readme_text: str) -> int:
@@ -119,6 +127,7 @@ def main() -> int:
 
     readme_text = (root / "README.md").read_text(encoding="utf-8") if (root / "README.md").exists() else ""
     doj_index_rows = read_tsv(root / "derived" / "doj_epstein_library" / "epstein_library_index_latest.tsv")
+    dataset_count_rows = read_tsv(root / "derived" / "doj_epstein_library" / "dataset_file_counts_latest.tsv")
     primary_docs_rows = read_tsv(root / "derived" / "primary_docs" / "primary_documents_latest.tsv")
     media_status_rows = read_tsv(root / "derived" / "media_coverage" / "outlet_endpoint_status_latest.tsv")
     claim_quality_rows = read_tsv(root / "derived" / "claims" / "claim_quality_flags_latest.tsv")
@@ -131,9 +140,32 @@ def main() -> int:
     else:
         missing_datasets = []
 
-    broken_doj_links = [
-        row for row in doj_index_rows if (row.get("status_code") or "") and (row.get("status_code") not in {"200", "301", "302"})
-    ]
+    datasets_with_files: list[int] = []
+    datasets_zero_files: list[int] = []
+    dataset_total_files = 0
+    for row in dataset_count_rows:
+        try:
+            dataset_number = int((row.get("dataset_number") or "").strip())
+        except Exception:
+            continue
+        try:
+            file_count = int((row.get("file_count") or "").strip() or 0)
+        except Exception:
+            file_count = 0
+        dataset_total_files += file_count
+        if file_count > 0:
+            datasets_with_files.append(dataset_number)
+        else:
+            datasets_zero_files.append(dataset_number)
+
+    broken_doj_links = []
+    for row in doj_index_rows:
+        status_code = (row.get("status_code") or "").strip()
+        if not status_code or status_code in {"200", "301", "302"}:
+            continue
+        host = url_host((row.get("url") or "").strip())
+        if host.endswith("justice.gov"):
+            broken_doj_links.append(row)
     media_endpoint_failures = [
         row for row in media_status_rows if (row.get("http_status") or "") and (row.get("http_status") not in {"200", "301", "302"})
     ]
@@ -176,6 +208,24 @@ def main() -> int:
             str(len(missing_datasets)),
             "ok" if not missing_datasets else "warn",
             f"Missing datasets: {', '.join(str(x) for x in missing_datasets) if missing_datasets else 'none'}",
+        ],
+        [
+            "dataset_sets_with_files",
+            str(len(set(datasets_with_files))),
+            "ok" if set(datasets_with_files) else "warn",
+            f"Sets with >=1 file: {', '.join(str(x) for x in sorted(set(datasets_with_files))) if datasets_with_files else 'none'}",
+        ],
+        [
+            "dataset_zero_file_sets",
+            str(len(set(datasets_zero_files))),
+            "ok" if not datasets_zero_files else "warn",
+            f"Sets with 0 files: {', '.join(str(x) for x in sorted(set(datasets_zero_files))) if datasets_zero_files else 'none'}",
+        ],
+        [
+            "dataset_total_files_indexed",
+            str(dataset_total_files),
+            "ok" if dataset_total_files > 0 else "warn",
+            "Total files discovered across all data set listing pages.",
         ],
         [
             "doj_library_broken_links",
@@ -231,11 +281,24 @@ def main() -> int:
         handle.write(f"- Expected dataset max: {expected_dataset_max or 'unknown'}\n")
         handle.write(f"- Ingested dataset numbers: {', '.join(str(x) for x in sorted(ingested_dataset_numbers)) or 'none detected'}\n")
         handle.write(f"- Missing datasets: {', '.join(str(x) for x in missing_datasets) if missing_datasets else 'none'}\n")
+        handle.write(
+            f"- Data sets with files: {', '.join(str(x) for x in sorted(set(datasets_with_files))) if datasets_with_files else 'none'}\n"
+        )
+        handle.write(
+            f"- Data sets with zero files: {', '.join(str(x) for x in sorted(set(datasets_zero_files))) if datasets_zero_files else 'none'}\n"
+        )
+        handle.write(f"- Total data-set files indexed: {dataset_total_files}\n")
         handle.write(f"- Broken DOJ links: {len(broken_doj_links)}\n")
         handle.write(f"- Media endpoint failures: {len(media_endpoint_failures)}\n")
         handle.write(f"- Missing primary source systems: {', '.join(missing_primary_sources) if missing_primary_sources else 'none'}\n")
         handle.write(f"- Stale inputs: {len(stale_inputs)}\n")
         handle.write(f"- High claim-quality flags: {by_severity.get('high', 0)}\n\n")
+
+        if datasets_zero_files:
+            handle.write("## Data Set File Count Gaps\n")
+            for value in sorted(set(datasets_zero_files)):
+                handle.write(f"- Data Set {value}: zero files discovered from listing crawl\n")
+            handle.write("\n")
 
         if broken_doj_links:
             handle.write("## Broken DOJ Links\n")

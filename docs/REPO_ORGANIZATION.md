@@ -30,6 +30,8 @@ This guide defines where content belongs so additions stay readable and auditabl
 - Every non-trivial claim should have a row in `derived/claims/claim_registry_latest.tsv` and at least one row in `derived/claims/claim_evidence_links_latest.tsv`.
 - If a claim status changes, update claim notes with why and source basis.
 - Keep `derived/claims/claim_quality_flags_latest.tsv` under review; high-severity flags should be triaged before promoting new claims.
+- Keep `derived/claims/claim_review_queue_latest.tsv` aligned with claim-quality outputs and resolve `p1` rows first.
+- Keep `derived/doj_epstein_library/dataset_file_counts_latest.tsv` current so data-set file completeness checks remain valid.
 
 ## Readability Rules
 

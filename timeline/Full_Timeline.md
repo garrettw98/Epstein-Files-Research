@@ -8,6 +8,18 @@ This timeline integrates all data points from this repository into a single chro
 For a source-focused map of official U.S. institutional actions (DOJ/Congress/oversight), see:
 - **[Government Response Timeline to the Epstein Files](Government_Response_To_Epstein_Files.md)**
 
+<!-- LAST24H_TIMELINE:START -->
+## Last 24 Hours Snapshot (Auto-generated)
+- Window: Feb 16, 2026 14:14 UTC to Feb 17, 2026 14:14 UTC.
+- Monitored updates: 0 links across 0 domains.
+- Primary-doc changes: added 5, removed 5, changed 0.
+- Claim review pressure: p1=2, p2=4, p3=0 open.
+- DOJ data-set file index health: 12/12 sets with files.
+
+### Recent items
+- No monitored links in the current 24-hour window.
+<!-- LAST24H_TIMELINE:END -->
+
 ---
 
 ## 🏗️ 1953 - 1989: Origins & The "Seed Money"
@@ -272,3 +284,11 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   Reuters reported New Mexico lawmakers approved a state commission to investigate allegations tied to Epstein's Zorro Ranch, with hearings and a final report planned in 2027.
     *   Source: [Source](https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/).
 <!-- LIVE_TIMELINE:END -->
+
+
+
+
+
+
+
+

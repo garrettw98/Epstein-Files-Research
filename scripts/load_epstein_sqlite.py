@@ -213,6 +213,11 @@ def parse_args() -> argparse.Namespace:
         help="Claim quality flags TSV path.",
     )
     parser.add_argument(
+        "--claim-review-queue-tsv",
+        default=str(root / "derived" / "claims" / "claim_review_queue_latest.tsv"),
+        help="Claim review queue TSV path.",
+    )
+    parser.add_argument(
         "--no-prune-missing-docs",
         action="store_true",
         help="Keep old pipeline documents not present in the current docs TSV.",
@@ -280,6 +285,7 @@ def main() -> int:
     entity_aliases_tsv = pathlib.Path(args.entity_aliases_tsv).resolve()
     entity_mentions_tsv = pathlib.Path(args.entity_mentions_tsv).resolve()
     claim_flags_tsv = pathlib.Path(args.claim_flags_tsv).resolve()
+    claim_review_queue_tsv = pathlib.Path(args.claim_review_queue_tsv).resolve()
 
     db_path.parent.mkdir(parents=True, exist_ok=True)
 
@@ -294,6 +300,7 @@ def main() -> int:
     entity_alias_rows = read_tsv(entity_aliases_tsv)
     entity_mention_rows = read_tsv(entity_mentions_tsv)
     claim_flag_rows = read_tsv(claim_flags_tsv)
+    claim_review_rows = read_tsv(claim_review_queue_tsv)
 
     run_id = run_id_now()
     now_iso = utc_now_iso()
@@ -523,6 +530,11 @@ def main() -> int:
                 f"DELETE FROM claim_quality_flags WHERE claim_id IN ({placeholders})",
                 incoming_claim_ids,
             )
+            if table_exists(conn, "claim_review_queue"):
+                conn.execute(
+                    f"DELETE FROM claim_review_queue WHERE claim_id IN ({placeholders})",
+                    incoming_claim_ids,
+                )
 
         existing_docs = {row[0] for row in conn.execute("SELECT doc_id FROM documents")}
         for row in links:
@@ -986,6 +998,76 @@ def main() -> int:
                 ),
             )
 
+        if table_exists(conn, "claim_review_queue"):
+            conn.execute("DELETE FROM claim_review_queue")
+            existing_claim_ids = {row[0] for row in conn.execute("SELECT claim_id FROM claims")}
+            for row in claim_review_rows:
+                claim_id = (row.get("claim_id") or "").strip()
+                if not claim_id or claim_id not in existing_claim_ids:
+                    continue
+
+                queue_id = (row.get("queue_id") or "").strip()
+                if not queue_id:
+                    queue_id = hash_id(
+                        "review",
+                        f"{claim_id}|{(row.get('rule_ids') or '').strip()}|{(row.get('priority') or '').strip()}",
+                    )
+
+                try:
+                    flag_count = int((row.get("flag_count") or "0").strip() or 0)
+                except Exception:
+                    flag_count = 0
+                try:
+                    high_flag_count = int((row.get("high_flag_count") or "0").strip() or 0)
+                except Exception:
+                    high_flag_count = 0
+                try:
+                    warn_flag_count = int((row.get("warn_flag_count") or "0").strip() or 0)
+                except Exception:
+                    warn_flag_count = 0
+
+                conn.execute(
+                    """
+                    INSERT INTO claim_review_queue (
+                      queue_id, claim_id, priority, claim_status, triage_status,
+                      flag_count, high_flag_count, warn_flag_count, rule_ids,
+                      evidence_gap, recommended_action, related_doc_ids, related_source_urls,
+                      created_at_utc, updated_at_utc
+                    ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                    ON CONFLICT(queue_id) DO UPDATE SET
+                      claim_id = excluded.claim_id,
+                      priority = excluded.priority,
+                      claim_status = excluded.claim_status,
+                      triage_status = excluded.triage_status,
+                      flag_count = excluded.flag_count,
+                      high_flag_count = excluded.high_flag_count,
+                      warn_flag_count = excluded.warn_flag_count,
+                      rule_ids = excluded.rule_ids,
+                      evidence_gap = excluded.evidence_gap,
+                      recommended_action = excluded.recommended_action,
+                      related_doc_ids = excluded.related_doc_ids,
+                      related_source_urls = excluded.related_source_urls,
+                      updated_at_utc = excluded.updated_at_utc
+                    """,
+                    (
+                        queue_id,
+                        claim_id,
+                        (row.get("priority") or "").strip().lower() or "p2",
+                        (row.get("claim_status") or "").strip() or "pending_review",
+                        (row.get("triage_status") or "").strip() or "open",
+                        flag_count,
+                        high_flag_count,
+                        warn_flag_count,
+                        (row.get("rule_ids") or "").strip(),
+                        (row.get("evidence_gap") or "").strip(),
+                        (row.get("recommended_action") or "").strip(),
+                        (row.get("related_doc_ids") or "").strip(),
+                        (row.get("related_source_urls") or "").strip(),
+                        now_iso,
+                        now_iso,
+                    ),
+                )
+
     conn.close()
 
     print("SQLite load complete.")
@@ -997,6 +1079,7 @@ def main() -> int:
     print(f"- Entity aliases loaded: {len(entity_alias_rows)}")
     print(f"- Entity mentions loaded: {len(entity_mention_rows)}")
     print(f"- Claim quality flags loaded: {len(claim_flag_rows)}")
+    print(f"- Claim review queue rows loaded: {len(claim_review_rows)}")
     return 0
 
 

@@ -1,0 +1,25 @@
+{
+  "run_utc": "20260217T055413Z",
+  "keyword_count": 3,
+  "keywords": [
+    "epstein",
+    "ghislaine",
+    "jeffrey-epstein"
+  ],
+  "discovered_urls": 1033,
+  "sources": [
+    "doj",
+    "doj_oig",
+    "ap_latest",
+    "ap_archive",
+    "reuters_news",
+    "cnn_news",
+    "bbc_news",
+    "guardian_news",
+    "fox_news",
+    "govtrack"
+  ],
+  "seed_file": "/Users/garrettwilliams/Epstein/Epstein-Files-Research/evidence/Primary_Sources_Index.md",
+  "skip_gdelt": false,
+  "save_sitemaps": false
+}

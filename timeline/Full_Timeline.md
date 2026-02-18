@@ -10,14 +10,21 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 <!-- LAST24H_TIMELINE:START -->
 ## Last 24 Hours Snapshot (Auto-generated)
-- Window: Feb 16, 2026 14:14 UTC to Feb 17, 2026 14:14 UTC.
-- Monitored updates: 0 links across 0 domains.
-- Primary-doc changes: added 5, removed 5, changed 0.
+- Window: Feb 17, 2026 01:07 UTC to Feb 18, 2026 01:07 UTC.
+- Monitored updates: 29 links across 5 domains.
+- Primary-doc changes: added 9, removed 2, changed 0.
 - Claim review pressure: p1=2, p2=4, p3=0 open.
 - DOJ data-set file index health: 12/12 sets with files.
 
 ### Recent items
-- No monitored links in the current 24-hour window.
+* **Feb 18, 2026**: Hyatt chair Thomas Pritzker steps down over Epstein links (theguardian.com). [Source](https://www.theguardian.com/business/2026/feb/17/hyatt-chair-thomas-pritzker-jeffrey-epstein-ghislane-maxwell)
+* **Feb 18, 2026**: Six Sarah Ferguson-linked companies to close after Epstein revelations (theguardian.com). [Source](https://www.theguardian.com/uk-news/2026/feb/16/six-sarah-ferguson-linked-companies-to-close-after-epstein-revelations)
+* **Feb 18, 2026**: Epstein ranch in New Mexico bought by family of ‘Trump Republican’ candidate (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/16/epstein-ranch-new-mexico-purchase-republican-candidate)
+* **Feb 18, 2026**: Epstein sympathized with Kavanaugh during supreme court confirmation, emails show (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/16/jeffrey-epstein-brett-kavanaugh-supreme-court)
+* **Feb 18, 2026**: Questions swirl over Ohio billionaire Les Wexner’s ties to Jeffrey Epstein (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/17/les-wexner-jeffrey-epstein)
+* **Feb 18, 2026**: LA mayor calls for Casey Wasserman to step down as Olympics chair over Epstein ties (theguardian.com). [Source](https://www.theguardian.com/sport/2026/feb/17/karen-bass-casey-wasserman-la-olympics-maxwell-epstein-files)
+* **Feb 18, 2026**: New Mexico approves truth commission on alleged Jeffrey Epstein ranch abuse (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/17/epstein-zorro-ranch-abuse-new-mexico)
+* **Feb 18, 2026**: Hillary Clinton accuses Trump’s justice department of Epstein files ‘cover-up’ (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/17/hillary-clinton-trump-epstein-files-cover-up)
 <!-- LAST24H_TIMELINE:END -->
 
 ---
@@ -284,6 +291,8 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   Reuters reported New Mexico lawmakers approved a state commission to investigate allegations tied to Epstein's Zorro Ranch, with hearings and a final report planned in 2027.
     *   Source: [Source](https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/).
 <!-- LIVE_TIMELINE:END -->
+
+
 
 
 

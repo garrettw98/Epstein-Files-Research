@@ -1,5 +1,5 @@
 outlet	endpoint	http_status
-AP	https://apnews.com/sitemap.xml	200
+AP	https://apnews.com/sitemap.xml	429
 Reuters	https://www.reuters.com/arc/outboundfeeds/news-sitemap-index/?outputType=xml	200
 BBC	https://www.bbc.com/sitemaps/https-index-com-news.xml	200
 Guardian	https://www.theguardian.com/sitemaps/news.xml	200

@@ -11,6 +11,9 @@ This section profiles every major figure connected to the Epstein case. We categ
 ## 👁️ The Eyewitnesses (The Staff)
 *   **[The Household Staff](The_Household_Staff.md)**: The butler who stole the "Black Book" and the pilots who flew the plane.
 
+## 🛡️ The Investigators
+*   **[Michael Reiter](Michael_Reiter.md)**: Palm Beach police chief who launched the early local investigation.
+
 ## 🔴 The Inner Circle (Convicted/Charged)
 *   **[Jeffrey Epstein](Jeffrey_Epstein.md)** - The primary perpetrator.
 *   **[Ghislaine Maxwell](Ghislaine_Maxwell.md)** - The partner and recruiter (Serving 20 years).
@@ -50,6 +53,13 @@ These women were the "middle management" of the operation. Most were granted imm
 ## The 2026 Revelations (New)
 
 ### Political/Government
+*   **[Alexander Acosta](Alexander_Acosta.md)** - Former U.S. Attorney; plea-era federal decision maker in the NPA phase.
+*   **[Pam Bondi](Pam_Bondi.md)** - Attorney General; led DOJ release-era process and testified Feb 11, 2026.
+*   **[Todd Blanche](Todd_Blanche.md)** - Deputy AG; public face of no-new-prosecution and redaction-defense messaging.
+*   **[Cynthia Lummis](Cynthia_Lummis.md)** - Senator who publicly reversed stance after reviewing unredacted files.
+*   **[Summer Lee](Summer_Lee.md)** - Introduced Jan 21, 2026 Bondi contempt amendment.
+*   **[Mike Johnson](Mike_Johnson.md)** - House Speaker; objected to DOJ congressional search logging.
+*   **[Jamie Raskin](Jamie_Raskin.md)** - Oversight figure in hearing and subpoena-precedent disputes.
 *   **[Steve Bannon](Steve_Bannon.md)** - Media strategist; 15 hours of interviews; Trump text messages.
 *   **[Peter Mandelson](Peter_Mandelson.md)** - UK Politician; criminal investigation for sharing govt secrets.
 *   **[Jack Lang](Jack_Lang.md)** - Former French culture minister; Feb 16, 2026 French searches reported; denies wrongdoing.
@@ -63,6 +73,7 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[George Mitchell](George_Mitchell.md)** - Former Senate leader; accused by Giuffre; Alessi "every day" testimony.
 
 ### Business/Finance
+*   **[Casey Wasserman](Casey_Wasserman.md)** - LA28 chair; AP reported agency-sale fallout after Maxwell email disclosures.
 *   **[Steve Tisch](Steve_Tisch.md)** - NY Giants co-owner; emails about women ("pro or civilian").
 *   **[Richard Branson](Richard_Branson.md)** - Virgin founder; "bring your harem" email; Necker Island meeting.
 *   **[Elon Musk](Elon_Musk.md)** - 16 emails; "wildest party" email; multiple island visit plans.
@@ -91,6 +102,7 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[Crown Princess Mette-Marit](Crown_Princess_Mette_Marit.md)** - 1,000+ mentions; 100+ emails; "poor judgment."
 *   **[Thorbjorn Jagland](Thorbjorn_Jagland.md)** - Former PM; Nobel chair; aggravated corruption probe.
 *   **[Joanna Rubinstein](Joanna_Rubinstein.md)** - Sweden UNHCR chair; **resigned Feb 2, 2026**.
+*   **[Mona Juul](Mona_Juul.md)** - Norwegian ambassador; suspended in Feb 2026 fallout wave.
 
 ### Resignations (2026)
 *   **[Brad Karp](Brad_Karp.md)** - Paul Weiss chairman; **resigned Feb 4, 2026**.
@@ -101,6 +113,8 @@ These women were the "middle management" of the operation. Most were granted imm
 
 Reps. **Thomas Massie** and **Ro Khanna** discovered six men whose names were redacted in the public release but visible in unredacted files. Khanna read all six names on the House floor under the Speech or Debate Clause.
 
+*   **[Thomas Massie](Thomas_Massie.md)** - Transparency Act co-author; challenged DOJ redactions during Feb 9 unredaction dispute.
+*   **[Ro Khanna](Ro_Khanna.md)** - Transparency Act co-author; read six names on House floor under Speech or Debate protections.
 *   **[Sultan Ahmed Bin Sulayem](Sultan_Ahmed_Bin_Sulayem.md)** - DP World CEO (Dubai); "torture video" email; 4,700+ file appearances.
 *   **[Salvatore Nuara](Salvatore_Nuara.md)** - Retired NYPD detective; Epstein black book contact; escort service discipline.
 *   **[Nicola Caputo](Nicola_Caputo.md)** - Identity in released files not fully verified; public reporting notes a name match to a former MEP.
@@ -113,6 +127,12 @@ Reps. **Thomas Massie** and **Ro Khanna** discovered six men whose names were re
 ### Enablers
 *   **[Daniel Siad](Daniel_Siad.md)** - Polish "scout"; recruited women from Kraków.
 *   **[Peggy Siegal](Peggy_Siegal.md)** - Celebrity publicist; social access facilitator.
+
+### Custody Timeline Figures
+*   **[Nicholas Tartaglione](Nicholas_Tartaglione.md)** - Cellmate in July 23, 2019 incident timeline.
+*   **[Efrain Reyes](Efrain_Reyes.md)** - Cellmate-transfer figure in pre-death custody sequence.
+*   **[Tova Noel](Tova_Noel.md)** - MCC officer charged in 2019 record-falsification case.
+*   **[Michael Thomas](Michael_Thomas.md)** - MCC officer charged in 2019 record-falsification case.
 
 ## ⚪ Viral Names (Context Needed)
 *   **[Stephen Hawking](Viral_Names.md#stephen-hawking)** - Defended by Epstein in emails.

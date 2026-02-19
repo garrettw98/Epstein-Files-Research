@@ -72,14 +72,22 @@ This repository is a source-linked research index for documents, entities, event
 | **[Local Influence](topics/Local_Influence.md)** | **[Anomalies and Curiosities](topics/Anomalies_and_Curiosities.md)** | **[AI and Neuroscience](topics/AI_and_Neuroscience.md)** |
 | **[Exhibit Inventory](topics/The_Exhibit_Inventory.md)** | **[Defense Playbook](topics/The_Defense_Playbook.md)** | **[Eastern European Pipeline](topics/The_Eastern_European_Pipeline.md)** |
 | **[International Investigations](topics/International_Investigations.md)** | **[Clinton Oversight Investigation](topics/The_Clinton_Oversight_Investigation.md)** | **[Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)** |
+| **[Redaction and Context Scandal](topics/The_Redaction_and_Context_Scandal.md)** | **[DOJ Search-Logging Controversy](topics/The_DOJ_Search_Logging_Controversy.md)** | **[Co-Conspirator Designation Process](topics/The_Co_Conspirator_Designation_Process.md)** |
+| **[DOJ 300+ Name Letter](topics/The_DOJ_300_Name_Letter.md)** | **[Secure Reading Room Protocol](topics/The_Secure_Reading_Room_Protocol.md)** | **[Victim Exposure Redaction Failures](topics/The_Victim_Exposure_Redaction_Failures.md)** |
+| **[FBI Scrubbing Allegation Evidence Chain](topics/The_FBI_Scrubbing_Allegation_Evidence_Chain.md)** | **[Speech or Debate Clause Playbook](topics/The_Speech_or_Debate_Clause_Playbook.md)** | **[FBI Prominent Names Presentation](topics/The_FBI_Prominent_Names_Presentation.md)** |
+| **[No Client List Finding and Its Limits](topics/The_No_Client_List_Finding_and_Its_Limits.md)** | **[LA28/Wasserman Fallout](topics/The_LA28_Wasserman_Fallout.md)** | **[Corporate Fallout Tracker (2026)](topics/The_Corporate_Fallout_Tracker_2026.md)** |
+| **[Lifetouch School Panic Case](topics/The_Lifetouch_School_Panic_Case.md)** | **[MCC Guard Case](topics/The_MCC_Guard_Case.md)** | **[Accountability Log](topics/The_Accountability_Log.md)** |
+| **[CVRA Litigation Path](topics/The_CVRA_Litigation_Path.md)** | **[Source Provenance Chain](topics/The_Source_Provenance_Chain.md)** | **[1953 Trust Beneficiary Blind Spot](topics/The_1953_Trust_Beneficiary_Blind_Spot.md)** |
+| **[Visa Factory Channel](topics/The_Visa_Factory_Channel.md)** | **[Encrypted Drives and Server Scrub](topics/The_Encrypted_Drives_and_Server_Scrub.md)** | **[Art Market Money Channel](topics/The_Art_Market_Money_Channel.md)** |
+| **[Zorro Ranch Commission](topics/The_Zorro_Ranch_Commission.md)** | **[International Investigations](topics/International_Investigations.md)** | **[The Properties](topics/The_Properties.md)** |
 | **[The Draft Indictment](topics/The_Draft_Indictment.md)** | **[The Norway Scandal](topics/The_Norway_Scandal.md)** | **[#MeToo Connection](topics/The_MeToo_Connection.md)** |
 
 </details>
 
-## The 2026 Release (Updated Feb 17, 2026)
+## The 2026 Release (Updated Feb 19, 2026)
 
 <!-- LIVE_UPDATES:START -->
-### Live Updates (As of Feb 17, 2026)
+### Live Updates (As of Feb 19, 2026)
 *   **AP review: no DOJ "client list" finding** (Feb 8, 2026): AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men. [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
 *   **Congressional access to unredacted files opened** (Feb 9, 2026): DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice. [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
 *   **Maxwell deposition and clemency request** (Feb 9, 2026): AP reported Maxwell invoked the Fifth Amendment in a House deposition and later sought clemency before withdrawing the request. [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9)
@@ -98,27 +106,24 @@ This repository is a source-linked research index for documents, entities, event
 *   **Reuters: French police searched Arab World Institute and homes linked to Jack Lang** (Feb 16, 2026): Reuters reported French investigators searched the Arab World Institute and residences linked to former Culture Minister Jack Lang as part of an inquiry tied to Epstein-linked allegations; Lang denied wrongdoing. [Source](https://www.reuters.com/world/french-police-raid-arab-world-institute-epstein-linked-probe-into-jack-lang-2026-02-16/)
 *   **Reuters: Hyatt chairman Tom Pritzker announced step-down** (Feb 16, 2026): Reuters reported Hyatt executive chairman Tom Pritzker said he will step down at the end of 2026, citing "terrible judgment" over his association with Epstein while denying knowledge of Epstein's crimes. [Source](https://www.reuters.com/sustainability/hyatt-executive-chairman-pritzker-steps-down-cites-terrible-judgment-epstein-2026-02-16/)
 *   **Reuters: New Mexico approved Zorro Ranch investigation commission** (Feb 17, 2026): Reuters reported New Mexico lawmakers approved a state commission to investigate allegations tied to Epstein's Zorro Ranch, with hearings and a final report planned in 2027. [Source](https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/)
-*   **DOJ library status (Feb 17, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
+*   **AP: Britain's House of Lords scrutiny intensified after Epstein fallout** (Feb 18, 2026): AP reported renewed scrutiny of Britain's House of Lords after Peter Mandelson resigned over his friendship with Epstein. [Source](https://apnews.com/article/uk-house-of-lords-mandelson-epstein-a9a550b79b40f77b7d34044489b1265b)
+*   **AP: Les Wexner told lawmakers he was "duped" by Epstein** (Feb 18, 2026): AP reported Wexner told congressional members that Epstein was a "world-class con man" and denied knowing about Epstein's crimes. [Source](https://apnews.com/video/house-oversight-committee-democrats-skeptical-as-mogul-les-wexner-says-he-was-duped-by-epstein-7484f84861934fa8b0231defc443eb2d)
+*   **AP: Paris prosecutors opened two Epstein-linked investigations** (Feb 18, 2026): AP reported Paris prosecutors opened two investigations into alleged sexual-abuse and financial irregularities linked to Epstein files. [Source](https://apnews.com/article/francia-epstein-investigacion-3b366861b91a965a7b7378db2ea51cb7)
+*   **Reuters/Ipsos poll: many Americans say the powerful get a pass** (Feb 19, 2026): Reuters reported new Reuters/Ipsos polling found many Americans believe the Epstein files show powerful people avoid accountability. [Source](https://www.reuters.com/world/us/americans-believe-epstein-files-show-powerful-get-pass-reutersipsos-poll-finds-2026-02-18/)
+*   **DOJ library status (Feb 19, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
 <!-- LIVE_UPDATES:END -->
 
 <!-- LAST24H:START -->
 ### What Changed in Last 24 Hours (Auto-generated)
-- Window: Feb 17, 2026 01:07 UTC to Feb 18, 2026 01:07 UTC.
-- Monitored link updates: 29 across 5 domains.
-- Primary-doc diffs: added 9, removed 2, changed 0.
+- Window: Feb 18, 2026 01:22 UTC to Feb 19, 2026 01:22 UTC.
+- Monitored link updates: 0 across 0 domains.
+- Primary-doc diffs: added 1, removed 2, changed 0.
 - Claim-status diffs: added 0, removed 0, changed 0.
-- Claim review queue (open): p1=2, p2=4, p3=0.
+- Claim review queue (open): p1=0, p2=0, p3=0.
 - DOJ data-set file index: 12/12 sets with files, 524 total indexed files.
 
 #### Recent items (latest first)
-*   **Feb 18, 2026**: Hyatt chair Thomas Pritzker steps down over Epstein links (theguardian.com). [Source](https://www.theguardian.com/business/2026/feb/17/hyatt-chair-thomas-pritzker-jeffrey-epstein-ghislane-maxwell)
-*   **Feb 18, 2026**: Six Sarah Ferguson-linked companies to close after Epstein revelations (theguardian.com). [Source](https://www.theguardian.com/uk-news/2026/feb/16/six-sarah-ferguson-linked-companies-to-close-after-epstein-revelations)
-*   **Feb 18, 2026**: Epstein ranch in New Mexico bought by family of ‘Trump Republican’ candidate (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/16/epstein-ranch-new-mexico-purchase-republican-candidate)
-*   **Feb 18, 2026**: Epstein sympathized with Kavanaugh during supreme court confirmation, emails show (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/16/jeffrey-epstein-brett-kavanaugh-supreme-court)
-*   **Feb 18, 2026**: Questions swirl over Ohio billionaire Les Wexner’s ties to Jeffrey Epstein (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/17/les-wexner-jeffrey-epstein)
-*   **Feb 18, 2026**: LA mayor calls for Casey Wasserman to step down as Olympics chair over Epstein ties (theguardian.com). [Source](https://www.theguardian.com/sport/2026/feb/17/karen-bass-casey-wasserman-la-olympics-maxwell-epstein-files)
-*   **Feb 18, 2026**: New Mexico approves truth commission on alleged Jeffrey Epstein ranch abuse (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/17/epstein-zorro-ranch-abuse-new-mexico)
-*   **Feb 18, 2026**: Hillary Clinton accuses Trump’s justice department of Epstein files ‘cover-up’ (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/17/hillary-clinton-trump-epstein-files-cover-up)
+- No monitored links in the current 24-hour window.
 <!-- LAST24H:END -->
 
 ### Core 2026 release files
@@ -143,6 +148,21 @@ This repository is a source-linked research index for documents, entities, event
 <details>
 <summary><strong>2026 profiles added</strong></summary>
 
+- [Alexander Acosta](profiles/Alexander_Acosta.md)
+- [Pam Bondi](profiles/Pam_Bondi.md)
+- [Todd Blanche](profiles/Todd_Blanche.md)
+- [Thomas Massie](profiles/Thomas_Massie.md)
+- [Ro Khanna](profiles/Ro_Khanna.md)
+- [Casey Wasserman](profiles/Casey_Wasserman.md)
+- [Cynthia Lummis](profiles/Cynthia_Lummis.md)
+- [Summer Lee](profiles/Summer_Lee.md)
+- [Mike Johnson](profiles/Mike_Johnson.md)
+- [Jamie Raskin](profiles/Jamie_Raskin.md)
+- [Nicholas Tartaglione](profiles/Nicholas_Tartaglione.md)
+- [Efrain Reyes](profiles/Efrain_Reyes.md)
+- [Tova Noel](profiles/Tova_Noel.md)
+- [Michael Thomas](profiles/Michael_Thomas.md)
+- [Mona Juul](profiles/Mona_Juul.md)
 - [Howard Lutnick](profiles/Howard_Lutnick.md)
 - [Steve Tisch](profiles/Steve_Tisch.md)
 - [Richard Branson](profiles/Richard_Branson.md)
@@ -183,6 +203,27 @@ This repository is a source-linked research index for documents, entities, event
 - [Draft Indictment](topics/The_Draft_Indictment.md)
 - [#MeToo Connection](topics/The_MeToo_Connection.md)
 - [Norway Scandal](topics/The_Norway_Scandal.md)
+- [Redaction and Context Scandal](topics/The_Redaction_and_Context_Scandal.md)
+- [DOJ Search-Logging Controversy](topics/The_DOJ_Search_Logging_Controversy.md)
+- [Co-Conspirator Designation Process](topics/The_Co_Conspirator_Designation_Process.md)
+- [DOJ 300+ Name Letter](topics/The_DOJ_300_Name_Letter.md)
+- [FBI Prominent Names Presentation](topics/The_FBI_Prominent_Names_Presentation.md)
+- [Secure Reading Room Protocol](topics/The_Secure_Reading_Room_Protocol.md)
+- [Speech or Debate Clause Playbook](topics/The_Speech_or_Debate_Clause_Playbook.md)
+- [FBI Scrubbing Allegation Evidence Chain](topics/The_FBI_Scrubbing_Allegation_Evidence_Chain.md)
+- [Victim Exposure Redaction Failures](topics/The_Victim_Exposure_Redaction_Failures.md)
+- [No Client List Finding and Its Limits](topics/The_No_Client_List_Finding_and_Its_Limits.md)
+- [Corporate Fallout Tracker (2026)](topics/The_Corporate_Fallout_Tracker_2026.md)
+- [LA28/Wasserman Fallout](topics/The_LA28_Wasserman_Fallout.md)
+- [Lifetouch School Panic Case](topics/The_Lifetouch_School_Panic_Case.md)
+- [MCC Guard Case](topics/The_MCC_Guard_Case.md)
+- [CVRA Litigation Path](topics/The_CVRA_Litigation_Path.md)
+- [Zorro Ranch Commission](topics/The_Zorro_Ranch_Commission.md)
+- [Visa Factory Channel](topics/The_Visa_Factory_Channel.md)
+- [Art Market Money Channel](topics/The_Art_Market_Money_Channel.md)
+- [1953 Trust Beneficiary Blind Spot](topics/The_1953_Trust_Beneficiary_Blind_Spot.md)
+- [Encrypted Drives and Server Scrub](topics/The_Encrypted_Drives_and_Server_Scrub.md)
+- [Source Provenance Chain](topics/The_Source_Provenance_Chain.md)
 
 </details>
 
@@ -283,6 +324,5 @@ Or use Make targets:
 ---
 
 > Note: This database prioritizes source-linked records and explicit claim status labels so readers can separate verified evidence from open or disputed claims.
-
 
 

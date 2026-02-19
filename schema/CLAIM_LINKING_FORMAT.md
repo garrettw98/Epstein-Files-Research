@@ -15,6 +15,7 @@ Required columns:
 - `first_seen_date`: `YYYY-MM-DD` when claim first appears in known record.
 - `status`: `verified_primary|verified_secondary|alleged|disputed|retracted|pending_review`.
 - `confidence`: `0.0` to `1.0`.
+- `name_context_class`: `direct_contact|administrative_mention|media_reference|unverified_allegation|unknown`.
 - `notes`: brief qualification or scope note.
 
 ## Claim Evidence Links File

@@ -1,0 +1,31 @@
+{
+  "run_utc": "20260219T011836Z",
+  "document_count": 42,
+  "court_results_per_query": 40,
+  "recap_results_per_query": 20,
+  "transcript_results_per_query": 25,
+  "queries": [
+    "Jeffrey Epstein",
+    "Ghislaine Maxwell"
+  ],
+  "recap_queries": [
+    "Jeffrey Epstein",
+    "Ghislaine Maxwell"
+  ],
+  "govinfo_transcript_queries": [
+    "\"Jeffrey Epstein\" collection:CREC",
+    "\"Ghislaine Maxwell\" collection:CREC",
+    "\"Jeffrey Epstein\" collection:CHRG",
+    "\"Ghislaine Maxwell\" collection:CHRG"
+  ],
+  "source_counts": {
+    "courtlistener": 7,
+    "courtlistener_recap": 10,
+    "govinfo": 1,
+    "govinfo_wssearch": 18,
+    "govtrack": 2,
+    "house_judiciary": 2,
+    "justice_opa": 2
+  },
+  "warnings": []
+}

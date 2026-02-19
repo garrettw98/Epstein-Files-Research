@@ -1,6 +1,6 @@
 # 📅 The Master Timeline: Every Verified Event
 
-> **Scope**: 1953 - Feb 17, 2026
+> **Scope**: 1953 - Feb 19, 2026
 > **Sources**: Court documents, Flight Logs, Police Reports, 2024/2026 Releases.
 
 This timeline integrates all data points from this repository into a single chronological flow.
@@ -10,21 +10,14 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 <!-- LAST24H_TIMELINE:START -->
 ## Last 24 Hours Snapshot (Auto-generated)
-- Window: Feb 17, 2026 01:07 UTC to Feb 18, 2026 01:07 UTC.
-- Monitored updates: 29 links across 5 domains.
-- Primary-doc changes: added 9, removed 2, changed 0.
-- Claim review pressure: p1=2, p2=4, p3=0 open.
+- Window: Feb 18, 2026 01:22 UTC to Feb 19, 2026 01:22 UTC.
+- Monitored updates: 0 links across 0 domains.
+- Primary-doc changes: added 1, removed 2, changed 0.
+- Claim review pressure: p1=0, p2=0, p3=0 open.
 - DOJ data-set file index health: 12/12 sets with files.
 
 ### Recent items
-* **Feb 18, 2026**: Hyatt chair Thomas Pritzker steps down over Epstein links (theguardian.com). [Source](https://www.theguardian.com/business/2026/feb/17/hyatt-chair-thomas-pritzker-jeffrey-epstein-ghislane-maxwell)
-* **Feb 18, 2026**: Six Sarah Ferguson-linked companies to close after Epstein revelations (theguardian.com). [Source](https://www.theguardian.com/uk-news/2026/feb/16/six-sarah-ferguson-linked-companies-to-close-after-epstein-revelations)
-* **Feb 18, 2026**: Epstein ranch in New Mexico bought by family of ‘Trump Republican’ candidate (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/16/epstein-ranch-new-mexico-purchase-republican-candidate)
-* **Feb 18, 2026**: Epstein sympathized with Kavanaugh during supreme court confirmation, emails show (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/16/jeffrey-epstein-brett-kavanaugh-supreme-court)
-* **Feb 18, 2026**: Questions swirl over Ohio billionaire Les Wexner’s ties to Jeffrey Epstein (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/17/les-wexner-jeffrey-epstein)
-* **Feb 18, 2026**: LA mayor calls for Casey Wasserman to step down as Olympics chair over Epstein ties (theguardian.com). [Source](https://www.theguardian.com/sport/2026/feb/17/karen-bass-casey-wasserman-la-olympics-maxwell-epstein-files)
-* **Feb 18, 2026**: New Mexico approves truth commission on alleged Jeffrey Epstein ranch abuse (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/17/epstein-zorro-ranch-abuse-new-mexico)
-* **Feb 18, 2026**: Hillary Clinton accuses Trump’s justice department of Epstein files ‘cover-up’ (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/feb/17/hillary-clinton-trump-epstein-files-cover-up)
+- No monitored links in the current 24-hour window.
 <!-- LAST24H_TIMELINE:END -->
 
 ---
@@ -290,7 +283,21 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 17, 2026**: **Reuters: New Mexico approved Zorro Ranch investigation commission**.
     *   Reuters reported New Mexico lawmakers approved a state commission to investigate allegations tied to Epstein's Zorro Ranch, with hearings and a final report planned in 2027.
     *   Source: [Source](https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/).
+*   **Feb 18, 2026**: **AP: Britain's House of Lords scrutiny intensified after Epstein fallout**.
+    *   AP reported renewed scrutiny of Britain's House of Lords after Peter Mandelson resigned over his friendship with Epstein.
+    *   Source: [Source](https://apnews.com/article/uk-house-of-lords-mandelson-epstein-a9a550b79b40f77b7d34044489b1265b).
+*   **Feb 18, 2026**: **AP: Les Wexner told lawmakers he was "duped" by Epstein**.
+    *   AP reported Wexner told congressional members that Epstein was a "world-class con man" and denied knowing about Epstein's crimes.
+    *   Source: [Source](https://apnews.com/video/house-oversight-committee-democrats-skeptical-as-mogul-les-wexner-says-he-was-duped-by-epstein-7484f84861934fa8b0231defc443eb2d).
+*   **Feb 18, 2026**: **AP: Paris prosecutors opened two Epstein-linked investigations**.
+    *   AP reported Paris prosecutors opened two investigations into alleged sexual-abuse and financial irregularities linked to Epstein files.
+    *   Source: [Source](https://apnews.com/article/francia-epstein-investigacion-3b366861b91a965a7b7378db2ea51cb7).
+*   **Feb 19, 2026**: **Reuters/Ipsos poll: many Americans say the powerful get a pass**.
+    *   Reuters reported new Reuters/Ipsos polling found many Americans believe the Epstein files show powerful people avoid accountability.
+    *   Source: [Source](https://www.reuters.com/world/us/americans-believe-epstein-files-show-powerful-get-pass-reutersipsos-poll-finds-2026-02-18/).
 <!-- LIVE_TIMELINE:END -->
+
+
 
 
 

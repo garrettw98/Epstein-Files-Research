@@ -91,7 +91,7 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 | Set 12 | February 2026 |
 
 <!-- REALTIME_STATUS:START -->
-### Real-Time Status (As of Feb 17, 2026)
+### Real-Time Status (As of Feb 19, 2026)
 
 - DOJ's public repository remains online and publicly lists releases through **Data Set 12**.
 - Source: [DOJ Epstein Library](https://www.justice.gov/epstein)
@@ -116,6 +116,10 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 - **Feb 16, 2026**: **Reuters: French police searched Arab World Institute and homes linked to Jack Lang**. Reuters reported French investigators searched the Arab World Institute and residences linked to former Culture Minister Jack Lang as part of an inquiry tied to Epstein-linked allegations; Lang denied wrongdoing. [Source](https://www.reuters.com/world/french-police-raid-arab-world-institute-epstein-linked-probe-into-jack-lang-2026-02-16/)
 - **Feb 16, 2026**: **Reuters: Hyatt chairman Tom Pritzker announced step-down**. Reuters reported Hyatt executive chairman Tom Pritzker said he will step down at the end of 2026, citing "terrible judgment" over his association with Epstein while denying knowledge of Epstein's crimes. [Source](https://www.reuters.com/sustainability/hyatt-executive-chairman-pritzker-steps-down-cites-terrible-judgment-epstein-2026-02-16/)
 - **Feb 17, 2026**: **Reuters: New Mexico approved Zorro Ranch investigation commission**. Reuters reported New Mexico lawmakers approved a state commission to investigate allegations tied to Epstein's Zorro Ranch, with hearings and a final report planned in 2027. [Source](https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/)
+- **Feb 18, 2026**: **AP: Britain's House of Lords scrutiny intensified after Epstein fallout**. AP reported renewed scrutiny of Britain's House of Lords after Peter Mandelson resigned over his friendship with Epstein. [Source](https://apnews.com/article/uk-house-of-lords-mandelson-epstein-a9a550b79b40f77b7d34044489b1265b)
+- **Feb 18, 2026**: **AP: Les Wexner told lawmakers he was "duped" by Epstein**. AP reported Wexner told congressional members that Epstein was a "world-class con man" and denied knowing about Epstein's crimes. [Source](https://apnews.com/video/house-oversight-committee-democrats-skeptical-as-mogul-les-wexner-says-he-was-duped-by-epstein-7484f84861934fa8b0231defc443eb2d)
+- **Feb 18, 2026**: **AP: Paris prosecutors opened two Epstein-linked investigations**. AP reported Paris prosecutors opened two investigations into alleged sexual-abuse and financial irregularities linked to Epstein files. [Source](https://apnews.com/article/francia-epstein-investigacion-3b366861b91a965a7b7378db2ea51cb7)
+- **Feb 19, 2026**: **Reuters/Ipsos poll: many Americans say the powerful get a pass**. Reuters reported new Reuters/Ipsos polling found many Americans believe the Epstein files show powerful people avoid accountability. [Source](https://www.reuters.com/world/us/americans-believe-epstein-files-show-powerful-get-pass-reutersipsos-poll-finds-2026-02-18/)
 <!-- REALTIME_STATUS:END -->
 
 ### Contents Include

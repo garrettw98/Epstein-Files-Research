@@ -1,0 +1,2336 @@
+{
+  "st": "\"Ghislaine Maxwell\" AND collection:CREC",
+  "currentPage": 0,
+  "iTotalCount": 32,
+  "nextPage": 0,
+  "previousPage": 0,
+  "navigators": [
+    {
+      "name": "accodenav",
+      "displayName": "Collection",
+      "customSortName": "count",
+      "type": 0,
+      "tree": false,
+      "selected": true,
+      "collectionSpecific": false,
+      "hasMore": false,
+      "buckets": [
+        {
+          "value": "CREC",
+          "displayValue": "Congressional Record",
+          "selected": true,
+          "count": 32,
+          "valid": true,
+          "totalCount": 1
+        }
+      ]
+    },
+    {
+      "name": "publishdatehier",
+      "displayName": "Date Published",
+      "customSortName": "count",
+      "type": 0,
+      "tree": true,
+      "selected": false,
+      "collectionSpecific": false,
+      "hasMore": false,
+      "buckets": [
+        {
+          "value": "2026",
+          "displayValue": "2026",
+          "selected": false,
+          "count": 4,
+          "valid": true,
+          "treeBuckets": [
+            {
+              "value": "2026/02",
+              "displayValue": "February",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "treeBuckets": [
+                {
+                  "value": "2026/02/12",
+                  "displayValue": "12",
+                  "selected": false,
+                  "count": 2,
+                  "valid": true,
+                  "totalCount": 1
+                }
+              ],
+              "totalCount": 2
+            },
+            {
+              "value": "2026/01",
+              "displayValue": "January",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "treeBuckets": [
+                {
+                  "value": "2026/01/12",
+                  "displayValue": "12",
+                  "selected": false,
+                  "count": 2,
+                  "valid": true,
+                  "totalCount": 1
+                }
+              ],
+              "totalCount": 2
+            }
+          ],
+          "totalCount": 5
+        },
+        {
+          "value": "2025",
+          "displayValue": "2025",
+          "selected": false,
+          "count": 27,
+          "valid": true,
+          "treeBuckets": [
+            {
+              "value": "2025/11",
+              "displayValue": "November",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "treeBuckets": [
+                {
+                  "value": "2025/11/25",
+                  "displayValue": "25",
+                  "selected": false,
+                  "count": 1,
+                  "valid": true,
+                  "totalCount": 1
+                },
+                {
+                  "value": "2025/11/12",
+                  "displayValue": "12",
+                  "selected": false,
+                  "count": 1,
+                  "valid": true,
+                  "totalCount": 1
+                }
+              ],
+              "totalCount": 3
+            },
+            {
+              "value": "2025/10",
+              "displayValue": "October",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "treeBuckets": [
+                {
+                  "value": "2025/10/21",
+                  "displayValue": "21",
+                  "selected": false,
+                  "count": 1,
+                  "valid": true,
+                  "totalCount": 1
+                }
+              ],
+              "totalCount": 2
+            },
+            {
+              "value": "2025/09",
+              "displayValue": "September",
+              "selected": false,
+              "count": 11,
+              "valid": true,
+              "treeBuckets": [
+                {
+                  "value": "2025/09/18",
+                  "displayValue": "18",
+                  "selected": false,
+                  "count": 1,
+                  "valid": true,
+                  "totalCount": 1
+                },
+                {
+                  "value": "2025/09/11",
+                  "displayValue": "11",
+                  "selected": false,
+                  "count": 1,
+                  "valid": true,
+                  "totalCount": 1
+                },
+                {
+                  "value": "2025/09/09",
+                  "displayValue": "09",
+                  "selected": false,
+                  "count": 3,
+                  "valid": true,
+                  "totalCount": 1
+                },
+                {
+                  "value": "2025/09/04",
+                  "displayValue": "04",
+                  "selected": false,
+                  "count": 2,
+                  "valid": true,
+                  "totalCount": 1
+                },
+                {
+                  "value": "2025/09/03",
+                  "displayValue": "03",
+                  "selected": false,
+                  "count": 2,
+                  "valid": true,
+                  "totalCount": 1
+                },
+                {
+                  "value": "2025/09/02",
+                  "displayValue": "02",
+                  "selected": false,
+                  "count": 2,
+                  "valid": true,
+                  "totalCount": 1
+                }
+              ],
+              "totalCount": 7
+            },
+            {
+              "value": "2025/08",
+              "displayValue": "August",
+              "selected": false,
+              "count": 5,
+              "valid": true,
+              "treeBuckets": [
+                {
+                  "value": "2025/08/05",
+                  "displayValue": "05",
+                  "selected": false,
+                  "count": 1,
+                  "valid": true,
+                  "totalCount": 1
+                },
+                {
+                  "value": "2025/08/02",
+                  "displayValue": "02",
+                  "selected": false,
+                  "count": 4,
+                  "valid": true,
+                  "totalCount": 1
+                }
+              ],
+              "totalCount": 3
+            },
+            {
+              "value": "2025/07",
+              "displayValue": "July",
+              "selected": false,
+              "count": 6,
+              "valid": true,
+              "treeBuckets": [
+                {
+                  "value": "2025/07/30",
+                  "displayValue": "30",
+                  "selected": false,
+                  "count": 2,
+                  "valid": true,
+                  "totalCount": 1
+                },
+                {
+                  "value": "2025/07/29",
+                  "displayValue": "29",
+                  "selected": false,
+                  "count": 1,
+                  "valid": true,
+                  "totalCount": 1
+                },
+                {
+                  "value": "2025/07/24",
+                  "displayValue": "24",
+                  "selected": false,
+                  "count": 2,
+                  "valid": true,
+                  "totalCount": 1
+                },
+                {
+                  "value": "2025/07/23",
+                  "displayValue": "23",
+                  "selected": false,
+                  "count": 1,
+                  "valid": true,
+                  "totalCount": 1
+                }
+              ],
+              "totalCount": 5
+            },
+            {
+              "value": "2025/02",
+              "displayValue": "February",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "treeBuckets": [
+                {
+                  "value": "2025/02/26",
+                  "displayValue": "26",
+                  "selected": false,
+                  "count": 1,
+                  "valid": true,
+                  "totalCount": 1
+                },
+                {
+                  "value": "2025/02/05",
+                  "displayValue": "05",
+                  "selected": false,
+                  "count": 1,
+                  "valid": true,
+                  "totalCount": 1
+                }
+              ],
+              "totalCount": 3
+            }
+          ],
+          "totalCount": 24
+        },
+        {
+          "value": "2024",
+          "displayValue": "2024",
+          "selected": false,
+          "count": 1,
+          "valid": true,
+          "treeBuckets": [
+            {
+              "value": "2024/01",
+              "displayValue": "January",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "treeBuckets": [
+                {
+                  "value": "2024/01/09",
+                  "displayValue": "09",
+                  "selected": false,
+                  "count": 1,
+                  "valid": true,
+                  "totalCount": 1
+                }
+              ],
+              "totalCount": 2
+            }
+          ],
+          "totalCount": 3
+        }
+      ]
+    },
+    {
+      "name": "governmentauthornav",
+      "displayName": "Government Author",
+      "customSortName": "count",
+      "type": 0,
+      "tree": false,
+      "selected": false,
+      "collectionSpecific": false,
+      "hasMore": false,
+      "buckets": [
+        {
+          "value": "Congress",
+          "displayValue": "Congress",
+          "selected": false,
+          "count": 32,
+          "valid": true,
+          "totalCount": 1
+        }
+      ]
+    },
+    {
+      "name": "companiesnav",
+      "displayName": "Organization",
+      "customSortName": "count",
+      "type": 0,
+      "tree": false,
+      "selected": false,
+      "collectionSpecific": false,
+      "hasMore": true,
+      "buckets": [
+        {
+          "value": "Committee on Agriculture",
+          "displayValue": "Committee on Agriculture",
+          "selected": false,
+          "count": 3,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Committee on Appropriations",
+          "displayValue": "Committee on Appropriations",
+          "selected": false,
+          "count": 8,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Committee on Armed Services",
+          "displayValue": "Committee on Armed Services",
+          "selected": false,
+          "count": 7,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Committee on Banking, Finance, and Urban Affairs",
+          "displayValue": "Committee on Banking, Finance, and Urban Affairs",
+          "selected": false,
+          "count": 1,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Committee on Banking, Housing, and Urban Affairs",
+          "displayValue": "Committee on Banking, Housing, and Urban Affairs",
+          "selected": false,
+          "count": 2,
+          "valid": true,
+          "totalCount": 1
+        }
+      ]
+    },
+    {
+      "name": "personnamesnav",
+      "displayName": "Person",
+      "customSortName": "count",
+      "type": 0,
+      "tree": false,
+      "selected": false,
+      "collectionSpecific": false,
+      "hasMore": true,
+      "buckets": [
+        {
+          "value": "Ansari, Yassamin",
+          "displayValue": "Ansari, Yassamin",
+          "selected": false,
+          "count": 1,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Barrasso, John",
+          "displayValue": "Barrasso, John",
+          "selected": false,
+          "count": 5,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Bennet, Michael F.",
+          "displayValue": "Bennet, Michael F.",
+          "selected": false,
+          "count": 1,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Bice, Stephanie I.",
+          "displayValue": "Bice, Stephanie I.",
+          "selected": false,
+          "count": 1,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Blackburn, Marsha",
+          "displayValue": "Blackburn, Marsha",
+          "selected": false,
+          "count": 3,
+          "valid": true,
+          "totalCount": 1
+        }
+      ]
+    },
+    {
+      "name": "congressnum",
+      "displayName": "Congress Number",
+      "customSortName": "Congress",
+      "type": 0,
+      "tree": false,
+      "selected": false,
+      "collectionSpecific": true,
+      "hasMore": false,
+      "buckets": [
+        {
+          "value": "119",
+          "displayValue": "119th Congress (2025 - 2026)",
+          "selected": false,
+          "count": 31,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "118",
+          "displayValue": "118th Congress (2023 - 2024)",
+          "selected": false,
+          "count": 1,
+          "valid": true,
+          "totalCount": 1
+        }
+      ]
+    },
+    {
+      "name": "sectionhiernav",
+      "displayName": "Section and Type",
+      "customSortName": "alphabetical",
+      "type": 0,
+      "tree": true,
+      "selected": false,
+      "collectionSpecific": true,
+      "hasMore": false,
+      "buckets": [
+        {
+          "value": "SenateChamber",
+          "displayValue": "Senate",
+          "selected": false,
+          "count": 22,
+          "valid": true,
+          "treeBuckets": [
+            {
+              "value": "SenateChamber/Text of Amendments",
+              "displayValue": "Text of Amendments",
+              "selected": false,
+              "count": 4,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "SenateChamber/Text of Individual Senate Amendments",
+              "displayValue": "Text of Individual Senate Amendments",
+              "selected": false,
+              "count": 4,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "SenateChamber/Executive Calendar",
+              "displayValue": "Executive Calendar",
+              "selected": false,
+              "count": 3,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "SenateChamber/Unanimous Consent Request",
+              "displayValue": "Unanimous Consent Request",
+              "selected": false,
+              "count": 3,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "SenateChamber/All Other Legislative Business",
+              "displayValue": "All Other Legislative Business",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "SenateChamber/Senate Resolution",
+              "displayValue": "Senate Resolution",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "SenateChamber/Executive Session",
+              "displayValue": "Executive Session",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "SenateChamber/Legislative Session",
+              "displayValue": "Legislative Session",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "SenateChamber/Nominations",
+              "displayValue": "Nominations",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "SenateChamber/Submission of Concurrent and Senate Resolutions",
+              "displayValue": "Submission of Concurrent and Senate Resolutions",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            }
+          ],
+          "totalCount": 11
+        },
+        {
+          "value": "HouseChamber",
+          "displayValue": "House",
+          "selected": false,
+          "count": 9,
+          "valid": true,
+          "treeBuckets": [
+            {
+              "value": "HouseChamber/All Other Legislative Business",
+              "displayValue": "All Other Legislative Business",
+              "selected": false,
+              "count": 6,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "HouseChamber/Public Bills and Resolutions",
+              "displayValue": "Public Bills and Resolutions",
+              "selected": false,
+              "count": 3,
+              "valid": true,
+              "totalCount": 1
+            }
+          ],
+          "totalCount": 3
+        },
+        {
+          "value": "Daily Digest",
+          "displayValue": "Daily Digest",
+          "selected": false,
+          "count": 1,
+          "valid": true,
+          "treeBuckets": [
+            {
+              "value": "Daily Digest/House Committee Meetings",
+              "displayValue": "House Committee Meetings",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            }
+          ],
+          "totalCount": 2
+        }
+      ]
+    },
+    {
+      "name": "membernav",
+      "displayName": "Congress Member",
+      "customSortName": "alphabetical",
+      "type": 0,
+      "tree": false,
+      "selected": false,
+      "collectionSpecific": true,
+      "hasMore": true,
+      "buckets": [
+        {
+          "value": "Merkley, Jeff (OR)",
+          "displayValue": "Merkley, Jeff (OR)",
+          "selected": false,
+          "count": 8,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Barrasso, John (WY)",
+          "displayValue": "Barrasso, John (WY)",
+          "selected": false,
+          "count": 5,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Schumer, Charles E. (NY)",
+          "displayValue": "Schumer, Charles E. (NY)",
+          "selected": false,
+          "count": 5,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Blackburn, Marsha (TN)",
+          "displayValue": "Blackburn, Marsha (TN)",
+          "selected": false,
+          "count": 3,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Durbin, Richard J. (IL)",
+          "displayValue": "Durbin, Richard J. (IL)",
+          "selected": false,
+          "count": 3,
+          "valid": true,
+          "totalCount": 1
+        }
+      ]
+    },
+    {
+      "name": "assocleghier",
+      "displayName": "Associated Legislation",
+      "customSortName": "alphabetical",
+      "type": 0,
+      "tree": true,
+      "selected": false,
+      "collectionSpecific": true,
+      "hasMore": true,
+      "buckets": [
+        {
+          "value": "House Bill (H.R.)",
+          "displayValue": "House Bill (H.R.)",
+          "selected": false,
+          "count": 14,
+          "valid": true,
+          "treeBuckets": [
+            {
+              "value": "House Bill (H.R.)/H.R. 3944",
+              "displayValue": "H.R. 3944",
+              "selected": false,
+              "count": 3,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 3486",
+              "displayValue": "H.R. 3486",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4553",
+              "displayValue": "H.R. 4553",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5371",
+              "displayValue": "H.R. 5371",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 3838",
+              "displayValue": "H.R. 3838",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4405",
+              "displayValue": "H.R. 4405",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4849",
+              "displayValue": "H.R. 4849",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4872",
+              "displayValue": "H.R. 4872",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4873",
+              "displayValue": "H.R. 4873",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4874",
+              "displayValue": "H.R. 4874",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4875",
+              "displayValue": "H.R. 4875",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4876",
+              "displayValue": "H.R. 4876",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4877",
+              "displayValue": "H.R. 4877",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4878",
+              "displayValue": "H.R. 4878",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4879",
+              "displayValue": "H.R. 4879",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4880",
+              "displayValue": "H.R. 4880",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4881",
+              "displayValue": "H.R. 4881",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4882",
+              "displayValue": "H.R. 4882",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4883",
+              "displayValue": "H.R. 4883",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4884",
+              "displayValue": "H.R. 4884",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4885",
+              "displayValue": "H.R. 4885",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4886",
+              "displayValue": "H.R. 4886",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4887",
+              "displayValue": "H.R. 4887",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4888",
+              "displayValue": "H.R. 4888",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4889",
+              "displayValue": "H.R. 4889",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4890",
+              "displayValue": "H.R. 4890",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4891",
+              "displayValue": "H.R. 4891",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4892",
+              "displayValue": "H.R. 4892",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4893",
+              "displayValue": "H.R. 4893",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4894",
+              "displayValue": "H.R. 4894",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4895",
+              "displayValue": "H.R. 4895",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4896",
+              "displayValue": "H.R. 4896",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4897",
+              "displayValue": "H.R. 4897",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4898",
+              "displayValue": "H.R. 4898",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4899",
+              "displayValue": "H.R. 4899",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4900",
+              "displayValue": "H.R. 4900",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4901",
+              "displayValue": "H.R. 4901",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4902",
+              "displayValue": "H.R. 4902",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4903",
+              "displayValue": "H.R. 4903",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4904",
+              "displayValue": "H.R. 4904",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4905",
+              "displayValue": "H.R. 4905",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4906",
+              "displayValue": "H.R. 4906",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4907",
+              "displayValue": "H.R. 4907",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4908",
+              "displayValue": "H.R. 4908",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4909",
+              "displayValue": "H.R. 4909",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4910",
+              "displayValue": "H.R. 4910",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4911",
+              "displayValue": "H.R. 4911",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4912",
+              "displayValue": "H.R. 4912",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4913",
+              "displayValue": "H.R. 4913",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4914",
+              "displayValue": "H.R. 4914",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4915",
+              "displayValue": "H.R. 4915",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4916",
+              "displayValue": "H.R. 4916",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 4917",
+              "displayValue": "H.R. 4917",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5078",
+              "displayValue": "H.R. 5078",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5079",
+              "displayValue": "H.R. 5079",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5080",
+              "displayValue": "H.R. 5080",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5081",
+              "displayValue": "H.R. 5081",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5082",
+              "displayValue": "H.R. 5082",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5083",
+              "displayValue": "H.R. 5083",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5084",
+              "displayValue": "H.R. 5084",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5085",
+              "displayValue": "H.R. 5085",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5086",
+              "displayValue": "H.R. 5086",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5087",
+              "displayValue": "H.R. 5087",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5088",
+              "displayValue": "H.R. 5088",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5089",
+              "displayValue": "H.R. 5089",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5090",
+              "displayValue": "H.R. 5090",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5091",
+              "displayValue": "H.R. 5091",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5092",
+              "displayValue": "H.R. 5092",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5093",
+              "displayValue": "H.R. 5093",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5094",
+              "displayValue": "H.R. 5094",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5095",
+              "displayValue": "H.R. 5095",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5096",
+              "displayValue": "H.R. 5096",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5097",
+              "displayValue": "H.R. 5097",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5098",
+              "displayValue": "H.R. 5098",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5099",
+              "displayValue": "H.R. 5099",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5100",
+              "displayValue": "H.R. 5100",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5101",
+              "displayValue": "H.R. 5101",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 5102",
+              "displayValue": "H.R. 5102",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6289",
+              "displayValue": "H.R. 6289",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6290",
+              "displayValue": "H.R. 6290",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6291",
+              "displayValue": "H.R. 6291",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6292",
+              "displayValue": "H.R. 6292",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6293",
+              "displayValue": "H.R. 6293",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6294",
+              "displayValue": "H.R. 6294",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6295",
+              "displayValue": "H.R. 6295",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6296",
+              "displayValue": "H.R. 6296",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6297",
+              "displayValue": "H.R. 6297",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6298",
+              "displayValue": "H.R. 6298",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6299",
+              "displayValue": "H.R. 6299",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6300",
+              "displayValue": "H.R. 6300",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6301",
+              "displayValue": "H.R. 6301",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6302",
+              "displayValue": "H.R. 6302",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6303",
+              "displayValue": "H.R. 6303",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6304",
+              "displayValue": "H.R. 6304",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6305",
+              "displayValue": "H.R. 6305",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6306",
+              "displayValue": "H.R. 6306",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6307",
+              "displayValue": "H.R. 6307",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6308",
+              "displayValue": "H.R. 6308",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6309",
+              "displayValue": "H.R. 6309",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6310",
+              "displayValue": "H.R. 6310",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6311",
+              "displayValue": "H.R. 6311",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6312",
+              "displayValue": "H.R. 6312",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6313",
+              "displayValue": "H.R. 6313",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6314",
+              "displayValue": "H.R. 6314",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6315",
+              "displayValue": "H.R. 6315",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6316",
+              "displayValue": "H.R. 6316",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6317",
+              "displayValue": "H.R. 6317",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 6938",
+              "displayValue": "H.R. 6938",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Bill (H.R.)/H.R. 9444",
+              "displayValue": "H.R. 9444",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            }
+          ],
+          "totalCount": 110
+        },
+        {
+          "value": "House Resolution (H. Res.)",
+          "displayValue": "House Resolution (H. Res.)",
+          "selected": false,
+          "count": 9,
+          "valid": true,
+          "treeBuckets": [
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 668",
+              "displayValue": "H. Res. 668",
+              "selected": false,
+              "count": 4,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 605",
+              "displayValue": "H. Res. 605",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 672",
+              "displayValue": "H. Res. 672",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 682",
+              "displayValue": "H. Res. 682",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 598",
+              "displayValue": "H. Res. 598",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 631",
+              "displayValue": "H. Res. 631",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 632",
+              "displayValue": "H. Res. 632",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 633",
+              "displayValue": "H. Res. 633",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 634",
+              "displayValue": "H. Res. 634",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 635",
+              "displayValue": "H. Res. 635",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 636",
+              "displayValue": "H. Res. 636",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 637",
+              "displayValue": "H. Res. 637",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 638",
+              "displayValue": "H. Res. 638",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 639",
+              "displayValue": "H. Res. 639",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 669",
+              "displayValue": "H. Res. 669",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 670",
+              "displayValue": "H. Res. 670",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 671",
+              "displayValue": "H. Res. 671",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 873",
+              "displayValue": "H. Res. 873",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 911",
+              "displayValue": "H. Res. 911",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 912",
+              "displayValue": "H. Res. 912",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 913",
+              "displayValue": "H. Res. 913",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Resolution (H. Res.)/H. Res. 914",
+              "displayValue": "H. Res. 914",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            }
+          ],
+          "totalCount": 23
+        },
+        {
+          "value": "Senate Bill (S.)",
+          "displayValue": "Senate Bill (S.)",
+          "selected": false,
+          "count": 6,
+          "valid": true,
+          "treeBuckets": [
+            {
+              "value": "Senate Bill (S.)/S. 2296",
+              "displayValue": "S. 2296",
+              "selected": false,
+              "count": 4,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "Senate Bill (S.)/S. 2557",
+              "displayValue": "S. 2557",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            }
+          ],
+          "totalCount": 3
+        },
+        {
+          "value": "House Joint Resolution (H.J. Res.)",
+          "displayValue": "House Joint Resolution (H.J. Res.)",
+          "selected": false,
+          "count": 3,
+          "valid": true,
+          "treeBuckets": [
+            {
+              "value": "House Joint Resolution (H.J. Res.)/H.J. Res. 104",
+              "displayValue": "H.J. Res. 104",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Joint Resolution (H.J. Res.)/H.J. Res. 105",
+              "displayValue": "H.J. Res. 105",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Joint Resolution (H.J. Res.)/H.J. Res. 106",
+              "displayValue": "H.J. Res. 106",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "House Joint Resolution (H.J. Res.)/H.J. Res. 118",
+              "displayValue": "H.J. Res. 118",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            }
+          ],
+          "totalCount": 5
+        },
+        {
+          "value": "Senate Concurrent Resolution (S. Con. Res.)",
+          "displayValue": "Senate Concurrent Resolution (S. Con. Res.)",
+          "selected": false,
+          "count": 3,
+          "valid": true,
+          "treeBuckets": [
+            {
+              "value": "Senate Concurrent Resolution (S. Con. Res.)/S. Con. Res. 14",
+              "displayValue": "S. Con. Res. 14",
+              "selected": false,
+              "count": 2,
+              "valid": true,
+              "totalCount": 1
+            },
+            {
+              "value": "Senate Concurrent Resolution (S. Con. Res.)/S. Con. Res. 27",
+              "displayValue": "S. Con. Res. 27",
+              "selected": false,
+              "count": 1,
+              "valid": true,
+              "totalCount": 1
+            }
+          ],
+          "totalCount": 3
+        }
+      ]
+    },
+    {
+      "name": "congvotechambernav",
+      "displayName": "Contains Votes",
+      "customSortName": "alphabetical",
+      "type": 0,
+      "tree": false,
+      "selected": false,
+      "collectionSpecific": true,
+      "hasMore": false,
+      "buckets": [
+        {
+          "value": "House",
+          "displayValue": "Contains House Vote",
+          "selected": false,
+          "count": 2,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "Senate",
+          "displayValue": "Contains Senate Vote",
+          "selected": false,
+          "count": 1,
+          "valid": true,
+          "totalCount": 1
+        }
+      ]
+    },
+    {
+      "name": "volume",
+      "displayName": "Volume",
+      "customSortName": "numerical",
+      "type": 0,
+      "tree": false,
+      "selected": false,
+      "collectionSpecific": true,
+      "hasMore": false,
+      "buckets": [
+        {
+          "value": "171",
+          "displayValue": "171",
+          "selected": false,
+          "count": 27,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "172",
+          "displayValue": "172",
+          "selected": false,
+          "count": 4,
+          "valid": true,
+          "totalCount": 1
+        },
+        {
+          "value": "170",
+          "displayValue": "170",
+          "selected": false,
+          "count": 1,
+          "valid": true,
+          "totalCount": 1
+        }
+      ]
+    }
+  ],
+  "resultSet": [
+    {
+      "index": "1",
+      "line1": "171 Cong. Rec. H4420  - A LETTER FROM SURVIVORS OF JEFFREY EPSTEIN AND GHISLAINE MAXWELL",
+      "line2": "Congressional Record. Ms. MORRISON. Thursday, September 18, 2025.",
+      "fieldMap": {
+        "pdfsize": "227.0 KB",
+        "granuleid": "CREC-2025-09-18-pt1-PgH4420-3",
+        "pdffile": "pdf/CREC-2025-09-18-pt1-PgH4420-3.pdf",
+        "packageid": "CREC-2025-09-18",
+        "htmlfile": "html/CREC-2025-09-18-pt1-PgH4420-3.htm",
+        "htmlsize": "5.7 KB",
+        "collectionCode": "CREC",
+        "title": "A LETTER FROM SURVIVORS OF JEFFREY EPSTEIN AND GHISLAINE MAXWELL",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-09-18/html/CREC-2025-09-18-pt1-PgH4420-3.htm",
+        "teaser": ".... Mr. Speaker, today I rise to read a letter from more than 20 survivors of Jeffrey Epstein and Ghislaine Maxwell. I implore my colleagues and all Americans to listen to their words. Dear Members of the Republican Women's Caucus: We write to you today with urgency, respect, and hope. Strong American women are serving in the House of ..."
+      }
+    },
+    {
+      "index": "2",
+      "line1": "172 Cong. Rec. S613  - SENATE RESOLUTION 608--EXPRESSING THE SENSE OF THE SENATE THAT GHISLAINE MAXWELL SHOULD NOT BE...",
+      "line2": "Congressional Record. Regarding S. Res. 608. Thursday, February 12, 2026.",
+      "fieldMap": {
+        "pdfsize": "241.7 KB",
+        "granuleid": "CREC-2026-02-12-pt1-PgS613",
+        "pdffile": "pdf/CREC-2026-02-12-pt1-PgS613.pdf",
+        "packageid": "CREC-2026-02-12",
+        "htmlfile": "html/CREC-2026-02-12-pt1-PgS613.htm",
+        "htmlsize": "2.9 KB",
+        "collectionCode": "CREC",
+        "title": "SENATE RESOLUTION 608--EXPRESSING THE SENSE OF THE SENATE THAT GHISLAINE MAXWELL SHOULD NOT BE GRANTED A PRESIDENTIAL PARDON OR ANY FORM OF CLEMENCY FOR HER CRIMES WITH JEFFREY EPSTEIN RELATING TO...",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2026-02-12/html/CREC-2026-02-12-pt1-PgS613.htm",
+        "teaser": "...FOR HER CRIMES WITH JEFFREY EPSTEIN RELATING TO THE SEXUAL EXPLOITATION AND ABUSE OF MINORS Ms. ROSEN submitted the following resolution; which was referred to the Committee on the Judiciary: S. Res. 608 Whereas, in December 2021, a jury in the United States District Court for the Southern District of New York found Ghislaine Maxwell guilty of ..."
+      }
+    },
+    {
+      "index": "3",
+      "line1": "171 Cong. Rec. S5484  - Unanimous Consent Request--S. 2557 (Executive Session)",
+      "line2": "Congressional Record. Regarding S. 2557. Mr. BLUMENTHAL, Mr. BARRASSO, and others. Saturday, August 2, 2025.",
+      "fieldMap": {
+        "pdfsize": "216.6 KB",
+        "granuleid": "CREC-2025-08-02-pt1-PgS5484",
+        "pdffile": "pdf/CREC-2025-08-02-pt1-PgS5484.pdf",
+        "packageid": "CREC-2025-08-02",
+        "htmlfile": "html/CREC-2025-08-02-pt1-PgS5484.htm",
+        "htmlsize": "23.7 KB",
+        "collectionCode": "CREC",
+        "title": "Unanimous Consent Request--S. 2557 (Executive Session)",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-08-02/html/CREC-2025-08-02-pt1-PgS5484.htm",
+        "teaser": "... protocols and went down to secretly interview <b>Ghislaine</b> <b>Maxwell</b> for hours over a couple of days. I think we... the power to pardon <b>Ghislaine</b> <b>Maxwell</b>. Well, it is one thing to have the power; it is another thing to... <b>Ghislaine</b> <b>Maxwell</b> that if she says the right things, the President of the United States could pardon her..."
+      }
+    },
+    {
+      "index": "4",
+      "line1": "171 Cong. Rec. S4703  - SENATE RESOLUTION 335--CALLING ON FEDERAL AND STATE COURTS TO PROVIDE FULL TRANSPARENCY TO THE...",
+      "line2": "Congressional Record. Regarding S. Res. 335. Thursday, July 24, 2025.",
+      "fieldMap": {
+        "pdfsize": "240.3 KB",
+        "granuleid": "CREC-2025-07-24-pt1-PgS4703",
+        "pdffile": "pdf/CREC-2025-07-24-pt1-PgS4703.pdf",
+        "packageid": "CREC-2025-07-24",
+        "htmlfile": "html/CREC-2025-07-24-pt1-PgS4703.htm",
+        "htmlsize": "2.7 KB",
+        "collectionCode": "CREC",
+        "title": "SENATE RESOLUTION 335--CALLING ON FEDERAL AND STATE COURTS TO PROVIDE FULL TRANSPARENCY TO THE PEOPLE OF THE UNITED STATES BY UNSEALING MATERIALS CONCERNING MR. JEFFREY EPSTEIN",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-07-24/html/CREC-2025-07-24-pt1-PgS4703.htm",
+        "teaser": "... or Ms. <b>Ghislaine</b> <b>Maxwell</b>, subject only to continuing redactions to protect victims and preserve... Metropolitan Correctional Center in New York City, was a suicide; Whereas on June 28, 2022, Ms. <b>Ghislaine</b> <b>Maxwell</b> was sentenced to 20 years in prison for conspiring with Mr. Epstein to sexually abuse minors..."
+      }
+    },
+    {
+      "index": "5",
+      "line1": "171 Cong. Rec. S4687  - Jeffrey Epstein (Executive Session)",
+      "line2": "Congressional Record. Mr. SCHUMER. Thursday, July 24, 2025.",
+      "fieldMap": {
+        "pdfsize": "320.0 KB",
+        "granuleid": "CREC-2025-07-24-pt1-PgS4687-9",
+        "pdffile": "pdf/CREC-2025-07-24-pt1-PgS4687-9.pdf",
+        "packageid": "CREC-2025-07-24",
+        "htmlfile": "html/CREC-2025-07-24-pt1-PgS4687-9.htm",
+        "htmlsize": "5.8 KB",
+        "collectionCode": "CREC",
+        "title": "Jeffrey Epstein (Executive Session)",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-07-24/html/CREC-2025-07-24-pt1-PgS4687-9.htm",
+        "teaser": "... her direction--are preparing to interview <b>Ghislaine</b> <b>Maxwell</b>, Jeffrey Epstein's longtime accomplice... Donald Trump's Department of Justice be allowed to privately interview <b>Ghislaine</b> <b>Maxwell</b>. The conflict of... could offer <b>Ghislaine</b> <b>Maxwell</b> a pardon in exchange for silence or, even worse, phony exoneration. Let me..."
+      }
+    },
+    {
+      "index": "6",
+      "line1": "171 Cong. Rec. S5502  - Jeffrey Epstein (Executive Calendar)",
+      "line2": "Congressional Record. Mr. SCHIFF and Mr. WHITEHOUSE. Saturday, August 2, 2025.",
+      "fieldMap": {
+        "pdfsize": "200.5 KB",
+        "granuleid": "CREC-2025-08-02-pt1-PgS5502-3",
+        "pdffile": "pdf/CREC-2025-08-02-pt1-PgS5502-3.pdf",
+        "packageid": "CREC-2025-08-02",
+        "htmlfile": "html/CREC-2025-08-02-pt1-PgS5502-3.htm",
+        "htmlsize": "6.8 KB",
+        "collectionCode": "CREC",
+        "title": "Jeffrey Epstein (Executive Calendar)",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-08-02/html/CREC-2025-08-02-pt1-PgS5502-3.htm",
+        "teaser": "... Trump's friend <b>Ghislaine</b> <b>Maxwell</b>. If you don't know the backdrop to this and how things ordinarily work..., underage women--working at Mar-a-Lago committed suicide. She was a victim of the <b>Ghislaine</b> <b>Maxwell</b>-Jeffrey.... The only thing we do know is that this interview lasted 9 hours, and after the interview, <b>Ghislaine</b>..."
+      }
+    },
+    {
+      "index": "7",
+      "line1": "171 Cong. Rec. S5502  - Unanimous Consent Request (Executive Calendar)",
+      "line2": "Congressional Record. Mr. VAN HOLLEN, Mr. BARRASSO, and others. Saturday, August 2, 2025.",
+      "fieldMap": {
+        "pdfsize": "216.7 KB",
+        "granuleid": "CREC-2025-08-02-pt1-PgS5502-4",
+        "pdffile": "pdf/CREC-2025-08-02-pt1-PgS5502-4.pdf",
+        "packageid": "CREC-2025-08-02",
+        "htmlfile": "html/CREC-2025-08-02-pt1-PgS5502-4.htm",
+        "htmlsize": "20.6 KB",
+        "collectionCode": "CREC",
+        "title": "Unanimous Consent Request (Executive Calendar)",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-08-02/html/CREC-2025-08-02-pt1-PgS5502-4.htm",
+        "teaser": "... action of Deputy Attorney General Todd Blanche to conduct a secret interview with <b>Ghislaine</b> <b>Maxwell</b>, who... transcripts. According to all reports, they gave <b>Ghislaine</b> <b>Maxwell</b> immunity-- proffered immunity for the... the United States would pardon <b>Ghislaine</b> <b>Maxwell</b>. When President Trump was asked about that..."
+      }
+    },
+    {
+      "index": "8",
+      "line1": "171 Cong. Rec. H3780  - COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM EPSTEIN INVESTIGATION",
+      "line2": "Congressional Record. Regarding H. Res. 668. Wednesday, September 3, 2025.",
+      "fieldMap": {
+        "pdfsize": "241.8 KB",
+        "granuleid": "CREC-2025-09-03-pt1-PgH3780",
+        "pdffile": "pdf/CREC-2025-09-03-pt1-PgH3780.pdf",
+        "packageid": "CREC-2025-09-03",
+        "htmlfile": "html/CREC-2025-09-03-pt1-PgH3780.htm",
+        "htmlsize": "6.6 KB",
+        "collectionCode": "CREC",
+        "title": "COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM EPSTEIN INVESTIGATION",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-09-03/html/CREC-2025-09-03-pt1-PgH3780.htm",
+        "teaser": "... 668 is considered as agreed to. The text of the resolution is as follows: H. Res. 668 Resolved, SECTION 1. COMMITTEE ON OVERSIGHT AND GOVERNMENT REFORM EPSTEIN INVESTIGATION. The Committee on Oversight and Government Reform is directed to continue its ongoing investigation into the possible mismanagement of the Federal Government's investigation ..."
+      }
+    },
+    {
+      "index": "9",
+      "line1": "172 Cong. Rec. S138  - Text of Senate Amendment 4172",
+      "line2": "Congressional Record. Mr. WHITEHOUSE. Monday, January 12, 2026.",
+      "fieldMap": {
+        "pdfsize": "242.2 KB",
+        "granuleid": "CREC-2026-01-12-pt1-PgS138-3",
+        "pdffile": "pdf/CREC-2026-01-12-pt1-PgS138-3.pdf",
+        "packageid": "CREC-2026-01-12",
+        "htmlfile": "html/CREC-2026-01-12-pt1-PgS138-3.htm",
+        "htmlsize": "946.0 B",
+        "collectionCode": "CREC",
+        "title": "Text of Senate Amendment 4172",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2026-01-12/html/CREC-2026-01-12-pt1-PgS138-3.htm",
+        "teaser": "... year ending September 30, 2026, and for other purposes; which was ordered to lie on the table; as follows: At the appropriate place, insert the following: Sec. ___. The Attorney General shall, not later than 30 days after the date of enactment of this Act, use amounts made available under this Act to make publicly available in a searchable and ..."
+      }
+    },
+    {
+      "index": "10",
+      "line1": "172 Cong. Rec. S610  - SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS",
+      "line2": "Congressional Record. Thursday, February 12, 2026.",
+      "fieldMap": {
+        "pdfsize": "222.3 KB",
+        "granuleid": "CREC-2026-02-12-pt1-PgS610",
+        "pdffile": "pdf/CREC-2026-02-12-pt1-PgS610.pdf",
+        "packageid": "CREC-2026-02-12",
+        "htmlfile": "html/CREC-2026-02-12-pt1-PgS610.htm",
+        "htmlsize": "1.7 KB",
+        "collectionCode": "CREC",
+        "title": "SUBMISSION OF CONCURRENT AND SENATE RESOLUTIONS",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2026-02-12/html/CREC-2026-02-12-pt1-PgS610.htm",
+        "teaser": "...as indicated: By Mr. SCOTT of Florida (for himself and Mrs. Moody): S. Res. 607. A resolution honoring the memories of the victims of the senseless attack at Marjory Stoneman Douglas High School on February 14, 2018; to the Committee on the Judiciary. By Ms. ROSEN: S. Res. 608. A resolution expressing the sense of the Senate that Ghislaine Maxwell ..."
+      }
+    },
+    {
+      "index": "11",
+      "line1": "171 Cong. Rec. D857  - Daily Digest/House Committee Meetings",
+      "line2": "Congressional Record. Tuesday, September 2, 2025.",
+      "fieldMap": {
+        "pdfsize": "258.5 KB",
+        "granuleid": "CREC-2025-09-02-pt1-PgD857",
+        "pdffile": "pdf/CREC-2025-09-02-pt1-PgD857.pdf",
+        "packageid": "CREC-2025-09-02",
+        "htmlfile": "html/CREC-2025-09-02-pt1-PgD857.htm",
+        "htmlsize": "6.4 KB",
+        "collectionCode": "CREC",
+        "title": "Daily Digest/House Committee Meetings",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-09-02/html/CREC-2025-09-02-pt1-PgD857.htm",
+        "teaser": "... held a markup on the Subcommittee on Labor Health and Human Services, Education, and Related Agencies FY 2026 Appropriations Bill. The Subcommittee on Labor Health and Human Services, Education, and Related Agencies FY 2026 Appropriations Bill was forwarded to the full Committee, without amendment. DIRECTING THE COMMITTEE ON OVERSIGHT AND ..."
+      }
+    },
+    {
+      "index": "12",
+      "line1": "170 Cong. Rec. S35  - Sex Trafficking (Executive Calendar)",
+      "line2": "Congressional Record. Mrs. BLACKBURN. Tuesday, January 9, 2024.",
+      "fieldMap": {
+        "pdfsize": "239.8 KB",
+        "granuleid": "CREC-2024-01-09-pt1-PgS35-3",
+        "pdffile": "pdf/CREC-2024-01-09-pt1-PgS35-3.pdf",
+        "packageid": "CREC-2024-01-09",
+        "htmlfile": "html/CREC-2024-01-09-pt1-PgS35-3.htm",
+        "htmlsize": "10.1 KB",
+        "collectionCode": "CREC",
+        "title": "Sex Trafficking (Executive Calendar)",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2024-01-09/html/CREC-2024-01-09-pt1-PgS35-3.htm",
+        "teaser": "... prosecuted for these crimes, and that is <b>Ghislaine</b> <b>Maxwell</b>. What she did was to recruit and groom many of the... involved in this scheme in addition to <b>Ghislaine</b> <b>Maxwell</b>. What we do not know is the extent of that..., unredacted Epstein flight logs and <b>Ghislaine</b> <b>Maxwell</b>'s unredacted ``little black book'' of contacts and..."
+      }
+    },
+    {
+      "index": "13",
+      "line1": "171 Cong. Rec. S4921  - Text of Senate Amendment 3140",
+      "line2": "Congressional Record. Mr. MERKLEY. Wednesday, July 30, 2025.",
+      "fieldMap": {
+        "pdfsize": "226.8 KB",
+        "granuleid": "CREC-2025-07-30-pt1-PgS4921-5",
+        "pdffile": "pdf/CREC-2025-07-30-pt1-PgS4921-5.pdf",
+        "packageid": "CREC-2025-07-30",
+        "htmlfile": "html/CREC-2025-07-30-pt1-PgS4921-5.htm",
+        "htmlsize": "6.6 KB",
+        "collectionCode": "CREC",
+        "title": "Text of Senate Amendment 3140",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-07-30/html/CREC-2025-07-30-pt1-PgS4921-5.htm",
+        "teaser": "..., the Department of Veterans Affairs, and related agencies for the fiscal year ending September 30, 2026, and for other purposes; which was ordered to lie on the table; as follows: At the appropriate place, insert the following: SEC. ___. EPSTEIN FILES TRANSPARENCY. (a) Release of Documents Relating to Jeffrey Epstein.-- (1) In general.-..."
+      }
+    },
+    {
+      "index": "14",
+      "line1": "171 Cong. Rec. S6503  - Text of Senate Amendment 3844",
+      "line2": "Congressional Record. Mr. MERKLEY. Tuesday, September 9, 2025.",
+      "fieldMap": {
+        "pdfsize": "226.9 KB",
+        "granuleid": "CREC-2025-09-09-pt1-PgS6503-3",
+        "pdffile": "pdf/CREC-2025-09-09-pt1-PgS6503-3.pdf",
+        "packageid": "CREC-2025-09-09",
+        "htmlfile": "html/CREC-2025-09-09-pt1-PgS6503-3.htm",
+        "htmlsize": "6.8 KB",
+        "collectionCode": "CREC",
+        "title": "Text of Senate Amendment 3844",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-09-09/html/CREC-2025-09-09-pt1-PgS6503-3.htm",
+        "teaser": ".... Wicker (for himself and [[Page S6504]] Mr. Reed) to the bill S. 2296, to authorize appropriations for fiscal year 2026 for military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; ..."
+      }
+    },
+    {
+      "index": "15",
+      "line1": "171 Cong. Rec. S6334  - Text of Senate Amendment 3771",
+      "line2": "Congressional Record. Mr. MERKLEY. Thursday, September 4, 2025.",
+      "fieldMap": {
+        "pdfsize": "221.0 KB",
+        "granuleid": "CREC-2025-09-04-pt1-PgS6334-3",
+        "pdffile": "pdf/CREC-2025-09-04-pt1-PgS6334-3.pdf",
+        "packageid": "CREC-2025-09-04",
+        "htmlfile": "html/CREC-2025-09-04-pt1-PgS6334-3.htm",
+        "htmlsize": "6.7 KB",
+        "collectionCode": "CREC",
+        "title": "Text of Senate Amendment 3771",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-09-04/html/CREC-2025-09-04-pt1-PgS6334-3.htm",
+        "teaser": "...military activities of the Department of Defense, for military construction, and for defense activities of the Department of Energy, to prescribe military personnel strengths for such fiscal year, and for other purposes; which was ordered to lie on the table; as follows: At the appropriate place, insert the following: SEC. _____. EPSTEIN FILES ..."
+      }
+    },
+    {
+      "index": "16",
+      "line1": "171 Cong. Rec. S609  - Jeffrey Epstein (Executive Calendar)",
+      "line2": "Congressional Record. Mrs. BLACKBURN. Wednesday, February 5, 2025.",
+      "fieldMap": {
+        "pdfsize": "200.9 KB",
+        "granuleid": "CREC-2025-02-05-pt1-PgS609",
+        "pdffile": "pdf/CREC-2025-02-05-pt1-PgS609.pdf",
+        "packageid": "CREC-2025-02-05",
+        "htmlfile": "html/CREC-2025-02-05-pt1-PgS609.htm",
+        "htmlsize": "1.7 KB",
+        "collectionCode": "CREC",
+        "title": "Jeffrey Epstein (Executive Calendar)",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-02-05/html/CREC-2025-02-05-pt1-PgS609.htm",
+        "teaser": "..., unredacted Epstein flight logs from the FBI. I have also pushed for the release of <b>Ghislaine</b> <b>Maxwell</b>'s..."
+      }
+    },
+    {
+      "index": "17",
+      "line1": "171 Cong. Rec. H4901  - PUBLIC BILLS AND RESOLUTIONS",
+      "line2": "Congressional Record. Tuesday, November 25, 2025.",
+      "fieldMap": {
+        "pdfsize": "224.7 KB",
+        "granuleid": "CREC-2025-11-25-pt1-PgH4901",
+        "pdffile": "pdf/CREC-2025-11-25-pt1-PgH4901.pdf",
+        "packageid": "CREC-2025-11-25",
+        "htmlfile": "html/CREC-2025-11-25-pt1-PgH4901.htm",
+        "htmlsize": "13.9 KB",
+        "collectionCode": "CREC",
+        "title": "PUBLIC BILLS AND RESOLUTIONS",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-11-25/html/CREC-2025-11-25-pt1-PgH4901.htm",
+        "teaser": "... as follows: By Ms. LEE of Florida (for herself and Mr. Soto): H.R. 6289. A bill to amend the Children's Online Privacy Protection Act of 1998 to promote online safety for minors, and for other purposes; to the Committee on Energy and Commerce. By Mr. BENTZ (for himself and Ms. Schrier): H.R. 6290. A bill to require the Federal Trade Commission to ..."
+      }
+    },
+    {
+      "index": "18",
+      "line1": "171 Cong. Rec. H3756  - PUBLIC BILLS AND RESOLUTIONS",
+      "line2": "Congressional Record. Tuesday, September 2, 2025.",
+      "fieldMap": {
+        "pdfsize": "225.9 KB",
+        "granuleid": "CREC-2025-09-02-pt1-PgH3756",
+        "pdffile": "pdf/CREC-2025-09-02-pt1-PgH3756.pdf",
+        "packageid": "CREC-2025-09-02",
+        "htmlfile": "html/CREC-2025-09-02-pt1-PgH3756.htm",
+        "htmlsize": "13.2 KB",
+        "collectionCode": "CREC",
+        "title": "PUBLIC BILLS AND RESOLUTIONS",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-09-02/html/CREC-2025-09-02-pt1-PgH3756.htm",
+        "teaser": "... as follows: By Mr. OGLES (for himself, Mr. Garbarino, Mr. Swalwell, and Mr. Evans of Colorado): H.R. 5078. A bill to amend the Homeland Security Act of 2002 to reauthorize the State and local cybersecurity grant program of the Cybersecurity and Infrastructure Security Agency of the Department of Homeland Security, and for other purposes; to the ..."
+      }
+    },
+    {
+      "index": "19",
+      "line1": "171 Cong. Rec. H3771  - PROVIDING FOR CONSIDERATION OF H.R. 4553, ENERGY AND WATER DEVELOPMENT AND RELATED AGENCIES...",
+      "line2": "Congressional Record. Regarding H. Res. 672. Mr. GRIFFITH, Mr. McGOVERN, and others. Wednesday, September 3, 2025.",
+      "fieldMap": {
+        "pdfsize": "290.1 KB",
+        "granuleid": "CREC-2025-09-03-pt1-PgH3771",
+        "pdffile": "pdf/CREC-2025-09-03-pt1-PgH3771.pdf",
+        "packageid": "CREC-2025-09-03",
+        "htmlfile": "html/CREC-2025-09-03-pt1-PgH3771.htm",
+        "htmlsize": "75.0 KB",
+        "collectionCode": "CREC",
+        "title": "PROVIDING FOR CONSIDERATION OF H.R. 4553, ENERGY AND WATER DEVELOPMENT AND RELATED AGENCIES APPROPRIATIONS ACT, 2026; PROVIDING FOR CONSIDERATION OF H.J. RES. 104, PROVIDING FOR CONGRESSIONAL...",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-09-03/html/CREC-2025-09-03-pt1-PgH3771.htm",
+        "teaser": "...H.J. RES. 104, PROVIDING FOR CONGRESSIONAL DISAPPROVAL OF THE RULE SUBMITTED BY THE BUREAU OF LAND MANAGEMENT RELATING TO ``MILES CITY FIELD OFFICE RECORD OF DECISION AND APPROVED RESOURCE MANAGEMENT PLAN AMENDMENT''; PROVIDING FOR CONSIDERATION OF H.J. RES. 105, PROVIDING FOR CONGRESSIONAL DISAPPROVAL OF THE RULE SUBMITTED BY THE BUREAU OF LAND ..."
+      }
+    },
+    {
+      "index": "20",
+      "line1": "171 Cong. Rec. S5482  - Unanimous Consent Request--S. 2557 (Executive Session)",
+      "line2": "Congressional Record. Regarding S. 2557. Mr. MERKLEY, Mr. BARRASSO, and others. Saturday, August 2, 2025.",
+      "fieldMap": {
+        "pdfsize": "211.4 KB",
+        "granuleid": "CREC-2025-08-02-pt1-PgS5482",
+        "pdffile": "pdf/CREC-2025-08-02-pt1-PgS5482.pdf",
+        "packageid": "CREC-2025-08-02",
+        "htmlfile": "html/CREC-2025-08-02-pt1-PgS5482.htm",
+        "htmlsize": "12.2 KB",
+        "collectionCode": "CREC",
+        "title": "Unanimous Consent Request--S. 2557 (Executive Session)",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-08-02/html/CREC-2025-08-02-pt1-PgS5482.htm",
+        "teaser": "... murky when Epstein's girlfriend <b>Ghislaine</b> <b>Maxwell</b> is being interviewed by one of the highest ranking..."
+      }
+    },
+    {
+      "index": "21",
+      "line1": "171 Cong. Rec. S4789  - Nomination of Emil J. Bove III (Executive Session)",
+      "line2": "Congressional Record. Mr. DURBIN, Mr. CRAPO, and others. Tuesday, July 29, 2025.",
+      "fieldMap": {
+        "pdfsize": "229.0 KB",
+        "granuleid": "CREC-2025-07-29-pt1-PgS4789",
+        "pdffile": "pdf/CREC-2025-07-29-pt1-PgS4789.pdf",
+        "packageid": "CREC-2025-07-29",
+        "htmlfile": "html/CREC-2025-07-29-pt1-PgS4789.htm",
+        "htmlsize": "15.8 KB",
+        "collectionCode": "CREC",
+        "title": "Nomination of Emil J. Bove III (Executive Session)",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-07-29/html/CREC-2025-07-29-pt1-PgS4789.htm",
+        "teaser": "... on the Third Circuit Court of Appeals. The swirl of information concerning the Department of Justice this year is almost impossible to follow. And as ranking Democrat on the Senate Judiciary Committee, we try to follow closely not only the nominees for judicial positions and positions of leadership at the Department of Justice but also those ..."
+      }
+    },
+    {
+      "index": "22",
+      "line1": "171 Cong. Rec. H3678  - PUBLIC BILLS AND RESOLUTIONS",
+      "line2": "Congressional Record. Tuesday, August 5, 2025.",
+      "fieldMap": {
+        "pdfsize": "249.6 KB",
+        "granuleid": "CREC-2025-08-05-pt1-PgH3678",
+        "pdffile": "pdf/CREC-2025-08-05-pt1-PgH3678.pdf",
+        "packageid": "CREC-2025-08-05",
+        "htmlfile": "html/CREC-2025-08-05-pt1-PgH3678.htm",
+        "htmlsize": "35.0 KB",
+        "collectionCode": "CREC",
+        "title": "PUBLIC BILLS AND RESOLUTIONS",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-08-05/html/CREC-2025-08-05-pt1-PgH3678.htm",
+        "teaser": ".... Res. 635. A resolution expressing the sense of the House of Representatives that <b>Ghislaine</b> <b>Maxwell</b>..."
+      }
+    },
+    {
+      "index": "23",
+      "line1": "171 Cong. Rec. S4577  - LEGISLATIVE SESSION",
+      "line2": "Congressional Record. Mr. GRASSLEY, Mr. THUNE, and others. Wednesday, July 23, 2025.",
+      "fieldMap": {
+        "pdfsize": "315.5 KB",
+        "granuleid": "CREC-2025-07-23-pt1-PgS4577-6",
+        "pdffile": "pdf/CREC-2025-07-23-pt1-PgS4577-6.pdf",
+        "packageid": "CREC-2025-07-23",
+        "htmlfile": "html/CREC-2025-07-23-pt1-PgS4577-6.htm",
+        "htmlsize": "32.7 KB",
+        "collectionCode": "CREC",
+        "title": "LEGISLATIVE SESSION",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-07-23/html/CREC-2025-07-23-pt1-PgS4577-6.htm",
+        "teaser": "... OFFICER. Under the previous order, the Senate will resume consideration of the motion to proceed to H.R. 3944, which the clerk will report. The senior assistant legislative clerk read as follows: Motion to proceed to Calendar No. 121, H.R. 3944, a bill making appropriations for military construction, the Department of Veterans Affairs, and ..."
+      }
+    },
+    {
+      "index": "24",
+      "line1": "171 Cong. Rec. H3907  - PROVIDING FOR CONSIDERATION OF H.R. 3838, STREAMLINING PROCUREMENT FOR EFFECTIVE EXECUTION AND...",
+      "line2": "Congressional Record. Regarding H. Res. 682. Mr. AUSTIN SCOTT of Georgia, Ms. SCANLON, and others. Tuesday, September 9, 2025.",
+      "fieldMap": {
+        "pdfsize": "273.0 KB",
+        "granuleid": "CREC-2025-09-09-pt1-PgH3907-2",
+        "pdffile": "pdf/CREC-2025-09-09-pt1-PgH3907-2.pdf",
+        "packageid": "CREC-2025-09-09",
+        "htmlfile": "html/CREC-2025-09-09-pt1-PgH3907-2.htm",
+        "htmlsize": "52.0 KB",
+        "collectionCode": "CREC",
+        "title": "PROVIDING FOR CONSIDERATION OF H.R. 3838, STREAMLINING PROCUREMENT FOR EFFECTIVE EXECUTION AND DELIVERY AND NATIONAL DEFENSE AUTHORIZATION ACT FOR FISCAL YEAR 2026; AND PROVIDING FOR CONSIDERATION...",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-09-09/html/CREC-2025-09-09-pt1-PgH3907-2.htm",
+        "teaser": "... YEAR 2026; AND PROVIDING FOR CONSIDERATION OF H.R. 3486, STOP ILLEGAL ENTRY ACT OF 2025 Mr. AUSTIN SCOTT of Georgia. Mr. Speaker, by direction of the Committee on Rules, I call up House Resolution 682 and ask for its immediate consideration. The Clerk read the resolution, as follows: H. Res. 682 Resolved, That at any time after adoption of ..."
+      }
+    },
+    {
+      "index": "25",
+      "line1": "171 Cong. Rec. H4242  - STOP ILLEGAL ENTRY ACT OF 2025",
+      "line2": "Congressional Record. Regarding H.R. 3486. Mr. KNOTT, Mr. RASKIN, and others. Thursday, September 11, 2025.",
+      "fieldMap": {
+        "pdfsize": "298.3 KB",
+        "granuleid": "CREC-2025-09-11-pt1-PgH4242-4",
+        "pdffile": "pdf/CREC-2025-09-11-pt1-PgH4242-4.pdf",
+        "packageid": "CREC-2025-09-11",
+        "htmlfile": "html/CREC-2025-09-11-pt1-PgH4242-4.htm",
+        "htmlsize": "57.6 KB",
+        "collectionCode": "CREC",
+        "title": "STOP ILLEGAL ENTRY ACT OF 2025",
+        "url": "https://www.govinfo.gov/content/pkg/CREC-2025-09-11/html/CREC-2025-09-11-pt1-PgH4242-4.htm",
+        "teaser": "... DOJ allows to be released? Why not speak out against the cushy deal that <b>Ghislaine</b> <b>Maxwell</b> just got..."
+      }
+    }
+  ]
+}

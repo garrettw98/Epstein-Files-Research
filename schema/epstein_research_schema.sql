@@ -86,6 +86,7 @@ CREATE TABLE IF NOT EXISTS claims (
   first_seen_date TEXT,
   status TEXT NOT NULL, -- verified_primary, verified_secondary, alleged, disputed, retracted, pending_review
   confidence REAL CHECK(confidence >= 0.0 AND confidence <= 1.0),
+  name_context_class TEXT NOT NULL DEFAULT 'unknown', -- direct_contact, administrative_mention, media_reference, unverified_allegation, unknown
   notes TEXT,
   created_at_utc TEXT NOT NULL,
   updated_at_utc TEXT NOT NULL,

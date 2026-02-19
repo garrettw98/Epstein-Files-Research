@@ -11,6 +11,8 @@ make claim-candidates
 make derive-entities
 make claim-quality
 make claim-triage
+make claim-primary-gaps
+make redaction-taxonomy
 make load-db
 make daily-report
 make coverage-gaps
@@ -58,25 +60,33 @@ make daily-pipeline
    - Converts open claim quality flags into prioritized triage queue rows (`p1/p2/p3`).
    - Writes `claim_review_queue_latest.tsv` and summary to `derived/claims/`.
 
-10. `scripts/generate_daily_change_report.py`
+10. `scripts/generate_primary_evidence_gap_register.py`
+   - Builds a register of claims missing tier-1 evidence links.
+   - Writes `primary_evidence_gap_register_latest.tsv` and summary to `derived/reports/`.
+
+11. `scripts/generate_redaction_taxonomy_report.py`
+   - Classifies claim language into redaction rationale categories.
+   - Writes `redaction_taxonomy_latest.tsv` and summary to `derived/reports/`.
+
+12. `scripts/generate_daily_change_report.py`
    - Compares latest two primary-doc snapshots.
    - Snapshots claim registry into `derived/claims/history/`.
    - Computes claim-status diffs from latest two claim snapshots.
    - Summarizes latest claim-quality flag severities.
    - Writes reports to `derived/reports/`.
 
-11. `scripts/generate_coverage_gap_dashboard.py`
+13. `scripts/generate_coverage_gap_dashboard.py`
    - Compares expected DOJ data-set range vs detected ingested set links.
    - Adds per-data-set file-count checks and zero-file set warnings.
    - Flags broken endpoints, stale inputs, and missing expected source systems.
    - Writes dashboard + metrics to `derived/reports/`.
 
-12. `scripts/update_last24h_brief.py`
+14. `scripts/update_last24h_brief.py`
    - Builds a rolling 24-hour change brief from latest ingest/report artifacts.
    - Auto-updates managed brief blocks in `README.md` and `timeline/Full_Timeline.md`.
 
-13. `scripts/run_daily_pipeline.sh`
-   - End-to-end wrapper: ingest library, derive dataset completeness, ingest primary docs, derive topics, generate claims/entities/quality/triage, load DB, generate reports, update 24-hour brief.
+15. `scripts/run_daily_pipeline.sh`
+   - End-to-end wrapper: ingest library, derive dataset completeness, ingest primary docs, derive topics, generate claims/entities/quality/triage, generate primary-evidence/redaction reports, load DB, generate reports, update 24-hour brief.
 
 ## Output Map
 
@@ -89,6 +99,8 @@ make daily-pipeline
 - `derived/entities/entity_mentions_latest.tsv`
 - `derived/claims/claim_quality_flags_latest.tsv`
 - `derived/claims/claim_review_queue_latest.tsv`
+- `derived/reports/primary_evidence_gap_register_latest.tsv`
+- `derived/reports/redaction_taxonomy_latest.tsv`
 - `derived/database/epstein_research.sqlite`
 - `derived/reports/daily_change_report_latest.md`
 - `derived/reports/daily_primary_doc_diff_latest.tsv`

@@ -132,6 +132,21 @@ def apply_runtime_migrations(conn: sqlite3.Connection) -> None:
     ensure_column(conn, "claim_evidence_links", "snippet_hash", "snippet_hash TEXT")
     ensure_column(conn, "claim_evidence_links", "span_id", "span_id TEXT")
     ensure_column(conn, "claim_evidence_links", "provenance_note", "provenance_note TEXT")
+    ensure_column(conn, "claims", "name_context_class", "name_context_class TEXT NOT NULL DEFAULT 'unknown'")
+
+
+def normalize_name_context_class(raw: str) -> str:
+    value = (raw or "").strip().lower()
+    allowed = {
+        "direct_contact",
+        "administrative_mention",
+        "media_reference",
+        "unverified_allegation",
+        "unknown",
+    }
+    if value in allowed:
+        return value
+    return "unknown"
 
 
 def normalize_claim_status(raw_status: str, evidence_rows: list[dict[str, str]]) -> str:
@@ -493,9 +508,9 @@ def main() -> int:
                 """
                 INSERT INTO claims (
                   claim_id, claim_text, claim_type, asserted_by_entity_id,
-                  first_seen_date, status, confidence, notes,
+                  first_seen_date, status, confidence, name_context_class, notes,
                   created_at_utc, updated_at_utc
-                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
+                ) VALUES (?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?)
                 ON CONFLICT(claim_id) DO UPDATE SET
                   claim_text = excluded.claim_text,
                   claim_type = excluded.claim_type,
@@ -503,6 +518,7 @@ def main() -> int:
                   first_seen_date = excluded.first_seen_date,
                   status = excluded.status,
                   confidence = excluded.confidence,
+                  name_context_class = excluded.name_context_class,
                   notes = excluded.notes,
                   updated_at_utc = excluded.updated_at_utc
                 """,
@@ -514,6 +530,7 @@ def main() -> int:
                     (row.get("first_seen_date") or "").strip(),
                     normalized_status,
                     to_float((row.get("confidence") or "").strip()),
+                    normalize_name_context_class((row.get("name_context_class") or "").strip()),
                     (row.get("notes") or "").strip(),
                     now_iso,
                     now_iso,

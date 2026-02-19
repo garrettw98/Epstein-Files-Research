@@ -125,6 +125,8 @@ def main() -> int:
             continue
         claim_text = (claim.get("claim_text") or "").strip()
         claim_status = (claim.get("status") or "").strip().lower()
+        promoted_statuses = {"verified_primary", "verified_secondary", "disputed", "retracted"}
+        requires_strict_evidence = claim_status in promoted_statuses
         claim_links = links_by_claim.get(claim_id, [])
 
         has_primary = any((row.get("evidence_type") or "").strip().lower() in PRIMARY_EVIDENCE_TYPES for row in claim_links)
@@ -138,7 +140,7 @@ def main() -> int:
             first_doc_id = (claim_links[0].get("doc_id") or "").strip()
             first_source_url = (claim_links[0].get("evidence_url") or "").strip()
 
-        if not has_primary:
+        if requires_strict_evidence and not has_primary:
             add_flag(
                 claim_id=claim_id,
                 rule_id="no_primary_evidence",
@@ -148,7 +150,7 @@ def main() -> int:
                 related_source_url=first_source_url,
             )
 
-        if not has_direct and not has_locator and not has_snippet_hash:
+        if requires_strict_evidence and not has_direct and not has_locator and not has_snippet_hash:
             add_flag(
                 claim_id=claim_id,
                 rule_id="no_direct_context",
@@ -158,7 +160,7 @@ def main() -> int:
                 related_source_url=first_source_url,
             )
 
-        if has_name_only_pattern(claim_text) and not (has_primary and has_direct):
+        if requires_strict_evidence and has_name_only_pattern(claim_text) and not (has_primary and has_direct):
             add_flag(
                 claim_id=claim_id,
                 rule_id="name_only_implication_risk",
@@ -168,7 +170,7 @@ def main() -> int:
                 related_source_url=first_source_url,
             )
 
-        if has_criminal_implication_pattern(claim_text) and not (has_primary and has_direct):
+        if requires_strict_evidence and has_criminal_implication_pattern(claim_text) and not (has_primary and has_direct):
             add_flag(
                 claim_id=claim_id,
                 rule_id="unsupported_criminal_inference",

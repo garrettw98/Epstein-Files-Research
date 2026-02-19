@@ -1,4 +1,4 @@
-.PHONY: help ingest-library dataset-completeness ingest-primary derive-topics claim-candidates derive-entities claim-quality claim-triage coverage-gaps last24h-brief load-db daily-report daily-pipeline test
+.PHONY: help ingest-library dataset-completeness ingest-primary derive-topics claim-candidates derive-entities claim-quality claim-triage claim-primary-gaps redaction-taxonomy coverage-gaps last24h-brief load-db daily-report daily-pipeline test
 
 help:
 	@echo "Targets:"
@@ -10,6 +10,8 @@ help:
 	@echo "  make derive-entities # Build canonical aliases + context-typed entity mentions"
 	@echo "  make claim-quality   # Flag name-only and weak-context claim risks"
 	@echo "  make claim-triage    # Build prioritized review queue from claim quality flags"
+	@echo "  make claim-primary-gaps # Build register of claims lacking tier-1 evidence links"
+	@echo "  make redaction-taxonomy # Build redaction-category summary from claim language"
 	@echo "  make coverage-gaps   # Build dataset/source health dashboard"
 	@echo "  make last24h-brief   # Update README/timeline 24h change briefs"
 	@echo "  make load-db         # Load latest TSV outputs into SQLite"
@@ -40,6 +42,12 @@ claim-quality:
 
 claim-triage:
 	python3 scripts/triage_claim_quality_flags.py
+
+claim-primary-gaps:
+	python3 scripts/generate_primary_evidence_gap_register.py
+
+redaction-taxonomy:
+	python3 scripts/generate_redaction_taxonomy_report.py
 
 coverage-gaps:
 	python3 scripts/generate_coverage_gap_dashboard.py

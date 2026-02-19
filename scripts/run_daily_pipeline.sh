@@ -12,6 +12,8 @@ python3 scripts/generate_claim_candidates.py
 python3 scripts/derive_entity_mentions.py
 python3 scripts/assess_claim_context_quality.py
 python3 scripts/triage_claim_quality_flags.py
+python3 scripts/generate_primary_evidence_gap_register.py
+python3 scripts/generate_redaction_taxonomy_report.py
 python3 scripts/load_epstein_sqlite.py
 python3 scripts/generate_daily_change_report.py
 python3 scripts/generate_coverage_gap_dashboard.py

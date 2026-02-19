@@ -1,4 +1,4 @@
-.PHONY: help ingest-library dataset-completeness ingest-primary derive-topics claim-candidates derive-entities claim-quality claim-triage claim-primary-gaps redaction-taxonomy coverage-gaps last24h-brief load-db daily-report daily-pipeline test
+.PHONY: help ingest-library dataset-completeness ingest-primary derive-topics claim-candidates derive-entities claim-quality claim-triage claim-primary-gaps redaction-taxonomy coverage-gaps command-center last24h-brief load-db daily-report daily-pipeline test
 
 help:
 	@echo "Targets:"
@@ -13,6 +13,7 @@ help:
 	@echo "  make claim-primary-gaps # Build register of claims lacking tier-1 evidence links"
 	@echo "  make redaction-taxonomy # Build redaction-category summary from claim language"
 	@echo "  make coverage-gaps   # Build dataset/source health dashboard"
+	@echo "  make command-center  # Build one-page research command center"
 	@echo "  make last24h-brief   # Update README/timeline 24h change briefs"
 	@echo "  make load-db         # Load latest TSV outputs into SQLite"
 	@echo "  make daily-report    # Build daily primary-doc + claim-change reports"
@@ -51,6 +52,9 @@ redaction-taxonomy:
 
 coverage-gaps:
 	python3 scripts/generate_coverage_gap_dashboard.py
+
+command-center:
+	python3 scripts/generate_research_command_center.py
 
 last24h-brief:
 	python3 scripts/update_last24h_brief.py

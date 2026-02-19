@@ -11,6 +11,7 @@ This guide defines where content belongs so additions stay readable and auditabl
 - `raw/` - Immutable source snapshots from ingest scripts.
 - `derived/` - Machine-readable normalized outputs generated from `raw/`.
   - `derived/entities/` - Canonical IDs, alias resolution, and context-typed mention extraction outputs.
+  - `derived/reports/research_command_center_latest.html` - One-page generated status and navigation view.
 - `schema/` - Relational schema and claim-linking standards.
 - `scripts/` - Ingestion, normalization, and reporting automation.
 - `analysis/` - Synthetic analysis products based on sourced data.

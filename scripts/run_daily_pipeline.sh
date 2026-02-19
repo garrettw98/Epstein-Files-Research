@@ -17,6 +17,7 @@ python3 scripts/generate_redaction_taxonomy_report.py
 python3 scripts/load_epstein_sqlite.py
 python3 scripts/generate_daily_change_report.py
 python3 scripts/generate_coverage_gap_dashboard.py
+python3 scripts/generate_research_command_center.py
 python3 scripts/update_last24h_brief.py
 
 echo "Daily pipeline complete."

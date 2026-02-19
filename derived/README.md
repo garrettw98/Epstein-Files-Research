@@ -29,6 +29,8 @@ Current ingest outputs:
 - `derived/reports/daily_change_report_latest.md`
 - `derived/reports/daily_primary_doc_diff_latest.tsv`
 - `derived/reports/daily_claim_status_changes_latest.tsv`
+- `derived/reports/research_command_center_latest.md`
+- `derived/reports/research_command_center_latest.html`
 
 Regenerate derived files with:
 
@@ -37,3 +39,4 @@ Regenerate derived files with:
 - `./scripts/generate_claim_candidates.py`
 - `./scripts/load_epstein_sqlite.py`
 - `./scripts/generate_daily_change_report.py`
+- `./scripts/generate_research_command_center.py`

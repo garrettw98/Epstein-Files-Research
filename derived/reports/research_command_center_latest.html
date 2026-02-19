@@ -1,0 +1,349 @@
+<!doctype html>
+<html lang='en'>
+<head>
+  <meta charset='utf-8'>
+  <meta name='viewport' content='width=device-width, initial-scale=1'>
+  <title>Research Command Center</title>
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600&family=IBM+Plex+Mono:wght@400;600&display=swap');
+
+    :root {
+      --bg: #f2efe8;
+      --bg2: #dce7ef;
+      --ink: #101923;
+      --muted: #4e5d6e;
+      --card: rgba(255, 255, 255, 0.82);
+      --line: rgba(16, 25, 35, 0.12);
+      --ok: #0f7d56;
+      --warn: #c66a11;
+      --high: #b32128;
+      --neutral: #17365d;
+      --mono: 'IBM Plex Mono', 'Courier New', monospace;
+      --sans: 'Space Grotesk', 'Helvetica Neue', sans-serif;
+      --serif: 'Source Serif 4', Georgia, serif;
+      --shadow: 0 10px 30px rgba(16, 25, 35, 0.09);
+      --radius: 16px;
+    }
+
+    * { box-sizing: border-box; }
+
+    body {
+      margin: 0;
+      color: var(--ink);
+      font-family: var(--sans);
+      background:
+        radial-gradient(circle at 10% -5%, rgba(221, 82, 62, 0.17), transparent 44%),
+        radial-gradient(circle at 95% 10%, rgba(23, 54, 93, 0.17), transparent 40%),
+        linear-gradient(135deg, var(--bg), var(--bg2));
+      min-height: 100vh;
+    }
+
+    .grid-overlay {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      background-image: linear-gradient(to right, rgba(16, 25, 35, 0.03) 1px, transparent 1px),
+                        linear-gradient(to bottom, rgba(16, 25, 35, 0.03) 1px, transparent 1px);
+      background-size: 34px 34px;
+      mask-image: radial-gradient(circle at center, black 20%, transparent 90%);
+    }
+
+    main {
+      width: min(1180px, 92vw);
+      margin: 28px auto 42px;
+      display: grid;
+      gap: 18px;
+      position: relative;
+      z-index: 1;
+    }
+
+    .panel {
+      background: var(--card);
+      backdrop-filter: blur(6px);
+      border: 1px solid var(--line);
+      border-radius: var(--radius);
+      box-shadow: var(--shadow);
+      padding: 18px;
+    }
+
+    .hero h1 {
+      margin: 0;
+      font-family: var(--serif);
+      font-size: clamp(1.7rem, 2.2vw + 0.9rem, 2.6rem);
+      letter-spacing: 0.2px;
+    }
+
+    .hero .meta {
+      margin-top: 8px;
+      display: flex;
+      flex-wrap: wrap;
+      gap: 10px;
+      color: var(--muted);
+      font-size: 0.95rem;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      border: 1px solid var(--line);
+      border-radius: 999px;
+      padding: 6px 10px;
+      background: rgba(255, 255, 255, 0.65);
+      font-family: var(--mono);
+      font-size: 0.78rem;
+    }
+
+    .section-title {
+      margin: 0 0 12px;
+      font-size: 1.06rem;
+      letter-spacing: 0.2px;
+    }
+
+    .metrics {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+      gap: 12px;
+    }
+
+    .metric-card {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 12px;
+      background: rgba(255, 255, 255, 0.75);
+    }
+
+    .metric-label {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.78rem;
+      text-transform: uppercase;
+      letter-spacing: 0.08em;
+    }
+
+    .metric-value {
+      margin: 8px 0 4px;
+      font-size: 1.55rem;
+      line-height: 1.1;
+      font-family: var(--serif);
+      word-break: break-word;
+    }
+
+    .metric-sub {
+      margin: 0;
+      color: var(--muted);
+      font-size: 0.88rem;
+      word-break: break-word;
+    }
+
+    .tone-ok { color: var(--ok); }
+    .tone-warn { color: var(--warn); }
+    .tone-high { color: var(--high); }
+    .tone-neutral { color: var(--neutral); }
+
+    .two-col {
+      display: grid;
+      grid-template-columns: 1.1fr 1fr;
+      gap: 14px;
+    }
+
+    .inner-card {
+      border: 1px solid var(--line);
+      border-radius: 12px;
+      padding: 12px;
+      background: rgba(255, 255, 255, 0.72);
+    }
+
+    .inner-card h3 {
+      margin: 0 0 10px;
+      font-size: 0.96rem;
+    }
+
+    .meter-row { margin-bottom: 9px; }
+
+    .meter-head {
+      display: flex;
+      justify-content: space-between;
+      margin-bottom: 5px;
+      font-size: 0.87rem;
+    }
+
+    .meter-track {
+      width: 100%;
+      height: 8px;
+      background: rgba(16, 25, 35, 0.11);
+      border-radius: 999px;
+      overflow: hidden;
+    }
+
+    .meter-fill {
+      height: 100%;
+      border-radius: inherit;
+      transition: width 500ms ease;
+    }
+
+    .meter-ok { background: linear-gradient(90deg, #0f7d56, #1ea777); }
+    .meter-warn { background: linear-gradient(90deg, #bf5f08, #e3903f); }
+    .meter-high { background: linear-gradient(90deg, #9f2126, #d34e45); }
+
+    ul, ol {
+      margin: 0;
+      padding-left: 20px;
+      display: grid;
+      gap: 6px;
+    }
+
+    li { line-height: 1.33; }
+
+    .small {
+      color: var(--muted);
+      font-size: 0.85rem;
+    }
+
+    .link-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 10px;
+    }
+
+    .nav-link {
+      text-decoration: none;
+      color: var(--ink);
+      border: 1px solid var(--line);
+      border-radius: 10px;
+      padding: 10px;
+      background: rgba(255, 255, 255, 0.74);
+      transition: transform 180ms ease, border-color 180ms ease, box-shadow 180ms ease;
+      font-size: 0.92rem;
+    }
+
+    .nav-link:hover {
+      transform: translateY(-1px);
+      border-color: rgba(23, 54, 93, 0.45);
+      box-shadow: 0 8px 18px rgba(23, 54, 93, 0.15);
+    }
+
+    .freshness {
+      list-style: none;
+      padding: 0;
+      margin: 0;
+      display: grid;
+      gap: 8px;
+    }
+
+    .freshness li {
+      display: grid;
+      grid-template-columns: 1.2fr auto auto;
+      gap: 10px;
+      border-bottom: 1px dashed var(--line);
+      padding-bottom: 7px;
+      align-items: center;
+      font-size: 0.9rem;
+    }
+
+    .freshness strong { font-family: var(--mono); font-size: 0.78rem; }
+    .freshness em { color: var(--muted); font-style: normal; font-size: 0.82rem; }
+
+    .reveal {
+      opacity: 0;
+      transform: translateY(10px);
+      animation: reveal 620ms cubic-bezier(.2,.9,.22,1) forwards;
+    }
+
+    .reveal:nth-of-type(1) { animation-delay: 0.05s; }
+    .reveal:nth-of-type(2) { animation-delay: 0.11s; }
+    .reveal:nth-of-type(3) { animation-delay: 0.17s; }
+    .reveal:nth-of-type(4) { animation-delay: 0.23s; }
+    .reveal:nth-of-type(5) { animation-delay: 0.29s; }
+    .reveal:nth-of-type(6) { animation-delay: 0.35s; }
+
+    @keyframes reveal {
+      from { opacity: 0; transform: translateY(10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    @media (max-width: 900px) {
+      .two-col { grid-template-columns: 1fr; }
+      .freshness li { grid-template-columns: 1fr; gap: 3px; }
+    }
+  </style>
+</head>
+<body>
+  <div class='grid-overlay' aria-hidden='true'></div>
+  <main>
+    <section class='panel hero reveal'>
+      <h1>Research Command Center</h1>
+      <div class='meta'>
+        <span>Generated UTC 20260219T020359Z</span>
+        <span class='pill'>single-page status + navigation</span>
+      </div>
+    </section>
+
+    <section class='panel reveal'>
+      <h2 class='section-title'>Snapshot</h2>
+      <div class='metrics'>
+        <article class='metric-card reveal'><p class='metric-label'>Primary docs indexed</p><p class='metric-value tone-neutral'>41</p><p class='metric-sub'>Latest primary snapshot rows.</p></article><article class='metric-card reveal'><p class='metric-label'>Claims tracked</p><p class='metric-value tone-neutral'>9</p><p class='metric-sub'>alleged=6, verified_primary=3</p></article><article class='metric-card reveal'><p class='metric-label'>Tier-1 evidence gaps</p><p class='metric-value tone-warn'>6</p><p class='metric-sub'>alleged=6</p></article><article class='metric-card reveal'><p class='metric-label'>Dataset files indexed</p><p class='metric-value tone-neutral'>524</p><p class='metric-sub'>12/12 sets with files</p></article><article class='metric-card reveal'><p class='metric-label'>Media endpoint failures</p><p class='metric-value tone-warn'>2</p><p class='metric-sub'>Non-200/301/302 status codes.</p></article><article class='metric-card reveal'><p class='metric-label'>Stale inputs</p><p class='metric-value tone-ok'>0</p><p class='metric-sub'>Feeds older than stale threshold.</p></article>
+      </div>
+    </section>
+
+    <section class='panel reveal'>
+      <h2 class='section-title'>Change Pulse</h2>
+      <div class='two-col'>
+        <div class='inner-card'>
+          <h3>Primary Doc Changes</h3>
+          <div class='meter-row'><div class='meter-head'><span>Added</span><strong>1</strong></div><div class='meter-track'><div class='meter-fill meter-ok' style='width:33.3%'></div></div></div><div class='meter-row'><div class='meter-head'><span>Removed</span><strong>2</strong></div><div class='meter-track'><div class='meter-fill meter-high' style='width:66.7%'></div></div></div><div class='meter-row'><div class='meter-head'><span>Changed</span><strong>0</strong></div><div class='meter-track'><div class='meter-fill meter-warn' style='width:0.0%'></div></div></div>
+          <ul><li>added: doc-govinfo-transcript-4dc4d5bd2bda (govinfo_wssearch)</li><li>removed: doc-govinfo-transcript-c9be0e03d017 (govinfo_wssearch)</li><li>removed: doc-govinfo-transcript-db958ed50987 (govinfo_wssearch)</li></ul>
+        </div>
+        <div class='inner-card'>
+          <h3>Claim Status Changes</h3>
+          <div class='meter-row'><div class='meter-head'><span>Added</span><strong>0</strong></div><div class='meter-track'><div class='meter-fill meter-ok' style='width:0.0%'></div></div></div><div class='meter-row'><div class='meter-head'><span>Removed</span><strong>0</strong></div><div class='meter-track'><div class='meter-fill meter-high' style='width:0.0%'></div></div></div><div class='meter-row'><div class='meter-head'><span>Changed</span><strong>6</strong></div><div class='meter-track'><div class='meter-fill meter-warn' style='width:100.0%'></div></div></div>
+          <ul><li>changed: claim-doj-letter-300plus-no-context (pending_review -&gt; alleged)</li><li>changed: claim-doj-redactions-letter-reuters (pending_review -&gt; alleged)</li><li>changed: claim-epstein-nobel-outreach-ap (pending_review -&gt; alleged)</li><li>changed: claim-lifetouch-school-cancellations (pending_review -&gt; alleged)</li><li>changed: claim-lutnick-meetings-acknowledged-ap (pending_review -&gt; alleged)</li><li>changed: claim-wasserman-agency-sale (pending_review -&gt; alleged)</li></ul>
+        </div>
+      </div>
+    </section>
+
+    <section class='panel reveal'>
+      <h2 class='section-title'>Review Pressure</h2>
+      <div class='two-col'>
+        <div class='inner-card'>
+          <h3>Claim Review Queue</h3>
+          <div class='meter-row'><div class='meter-head'><span>P1</span><strong>0</strong></div><div class='meter-track'><div class='meter-fill meter-high' style='width:0.0%'></div></div></div><div class='meter-row'><div class='meter-head'><span>P2</span><strong>0</strong></div><div class='meter-track'><div class='meter-fill meter-warn' style='width:0.0%'></div></div></div><div class='meter-row'><div class='meter-head'><span>P3</span><strong>0</strong></div><div class='meter-track'><div class='meter-fill meter-ok' style='width:0.0%'></div></div></div>
+        </div>
+        <div class='inner-card'>
+          <h3>Quality and Coverage Alerts</h3>
+          <ul><li>media_endpoint_failures = 2. Outlet endpoints currently non-200/301/302 from latest status file.</li><li>NYTimes: 403 (https://www.nytimes.com/sitemap.xml)</li><li>NPR: 404 (https://www.npr.org/sitemaps/sitemap-index.xml)</li></ul>
+        </div>
+      </div>
+    </section>
+
+    <section class='panel reveal'>
+      <h2 class='section-title'>Active Entities and Topics</h2>
+      <div class='two-col'>
+        <div class='inner-card'>
+          <h3>Top Entities (mention_count)</h3>
+          <ul><li>Jeffrey Epstein: 94</li><li>Ghislaine Maxwell: 45</li><li>DOJ OPA: 6</li><li>Casey Wasserman: 3</li><li>Pam Bondi: 3</li></ul>
+        </div>
+        <div class='inner-card'>
+          <h3>Top Topics (tagged_rows)</h3>
+          <ul><li>Court and Litigation (court_and_litigation): 17</li><li>Congressional Record Activity (congressional_record_activity): 11</li><li>Unsealing and Access (unsealing_and_access): 8</li><li>Congressional Oversight (congressional_oversight): 4</li><li>DOJ Release Operations (doj_release_operations): 4</li><li>Unclassified Epstein Records (unclassified_epstein_records): 4</li><li>Transparency Legislation (transparency_legislation): 3</li><li>Clemency and Pardon (clemency_and_pardon): 1</li></ul>
+        </div>
+      </div>
+      <p class='small'>Redaction categories: context_gap=2, unknown=7</p>
+    </section>
+
+    <section class='panel reveal'>
+      <h2 class='section-title'>Focus Actions</h2>
+      <ol><li>Backfill tier-1 links for 6 claim(s) in derived/reports/primary_evidence_gap_register_latest.tsv.</li><li>Review non-200 media endpoints in derived/media_coverage/outlet_endpoint_status_latest.tsv.</li></ol>
+    </section>
+
+    <section class='panel reveal'>
+      <h2 class='section-title'>Data Freshness</h2>
+      <ul class='freshness'><li><span>Primary ingest run</span><strong>20260219T012215Z</strong><em>41m ago</em></li><li><span>Universe ingest run</span><strong>20260219T012230Z</strong><em>41m ago</em></li><li><span>Claim queue run</span><strong>not reported in file</strong><em>23m ago</em></li><li><span>Quality flags run</span><strong>not reported in file</strong><em>23m ago</em></li><li><span>Dataset completeness run</span><strong>20260219T012202Z</strong><em>41m ago</em></li></ul>
+    </section>
+
+    <section class='panel reveal'>
+      <h2 class='section-title'>Navigation</h2>
+      <div class='link-grid'><a class='nav-link' href='daily_change_report_latest.md'>What changed now</a><a class='nav-link' href='coverage_gap_dashboard_latest.md'>Coverage health</a><a class='nav-link' href='primary_evidence_gap_register_latest.md'>Evidence gaps</a><a class='nav-link' href='redaction_taxonomy_summary_latest.md'>Redaction patterns</a><a class='nav-link' href='../../evidence/Primary_Sources_Index.md'>Source authority index</a><a class='nav-link' href='../../timeline/Full_Timeline.md'>Timeline</a><a class='nav-link' href='../../timeline/Government_Response_To_Epstein_Files.md'>Government response timeline</a><a class='nav-link' href='../../profiles/README.md'>People index</a><a class='nav-link' href='../../topics/FAQ.md'>Topic map</a><a class='nav-link' href='../../README.md'>Core overview</a></div>
+    </section>
+  </main>
+</body>
+</html>

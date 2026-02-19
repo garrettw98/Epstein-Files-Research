@@ -16,6 +16,7 @@ make redaction-taxonomy
 make load-db
 make daily-report
 make coverage-gaps
+make command-center
 make last24h-brief
 make daily-pipeline
 ```
@@ -81,12 +82,16 @@ make daily-pipeline
    - Flags broken endpoints, stale inputs, and missing expected source systems.
    - Writes dashboard + metrics to `derived/reports/`.
 
-14. `scripts/update_last24h_brief.py`
+14. `scripts/generate_research_command_center.py`
+   - Builds a one-page command center view with change pulse, risk/quality summary, and navigation jump points.
+   - Writes markdown and HTML outputs to `derived/reports/`.
+
+15. `scripts/update_last24h_brief.py`
    - Builds a rolling 24-hour change brief from latest ingest/report artifacts.
    - Auto-updates managed brief blocks in `README.md` and `timeline/Full_Timeline.md`.
 
-15. `scripts/run_daily_pipeline.sh`
-   - End-to-end wrapper: ingest library, derive dataset completeness, ingest primary docs, derive topics, generate claims/entities/quality/triage, generate primary-evidence/redaction reports, load DB, generate reports, update 24-hour brief.
+16. `scripts/run_daily_pipeline.sh`
+   - End-to-end wrapper: ingest library, derive dataset completeness, ingest primary docs, derive topics, generate claims/entities/quality/triage, generate primary-evidence/redaction reports, load DB, generate reports, generate command center, update 24-hour brief.
 
 ## Output Map
 
@@ -107,6 +112,8 @@ make daily-pipeline
 - `derived/reports/daily_claim_status_changes_latest.tsv`
 - `derived/reports/coverage_gap_dashboard_latest.md`
 - `derived/reports/coverage_gap_metrics_latest.tsv`
+- `derived/reports/research_command_center_latest.md`
+- `derived/reports/research_command_center_latest.html`
 
 ## Suggested Daily Routine
 

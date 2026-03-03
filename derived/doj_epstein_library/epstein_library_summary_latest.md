@@ -1,12 +1,12 @@
 # Epstein Library Ingest Summary
 
-- Run UTC: 20260303T035132Z
+- Run UTC: 20260303T205824Z
 - Source page: https://www.justice.gov/epstein
 - Disclosures page: https://www.justice.gov/epstein/doj-disclosures
-- Raw snapshot: raw/doj_epstein_library/20260303T035132Z_epstein.html
-- Disclosures snapshot: raw/doj_epstein_library/20260303T035132Z_epstein_doj_disclosures.html
+- Raw snapshot: raw/doj_epstein_library/20260303T205824Z_epstein.html
+- Disclosures snapshot: raw/doj_epstein_library/20260303T205824Z_epstein_doj_disclosures.html
 - Index latest: derived/doj_epstein_library/epstein_library_index_latest.tsv
-- Index snapshot: derived/doj_epstein_library/epstein_library_index_20260303T035132Z.tsv
+- Index snapshot: derived/doj_epstein_library/epstein_library_index_20260303T205824Z.tsv
 - URL count: 100
 
 ## By Link Type

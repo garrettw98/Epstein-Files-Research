@@ -10,9 +10,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 <!-- LAST24H_TIMELINE:START -->
 ## Last 24 Hours Snapshot (Auto-generated)
-- Window: Mar 02, 2026 03:52 UTC to Mar 03, 2026 03:52 UTC.
-- Monitored updates: 15 links across 5 domains.
-- Primary-doc changes: added 0, removed 4, changed 0.
+- Window: Mar 02, 2026 21:00 UTC to Mar 03, 2026 21:00 UTC.
+- Monitored updates: 13 links across 5 domains.
+- Primary-doc changes: added 7, removed 1, changed 0.
 - Claim review pressure: p1=0, p2=0, p3=0 open.
 - DOJ data-set file index health: 12/12 sets with files.
 
@@ -341,7 +341,18 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 3, 2026**: **Reuters: Apollo and Leon Black sued over alleged Epstein-ties disclosure failures**.
     *   Reuters reported shareholders sued Apollo and Leon Black, alleging Epstein-related business ties were concealed from investors.
     *   Source: [Source](https://www.reuters.com/sustainability/boards-policy-regulation/apollo-leon-black-sued-allegedly-concealing-epstein-business-ties-shareholders-2026-03-03/).
+*   **Mar 3, 2026**: **Reuters: Howard Lutnick agreed to testify on Epstein ties**.
+    *   Reuters reported Commerce Secretary Howard Lutnick agreed to appear before a U.S. House panel regarding Epstein-related ties.
+    *   Source: [Source](https://www.reuters.com/world/us/lutnick-has-agreed-testify-epstein-ties-axios-reports-2026-03-03/).
+*   **Mar 3, 2026**: **Reuters: Judge preliminarily approved $35 million Epstein-estate settlement**.
+    *   Reuters reported a U.S. judge preliminarily approved a $35 million settlement between Epstein's estate and accusers.
+    *   Source: [Source](https://www.reuters.com/world/us-judge-preliminarily-approves-35-million-settlement-between-epstein-estate-2026-03-03/).
+*   **Mar 3, 2026**: **AP: Hillary Clinton angrily reacted after unauthorized deposition photo leak**.
+    *   AP video coverage showed Hillary Clinton angrily reacting to an unauthorized photo taken during her closed-door deposition.
+    *   Source: [Source](https://apnews.com/video/im-done-video-shows-hillary-clinton-angry-over-unauthorized-photo-during-epstein-deposition-1c3c1e48662f4dcab0f812af31707a3d).
 <!-- LIVE_TIMELINE:END -->
+
+
 
 
 

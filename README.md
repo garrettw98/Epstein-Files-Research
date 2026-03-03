@@ -125,14 +125,17 @@ This repository is a source-linked research index for documents, entities, event
 *   **AP: Hillary Clinton said she did not recall meeting Epstein** (Mar 3, 2026): AP video coverage highlighted testimony that Hillary Clinton said she did not recall ever meeting Jeffrey Epstein. [Source](https://apnews.com/video/hillary-clinton-said-she-never-even-recalled-meeting-jeffrey-epstein-4137852ceef043a68b3937c7e8a82420)
 *   **AP: Key moments from Bill Clinton's Epstein testimony published** (Mar 3, 2026): AP video coverage summarized key moments from Bill Clinton's deposition testimony on Epstein. [Source](https://apnews.com/video/key-moments-from-bill-clintons-testimony-on-jeffrey-epstein-8983fcc771d24f219adaf6f3788c6d84)
 *   **Reuters: Apollo and Leon Black sued over alleged Epstein-ties disclosure failures** (Mar 3, 2026): Reuters reported shareholders sued Apollo and Leon Black, alleging Epstein-related business ties were concealed from investors. [Source](https://www.reuters.com/sustainability/boards-policy-regulation/apollo-leon-black-sued-allegedly-concealing-epstein-business-ties-shareholders-2026-03-03/)
+*   **Reuters: Howard Lutnick agreed to testify on Epstein ties** (Mar 3, 2026): Reuters reported Commerce Secretary Howard Lutnick agreed to appear before a U.S. House panel regarding Epstein-related ties. [Source](https://www.reuters.com/world/us/lutnick-has-agreed-testify-epstein-ties-axios-reports-2026-03-03/)
+*   **Reuters: Judge preliminarily approved $35 million Epstein-estate settlement** (Mar 3, 2026): Reuters reported a U.S. judge preliminarily approved a $35 million settlement between Epstein's estate and accusers. [Source](https://www.reuters.com/world/us-judge-preliminarily-approves-35-million-settlement-between-epstein-estate-2026-03-03/)
+*   **AP: Hillary Clinton angrily reacted after unauthorized deposition photo leak** (Mar 3, 2026): AP video coverage showed Hillary Clinton angrily reacting to an unauthorized photo taken during her closed-door deposition. [Source](https://apnews.com/video/im-done-video-shows-hillary-clinton-angry-over-unauthorized-photo-during-epstein-deposition-1c3c1e48662f4dcab0f812af31707a3d)
 *   **DOJ library status (Mar 3, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
 <!-- LIVE_UPDATES:END -->
 
 <!-- LAST24H:START -->
 ### What Changed in Last 24 Hours (Auto-generated)
-- Window: Mar 02, 2026 03:52 UTC to Mar 03, 2026 03:52 UTC.
-- Monitored link updates: 15 across 5 domains.
-- Primary-doc diffs: added 0, removed 4, changed 0.
+- Window: Mar 02, 2026 21:00 UTC to Mar 03, 2026 21:00 UTC.
+- Monitored link updates: 13 across 5 domains.
+- Primary-doc diffs: added 7, removed 1, changed 0.
 - Claim-status diffs: added 0, removed 0, changed 0.
 - Claim review queue (open): p1=0, p2=0, p3=0.
 - DOJ data-set file index: 12/12 sets with files, 524 total indexed files.
@@ -346,6 +349,8 @@ Or use Make targets:
 ---
 
 > Note: This database prioritizes source-linked records and explicit claim status labels so readers can separate verified evidence from open or disputed claims.
+
+
 
 
 

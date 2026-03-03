@@ -91,7 +91,7 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 | Set 12 | February 2026 |
 
 <!-- REALTIME_STATUS:START -->
-### Real-Time Status (As of Feb 19, 2026)
+### Real-Time Status (As of Mar 2, 2026)
 
 - DOJ's public repository remains online and publicly lists releases through **Data Set 12**.
 - Source: [DOJ Epstein Library](https://www.justice.gov/epstein)

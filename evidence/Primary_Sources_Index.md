@@ -38,6 +38,8 @@
   https://www.justice.gov/usao-sdny/pr/correctional-officers-charged-falsifying-records-august-9th-and-10th-metropolitan
 - **DOJ OIG: Review of BOP custody, care, and supervision of Jeffrey Epstein (June 2023)**  
   https://oig.justice.gov/reports/investigation-and-review-federal-bureau-prisons-custody-care-and-supervision-jeffrey
+- **DOJ OIG: release notice for BOP custody/care/supervision report (June 27, 2023)**  
+  https://oig.justice.gov/news/doj-oig-releases-report-bops-custody-care-and-supervision-jeffrey-epstein-metropolitan
 
 ## Congressional / Legal Authority (Tier 1)
 

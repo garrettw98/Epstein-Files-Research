@@ -86,10 +86,10 @@ This repository is a source-linked research index for documents, entities, event
 
 </details>
 
-## The 2026 Release (Updated Feb 19, 2026)
+## The 2026 Release (Updated Mar 2, 2026)
 
 <!-- LIVE_UPDATES:START -->
-### Live Updates (As of Feb 19, 2026)
+### Live Updates (As of Mar 2, 2026)
 *   **AP review: no DOJ "client list" finding** (Feb 8, 2026): AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men. [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
 *   **Congressional access to unredacted files opened** (Feb 9, 2026): DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice. [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
 *   **Maxwell deposition and clemency request** (Feb 9, 2026): AP reported Maxwell invoked the Fifth Amendment in a House deposition and later sought clemency before withdrawing the request. [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9)
@@ -112,14 +112,14 @@ This repository is a source-linked research index for documents, entities, event
 *   **AP: Les Wexner told lawmakers he was "duped" by Epstein** (Feb 18, 2026): AP reported Wexner told congressional members that Epstein was a "world-class con man" and denied knowing about Epstein's crimes. [Source](https://apnews.com/video/house-oversight-committee-democrats-skeptical-as-mogul-les-wexner-says-he-was-duped-by-epstein-7484f84861934fa8b0231defc443eb2d)
 *   **AP: Paris prosecutors opened two Epstein-linked investigations** (Feb 18, 2026): AP reported Paris prosecutors opened two investigations into alleged sexual-abuse and financial irregularities linked to Epstein files. [Source](https://apnews.com/article/francia-epstein-investigacion-3b366861b91a965a7b7378db2ea51cb7)
 *   **Reuters/Ipsos poll: many Americans say the powerful get a pass** (Feb 19, 2026): Reuters reported new Reuters/Ipsos polling found many Americans believe the Epstein files show powerful people avoid accountability. [Source](https://www.reuters.com/world/us/americans-believe-epstein-files-show-powerful-get-pass-reutersipsos-poll-finds-2026-02-18/)
-*   **DOJ library status (Feb 19, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
+*   **DOJ library status (Mar 2, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
 <!-- LIVE_UPDATES:END -->
 
 <!-- LAST24H:START -->
 ### What Changed in Last 24 Hours (Auto-generated)
-- Window: Feb 18, 2026 01:22 UTC to Feb 19, 2026 01:22 UTC.
+- Window: Mar 02, 2026 03:30 UTC to Mar 03, 2026 03:30 UTC.
 - Monitored link updates: 0 across 0 domains.
-- Primary-doc diffs: added 1, removed 2, changed 0.
+- Primary-doc diffs: added 0, removed 0, changed 0.
 - Claim-status diffs: added 0, removed 0, changed 0.
 - Claim review queue (open): p1=0, p2=0, p3=0.
 - DOJ data-set file index: 12/12 sets with files, 524 total indexed files.
@@ -326,3 +326,23 @@ Or use Make targets:
 ---
 
 > Note: This database prioritizes source-linked records and explicit claim status labels so readers can separate verified evidence from open or disputed claims.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

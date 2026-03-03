@@ -1,0 +1,107 @@
+# Epstein Missing Candidates
+
+- Run UTC: 20260227T022421Z
+- Universe rows scanned: 1071
+- Candidate URLs not already tracked: 1032
+- High-confidence gov/trusted additions (HTTP 200): 0
+- Recent non-gov media candidates (last 7 days, HTTP 200): 95
+
+## High-Confidence Additions
+- none
+
+## Recent Media Candidates
+- [guardian_news] 2026-02-27T02:18:00Z | Hillary Clinton says she answered every question in Epstein testimony and confirms Republican asked about UFOs and Pizzagate – live | https://www.theguardian.com/us-news/live/2026/feb/26/us-politics-latest-news-hillary-clinton-jeffrey-epstein-donald-trump
+- [gdelt,guardian_news] 2026-02-27T02:18:00Z | Epstein files contain explicit but unsubstantiated claim that Trump abused minor | https://www.theguardian.com/us-news/2026/feb/26/trump-epstein-files-fbi
+- [guardian_news] 2026-02-27T02:18:00Z | ‘Really a lot of amazing beauty’: emails show how model scout connected Epstein with young women | https://www.theguardian.com/us-news/2026/feb/26/daniel-siad-model-scout-jeffrey-epstein-emails
+- [guardian_news] 2026-02-27T02:18:00Z | Hillary Clinton accuses Republicans of ‘fishing expedition’ in Epstein testimony | https://www.theguardian.com/us-news/2026/feb/26/clintons-testify-epstein-files-house
+- [guardian_news] 2026-02-27T02:18:00Z | Boss of World Economic Forum quits after links to Epstein revealed | https://www.theguardian.com/us-news/2026/feb/26/boss-world-economic-forum-quits-epstein-links
+- [guardian_news] 2026-02-27T02:18:00Z | Mandelson faces EU inquiry into Brussels trade role over Epstein links | https://www.theguardian.com/politics/2026/feb/26/mandelson-faces-eu-inquiry-into-brussels-trade-role-over-epstein-links
+- [reuters_news] 2026-02-27T01:55:47.312Z | Hillary Clinton tells congressional panel she has no information on Epstein | https://www.reuters.com/world/us/hillary-clinton-faces-epstein-congressional-inquiry-2026-02-26/
+- [bbc_news] 2026-02-27T00:57:28Z | Hillary Clinton tells House panel she 'had no idea' of Epstein's crimes | https://www.bbc.com/news/articles/cd6z3e1vdvzo
+- [bbc_news] 2026-02-27T00:53:31Z | Watch: Key moments from Hillary Clinton's Epstein deposition | https://www.bbc.com/news/videos/cjd90l5en59o
+- [bbc_news] 2026-02-27T00:41:49Z | Hillary Clinton says she 'wants to see truth come out' after finishing Epstein testimony | https://www.bbc.com/news/live/c626qqrl76nt
+- [bbc_news] 2026-02-27T00:40:37Z | BBC explains the Trump-related Epstein files the DOJ is accused of withholding | https://www.bbc.com/news/videos/ckgzyvzprj4o
+- [bbc_news] 2026-02-26T23:08:58Z | US justice department accused of withholding Trump-related Epstein files | https://www.bbc.com/news/articles/ckg3elr1dwpo
+- [bbc_news] 2026-02-26T22:50:18Z | Epstein soruşturması: Hillary Clinton ifade veriyor | https://www.bbc.com/turkce/articles/cly260rk4pko
+- [bbc_news] 2026-02-26T22:46:22Z | Caso Epstein: mãe impediu modelo brasileira de viajar aos EUA com recrutador de bilionário | https://www.bbc.com/portuguese/articles/c5y6g6yzev5o
+- [bbc_news] 2026-02-26T22:14:56Z | How Ghislaine Maxwell brought Bill Clinton into Epstein's orbit | https://www.bbc.com/news/articles/cp85jdqdyq7o
+- [bbc_news] 2026-02-26T22:12:05Z | La historia de la enigmática Ghislaine Maxwell, rica heredera y única condenada por el caso Epstein | https://www.bbc.com/mundo/articles/c14m74yr3d8o
+- [bbc_news] 2026-02-26T20:52:51Z | MoD launches review into whether Epstein used RAF bases | https://www.bbc.com/news/articles/c86y466v0x6o
+- [ap_latest] 2026-02-26T20:12:59-05:00 | (no title) | https://apnews.com/live/donald-trump-news-epstein-cuba-updates-2-26-2026
+- [reuters_news] 2026-02-26T19:34:38.649Z | USA-Hillary Clinton dit au Congrès n'avoir aucune information sur Epstein | https://www.reuters.com/fr/affaires/hillary-clinton-va-tmoigner-dans-le-cadre-de-lenqute-du-congrs-sur-epstein-2026-02-26/
+- [ap_latest] 2026-02-26T19:31:31-05:00 | Hillary Clinton testifies she has no information on Epstein's crimes | https://apnews.com/video/hillary-clinton-testifies-she-has-no-information-on-epsteins-crimes-23ce1ad47ccf4be4aca398e127f9852d
+- [bbc_news] 2026-02-26T19:18:47Z | Mandelson referred to EU anti-fraud agency over Epstein emails | https://www.bbc.com/news/articles/cj98zm22327o
+- [ap_latest] 2026-02-26T19:04:01-05:00 | Hillary Clinton's deposition in House Epstein investigation ends after over six hours of questioning | https://apnews.com/video/hillary-clintons-deposition-in-house-epstein-investigation-ends-after-over-six-hours-of-questioning-fe56f7a8a1334ee895122c11ec14a90a
+- [fox_news] 2026-02-26T19:01:33-05:00 | Hillary Clinton comes out swinging after GOP grilled her during marathon Epstein deposition | https://www.foxnews.com/politics/hillary-clinton-comes-out-swinging-after-gop-grilled-her-during-marathon-epstein-deposition
+- [ap_latest] 2026-02-26T19:00:35-05:00 | Hillary Clinton testifies she has no information on Epstein's crimes and doesn't recall meeting him | https://apnews.com/video/hillary-clinton-testifies-she-has-no-information-on-epsteins-crimes-and-doesnt-recall-meeting-him-606096459bd0480996803c94944b9e71
+- [bbc_news] 2026-02-26T18:44:27Z | Who is in the Epstein files? | https://www.bbc.com/news/articles/cqxynz2l0g2o
+- [reuters_news] 2026-02-26T17:22:48.08Z | Hillary Clinton dice a un comité del Congreso de EEUU que no tiene información sobre Epstein | https://www.reuters.com/es/mundo/QKT6BD2GQZLFLLU2HYY4B2RT2A-2026-02-26/
+- [reuters_news] 2026-02-26T17:05:45.892Z | Video depicting Ghislaine Maxwell walking free in Canada is AI faceswap | https://www.reuters.com/fact-check/video-depicting-ghislaine-maxwell-walking-free-canada-is-ai-faceswap-2026-02-26/
+- [reuters_news] 2026-02-26T16:54:42.804Z | Hillary Clinton to testify in congressional Epstein probe | https://www.reuters.com/world/us/hillary-clinton-testify-congressional-epstein-probe-2026-02-26/
+- [reuters_news] 2026-02-26T16:50:14.322Z | CEO of World Economic Forum quits after Epstein ties come to light | https://www.reuters.com/world/ceo-world-economic-forum-quits-after-epstein-ties-scrutinised-2026-02-26/
+- [bbc_news] 2026-02-26T15:43:07Z | What do we know about the Clintons' links to Epstein? | https://www.bbc.com/news/videos/c99jgzy2mdno
+- [bbc_news] 2026-02-26T14:33:48Z | Bill Gates yasobanuriye abakorana nawe ibye na Jeffrey Epstein | https://www.bbc.com/gahuza/articles/c9v073vz02ko
+- [bbc_news] 2026-02-26T14:25:28Z | World Economic Forum boss Borge Brende quits after review of Jeffrey Epstein links | https://www.bbc.com/news/articles/cr5lq9ll15jo
+- [ap_latest] 2026-02-26T14:17:32-05:00 | Hillary Clinton's motorcade arrives for closed-door deposition on Epstein | https://apnews.com/video/hillary-clintons-motorcade-arrives-for-closed-door-deposition-on-epstein-fbd29e33ff784b39b2a33690c400297d
+- [ap_latest] 2026-02-26T14:15:04-05:00 | Hillary Clinton's motorcade arrives for closed-door deposition on Epstein | https://apnews.com/video/hillary-clintons-motorcade-arrives-for-closed-door-deposition-on-epstein-78fab599bc7747549c8627e3303b5b2b
+- [ap_latest] 2026-02-26T14:07:42-05:00 | DOJ says it’s reviewing whether any Epstein-related records were mistakenly withheld | https://apnews.com/video/doj-says-its-reviewing-whether-any-epstein-related-records-were-mistakenly-withheld-9c56463b73c04749a1e777ca92df7718
+- [reuters_news] 2026-02-26T13:59:24.808Z | Image depicting Jeffrey Epstein in Tel Aviv was created with AI | https://www.reuters.com/fact-check/image-depicting-jeffrey-epstein-tel-aviv-was-created-with-ai-2026-02-26/
+- [reuters_news] 2026-02-26T12:59:28.69Z | Präsident des Weltwirtschaftsforums tritt nach Epstein-Untersuchung zurück | https://www.reuters.com/de/welt/prsident-des-weltwirtschaftsforums-tritt-nach-epstein-untersuchung-zurck-2026-02-26/
+- [bbc_news] 2026-02-26T12:40:57Z | Dukumentiyada Epstein maxay ka sheegeen madax iyo shaqsiyaad Afrikaan ah | https://www.bbc.com/somali/articles/cx24j1w2vx3o
+- [reuters_news] 2026-02-26T11:34:12.332Z | Dimite el director ejecutivo del Foro Económico Mundial tras investigarse sus vínculos con Epstein | https://www.reuters.com/es/negocio/MTMPS7RQ6FKRXLANCAV5E6AJD4-2026-02-26/
+- [fox_news] 2026-02-26T11:30:05-05:00 | Hillary Clinton tells House 'I do not recall ever encountering' Jeffrey Epstein | https://www.foxnews.com/politics/hillary-clinton-tells-house-i-do-not-recall-ever-encountering-jeffrey-epstein
+- [ap_latest] 2026-02-26T10:18:03-05:00 | Hillary Clinton is testifying as part of the House investigation into Jeffrey Epstein | https://apnews.com/video/hillary-clinton-is-testifying-as-part-of-the-house-investigation-into-jeffrey-epstein-7ed636a55a144b609dd8ece4e976ee2b
+- [bbc_news] 2026-02-26T07:44:07Z | Bill Gates'ten çalışanlarına Epstein özrü | https://www.bbc.com/turkce/articles/cn0erk2eex8o
+- [reuters_news] 2026-02-26T07:02:48.291Z | Bank Edmond de Rothschild will nach Epstein-Enthüllungen "Lage beobachten" | https://www.reuters.com/de/firma/bank-edmond-de-rothschild-will-nach-epstein-enthllungen-lage-beobachten-2026-02-26/
+- [fox_news] 2026-02-26T06:00:03-05:00 | House Republicans descend on Clintons' hometown for high-stakes Epstein probe grilling | https://www.foxnews.com/politics/house-republicans-descend-clintons-hometown-for-high-stakes-epstein-probe-grilling
+- [ap_archive] 2026-02-26T02:37:21-05:00 | (no title) | https://apnews.com/article/epstein-departamento-justicia-archivos-trump-a5be41c1cff22938f0dec54560b56a19
+- [ap_archive] 2026-02-25T23:48:05-05:00 | (no title) | https://apnews.com/article/epstein-justice-department-trump-793e47b09863f5a55e54040c891291d8
+- [bbc_news] 2026-02-25T18:54:04Z | Larry Summers: Ex-Treasury Secretary Larry Summers quits Harvard over Epstein probe | https://www.bbc.com/news/articles/cn716zkyddeo
+- [ap_archive,ap_latest] 2026-02-25T17:40:49-05:00 | (no title) | https://apnews.com/article/larry-summer-epstein-harvard-e4075897230bb917f1c2f3286682e9b8
+- [ap_archive] 2026-02-25T17:31:08-05:00 | (no title) | https://apnews.com/article/epstein-bill-clinton-hillary-clinton-fb3b8d7caafda88ddfa670148ceb2a89
+- [ap_archive] 2026-02-25T17:27:14-05:00 | (no title) | https://apnews.com/article/bill-gates-foundation-jeffrey-epstein-files-61740ea33bf1a13b0f7d458fa711518e
+- [bbc_news] 2026-02-25T16:54:43Z | Bill Gates "asumió su responsabilidad" por sus vínculos con Epstein en una reunión con sus empleados, según su fundación | https://www.bbc.com/mundo/articles/c5ygkrn136no
+- [ap_archive,ap_latest] 2026-02-25T16:29:32-05:00 | Larry Summers to resign from Harvard University amid review of his Epstein ties | https://apnews.com/video/larry-summers-to-resign-from-harvard-university-amid-review-of-his-epstein-ties-c61a4621aa9b4f9d8b48a8e2da543cec
+- [ap_archive] 2026-02-25T14:38:59-05:00 | (no title) | https://apnews.com/article/epstein-harvard-summers-tesoro-423de845e97e8fc3cb5cc5514c1f73fa
+- [ap_archive,ap_latest] 2026-02-25T14:31:11-05:00 | (no title) | https://apnews.com/article/britain-epstein-mandelson-arrest-andrew-ba9801fcf3bf00044297e7d071ed2548
+- [fox_news] 2026-02-25T14:24:13-05:00 | Former Clinton, Obama official to resign from Harvard over Epstein ties | https://www.foxnews.com/us/former-clinton-obama-official-resign-from-harvard-over-epstein-ties
+- [ap_archive] 2026-02-25T14:06:10-05:00 | (no title) | https://apnews.com/article/andrew-epstein-carlos-ea7715d7bccd3b689d0a52c324736246
+- [ap_archive,ap_latest] 2026-02-25T13:29:25-05:00 | (no title) | https://apnews.com/article/starmer-mandelson-epstein-election-gorton-denton-reform-31ce8e287652c76f5b6305862816b8ad
+- [bbc_news] 2026-02-25T13:18:17Z | Bill Gates 'took responsibility' over Epstein ties in staff meeting, foundation says | https://www.bbc.com/news/articles/cnv6rjp468ro
+- [reuters_news] 2026-02-25T12:55:38.692Z | Bill Gates "assumiu responsabilidade por ações" sobre vínculos com Epstein, diz fundação | https://www.reuters.com/pt/mundo/XHQABNYKOVP6JFLJBDOBPPMHNE-2026-02-25/
+- [reuters_news] 2026-02-25T12:46:50.467Z | Health Rounds: Scientists develop promising antibodies to prevent Epstein-Barr infection | https://www.reuters.com/business/healthcare-pharmaceuticals/health-rounds-scientists-develop-promising-antibodies-prevent-epstein-barr-2026-02-25/
+- [fox_news] 2026-02-25T10:52:56-05:00 | Former Norwegian PM Thorbjørn Jagland hospitalized amid Epstein probe | https://www.foxnews.com/world/former-norwegian-pm-thorbjorn-jagland-hospitalized-amid-epstein-probe
+- [bbc_news] 2026-02-25T10:52:53Z | Affaire Epstein : ce que les documents révèlent sur l'Afrique et certaines personnalités | https://www.bbc.com/afrique/articles/cnv61m398z4o
+- [fox_news] 2026-02-24T19:01:10-05:00 | (no title) | https://www.foxnews.com/politics/ro-khannas-state-union-guest-recruited-over-20-underage-girls-epstein
+- [ap_archive] 2026-02-24T14:33:23-05:00 | (no title) | https://apnews.com/article/britain-epstein-andrew-mandelson-misconduct-1108af2d0c2145db7ab3ba37b8161ee2
+- [ap_archive] 2026-02-24T14:11:16-05:00 | (no title) | https://apnews.com/article/epstein-mandelson-starmer-britain-5db6dcb0810be1e8a7b49c58a73712f3
+- [ap_archive] 2026-02-24T14:08:36-05:00 | (no title) | https://apnews.com/article/epstein-reino-unido-andres-mandelson-delito-76173a5ff1b3594ee250e0bcc113e2de
+- [ap_archive] 2026-02-24T13:41:37-05:00 | (no title) | https://apnews.com/article/police-arrest-peter-mandelson-epstein-bc1cbabe40687e09d0f145a75f6a77e2
+- [fox_news] 2026-02-24T13:29:00-05:00 | (no title) | https://www.foxnews.com/world/uk-officials-consider-release-confidential-documents-related-epstein-linked-former-prince-andrew
+- [ap_archive] 2026-02-24T11:37:48-05:00 | (no title) | https://apnews.com/article/andrew-mountbatten-windsor-epstein-inglaterra-54e392afd8a1d37ec55361d35ab20610
+- [fox_news] 2026-02-24T09:31:49-05:00 | (no title) | https://www.foxnews.com/politics/former-uk-ambassador-us-released-bail-after-arrest-epstein-misconduct-investigation
+- [ap_archive] 2026-02-24T08:03:00-05:00 | (no title) | https://apnews.com/article/cbs-news-epstein-files-attia-medical-428aacc5f6ba7dc3f441047e37d351c6
+- [ap_archive] 2026-02-24T01:30:49-05:00 | Former UK ambassador to US Peter Mandelson released on bail after arrest in Epstein probe | https://apnews.com/video/former-u-k-ambassador-to-u-s-released-on-bail-after-arrest-in-epstein-misconduct-probe-6fda5c8ac404422ca1bddaff09278c53
+- [ap_archive] 2026-02-23T22:18:55-05:00 | (no title) | https://apnews.com/article/reino-unido-mandelson-epstein-detencion-9142229177f7f4e2bb010577e9993c24
+- [fox_news] 2026-02-23T18:47:23-05:00 | (no title) | https://www.foxnews.com/world/uk-government-unseal-former-ambassador-mandelson-documents-tied-jeffrey-epstein-probe
+- [fox_news] 2026-02-23T15:25:39-05:00 | (no title) | https://www.foxnews.com/media/peter-attia-out-cbs-news-contributor-after-name-appeared-over-1700-times-epstein-files
+- [ap_archive] 2026-02-23T14:35:34-05:00 | Police in Britain arrest Peter Mandelson, a former ambassador, in probe into Epstein ties | https://apnews.com/video/police-in-britain-arrest-peter-mandelson-a-former-ambassador-in-probe-into-epstein-ties-3b6c8b2b2c33401fa57ddc9c539719fa
+- [ap_archive] 2026-02-23T13:27:34-05:00 | Police in Britain arrest Peter Mandelson, a former ambassador, in probe into Epstein ties | https://apnews.com/video/police-in-britain-arrest-peter-mandelson-a-former-ambassador-in-probe-into-epstein-ties-4b6ebce281ce45ae9ea2394a90b659e2
+- [ap_archive] 2026-02-23T13:22:31-05:00 | (no title) | https://apnews.com/article/timeline-mandelson-britain-starmer-epstein-11a27e2fb18355e976c78cf99e4675dd
+- [ap_archive] 2026-02-23T12:45:55-05:00 | (no title) | https://apnews.com/article/epstein-journalism-files-amateur-researchers-sleuths-38e83e59f61e27965fc9a74ee1685de1
+- [fox_news] 2026-02-23T08:00:28-05:00 | (no title) | https://www.foxnews.com/entertainment/hollywood-execs-lose-deals-clients-flee-epstein-files-trigger-fallout-industry
+- [ap_archive] 2026-02-22T06:52:09-05:00 | (no title) | https://apnews.com/article/former-prince-andrew-arrest-epstein-files-1d1991e841adb7d94fcd0e60989fcad0
+- [ap_archive] 2026-02-21T19:17:08-05:00 | (no title) | https://apnews.com/article/epstein-wexner-congress-subpoena-733833f6d648c09e6b3473eb1cd4009d
+- [ap_archive] 2026-02-21T16:51:02-05:00 | (no title) | https://apnews.com/article/epstein-trafico-sexual-ghislaine-maxwell-andres-f8ca85bd90d57621c8eb1c7ff7aecb94
+- [ap_archive] 2026-02-21T15:09:07-05:00 | (no title) | https://apnews.com/article/jeffrey-epstein-ghislaine-maxwell-b9890fa6fa230fa649c8a847c76d97da
+- [ap_archive] 2026-02-20T16:41:02-05:00 | NGO stages protest in front of French Foreign Ministry after diplomat quoted in Epstein Files | https://apnews.com/video/ngo-stages-protest-in-front-of-french-foreign-ministry-after-diplomat-quoted-in-epstein-files-d2cc5623d97440b4aace452226546a72
+- [ap_archive] 2026-02-20T16:08:40-05:00 | (no title) | https://apnews.com/photo-gallery/britain-epstein-andrew-former-prince-arrested-1eabcfff09626fbed29a5920ffe506f9
+- [ap_archive] 2026-02-20T15:42:10-05:00 | (no title) | https://apnews.com/article/andrew-mountbatten-windsor-epstein-arresto-rey-carlos-inglaterra-5ffa0176e877edb2ad32f2733e46d1a0
+- [ap_archive] 2026-02-20T15:20:36-05:00 | New Mexico reopens investigation into Jeffrey Epstein's former Zorro Ranch | https://apnews.com/video/new-mexico-reopens-investigation-into-jeffrey-epsteins-former-zorro-ranch-065dcb1bb3af4db5b8fbfd28b912544f
+- [fox_news] 2026-02-20T13:41:29-05:00 | (no title) | https://www.foxnews.com/entertainment/andrew-mountbatten-windsors-former-home-still-swarming-police-following-arrest-over-epstein-ties
+- [fox_news] 2026-02-20T12:45:44-05:00 | (no title) | https://www.foxnews.com/us/documents-show-epstein-received-pitch-properties-housing-pentagon-fbi-tenants-2008-conviction
+- [ap_archive] 2026-02-20T12:25:33-05:00 | (no title) | https://apnews.com/article/britain-mandelson-epstein-bankruptcy-starmer-9bcfeed90e6201d13fc979f3cb443bad
+- [ap_archive] 2026-02-20T10:48:27-05:00 | (no title) | https://apnews.com/article/reino-unido-mandelson-epstein-c8a49cf93c8d09385191088aa54d2a78
+- [fox_news] 2026-02-20T09:23:26-05:00 | (no title) | https://www.foxnews.com/politics/bill-hillary-clinton-deposed-new-york-house-oversight-epstein-probe
+- [ap_archive] 2026-02-20T06:52:44-05:00 | (no title) | https://apnews.com/article/andrew-arrest-epstein-britain-18bfbaa26488b45f2db79911bba1b53c
+- [fox_news] 2026-02-20T05:05:25-05:00 | (no title) | https://www.foxnews.com/politics/ex-victorias-secret-ceo-lawyer-caught-hot-mic-jokingly-threatening-kill-him-at-epstein-deposition

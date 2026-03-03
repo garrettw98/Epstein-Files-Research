@@ -51,6 +51,14 @@ DOJ_RELEASE_URLS = [
         "https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files",
     ),
 ]
+DOJ_OIG_RELEASE_URLS = [
+    (
+        "doc-doj-oig-bop-custody-review",
+        "2023-06-27",
+        "DOJ OIG Releases Report on the BOP's Custody, Care, and Supervision of Jeffrey Epstein at the Metropolitan Correctional Center in New York, New York",
+        "https://oig.justice.gov/news/doj-oig-releases-report-bops-custody-care-and-supervision-jeffrey-epstein-metropolitan",
+    ),
+]
 
 
 def now_utc() -> dt.datetime:
@@ -100,6 +108,7 @@ def source_tier_for_source(source_system: str) -> str:
         "govtrack",
         "house_judiciary",
         "justice_opa",
+        "justice_oig",
         "courtlistener",
         "courtlistener_recap",
     }:
@@ -112,7 +121,7 @@ def capture_method_for_row(row: dict[str, str]) -> str:
     extracted_from = (row.get("extracted_from") or "").strip().lower()
     if source_system in {"courtlistener", "courtlistener_recap", "govinfo_wssearch"}:
         return "api"
-    if source_system in {"govinfo", "justice_opa"} and extracted_from == "govinfo":
+    if source_system in {"govinfo", "justice_opa", "justice_oig"} and extracted_from in {"govinfo", "justice_oig"}:
         return "direct_link"
     if source_system in {"house_judiciary", "govtrack"}:
         return "html_scrape"
@@ -542,6 +551,24 @@ def main() -> int:
             }
         )
 
+    # DOJ OIG releases
+    for release_doc_id, doc_date, title, url in DOJ_OIG_RELEASE_URLS:
+        docs.append(
+            {
+                "doc_id": release_doc_id,
+                "source_system": "justice_oig",
+                "document_type": "agency_release",
+                "jurisdiction": "US DOJ OIG",
+                "title": title,
+                "doc_date": doc_date,
+                "url": url,
+                "citation": "DOJ OIG",
+                "entity_tags": "doj,oig,epstein_files",
+                "status": "published",
+                "extracted_from": "justice_oig",
+            }
+        )
+
     # Deduplicate by URL while preserving first record.
     dedup: dict[str, dict[str, str]] = {}
     for row in docs:
@@ -602,7 +629,7 @@ def main() -> int:
         handle.write(f"- Run UTC: {run_utc}\n")
         handle.write(f"- Document count: {len(final_rows)}\n")
         handle.write(
-            "- Sources queried: courtlistener, courtlistener_recap, house_judiciary, govtrack, govinfo, govinfo_wssearch, justice_opa\n\n"
+            "- Sources queried: courtlistener, courtlistener_recap, house_judiciary, govtrack, govinfo, govinfo_wssearch, justice_opa, justice_oig\n\n"
         )
         handle.write("## By Source System\n")
         for key, value in sorted(by_source.items(), key=lambda item: (-item[1], item[0])):

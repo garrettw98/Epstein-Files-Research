@@ -1,4 +1,6 @@
 domain	url_count_last7d	first_seen_utc	last_seen_utc	sample_url
-bbc.com	12	2026-02-17T02:55:43+00:00	2026-02-18T20:58:35+00:00	https://www.bbc.com/mundo/articles/ckg1dn9ey0ko
-theguardian.com	12	2026-02-19T01:22:00+00:00	2026-02-19T01:22:01+00:00	https://www.theguardian.com/business/2026/feb/17/hyatt-chair-thomas-pritzker-jeffrey-epstein-ghislane-maxwell
-reuters.com	10	2026-02-17T08:04:48.480000+00:00	2026-02-19T00:08:25.611000+00:00	https://www.reuters.com/business/media-telecom/uk-examining-epsteins-use-airport-trafficking-2026-02-18/
+apnews.com	46	2026-02-24T06:30:49+00:00	2026-03-03T00:54:06+00:00	https://apnews.com/article/andrew-epstein-carlos-ea7715d7bccd3b689d0a52c324736246
+foxnews.com	20	2026-02-24T14:31:49+00:00	2026-03-02T23:48:06+00:00	https://www.foxnews.com/politics/bill-clinton-faces-high-stakes-house-grilling-epstein-probe-after-hillary-blasts-fishing-expedition
+bbc.com	4	2026-03-02T15:40:06+00:00	2026-03-03T03:09:15+00:00	https://www.bbc.com/afrique/articles/ce3gk945348o
+theguardian.com	3	2026-03-03T03:32:00+00:00	2026-03-03T03:32:01+00:00	https://www.theguardian.com/education/2026/mar/01/uk-teachers-parents-urged-talk-children-jeffrey-epstein-crimes
+reuters.com	2	2026-03-03T01:04:56.841000+00:00	2026-03-03T02:51:17.818000+00:00	https://www.reuters.com/sustainability/boards-policy-regulation/apollo-leon-black-sued-allegedly-concealing-epstein-business-ties-shareholders-2026-03-03/

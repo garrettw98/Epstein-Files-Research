@@ -86,10 +86,10 @@ This repository is a source-linked research index for documents, entities, event
 
 </details>
 
-## The 2026 Release (Updated Mar 2, 2026)
+## The 2026 Release (Updated Mar 3, 2026)
 
 <!-- LIVE_UPDATES:START -->
-### Live Updates (As of Mar 2, 2026)
+### Live Updates (As of Mar 3, 2026)
 *   **AP review: no DOJ "client list" finding** (Feb 8, 2026): AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men. [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
 *   **Congressional access to unredacted files opened** (Feb 9, 2026): DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice. [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
 *   **Maxwell deposition and clemency request** (Feb 9, 2026): AP reported Maxwell invoked the Fifth Amendment in a House deposition and later sought clemency before withdrawing the request. [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9)
@@ -112,20 +112,40 @@ This repository is a source-linked research index for documents, entities, event
 *   **AP: Les Wexner told lawmakers he was "duped" by Epstein** (Feb 18, 2026): AP reported Wexner told congressional members that Epstein was a "world-class con man" and denied knowing about Epstein's crimes. [Source](https://apnews.com/video/house-oversight-committee-democrats-skeptical-as-mogul-les-wexner-says-he-was-duped-by-epstein-7484f84861934fa8b0231defc443eb2d)
 *   **AP: Paris prosecutors opened two Epstein-linked investigations** (Feb 18, 2026): AP reported Paris prosecutors opened two investigations into alleged sexual-abuse and financial irregularities linked to Epstein files. [Source](https://apnews.com/article/francia-epstein-investigacion-3b366861b91a965a7b7378db2ea51cb7)
 *   **Reuters/Ipsos poll: many Americans say the powerful get a pass** (Feb 19, 2026): Reuters reported new Reuters/Ipsos polling found many Americans believe the Epstein files show powerful people avoid accountability. [Source](https://www.reuters.com/world/us/americans-believe-epstein-files-show-powerful-get-pass-reutersipsos-poll-finds-2026-02-18/)
-*   **DOJ library status (Mar 2, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
+*   **AP: Peter Mandelson released on bail after UK Epstein-probe arrest** (Feb 24, 2026): AP reported former UK ambassador Peter Mandelson was released on bail after his arrest in an Epstein-linked misconduct investigation. [Source](https://apnews.com/video/former-u-k-ambassador-to-u-s-released-on-bail-after-arrest-in-epstein-misconduct-probe-6fda5c8ac404422ca1bddaff09278c53)
+*   **AP: Larry Summers to resign from Harvard amid Epstein-ties review** (Feb 25, 2026): AP reported Harvard said Larry Summers would resign during a review focused on his past Epstein ties. [Source](https://apnews.com/video/larry-summers-to-resign-from-harvard-university-amid-review-of-his-epstein-ties-c61a4621aa9b4f9d8b48a8e2da543cec)
+*   **AP: Hillary Clinton testified in closed-door House Epstein deposition** (Feb 26, 2026): AP reported Hillary Clinton appeared for a closed-door deposition in the House investigation into Jeffrey Epstein. [Source](https://apnews.com/video/hillary-clinton-is-testifying-as-part-of-the-house-investigation-into-jeffrey-epstein-7ed636a55a144b609dd8ece4e976ee2b)
+*   **AP: DOJ reviewing whether Epstein-related records were mistakenly withheld** (Feb 26, 2026): AP reported DOJ said it is reviewing whether any Epstein-related records were mistakenly withheld from prior releases. [Source](https://apnews.com/video/doj-says-its-reviewing-whether-any-epstein-related-records-were-mistakenly-withheld-9c56463b73c04749a1e777ca92df7718)
+*   **AP: Hillary Clinton deposition ran over six hours** (Feb 27, 2026): AP reported Hillary Clinton's House deposition ended after more than six hours of questioning. [Source](https://apnews.com/video/hillary-clintons-deposition-in-house-epstein-investigation-ends-after-over-six-hours-of-questioning-fe56f7a8a1334ee895122c11ec14a90a)
+*   **AP: Hillary Clinton said she had no information on Epstein crimes** (Feb 27, 2026): AP reported Hillary Clinton testified she had no information on Epstein's crimes and said she did not recall meeting him. [Source](https://apnews.com/video/hillary-clinton-testifies-she-has-no-information-on-epsteins-crimes-and-doesnt-recall-meeting-him-606096459bd0480996803c94944b9e71)
+*   **AP: Bill Clinton entered closed-door House deposition** (Feb 27, 2026): AP reported House Oversight members said they had extensive questions as Bill Clinton entered deposition testimony on Epstein ties. [Source](https://apnews.com/video/house-oversight-republicans-head-into-bill-clinton-deposition-on-epstein-with-a-lot-of-questions-ef7adcacdb2f413ea368ce143aee9b16)
+*   **Reuters: Bill Clinton said Trump described "some great times" with Epstein** (Mar 2, 2026): Reuters reported Bill Clinton told investigators Trump once spoke positively about time spent with Epstein. [Source](https://www.reuters.com/world/us/clinton-says-trump-told-him-some-great-times-with-jeffrey-epstein-2026-03-02/)
+*   **Guardian: House committee released video of Clinton depositions** (Mar 2, 2026): The Guardian reported the House committee publicly released videos of Bill and Hillary Clinton's Epstein testimony sessions. [Source](https://www.theguardian.com/us-news/2026/mar/02/clintons-epstein-testimony-released)
+*   **BBC: Bill and Hillary Clinton testimony released** (Mar 2, 2026): BBC reported videos of both Clintons' testimony in the Epstein inquiry were released publicly. [Source](https://www.bbc.com/news/articles/c20zg7prz12o)
+*   **AP: Hillary Clinton said she did not recall meeting Epstein** (Mar 3, 2026): AP video coverage highlighted testimony that Hillary Clinton said she did not recall ever meeting Jeffrey Epstein. [Source](https://apnews.com/video/hillary-clinton-said-she-never-even-recalled-meeting-jeffrey-epstein-4137852ceef043a68b3937c7e8a82420)
+*   **AP: Key moments from Bill Clinton's Epstein testimony published** (Mar 3, 2026): AP video coverage summarized key moments from Bill Clinton's deposition testimony on Epstein. [Source](https://apnews.com/video/key-moments-from-bill-clintons-testimony-on-jeffrey-epstein-8983fcc771d24f219adaf6f3788c6d84)
+*   **Reuters: Apollo and Leon Black sued over alleged Epstein-ties disclosure failures** (Mar 3, 2026): Reuters reported shareholders sued Apollo and Leon Black, alleging Epstein-related business ties were concealed from investors. [Source](https://www.reuters.com/sustainability/boards-policy-regulation/apollo-leon-black-sued-allegedly-concealing-epstein-business-ties-shareholders-2026-03-03/)
+*   **DOJ library status (Mar 3, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
 <!-- LIVE_UPDATES:END -->
 
 <!-- LAST24H:START -->
 ### What Changed in Last 24 Hours (Auto-generated)
-- Window: Mar 02, 2026 03:30 UTC to Mar 03, 2026 03:30 UTC.
-- Monitored link updates: 0 across 0 domains.
-- Primary-doc diffs: added 0, removed 0, changed 0.
+- Window: Mar 02, 2026 03:52 UTC to Mar 03, 2026 03:52 UTC.
+- Monitored link updates: 15 across 5 domains.
+- Primary-doc diffs: added 0, removed 4, changed 0.
 - Claim-status diffs: added 0, removed 0, changed 0.
 - Claim review queue (open): p1=0, p2=0, p3=0.
 - DOJ data-set file index: 12/12 sets with files, 524 total indexed files.
 
 #### Recent items (latest first)
-- No monitored links in the current 24-hour window.
+*   **Mar 03, 2026**: UK teachers and parents urged to talk to children about Jeffrey Epstein’s crimes (theguardian.com). [Source](https://www.theguardian.com/education/2026/mar/01/uk-teachers-parents-urged-talk-children-jeffrey-epstein-crimes)
+*   **Mar 03, 2026**: The UK has arrested high-profile figures connected to Jeffrey Epstein. Will the US? (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/mar/02/jeffrey-epstein-uk-us-arrests)
+*   **Mar 03, 2026**: US House committee releases videos of the Clintons’ Epstein testimonies (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/mar/02/clintons-epstein-testimony-released)
+*   **Mar 03, 2026**: Bill and Hillary Clinton's testimony about Jeffrey Epstein released (bbc.com). [Source](https://www.bbc.com/news/articles/c20zg7prz12o)
+*   **Mar 03, 2026**: Clinton says Trump told him of 'some great times' with Jeffrey Epstein (reuters.com). [Source](https://www.reuters.com/world/us/clinton-says-trump-told-him-some-great-times-with-jeffrey-epstein-2026-03-02/)
+*   **Mar 03, 2026**: Videos of Bill and Hillary Clinton's Epstein testimonies released (bbc.com). [Source](https://www.bbc.com/news/live/ce94y2yykgrt)
+*   **Mar 03, 2026**: Apollo, Leon Black sued for allegedly concealing Epstein business ties from shareholders (reuters.com). [Source](https://www.reuters.com/sustainability/boards-policy-regulation/apollo-leon-black-sued-allegedly-concealing-epstein-business-ties-shareholders-2026-03-03/)
+*   **Mar 03, 2026**: Key moments from Bill Clinton's testimony on Jeffrey Epstein (apnews.com). [Source](https://apnews.com/video/key-moments-from-bill-clintons-testimony-on-jeffrey-epstein-8983fcc771d24f219adaf6f3788c6d84)
 <!-- LAST24H:END -->
 
 ### Core 2026 release files
@@ -326,6 +346,7 @@ Or use Make targets:
 ---
 
 > Note: This database prioritizes source-linked records and explicit claim status labels so readers can separate verified evidence from open or disputed claims.
+
 
 
 

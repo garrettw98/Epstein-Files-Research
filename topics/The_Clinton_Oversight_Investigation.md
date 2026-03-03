@@ -1,13 +1,13 @@
 # The Clinton Oversight Investigation (2025-2026)
 
-> **Status**: **ONGOING**
+> **Status**: **ONGOING (POST-DEPOSITION PHASE)**
 > **Body**: House Oversight Committee (Federal Law Enforcement Subcommittee)
 > **Chairman**: James Comer (R-KY)
-> **Key Dates**: Subpoenas issued August 2025, Testimony scheduled February 2026
+> **Key Dates**: Subpoenas issued August 2025, Depositions completed February 26-27, 2026, Testimony videos released March 2, 2026
 
 ## Summary
 
-In 2025-2026, the House Oversight Committee launched an investigation into the Clintons' connections to Jeffrey Epstein, issuing subpoenas for testimony. After the Clintons refused to appear for scheduled depositions, the Committee voted to recommend contempt of Congress charges. The Clintons ultimately agreed to testify in late February 2026, averting a full House contempt vote.
+In 2025-2026, the House Oversight Committee launched an investigation into the Clintons' connections to Jeffrey Epstein and issued subpoenas for testimony. After both Clintons missed scheduled depositions, the Committee voted to recommend contempt of Congress charges. The Clintons later appeared for closed-door depositions on February 26-27, 2026, and House investigators released video of both sessions on March 2, 2026.
 
 ## Timeline of Events
 
@@ -59,6 +59,22 @@ Chairman Comer announced: **"The Clintons caved."**
 ### Rules Committee Suspension
 
 The Rules Committee had been scheduled to approve contempt resolutions for a full House vote. After the Clintons agreed to testify, the Committee **suspended consideration** of the resolutions.
+
+### February 26, 2026: Hillary Clinton Deposition Held
+
+Hillary Clinton appeared for a closed-door deposition with House investigators.
+- AP video coverage reported she testified she had no information on Epstein's crimes
+- AP coverage also reported she said she did not recall meeting Epstein
+
+### February 27, 2026: Bill Clinton Deposition Held
+
+Bill Clinton gave closed-door testimony the next day.
+- AP coverage reported House members entered the session saying they had "a lot of questions"
+- Post-session coverage focused on new calls from Democrats for Donald Trump testimony
+
+### March 2, 2026: Committee Releases Testimony Video
+
+BBC and The Guardian reported that House investigators publicly released videos of Bill and Hillary Clinton's Epstein testimony sessions.
 
 ## What the Documents Show
 
@@ -149,11 +165,10 @@ This was widely interpreted as a warning that Democrats would seek to subpoena *
 
 ## Outstanding Questions
 
-1. **What will the Clintons be asked?** - Full scope of questioning unclear
-2. **Will transcripts be released?** - Depositions are closed-door; Hillary pushing for public testimony
-3. **Other witnesses?** - Nine other individuals were subpoenaed
-4. **Trump testimony?** - Democrats explicitly threaten reciprocal subpoenas (Raskin warning)
-5. **Criminal referrals?** - Possible if perjury or other crimes discovered
+1. **Will full transcripts be released?** - Video highlights were released, but transcript release terms remain unclear
+2. **Other witnesses?** - Nine other individuals were subpoenaed
+3. **Trump testimony?** - Democrats explicitly threaten reciprocal subpoenas (Raskin warning)
+4. **Criminal referrals?** - Possible if perjury or other crimes discovered
 
 ## The Nine Democrats
 
@@ -165,6 +180,7 @@ The fact that **nine Democratic members** of the Oversight Committee supported c
 ## See Also
 
 - [Bill Clinton](../profiles/Bill_Clinton.md) - Full profile
+- [Hillary Clinton](../profiles/Hillary_Clinton.md) - Full profile
 - [2026 Release](../evidence/2026_Release.md) - Document release details
 - [The Epstein Files Transparency Act](The_Epstein_Files_Transparency_Act.md) - Law requiring disclosure
 - [Government Complicity](Government_Complicity.md) - Broader failures

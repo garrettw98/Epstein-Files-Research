@@ -55,6 +55,14 @@ On **February 3, 2026**, the Clintons agreed to appear for closed-door depositio
 
 Chairman Comer announced: "The Clintons caved."
 
+The scheduled depositions were completed on those dates.
+
+### Post-Deposition Public Record (Feb-Mar 2026)
+
+- AP reported Hillary Clinton's deposition ran more than six hours and included testimony that she had no information on Epstein's crimes and did not recall meeting him.
+- AP and Reuters coverage reported Bill Clinton completed his deposition and gave statements about past conversations with Donald Trump regarding Epstein.
+- BBC and The Guardian reported House investigators later released video of both Clinton testimony sessions.
+
 ### 2026 Document Revelations
 
 The January 2026 release included:
@@ -82,7 +90,7 @@ Epstein sat for a deposition in 2016 and was asked several questions about Clint
 ## Verdict
 **Verified Associate.** He traveled with Epstein extensively, but there is **no evidence** currently linking him to the sexual crimes. No victim has accused Clinton of abuse.
 
-The February 26-27, 2026 depositions may reveal additional information about the relationship. Hillary Clinton's push for public testimony suggests confidence in their defense.
+The February 26-27, 2026 depositions are now complete, with selected testimony video released publicly on March 2, 2026.
 
 ## See Also
 

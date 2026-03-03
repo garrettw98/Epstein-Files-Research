@@ -1,6 +1,6 @@
 # 📅 The Master Timeline: Every Verified Event
 
-> **Scope**: 1953 - Mar 2, 2026
+> **Scope**: 1953 - Mar 3, 2026
 > **Sources**: Court documents, Flight Logs, Police Reports, 2024/2026 Releases.
 
 This timeline integrates all data points from this repository into a single chronological flow.
@@ -10,14 +10,21 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 <!-- LAST24H_TIMELINE:START -->
 ## Last 24 Hours Snapshot (Auto-generated)
-- Window: Mar 02, 2026 03:30 UTC to Mar 03, 2026 03:30 UTC.
-- Monitored updates: 0 links across 0 domains.
-- Primary-doc changes: added 0, removed 0, changed 0.
+- Window: Mar 02, 2026 03:52 UTC to Mar 03, 2026 03:52 UTC.
+- Monitored updates: 15 links across 5 domains.
+- Primary-doc changes: added 0, removed 4, changed 0.
 - Claim review pressure: p1=0, p2=0, p3=0 open.
 - DOJ data-set file index health: 12/12 sets with files.
 
 ### Recent items
-- No monitored links in the current 24-hour window.
+* **Mar 03, 2026**: UK teachers and parents urged to talk to children about Jeffrey Epstein’s crimes (theguardian.com). [Source](https://www.theguardian.com/education/2026/mar/01/uk-teachers-parents-urged-talk-children-jeffrey-epstein-crimes)
+* **Mar 03, 2026**: The UK has arrested high-profile figures connected to Jeffrey Epstein. Will the US? (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/mar/02/jeffrey-epstein-uk-us-arrests)
+* **Mar 03, 2026**: US House committee releases videos of the Clintons’ Epstein testimonies (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/mar/02/clintons-epstein-testimony-released)
+* **Mar 03, 2026**: Bill and Hillary Clinton's testimony about Jeffrey Epstein released (bbc.com). [Source](https://www.bbc.com/news/articles/c20zg7prz12o)
+* **Mar 03, 2026**: Clinton says Trump told him of 'some great times' with Jeffrey Epstein (reuters.com). [Source](https://www.reuters.com/world/us/clinton-says-trump-told-him-some-great-times-with-jeffrey-epstein-2026-03-02/)
+* **Mar 03, 2026**: Videos of Bill and Hillary Clinton's Epstein testimonies released (bbc.com). [Source](https://www.bbc.com/news/live/ce94y2yykgrt)
+* **Mar 03, 2026**: Apollo, Leon Black sued for allegedly concealing Epstein business ties from shareholders (reuters.com). [Source](https://www.reuters.com/sustainability/boards-policy-regulation/apollo-leon-black-sued-allegedly-concealing-epstein-business-ties-shareholders-2026-03-03/)
+* **Mar 03, 2026**: Key moments from Bill Clinton's testimony on Jeffrey Epstein (apnews.com). [Source](https://apnews.com/video/key-moments-from-bill-clintons-testimony-on-jeffrey-epstein-8983fcc771d24f219adaf6f3788c6d84)
 <!-- LAST24H_TIMELINE:END -->
 
 ---
@@ -295,7 +302,47 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 19, 2026**: **Reuters/Ipsos poll: many Americans say the powerful get a pass**.
     *   Reuters reported new Reuters/Ipsos polling found many Americans believe the Epstein files show powerful people avoid accountability.
     *   Source: [Source](https://www.reuters.com/world/us/americans-believe-epstein-files-show-powerful-get-pass-reutersipsos-poll-finds-2026-02-18/).
+*   **Feb 24, 2026**: **AP: Peter Mandelson released on bail after UK Epstein-probe arrest**.
+    *   AP reported former UK ambassador Peter Mandelson was released on bail after his arrest in an Epstein-linked misconduct investigation.
+    *   Source: [Source](https://apnews.com/video/former-u-k-ambassador-to-u-s-released-on-bail-after-arrest-in-epstein-misconduct-probe-6fda5c8ac404422ca1bddaff09278c53).
+*   **Feb 25, 2026**: **AP: Larry Summers to resign from Harvard amid Epstein-ties review**.
+    *   AP reported Harvard said Larry Summers would resign during a review focused on his past Epstein ties.
+    *   Source: [Source](https://apnews.com/video/larry-summers-to-resign-from-harvard-university-amid-review-of-his-epstein-ties-c61a4621aa9b4f9d8b48a8e2da543cec).
+*   **Feb 26, 2026**: **AP: Hillary Clinton testified in closed-door House Epstein deposition**.
+    *   AP reported Hillary Clinton appeared for a closed-door deposition in the House investigation into Jeffrey Epstein.
+    *   Source: [Source](https://apnews.com/video/hillary-clinton-is-testifying-as-part-of-the-house-investigation-into-jeffrey-epstein-7ed636a55a144b609dd8ece4e976ee2b).
+*   **Feb 26, 2026**: **AP: DOJ reviewing whether Epstein-related records were mistakenly withheld**.
+    *   AP reported DOJ said it is reviewing whether any Epstein-related records were mistakenly withheld from prior releases.
+    *   Source: [Source](https://apnews.com/video/doj-says-its-reviewing-whether-any-epstein-related-records-were-mistakenly-withheld-9c56463b73c04749a1e777ca92df7718).
+*   **Feb 27, 2026**: **AP: Hillary Clinton deposition ran over six hours**.
+    *   AP reported Hillary Clinton's House deposition ended after more than six hours of questioning.
+    *   Source: [Source](https://apnews.com/video/hillary-clintons-deposition-in-house-epstein-investigation-ends-after-over-six-hours-of-questioning-fe56f7a8a1334ee895122c11ec14a90a).
+*   **Feb 27, 2026**: **AP: Hillary Clinton said she had no information on Epstein crimes**.
+    *   AP reported Hillary Clinton testified she had no information on Epstein's crimes and said she did not recall meeting him.
+    *   Source: [Source](https://apnews.com/video/hillary-clinton-testifies-she-has-no-information-on-epsteins-crimes-and-doesnt-recall-meeting-him-606096459bd0480996803c94944b9e71).
+*   **Feb 27, 2026**: **AP: Bill Clinton entered closed-door House deposition**.
+    *   AP reported House Oversight members said they had extensive questions as Bill Clinton entered deposition testimony on Epstein ties.
+    *   Source: [Source](https://apnews.com/video/house-oversight-republicans-head-into-bill-clinton-deposition-on-epstein-with-a-lot-of-questions-ef7adcacdb2f413ea368ce143aee9b16).
+*   **Mar 2, 2026**: **Reuters: Bill Clinton said Trump described "some great times" with Epstein**.
+    *   Reuters reported Bill Clinton told investigators Trump once spoke positively about time spent with Epstein.
+    *   Source: [Source](https://www.reuters.com/world/us/clinton-says-trump-told-him-some-great-times-with-jeffrey-epstein-2026-03-02/).
+*   **Mar 2, 2026**: **Guardian: House committee released video of Clinton depositions**.
+    *   The Guardian reported the House committee publicly released videos of Bill and Hillary Clinton's Epstein testimony sessions.
+    *   Source: [Source](https://www.theguardian.com/us-news/2026/mar/02/clintons-epstein-testimony-released).
+*   **Mar 2, 2026**: **BBC: Bill and Hillary Clinton testimony released**.
+    *   BBC reported videos of both Clintons' testimony in the Epstein inquiry were released publicly.
+    *   Source: [Source](https://www.bbc.com/news/articles/c20zg7prz12o).
+*   **Mar 3, 2026**: **AP: Hillary Clinton said she did not recall meeting Epstein**.
+    *   AP video coverage highlighted testimony that Hillary Clinton said she did not recall ever meeting Jeffrey Epstein.
+    *   Source: [Source](https://apnews.com/video/hillary-clinton-said-she-never-even-recalled-meeting-jeffrey-epstein-4137852ceef043a68b3937c7e8a82420).
+*   **Mar 3, 2026**: **AP: Key moments from Bill Clinton's Epstein testimony published**.
+    *   AP video coverage summarized key moments from Bill Clinton's deposition testimony on Epstein.
+    *   Source: [Source](https://apnews.com/video/key-moments-from-bill-clintons-testimony-on-jeffrey-epstein-8983fcc771d24f219adaf6f3788c6d84).
+*   **Mar 3, 2026**: **Reuters: Apollo and Leon Black sued over alleged Epstein-ties disclosure failures**.
+    *   Reuters reported shareholders sued Apollo and Leon Black, alleging Epstein-related business ties were concealed from investors.
+    *   Source: [Source](https://www.reuters.com/sustainability/boards-policy-regulation/apollo-leon-black-sued-allegedly-concealing-epstein-business-ties-shareholders-2026-03-03/).
 <!-- LIVE_TIMELINE:END -->
+
 
 
 

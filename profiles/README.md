@@ -34,6 +34,7 @@ These women were the "middle management" of the operation. Most were granted imm
 
 ## 🟡 The Associates (Flight Logs/Meetings)
 *   **[Bill Clinton](Bill_Clinton.md)** - 26+ flights documented.
+*   **[Hillary Clinton](Hillary_Clinton.md)** - Subpoenaed witness; Feb 26, 2026 deposition completed.
 *   **[Donald Trump](Donald_Trump.md)** - Social ties; "terrific guy" quote.
 *   **[Bill Gates](Bill_Gates.md)** - Post-conviction meetings; "I was foolish" (Feb 2026).
 *   **[Reid Hoffman](Reid_Hoffman.md)** - Tech billionaire; island visitor.

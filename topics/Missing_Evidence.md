@@ -32,3 +32,20 @@ Despite millions of pages being released, key pieces of the puzzle remain missin
 *   **The Location**: The high-tech server room at the New Mexico ranch.
 *   **The Incident**: Reports indicate the server room was **"professionally scrubbed"** (wiped clean) just days before the FBI raided the property in 2019.
 *   **The Implication**: This suggests Epstein (or his associates) had advance warning of the raid or a "kill switch" protocol to destroy digital evidence.
+
+## 7. The Executor-Controlled Record Layer
+*   **The Actors**: Darren Indyke and Richard Kahn, plus other longtime estate-side custodians.
+*   **The March 2026 Shift**: AP reported Kahn was deposed on March 11, 2026, and BBC reported Epstein aides still controlled money and sensitive records after Epstein's death.
+*   **The Mystery**: Which records remained effectively filtered through estate or aide control after 2019, and which of those materials never made it into the public DOJ release stream?
+*   **The Significance**: This is where financial opacity starts to overlap with evidence opacity. If the estate controlled posthumous records custody, the "1953 Trust" is not just a money question.
+
+## 8. The Missing FBI Interview Chain
+*   **The Item**: FBI interview summaries that were not initially included in the public release.
+*   **The March 2026 Development**: DOJ later released previously missing interview material tied to a woman whose allegations implicated both Epstein and Trump.
+*   **The Mystery**: How many omission decisions were technical, how many were legal, and how many were discretionary sequencing choices?
+*   **The Significance**: Once missing interview material starts appearing after the main release, the integrity of the entire release sequence becomes an open question.
+
+## 9. The FBI Server Breach Question
+*   **The Claim**: Guardian reporting said a foreign hacker breached an FBI New York field-office server holding Epstein-related files in 2023.
+*   **The Mystery**: Did the breach affect only confidentiality, or did it also affect preservation, access logs, or confidence in the completeness of later disclosures?
+*   **The Significance**: The problem is not only whether files were withheld. It is whether the archive itself was stable, secure, and fully knowable by the time the public release happened.

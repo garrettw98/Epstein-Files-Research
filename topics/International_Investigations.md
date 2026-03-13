@@ -6,7 +6,7 @@
 
 ## Summary
 
-The January 2026 release of Epstein files has triggered investigations and political fallout across multiple countries. This document tracks the international response to revelations about Epstein's global network.
+The January 2026 release of Epstein files has triggered investigations and political fallout across multiple countries. By March 2026, the international story had matured beyond resignation headlines: states were expanding inquiries, previously internal warning records were surfacing, and new victim reporting was clarifying how the cross-border recruitment model worked in practice.
 
 ## Poland
 
@@ -40,6 +40,12 @@ Poland is establishing an **analytical task force** to:
 - Identify potential victims
 - Investigate trafficking routes
 - Coordinate with US authorities
+
+### March 11 Expansion
+
+Reuters later reported that Poland would seek help from **two additional countries** in its Epstein investigation.
+
+This is a meaningful escalation because it suggests Polish authorities no longer saw the issue as a domestic review of names appearing in files. They were treating it as a cross-border matter requiring external cooperation.
 
 ## Lithuania
 
@@ -116,6 +122,15 @@ The British government has faced questions about:
 - Royal family connections to Epstein
 - Whether UK will launch formal investigation
 
+### March 11 Warning Files
+
+AP reported newly published files said Prime Minister **Keir Starmer** had been warned that Mandelson's Epstein ties posed a reputational risk before appointing him ambassador to the United States.
+
+This changes the UK narrative in an important way:
+- The issue is no longer only Mandelson's own conduct.
+- It becomes a question of institutional foreknowledge and political risk tolerance.
+- It narrows the gap between "individual scandal" and "state awareness."
+
 ## Latvia
 
 ### Investigation Launched
@@ -187,6 +202,21 @@ Reuters reported French investigators searched the **Arab World Institute** and 
 - Reuters reported Lang denied any wrongdoing.
 - This is distinct from the documented Russian disinformation operation targeting Macron.
 
+## Brazil
+
+### Victim Reporting and Recruitment Pattern
+
+On March 12, 2026, BBC reported that Brazilian women described being drawn into Epstein's network through modeling-linked recruitment and visa arrangements associated with Jean-Luc Brunel.
+
+### Why Brazil Matters
+
+Brazil's significance in this repository is not that a formal Brazilian state investigation was newly announced. It is that the reporting adds operational detail to the international trafficking model:
+- recruitment could be framed as fashion or modeling opportunity,
+- movement to the United States could be normalized through paperwork and intermediaries,
+- and Brunel's role functioned as a bridge between aspiration, migration, and exploitation.
+
+That makes Brazil important to the repo's international narrative even without a March government announcement there.
+
 ## European Union Impact
 
 ### Pattern Recognition
@@ -204,6 +234,8 @@ Multiple EU member states now examining Epstein connections:
 
 Documents suggest Eastern European trafficking pipeline crossing multiple EU borders.
 
+By March 2026, the picture broadened further: the BBC reporting from Brazil suggests the recruitment model cannot be understood only as a European elite-contact problem. It also depended on aspirational labor and modeling channels that converted international mobility into exploitation risk.
+
 ## Other Countries Mentioned
 
 ### Israel
@@ -219,6 +251,12 @@ Documents suggest Eastern European trafficking pipeline crossing multiple EU bor
 - Modeling agency (MC2) operations
 - Paris apartment in Epstein's portfolio
 - French investigation previously opened, then closed after Brunel's death
+
+### Brazil
+
+- March 12 BBC reporting added firsthand accounts from Brazilian women describing modeling-linked recruitment into Epstein's orbit.
+- This strengthens the repo's broader account of fashion-industry and visa-channel exploitation.
+- No separate March 2026 formal Brazilian state investigation is tracked in current repository sources.
 
 ### China
 
@@ -251,6 +289,7 @@ Senator Wyden revealed Russian banks **"now under sanctions"** processed Epstein
 - Varying statutes of limitations
 - Diplomatic complications
 - Victim privacy across borders
+- The fact that some countries are working from warning memos, others from criminal files, and others from survivor reporting rather than formal government records
 
 ### Potential Cooperation
 
@@ -258,6 +297,7 @@ Countries may need to coordinate on:
 - Victim identification
 - Witness interviews
 - Financial trail analysis
+- Modeling-agency and visa-sponsorship records that cross private and public institutions
 - Trafficking route mapping
 
 ## Timeline

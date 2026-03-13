@@ -50,16 +50,42 @@ This timeline maps how U.S. government response evolved from prosecution activit
   - https://keyt.com/news/national-world/cnn-us-politics/2026/02/15/doj-letter-on-epstein-files-lists-hundreds-of-names-but-doesnt-provide-context/
 - **February 17, 2026**: Reuters reports New Mexico lawmakers approved a state-level commission process to investigate allegations tied to Epstein's Zorro Ranch.  
   Source: https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/
+- **March 3, 2026**: House Oversight announces requests for additional transcribed interviews, including Bill Gates and Leon Black.  
+  Source: https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/
+- **March 4, 2026**: AP reports the House committee voted to subpoena AG Pam Bondi over DOJ handling of the Epstein files.  
+  Source: https://apnews.com/article/bondi-subpoena-epstein-files-house-committee-b16a5ab68c4a37a3a533e5f2412d7a57
+- **March 6, 2026**: AP reports DOJ released previously withheld files involving an unverified claim against Trump, intensifying questions about release completeness.  
+  Source: https://apnews.com/article/epstein-files-missing-release-doj-trump-f9cb1358a649c61f4bb7793bf358393b
+- **March 10, 2026**: AP reports New Mexico investigators searched Epstein's former Zorro Ranch property.  
+  Source: https://apnews.com/article/jeffrey-epstein-sex-abuse-trafficking-new-mexico-98ee07a273865c1cfc2b034ef182171a
+- **March 11, 2026**: AP reports Richard Kahn was deposed about Epstein's finances and ties to prominent figures.  
+  Source: https://apnews.com/article/jeffrey-epstein-accountant-richard-kahn-408bd7342060174bd456eb08bdd13488
+- **March 11, 2026**: Reuters reports DOJ released missing FBI interview summaries tied to a woman whose allegations implicated Trump and Epstein.  
+  Source: https://www.reuters.com/world/us/justice-department-releases-missing-fbi-interviews-epstein-files-with-woman-who-2026-03-06/
+- **March 11, 2026**: Fox reports House Oversight sought depositions from Bondi and Commerce Secretary Howard Lutnick.  
+  Source: https://www.foxnews.com/politics/house-oversight-committee-demands-depositions-bondi-lutnick-epstein-probe
+
+## Phase 4: Records-Control Escalation (March 2026)
+
+By March 2026, the government's role had evolved again. The main question was no longer just whether DOJ had released a large volume of files. It became whether key institutions had preserved, sequenced, and disclosed the remaining record honestly and completely.
+
+Three pressure points define this phase:
+
+- **Release credibility**: The Bondi subpoena vote and later deposition demands show that Congress increasingly treated release management as a witness-accountability problem, not just a technical publication problem.
+- **Custody of underlying evidence**: The Kahn deposition and missing-FBI-interview release show that "the archive" was still fragmented across DOJ, congressional oversight, and estate-linked custodians.
+- **Site-based follow-through**: The New Mexico search pushed the response beyond publication fights into renewed physical investigation.
 
 ## Government Response Pattern (What Changed)
 
 - **2019-2021**: Response was prosecution-centered (indictments, trial outcomes).
 - **2022-2024**: Response shifted to institutional review and detention-failure accountability.
 - **2025-2026**: Response became disclosure-governance focused (legislation, mass publication, redaction disputes, congressional oversight).
+- **March 2026 onward**: Response became a contest over records custody, release credibility, and who still controls unexhausted evidence channels.
 
 ## Related Files
 
 - `evidence/Bondi_Hearing_Feb_11_2026.md`
 - `evidence/2026_Release.md`
+- `analysis/March_2026_Escalation_Synthesis.md`
 - `topics/The_Epstein_Files_Transparency_Act.md`
 - `derived/bondi_hearing/bondi_hearing_updates_latest.tsv`

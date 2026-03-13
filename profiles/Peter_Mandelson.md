@@ -48,6 +48,15 @@ Prime Minister **Keir Starmer**:
 - Told his Cabinet he was **"appalled"** by the revelations
 - Is seeking **emergency legislation** to strip Mandelson of his noble title
 
+### March 11 Warning-File Development
+
+AP later reported newly published files said Starmer had been warned that Mandelson's Epstein ties posed a reputational risk before appointing him ambassador to the United States.
+
+That development changes the meaning of the case:
+- Mandelson's problem is no longer only retrospective personal misconduct.
+- It becomes a question of whether the British government knowingly accepted a reputational and security-risk profile.
+- It strengthens the repo's broader pattern that institutions often had warning signals before later public fallout.
+
 ## Mandelson's Denials
 
 In his resignation letter:
@@ -63,6 +72,7 @@ This is one of the most serious cases in the Epstein files — a senior governme
 2. **Shared state secrets** that could be used for market manipulation
 3. **Maintained the relationship** after Epstein's conviction
 4. Now faces **criminal prosecution**
+5. Became the subject of a second-stage warning-file controversy that implicates government awareness as well as personal conduct
 
 ## Verdict
 **Under Criminal Investigation.** The most consequential political fallout from the 2026 files outside the United States. Mandelson has resigned from his party, the House of Lords, and faces prosecution for misconduct in public office.
@@ -72,3 +82,4 @@ This is one of the most serious cases in the Epstein files — a senior governme
 - [International Investigations](../topics/International_Investigations.md) - UK criminal probe
 - [2026 Release](../evidence/2026_Release.md) - Document details
 - [Prince Andrew](Prince_Andrew.md) - Another UK figure with post-conviction ties
+- [March 2026 Escalation Synthesis](../analysis/March_2026_Escalation_Synthesis.md)

@@ -20,3 +20,24 @@ In the 2023 USVI lawsuit, the Attorney General argued that Indyke and Kahn were 
 *   **The Deal**: In exchange for settling the lawsuit with the USVI, the estate (run by Indyke and Kahn) agreed to pay **$105 million**.
 *   **The Protection**: As part of the settlement, Indyke and Kahn were **released from liability** regarding the racketeering charges, provided they cooperated and turned over documents.
 *   **Current Status**: They remain the executors of the estate, responsible for liquidating Epstein's assets (selling the islands, the planes) and paying out claims to victims. They are the "last men standing."
+
+## Why March 2026 Raised Their Importance
+
+For years, Indyke and Kahn could be described mainly as back-office facilitators and estate managers. March 2026 changed that emphasis.
+
+- AP reported Richard Kahn was deposed by House lawmakers about Epstein's finances and ties to prominent figures.
+- BBC reported that longtime Epstein aides still controlled money and sensitive records after Epstein's death.
+
+Those developments push the executors closer to the center of the modern story. The question is no longer just what they did while Epstein was alive. It is also what they knew, controlled, preserved, and potentially filtered after his death.
+
+## Why This Matters
+
+- They sit at the junction of money, document custody, and posthumous estate control.
+- They are one of the few actor groups who connect the pre-2019 operating system to the post-2019 archive.
+- Any gap in the public record naturally points investigators back toward whoever managed the estate and its paperwork.
+
+## See Also
+
+- [Richard Kahn](Richard_Kahn.md)
+- [The 1953 Trust Beneficiary Blind Spot](../topics/The_1953_Trust_Beneficiary_Blind_Spot.md)
+- [Missing Evidence](../topics/Missing_Evidence.md)

@@ -254,9 +254,37 @@ Source: [Associated Press, Feb 11, 2026](https://apnews.com/article/6d7502b80e42
 
 Khanna stated **"70 to 80 percent of the files are still redacted"** even in the supposedly unredacted versions shown to Congress, and asked: "If we found six men that they were hiding in two hours, imagine how many men they are covering up for in those 3 million files."
 
+## March 2026: From Compliance Dispute to Escalation
+
+The March 2026 developments made clear that the Act's central controversy was no longer only whether DOJ had technically complied with a publication mandate.
+
+### Bondi Became a Target of the Act Fight
+
+On March 4, AP reported the House Oversight Committee voted to subpoena AG **Pam Bondi** over DOJ handling of the files. This is important because it shows the fight had moved from criticism of a release outcome to a direct challenge to the official associated with the release process.
+
+### Missing Material Changed the Stakes
+
+On March 6, AP reported DOJ published previously withheld Epstein files tied to an unverified allegation against Trump. Regardless of the allegation's reliability, the key Act-related issue is that material still surfaced after the main release, reinforcing the claim that the public archive remained incomplete or unevenly sequenced.
+
+### Oversight Expanded to Other Witnesses
+
+By March 11, Fox reported House Oversight sought depositions from Bondi and **Howard Lutnick**. The significance here is structural:
+- Bondi represented release governance.
+- Lutnick represented the problem of politically sensitive figures revealed by the files.
+
+That pairing suggests the Transparency Act dispute had expanded into a broader inquiry about both document management and the treatment of powerful names appearing in the archive.
+
+### Why March Matters for the Act
+
+The Act was written as a disclosure statute. By March, it had effectively become a test of:
+- whether DOJ's publication was complete,
+- whether politically sensitive material was delayed or filtered,
+- and whether Congress could force testimony from the people who managed the disclosure system.
+
 ## See Also
 
 - [2026 Release](../evidence/2026_Release.md) - Release details
+- [March 2026 Escalation Synthesis](../analysis/March_2026_Escalation_Synthesis.md) - How the March phase changed the story
 - [The Clinton Oversight Investigation](The_Clinton_Oversight_Investigation.md) - Congressional response
 - [International Investigations](International_Investigations.md) - Global impact
 - [Government Complicity](Government_Complicity.md) - Systemic failures

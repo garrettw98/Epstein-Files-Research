@@ -151,6 +151,55 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 - **Mar 12, 2026**: **Guardian: report said hacker breached FBI server holding Epstein files in 2023**. The Guardian reported documents and a source indicated a foreign hacker breached an FBI New York field-office server holding Epstein-related files in 2023. [Source](https://www.theguardian.com/us-news/2026/mar/11/fbi-epstein-files-hacker-break-in)
 <!-- REALTIME_STATUS:END -->
 
+## March 2026 Escalation: What Changed After the Initial Fallout
+
+The March 4-12 period changed the story from "what did DOJ release?" to "who still controls the archive, and who is now being forced to explain that control?"
+
+### Narrative Shift 1: Release Governance Became a Witness Problem
+
+The February fight centered on redactions, reading-room access, and DOJ portal process. By March, that process dispute had turned into direct pressure on named officials:
+- Bondi moved from hearing witness to subpoena target.
+- Lutnick moved from newly implicated Cabinet member to a requested witness.
+- The March 6 disclosure of previously withheld FBI material reinforced the claim that release completeness remained unstable even after DOJ's major publication wave.
+
+The practical implication is that congressional investigators no longer appear to treat file-management failures as a purely technical issue. They are treating them as decisions made by accountable officials.
+
+### Narrative Shift 2: Estate Control Became Part of the Evidence Story
+
+Richard Kahn's March 11 deposition and BBC's reporting that longtime Epstein aides still controlled money and records after his death push the estate layer into the center of the narrative.
+
+That matters because the repo's older questions about the 1953 Trust, missing beneficiaries, and executor knowledge are no longer just financial-cleanup questions. They now overlap with evidence-custody questions:
+- who had access to records after Epstein's death,
+- who could describe the structure of his finances and shell entities,
+- and whether the post-2019 estate phase preserved or narrowed the public record.
+
+### Narrative Shift 3: Zorro Ranch Moved From Symbol to Active Site
+
+The ranch had long functioned in this repository as a site associated with remote control, recruitment, and eugenics claims. March 10 changed the character of that discussion when AP reported New Mexico investigators searched the former property.
+
+That search does not validate every allegation attached to Zorro Ranch, but it does show the site still has live evidentiary value. It also connects the February commission approval to a more concrete investigative phase.
+
+### Narrative Shift 4: International Fallout Became Institutional, Not Just Reputational
+
+March developments in Poland, the UK, and Brazil suggest the international story is no longer only about resignations or embarrassment:
+- Poland expanded its cross-border inquiry posture.
+- Newly published UK files shifted part of the Mandelson story from individual misconduct to prior government warning.
+- BBC reporting from Brazil added operational detail to the modeling-and-recruitment pipeline that underpins the transnational trafficking narrative.
+
+### Why These Threads Belong Together
+
+These developments all point to the same deeper issue: the unresolved archive is controlled by multiple institutions at once.
+
+- DOJ controls the official release stream.
+- Congress is trying to force testimony from the people who shaped or defended that stream.
+- Estate-linked actors remain important to the money-and-records layer.
+- State investigators are reopening physical sites.
+- Foreign governments and media systems are uncovering parallel evidence and warning histories.
+
+That is why March reads less like a routine continuation of the January release and more like a second-stage accountability fight over custody, sequencing, and interpretation of the remaining evidence.
+
+See also: [March 2026 Escalation Synthesis](../analysis/March_2026_Escalation_Synthesis.md)
+
 ### Contents Include
 - Court records
 - FBI investigative documents

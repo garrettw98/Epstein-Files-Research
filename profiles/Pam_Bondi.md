@@ -13,6 +13,8 @@ Pam Bondi is the U.S. Attorney General in the 2025-2026 transparency phase of th
 - **Jan 30, 2026**: DOJ announced publication of 3.5 million responsive pages in compliance with the Transparency Act.
 - **Feb 11, 2026**: Bondi testified before the House Judiciary Committee for more than five hours and was questioned by members of both parties.
 - **Feb 12, 2026**: AP reported a dispute over DOJ logging of congressional file-portal searches; Bondi denied ordering monitoring and defended DOJ process.
+- **Mar 4, 2026**: AP reported the House Oversight Committee voted to subpoena Bondi over DOJ handling of the Epstein files.
+- **Mar 11, 2026**: Fox reported House Oversight sought Bondi's deposition as the inquiry expanded beyond general release criticism.
 
 ## Hearing-Era Issues
 
@@ -23,15 +25,28 @@ During the Feb 11, 2026 hearing cycle, questioning focused on:
 - Survivor privacy failures during publication,
 - Tension between statements about "pending investigations" and no-new-prosecution messaging from other DOJ officials.
 
+## What Changed in March 2026
+
+March changed Bondi's role in the repo. In February, she was primarily the public face of release-era process. By March, she had become a target of the oversight process itself.
+
+That shift matters for two reasons:
+
+- The dispute moved from abstract complaints about redactions to direct demands for testimony from the official associated with DOJ release governance.
+- The March 6 release of previously withheld FBI material made it harder to frame completeness disputes as fully resolved after the January publication wave.
+
+In other words, Bondi's position changed from steward of disclosure to contested witness about disclosure.
+
 ## What Is Documented vs Unresolved
 
 ### Documented
 - Bondi was the listed witness at the House Judiciary oversight hearing on Feb 11, 2026.
 - DOJ release actions and public statements occurred under her department's authority.
+- Congressional escalation in March 2026 treated Bondi as a key decision-maker whose testimony could clarify release sequencing and withholding questions.
 
 ### Unresolved/Disputed
 - Whether release and redaction choices were primarily operational constraints, legal constraints, or strategic policy decisions.
 - Whether process decisions materially affected congressional oversight quality.
+- Whether missing or delayed FBI materials reflected ordinary production error, internal disagreement, or politically sensitive sequencing.
 
 ## Sources
 
@@ -40,6 +55,8 @@ During the Feb 11, 2026 hearing cycle, questioning focused on:
 - DOJ OPA (Jan 30, 2026 3.5M pages): https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files
 - AP (Feb 11, 2026 hearing): https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd
 - AP (Feb 12, 2026 search-logging dispute): https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220
+- AP (Mar 4, 2026 subpoena vote): https://apnews.com/article/bondi-subpoena-epstein-files-house-committee-b16a5ab68c4a37a3a533e5f2412d7a57
+- [March 2026 Escalation Synthesis](../analysis/March_2026_Escalation_Synthesis.md)
 
 ## See Also
 
@@ -47,4 +64,3 @@ During the Feb 11, 2026 hearing cycle, questioning focused on:
 - [The Epstein Files Transparency Act](../topics/The_Epstein_Files_Transparency_Act.md)
 - [The DOJ Search-Logging Controversy](../topics/The_DOJ_Search_Logging_Controversy.md)
 - [Redaction and Context Scandal](../topics/The_Redaction_and_Context_Scandal.md)
-

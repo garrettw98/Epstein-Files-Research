@@ -5,7 +5,7 @@ This repository is a source-linked research index for documents, entities, event
 ## Quick navigation
 - **One-page command center (recommended start):** [Research Command Center (HTML)](derived/reports/research_command_center_latest.html) ([Markdown fallback](derived/reports/research_command_center_latest.md)).
 - **Fast orientation (10 minutes):** [Who was Jeffrey Epstein?](profiles/Jeffrey_Epstein.md), [FAQ](topics/FAQ.md), [Glossary](GLOSSARY.md), [Network Map](topics/Network_Map.md).
-- **Timeline-first reading path (recommended):** [Full Timeline](timeline/Full_Timeline.md), [Government Response Timeline](timeline/Government_Response_To_Epstein_Files.md), [2026 Release Dossier](evidence/2026_Release.md), [Bondi Hearing Dossier](evidence/Bondi_Hearing_Feb_11_2026.md).
+- **Timeline-first reading path (recommended):** [Full Timeline](timeline/Full_Timeline.md), [Government Response Timeline](timeline/Government_Response_To_Epstein_Files.md), [2026 Release Dossier](evidence/2026_Release.md), [March 2026 Escalation Synthesis](analysis/March_2026_Escalation_Synthesis.md), [Bondi Hearing Dossier](evidence/Bondi_Hearing_Feb_11_2026.md).
 - **Evidence-first reading path:** [Primary Sources Index](evidence/Primary_Sources_Index.md), [Logs vs Black Book](evidence/Logs_vs_Book.md), [2024 Release](evidence/2024_Release.md), [Government Response Matrix](analysis/Government_Coverup_Evidence_Matrix.md).
 - **People index:** [Profiles Directory](profiles/README.md).
 - **Topic index:** expand the section below: **Detailed topic directory**.
@@ -163,6 +163,7 @@ This repository is a source-linked research index for documents, entities, event
 - [Transparency Act](topics/The_Epstein_Files_Transparency_Act.md)
 - [Primary Sources Index](evidence/Primary_Sources_Index.md)
 - [Government Response Timeline](timeline/Government_Response_To_Epstein_Files.md)
+- [March 2026 Escalation Synthesis](analysis/March_2026_Escalation_Synthesis.md)
 - [Media Coverage Response Map](analysis/Media_Coverage_Response_Map.md)
 - [New Developments Deep Dive (Feb 17, 2026)](analysis/New_Developments_Feb_17_2026.md)
 
@@ -355,7 +356,6 @@ Or use Make targets:
 ---
 
 > Note: This database prioritizes source-linked records and explicit claim status labels so readers can separate verified evidence from open or disputed claims.
-
 
 
 

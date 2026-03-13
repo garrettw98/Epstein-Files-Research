@@ -81,6 +81,7 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[Tom Pritzker](Tom_Pritzker.md)** - Hyatt exec chairman; 7,000+ search results; Giuffre accusation.
 *   **[Tom Barrack](Tom_Barrack.md)** - Colony Capital; introduced Thiel to Epstein; Barak/Churkin dinner.
 *   **[Brad Karp](Brad_Karp.md)** - Paul Weiss chairman; **resigned Feb 4, 2026**; shared client confidences.
+*   **[Richard Kahn](Richard_Kahn.md)** - Estate co-executor; deposed Mar 11, 2026 over finances and records control.
 
 ### Science/Tech
 *   **[Sergey Brin](Sergey_Brin.md)** - Google co-founder; Maxwell communications; dinner guest lists; island allegation.

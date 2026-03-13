@@ -1,6 +1,6 @@
 # 📅 The Master Timeline: Every Verified Event
 
-> **Scope**: 1953 - Mar 3, 2026
+> **Scope**: 1953 - Mar 12, 2026
 > **Sources**: Court documents, Flight Logs, Police Reports, 2024/2026 Releases.
 
 This timeline integrates all data points from this repository into a single chronological flow.
@@ -10,21 +10,14 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 <!-- LAST24H_TIMELINE:START -->
 ## Last 24 Hours Snapshot (Auto-generated)
-- Window: Mar 02, 2026 21:00 UTC to Mar 03, 2026 21:00 UTC.
-- Monitored updates: 13 links across 5 domains.
-- Primary-doc changes: added 7, removed 1, changed 0.
+- Window: Mar 11, 2026 23:59 UTC to Mar 12, 2026 23:59 UTC.
+- Monitored updates: 0 links across 0 domains.
+- Primary-doc changes: added 1, removed 8, changed 0.
 - Claim review pressure: p1=0, p2=0, p3=0 open.
 - DOJ data-set file index health: 12/12 sets with files.
 
 ### Recent items
-* **Mar 03, 2026**: UK teachers and parents urged to talk to children about Jeffrey Epstein’s crimes (theguardian.com). [Source](https://www.theguardian.com/education/2026/mar/01/uk-teachers-parents-urged-talk-children-jeffrey-epstein-crimes)
-* **Mar 03, 2026**: The UK has arrested high-profile figures connected to Jeffrey Epstein. Will the US? (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/mar/02/jeffrey-epstein-uk-us-arrests)
-* **Mar 03, 2026**: US House committee releases videos of the Clintons’ Epstein testimonies (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/mar/02/clintons-epstein-testimony-released)
-* **Mar 03, 2026**: Bill and Hillary Clinton's testimony about Jeffrey Epstein released (bbc.com). [Source](https://www.bbc.com/news/articles/c20zg7prz12o)
-* **Mar 03, 2026**: Clinton says Trump told him of 'some great times' with Jeffrey Epstein (reuters.com). [Source](https://www.reuters.com/world/us/clinton-says-trump-told-him-some-great-times-with-jeffrey-epstein-2026-03-02/)
-* **Mar 03, 2026**: Videos of Bill and Hillary Clinton's Epstein testimonies released (bbc.com). [Source](https://www.bbc.com/news/live/ce94y2yykgrt)
-* **Mar 03, 2026**: Apollo, Leon Black sued for allegedly concealing Epstein business ties from shareholders (reuters.com). [Source](https://www.reuters.com/sustainability/boards-policy-regulation/apollo-leon-black-sued-allegedly-concealing-epstein-business-ties-shareholders-2026-03-03/)
-* **Mar 03, 2026**: Key moments from Bill Clinton's testimony on Jeffrey Epstein (apnews.com). [Source](https://apnews.com/video/key-moments-from-bill-clintons-testimony-on-jeffrey-epstein-8983fcc771d24f219adaf6f3788c6d84)
+- No monitored links in the current 24-hour window.
 <!-- LAST24H_TIMELINE:END -->
 
 ---
@@ -350,7 +343,47 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 3, 2026**: **AP: Hillary Clinton angrily reacted after unauthorized deposition photo leak**.
     *   AP video coverage showed Hillary Clinton angrily reacting to an unauthorized photo taken during her closed-door deposition.
     *   Source: [Source](https://apnews.com/video/im-done-video-shows-hillary-clinton-angry-over-unauthorized-photo-during-epstein-deposition-1c3c1e48662f4dcab0f812af31707a3d).
+*   **Mar 3, 2026**: **House Oversight sought interviews with Bill Gates and Leon Black**.
+    *   House Oversight Chairman James Comer said the committee requested transcribed interviews from seven people, including Bill Gates and Leon Black, as part of the Epstein investigation.
+    *   Source: [Source](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/).
+*   **Mar 4, 2026**: **AP: House committee voted to subpoena Bondi over Epstein files**.
+    *   AP reported the House Oversight Committee voted to subpoena Attorney General Pam Bondi over DOJ handling of the Epstein files, with five Republicans joining Democrats.
+    *   Source: [Source](https://apnews.com/article/bondi-subpoena-epstein-files-house-committee-b16a5ab68c4a37a3a533e5f2412d7a57).
+*   **Mar 6, 2026**: **AP: DOJ published previously withheld Epstein files tied to unverified Trump claim**.
+    *   AP reported DOJ released additional Epstein files involving uncorroborated allegations against Trump that it said had been mistakenly withheld earlier.
+    *   Source: [Source](https://apnews.com/article/epstein-files-missing-release-doj-trump-f9cb1358a649c61f4bb7793bf358393b).
+*   **Mar 10, 2026**: **AP: New Mexico investigators searched former Zorro Ranch**.
+    *   AP reported state investigators began searching Epstein's former New Mexico ranch amid allegations it may have been used for sexual abuse and trafficking.
+    *   Source: [Source](https://apnews.com/article/jeffrey-epstein-sex-abuse-trafficking-new-mexico-98ee07a273865c1cfc2b034ef182171a).
+*   **Mar 11, 2026**: **AP: Richard Kahn deposed on Epstein finances and business ties**.
+    *   AP reported House lawmakers questioned Epstein's longtime accountant Richard Kahn in a closed-door deposition about Epstein's wealth and ties to prominent figures.
+    *   Source: [Source](https://apnews.com/article/jeffrey-epstein-accountant-richard-kahn-408bd7342060174bd456eb08bdd13488).
+*   **Mar 11, 2026**: **Reuters: Poland sought help from two other countries in Epstein investigation**.
+    *   Reuters reported Poland said it would seek assistance from two additional countries as it expanded its investigation into possible Epstein-linked activity.
+    *   Source: [Source](https://www.reuters.com/world/poland-seek-help-two-other-countries-epstein-investigation-2026-03-11/).
+*   **Mar 11, 2026**: **AP: UK files showed Starmer was warned about Mandelson's Epstein ties**.
+    *   AP reported newly published UK files said Prime Minister Keir Starmer had been warned Mandelson's friendship with Epstein posed a reputational risk before appointing him ambassador to the U.S.
+    *   Source: [Source](https://apnews.com/article/britain-mandelson-epstein-files-published-starmer-9776857db55f83e0561dc543d1c7e5b1).
+*   **Mar 11, 2026**: **Reuters: DOJ released missing FBI interviews tied to woman who accused Trump**.
+    *   Reuters reported DOJ released previously missing FBI interview summaries involving a woman whose allegations implicated both Epstein and Trump.
+    *   Source: [Source](https://www.reuters.com/world/us/justice-department-releases-missing-fbi-interviews-epstein-files-with-woman-who-2026-03-06/).
+*   **Mar 11, 2026**: **BBC: Epstein aides still controlled money and records after his death**.
+    *   BBC reported two longtime Epstein aides continued to control parts of his money flow and sensitive records after his death.
+    *   Source: [Source](https://www.bbc.com/news/articles/cdjm7rxjxneo).
+*   **Mar 11, 2026**: **Fox: Comer sought testimony from prison guard on duty the night Epstein died**.
+    *   Fox News reported House Oversight sought testimony from a prison guard who was on duty the night Epstein died in federal custody.
+    *   Source: [Source](https://www.foxnews.com/media/comer-seeks-testimony-from-prison-guard-duty-night-jeffrey-epstein-died-jail).
+*   **Mar 11, 2026**: **Fox: House Oversight demanded depositions from Bondi and Lutnick**.
+    *   Fox News reported House Oversight sought depositions from Attorney General Pam Bondi and Commerce Secretary Howard Lutnick as the Epstein probe expanded.
+    *   Source: [Source](https://www.foxnews.com/politics/house-oversight-committee-demands-depositions-bondi-lutnick-epstein-probe).
+*   **Mar 12, 2026**: **BBC: Brazilian women said Epstein used modeling channels to recruit girls**.
+    *   BBC reported women from Brazil said Epstein and Jean-Luc Brunel used modeling-linked recruitment and visa arrangements to bring young women to the U.S.
+    *   Source: [Source](https://www.bbc.com/news/articles/cr4576v66kno).
+*   **Mar 12, 2026**: **Guardian: report said hacker breached FBI server holding Epstein files in 2023**.
+    *   The Guardian reported documents and a source indicated a foreign hacker breached an FBI New York field-office server holding Epstein-related files in 2023.
+    *   Source: [Source](https://www.theguardian.com/us-news/2026/mar/11/fbi-epstein-files-hacker-break-in).
 <!-- LIVE_TIMELINE:END -->
+
 
 
 

@@ -86,10 +86,10 @@ This repository is a source-linked research index for documents, entities, event
 
 </details>
 
-## The 2026 Release (Updated Mar 3, 2026)
+## The 2026 Release (Updated Mar 12, 2026)
 
 <!-- LIVE_UPDATES:START -->
-### Live Updates (As of Mar 3, 2026)
+### Live Updates (As of Mar 12, 2026)
 *   **AP review: no DOJ "client list" finding** (Feb 8, 2026): AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men. [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
 *   **Congressional access to unredacted files opened** (Feb 9, 2026): DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice. [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
 *   **Maxwell deposition and clemency request** (Feb 9, 2026): AP reported Maxwell invoked the Fifth Amendment in a House deposition and later sought clemency before withdrawing the request. [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9)
@@ -128,27 +128,33 @@ This repository is a source-linked research index for documents, entities, event
 *   **Reuters: Howard Lutnick agreed to testify on Epstein ties** (Mar 3, 2026): Reuters reported Commerce Secretary Howard Lutnick agreed to appear before a U.S. House panel regarding Epstein-related ties. [Source](https://www.reuters.com/world/us/lutnick-has-agreed-testify-epstein-ties-axios-reports-2026-03-03/)
 *   **Reuters: Judge preliminarily approved $35 million Epstein-estate settlement** (Mar 3, 2026): Reuters reported a U.S. judge preliminarily approved a $35 million settlement between Epstein's estate and accusers. [Source](https://www.reuters.com/world/us-judge-preliminarily-approves-35-million-settlement-between-epstein-estate-2026-03-03/)
 *   **AP: Hillary Clinton angrily reacted after unauthorized deposition photo leak** (Mar 3, 2026): AP video coverage showed Hillary Clinton angrily reacting to an unauthorized photo taken during her closed-door deposition. [Source](https://apnews.com/video/im-done-video-shows-hillary-clinton-angry-over-unauthorized-photo-during-epstein-deposition-1c3c1e48662f4dcab0f812af31707a3d)
-*   **DOJ library status (Mar 3, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
+*   **House Oversight sought interviews with Bill Gates and Leon Black** (Mar 3, 2026): House Oversight Chairman James Comer said the committee requested transcribed interviews from seven people, including Bill Gates and Leon Black, as part of the Epstein investigation. [Source](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/)
+*   **AP: House committee voted to subpoena Bondi over Epstein files** (Mar 4, 2026): AP reported the House Oversight Committee voted to subpoena Attorney General Pam Bondi over DOJ handling of the Epstein files, with five Republicans joining Democrats. [Source](https://apnews.com/article/bondi-subpoena-epstein-files-house-committee-b16a5ab68c4a37a3a533e5f2412d7a57)
+*   **AP: DOJ published previously withheld Epstein files tied to unverified Trump claim** (Mar 6, 2026): AP reported DOJ released additional Epstein files involving uncorroborated allegations against Trump that it said had been mistakenly withheld earlier. [Source](https://apnews.com/article/epstein-files-missing-release-doj-trump-f9cb1358a649c61f4bb7793bf358393b)
+*   **AP: New Mexico investigators searched former Zorro Ranch** (Mar 10, 2026): AP reported state investigators began searching Epstein's former New Mexico ranch amid allegations it may have been used for sexual abuse and trafficking. [Source](https://apnews.com/article/jeffrey-epstein-sex-abuse-trafficking-new-mexico-98ee07a273865c1cfc2b034ef182171a)
+*   **AP: Richard Kahn deposed on Epstein finances and business ties** (Mar 11, 2026): AP reported House lawmakers questioned Epstein's longtime accountant Richard Kahn in a closed-door deposition about Epstein's wealth and ties to prominent figures. [Source](https://apnews.com/article/jeffrey-epstein-accountant-richard-kahn-408bd7342060174bd456eb08bdd13488)
+*   **Reuters: Poland sought help from two other countries in Epstein investigation** (Mar 11, 2026): Reuters reported Poland said it would seek assistance from two additional countries as it expanded its investigation into possible Epstein-linked activity. [Source](https://www.reuters.com/world/poland-seek-help-two-other-countries-epstein-investigation-2026-03-11/)
+*   **AP: UK files showed Starmer was warned about Mandelson's Epstein ties** (Mar 11, 2026): AP reported newly published UK files said Prime Minister Keir Starmer had been warned Mandelson's friendship with Epstein posed a reputational risk before appointing him ambassador to the U.S. [Source](https://apnews.com/article/britain-mandelson-epstein-files-published-starmer-9776857db55f83e0561dc543d1c7e5b1)
+*   **Reuters: DOJ released missing FBI interviews tied to woman who accused Trump** (Mar 11, 2026): Reuters reported DOJ released previously missing FBI interview summaries involving a woman whose allegations implicated both Epstein and Trump. [Source](https://www.reuters.com/world/us/justice-department-releases-missing-fbi-interviews-epstein-files-with-woman-who-2026-03-06/)
+*   **BBC: Epstein aides still controlled money and records after his death** (Mar 11, 2026): BBC reported two longtime Epstein aides continued to control parts of his money flow and sensitive records after his death. [Source](https://www.bbc.com/news/articles/cdjm7rxjxneo)
+*   **Fox: Comer sought testimony from prison guard on duty the night Epstein died** (Mar 11, 2026): Fox News reported House Oversight sought testimony from a prison guard who was on duty the night Epstein died in federal custody. [Source](https://www.foxnews.com/media/comer-seeks-testimony-from-prison-guard-duty-night-jeffrey-epstein-died-jail)
+*   **Fox: House Oversight demanded depositions from Bondi and Lutnick** (Mar 11, 2026): Fox News reported House Oversight sought depositions from Attorney General Pam Bondi and Commerce Secretary Howard Lutnick as the Epstein probe expanded. [Source](https://www.foxnews.com/politics/house-oversight-committee-demands-depositions-bondi-lutnick-epstein-probe)
+*   **BBC: Brazilian women said Epstein used modeling channels to recruit girls** (Mar 12, 2026): BBC reported women from Brazil said Epstein and Jean-Luc Brunel used modeling-linked recruitment and visa arrangements to bring young women to the U.S. [Source](https://www.bbc.com/news/articles/cr4576v66kno)
+*   **Guardian: report said hacker breached FBI server holding Epstein files in 2023** (Mar 12, 2026): The Guardian reported documents and a source indicated a foreign hacker breached an FBI New York field-office server holding Epstein-related files in 2023. [Source](https://www.theguardian.com/us-news/2026/mar/11/fbi-epstein-files-hacker-break-in)
+*   **DOJ library status (Mar 12, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
 <!-- LIVE_UPDATES:END -->
 
 <!-- LAST24H:START -->
 ### What Changed in Last 24 Hours (Auto-generated)
-- Window: Mar 02, 2026 21:00 UTC to Mar 03, 2026 21:00 UTC.
-- Monitored link updates: 13 across 5 domains.
-- Primary-doc diffs: added 7, removed 1, changed 0.
+- Window: Mar 11, 2026 23:59 UTC to Mar 12, 2026 23:59 UTC.
+- Monitored link updates: 0 across 0 domains.
+- Primary-doc diffs: added 1, removed 8, changed 0.
 - Claim-status diffs: added 0, removed 0, changed 0.
 - Claim review queue (open): p1=0, p2=0, p3=0.
 - DOJ data-set file index: 12/12 sets with files, 524 total indexed files.
 
 #### Recent items (latest first)
-*   **Mar 03, 2026**: UK teachers and parents urged to talk to children about Jeffrey Epstein’s crimes (theguardian.com). [Source](https://www.theguardian.com/education/2026/mar/01/uk-teachers-parents-urged-talk-children-jeffrey-epstein-crimes)
-*   **Mar 03, 2026**: The UK has arrested high-profile figures connected to Jeffrey Epstein. Will the US? (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/mar/02/jeffrey-epstein-uk-us-arrests)
-*   **Mar 03, 2026**: US House committee releases videos of the Clintons’ Epstein testimonies (theguardian.com). [Source](https://www.theguardian.com/us-news/2026/mar/02/clintons-epstein-testimony-released)
-*   **Mar 03, 2026**: Bill and Hillary Clinton's testimony about Jeffrey Epstein released (bbc.com). [Source](https://www.bbc.com/news/articles/c20zg7prz12o)
-*   **Mar 03, 2026**: Clinton says Trump told him of 'some great times' with Jeffrey Epstein (reuters.com). [Source](https://www.reuters.com/world/us/clinton-says-trump-told-him-some-great-times-with-jeffrey-epstein-2026-03-02/)
-*   **Mar 03, 2026**: Videos of Bill and Hillary Clinton's Epstein testimonies released (bbc.com). [Source](https://www.bbc.com/news/live/ce94y2yykgrt)
-*   **Mar 03, 2026**: Apollo, Leon Black sued for allegedly concealing Epstein business ties from shareholders (reuters.com). [Source](https://www.reuters.com/sustainability/boards-policy-regulation/apollo-leon-black-sued-allegedly-concealing-epstein-business-ties-shareholders-2026-03-03/)
-*   **Mar 03, 2026**: Key moments from Bill Clinton's testimony on Jeffrey Epstein (apnews.com). [Source](https://apnews.com/video/key-moments-from-bill-clintons-testimony-on-jeffrey-epstein-8983fcc771d24f219adaf6f3788c6d84)
+- No monitored links in the current 24-hour window.
 <!-- LAST24H:END -->
 
 ### Core 2026 release files
@@ -349,6 +355,7 @@ Or use Make targets:
 ---
 
 > Note: This database prioritizes source-linked records and explicit claim status labels so readers can separate verified evidence from open or disputed claims.
+
 
 
 

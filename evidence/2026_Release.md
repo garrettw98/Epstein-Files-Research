@@ -91,7 +91,7 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 | Set 12 | February 2026 |
 
 <!-- REALTIME_STATUS:START -->
-### Real-Time Status (As of Mar 12, 2026)
+### Real-Time Status (As of Mar 16, 2026)
 
 - DOJ's public repository remains online and publicly lists releases through **Data Set 12**.
 - Source: [DOJ Epstein Library](https://www.justice.gov/epstein)
@@ -149,6 +149,10 @@ Rep. Ro Khanna (co-author): DOJ has *"released at best half the documents"* requ
 - **Mar 11, 2026**: **Fox: House Oversight demanded depositions from Bondi and Lutnick**. Fox News reported House Oversight sought depositions from Attorney General Pam Bondi and Commerce Secretary Howard Lutnick as the Epstein probe expanded. [Source](https://www.foxnews.com/politics/house-oversight-committee-demands-depositions-bondi-lutnick-epstein-probe)
 - **Mar 12, 2026**: **BBC: Brazilian women said Epstein used modeling channels to recruit girls**. BBC reported women from Brazil said Epstein and Jean-Luc Brunel used modeling-linked recruitment and visa arrangements to bring young women to the U.S. [Source](https://www.bbc.com/news/articles/cr4576v66kno)
 - **Mar 12, 2026**: **Guardian: report said hacker breached FBI server holding Epstein files in 2023**. The Guardian reported documents and a source indicated a foreign hacker breached an FBI New York field-office server holding Epstein-related files in 2023. [Source](https://www.theguardian.com/us-news/2026/mar/11/fbi-epstein-files-hacker-break-in)
+- **Mar 14, 2026**: **Fox: World Economic Forum faced renewed scrutiny over Epstein ties**. Fox News reported the World Economic Forum faced fresh scrutiny over Epstein-linked ties and criticism surrounding past leadership connections. [Source](https://www.foxnews.com/world/world-economic-forum-faces-fresh-scrutiny-epstein-ties-revive-past-scandals-criticism)
+- **Mar 16, 2026**: **Reuters: Bank of America settled Epstein accusers' lawsuit**. Reuters reported Bank of America reached a settlement with women who accused the bank of enabling Epstein by providing banking services. [Source](https://www.reuters.com/sustainability/boards-policy-regulation/bank-america-settles-epstein-accusers-lawsuit-2026-03-16/)
+- **Mar 16, 2026**: **Fox: Surfaced photo showed Prince Andrew with Epstein in Martha's Vineyard**. Fox News reported a newly surfaced Martha's Vineyard photo showed Prince Andrew barefoot in a bathrobe with Jeffrey Epstein. [Source](https://www.foxnews.com/entertainment/former-prince-andrew-caught-barefoot-bathrobe-jeffrey-epstein-surfaced-marthas-vineyard-photo)
+- **Mar 16, 2026**: **Fox: Peggy Siegal interview described Epstein's search for a "baby mama"**. Fox News reported publicist Peggy Siegal described Epstein's search for a woman to bear his child and other details from her interview. [Source](https://www.foxnews.com/entertainment/a-list-publicist-reveals-epsteins-baby-mama-search-100k-gift-bombshells-peggy-siegals-tell-all)
 <!-- REALTIME_STATUS:END -->
 
 ## March 2026 Escalation: What Changed After the Initial Fallout

@@ -86,10 +86,10 @@ This repository is a source-linked research index for documents, entities, event
 
 </details>
 
-## The 2026 Release (Updated Mar 12, 2026)
+## The 2026 Release (Updated Mar 16, 2026)
 
 <!-- LIVE_UPDATES:START -->
-### Live Updates (As of Mar 12, 2026)
+### Live Updates (As of Mar 16, 2026)
 *   **AP review: no DOJ "client list" finding** (Feb 8, 2026): AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men. [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
 *   **Congressional access to unredacted files opened** (Feb 9, 2026): DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice. [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
 *   **Maxwell deposition and clemency request** (Feb 9, 2026): AP reported Maxwell invoked the Fifth Amendment in a House deposition and later sought clemency before withdrawing the request. [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9)
@@ -141,14 +141,18 @@ This repository is a source-linked research index for documents, entities, event
 *   **Fox: House Oversight demanded depositions from Bondi and Lutnick** (Mar 11, 2026): Fox News reported House Oversight sought depositions from Attorney General Pam Bondi and Commerce Secretary Howard Lutnick as the Epstein probe expanded. [Source](https://www.foxnews.com/politics/house-oversight-committee-demands-depositions-bondi-lutnick-epstein-probe)
 *   **BBC: Brazilian women said Epstein used modeling channels to recruit girls** (Mar 12, 2026): BBC reported women from Brazil said Epstein and Jean-Luc Brunel used modeling-linked recruitment and visa arrangements to bring young women to the U.S. [Source](https://www.bbc.com/news/articles/cr4576v66kno)
 *   **Guardian: report said hacker breached FBI server holding Epstein files in 2023** (Mar 12, 2026): The Guardian reported documents and a source indicated a foreign hacker breached an FBI New York field-office server holding Epstein-related files in 2023. [Source](https://www.theguardian.com/us-news/2026/mar/11/fbi-epstein-files-hacker-break-in)
-*   **DOJ library status (Mar 12, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
+*   **Fox: World Economic Forum faced renewed scrutiny over Epstein ties** (Mar 14, 2026): Fox News reported the World Economic Forum faced fresh scrutiny over Epstein-linked ties and criticism surrounding past leadership connections. [Source](https://www.foxnews.com/world/world-economic-forum-faces-fresh-scrutiny-epstein-ties-revive-past-scandals-criticism)
+*   **Reuters: Bank of America settled Epstein accusers' lawsuit** (Mar 16, 2026): Reuters reported Bank of America reached a settlement with women who accused the bank of enabling Epstein by providing banking services. [Source](https://www.reuters.com/sustainability/boards-policy-regulation/bank-america-settles-epstein-accusers-lawsuit-2026-03-16/)
+*   **Fox: Surfaced photo showed Prince Andrew with Epstein in Martha's Vineyard** (Mar 16, 2026): Fox News reported a newly surfaced Martha's Vineyard photo showed Prince Andrew barefoot in a bathrobe with Jeffrey Epstein. [Source](https://www.foxnews.com/entertainment/former-prince-andrew-caught-barefoot-bathrobe-jeffrey-epstein-surfaced-marthas-vineyard-photo)
+*   **Fox: Peggy Siegal interview described Epstein's search for a "baby mama"** (Mar 16, 2026): Fox News reported publicist Peggy Siegal described Epstein's search for a woman to bear his child and other details from her interview. [Source](https://www.foxnews.com/entertainment/a-list-publicist-reveals-epsteins-baby-mama-search-100k-gift-bombshells-peggy-siegals-tell-all)
+*   **DOJ library status (Mar 16, 2026)**: DOJ's public Epstein repository remains live and currently lists releases through **Data Set 12**. [DOJ Epstein Library](https://www.justice.gov/epstein)
 <!-- LIVE_UPDATES:END -->
 
 <!-- LAST24H:START -->
 ### What Changed in Last 24 Hours (Auto-generated)
-- Window: Mar 11, 2026 23:59 UTC to Mar 12, 2026 23:59 UTC.
+- Window: Mar 16, 2026 02:19 UTC to Mar 17, 2026 02:19 UTC.
 - Monitored link updates: 0 across 0 domains.
-- Primary-doc diffs: added 1, removed 8, changed 0.
+- Primary-doc diffs: added 8, removed 2, changed 0.
 - Claim-status diffs: added 0, removed 0, changed 0.
 - Claim review queue (open): p1=0, p2=0, p3=0.
 - DOJ data-set file index: 12/12 sets with files, 524 total indexed files.
@@ -356,6 +360,7 @@ Or use Make targets:
 ---
 
 > Note: This database prioritizes source-linked records and explicit claim status labels so readers can separate verified evidence from open or disputed claims.
+
 
 
 

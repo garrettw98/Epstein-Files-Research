@@ -35,6 +35,11 @@ The Crime Victims' Rights Act (CVRA) litigation path is central to understanding
 - [Courtney Wild](../profiles/Courtney_Wild.md)
 - [The Official Reports](The_Official_Reports.md)
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **May 12**: Courtney Wild, whose CVRA case challenged the 2008 non-prosecution agreement, testified at Oversight Democrats' Palm Beach field hearing about DOJ's failure to protect victims.
+- **Sep 15**: The Survivors' Rights Restitution Act (H.R. 10397) would create restitution for survivors "whose rights were violated by the federal government," a category that directly implicates the CVRA history. [GovInfo](https://www.govinfo.gov/app/details/BILLS-119hr10397ih)
+
 ## See Also
 
 - [Government Complicity](Government_Complicity.md)

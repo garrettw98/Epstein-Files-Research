@@ -1,14 +1,19 @@
-# 🏨 Tom Pritzker (Hyatt Hotels Executive Chairman)
+# 🏨 Tom Pritzker (Former Hyatt Hotels Executive Chairman)
 
-> **Status**: **ACCUSED / DOCUMENTED TIES** (Evidence Level: ● SUBSTANTIAL - 2026 Release)
+> **Status**: **ACCUSED / DOCUMENTED TIES** (Evidence Level: ● SUBSTANTIAL - 2026 Release) — retired from Hyatt effective Feb 16, 2026; denies knowledge of Epstein's crimes
 
 ## The Connection
-Thomas Pritzker is the Executive Chairman of Hyatt Hotels Corporation and president of the Pritzker Family Philanthropic Fund, which oversees the prestigious Pritzker Architecture Prize. The January 2026 document release revealed **7,000+ search results** connecting him to Epstein's files — one of the highest volumes of any named individual.
+Thomas Pritzker was the Executive Chairman of Hyatt Hotels Corporation (a role he held from 2004 until February 2026) and is president of the Pritzker Family Philanthropic Fund, which oversees the prestigious Pritzker Architecture Prize. The January 2026 document release revealed **7,000+ search results** connecting him to Epstein's files — one of the highest volumes of any named individual.
 
-## February 2026 Update
+## February 2026 Update (Corrected Sep 23, 2026)
 
-Reuters reported on **February 16, 2026** that Pritzker said he will step down as Hyatt executive chairman at the end of 2026, describing his ties to Epstein as "terrible judgment" while stating he had no knowledge of Epstein's crimes.
-- Source: https://www.reuters.com/sustainability/hyatt-executive-chairman-pritzker-steps-down-cites-terrible-judgment-epstein-2026-02-16/
+On **February 16, 2026**, Hyatt announced that Pritzker had **retired as executive chairman effective immediately** and would not seek re-election to the board at the May 2026 annual meeting. CEO **Mark Hoplamazian** became chairman. Pritzker said he "exercised terrible judgment in maintaining contact" with Epstein and Maxwell and that "there is no excuse for failing to distance myself sooner," while stating he had no knowledge of Epstein's crimes.
+
+> **Correction:** Earlier versions of this profile (and of the README, timeline, and fallout tracker) said Pritzker would step down "at the end of 2026." Hyatt's own announcement shows the retirement was effective immediately.
+
+- Hyatt announcement: https://newsroom.hyatt.com/021626-Hyatt-Announces-Thomas-J-Pritzker-Retires-as-Executive-Chairman-and-Will-Not-Seek-Re-Election-to-Board-of-Directors-Mark-S-Hoplamazian-Assumes-Combined-Role-of-Chairman-of-the-Board-and-Chief-Executive-Officer
+- CNN: https://www.cnn.com/2026/02/16/business/hyatt-pritzker-retire-epstein
+- Reuters (original repo source): https://www.reuters.com/sustainability/hyatt-executive-chairman-pritzker-steps-down-cites-terrible-judgment-epstein-2026-02-16/
 
 ## The Accusation
 

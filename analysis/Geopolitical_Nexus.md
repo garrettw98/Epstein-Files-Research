@@ -23,3 +23,7 @@ Epstein's infiltration of **MIT**, **Harvard**, and the **Nobel Committee** (via
 The Epstein Enterprise sits at the intersection of **Organized Crime** (Ponzi origins), **Intelligence** (Mossad/State Dept. protection), and **High Finance** (Wexner/Black funding). It cannot be understood through a single lens; it was a hybrid entity designed to exploit the seams between these worlds.
 
 *   **2026 Update**: The release of Epstein's emails concerning "demographic threats" suggests the *purpose* of the Kompromat was not just abstract power, but to enforce a specific geopolitical alignment (Pro-Israel/Eugenics) among the Western elite.
+
+## 5. 2026 Update: From "Kompromat" Theory to a Testable FARA Question
+In July 2026, House Judiciary Democrats opened an inquiry into whether Epstein acted as an **unregistered foreign agent** for Saudi Arabia, Kuwait, Russia, and Israel (including as an ongoing consultant to Ehud Barak), based on documents in the DOJ releases. Unlike blackmail or intelligence-asset theories, a FARA theory can be checked against documents: who asked Epstein to do what, for which government, and whether he sought to influence U.S. policy. It remains a congressional minority allegation. See [The FARA Foreign-Agent Inquiry](../topics/The_FARA_Foreign_Agent_Inquiry.md).
+

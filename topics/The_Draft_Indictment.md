@@ -90,6 +90,11 @@ A separate internal FBI document created in **August 2019** — five days after 
 - **Two** of those designated as co-conspirators were also identified as victims
 - **Les Wexner** was included on a separate list of Epstein's "10 co-conspirators" in an FBI email
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Jun 25**: In *Phang v. Blanche*, Judge Emmet Sullivan ordered DOJ to unredact or justify redactions in the **2007 draft federal indictment**, including the names of potential co-conspirators. Several of the disputed records were reviewed privately by the judge in late July, and DOJ faced a Sept. 24 deadline. See [Phang v. Blanche Litigation](The_Phang_v_Blanche_Litigation.md).
+- Oversight Democrats' May 12 interim report, *"The Price of Non-Prosecution,"* argues Epstein's network expanded after the 2008 deal that replaced this indictment.
+
 ## See Also
 
 - [The Plea Deal](The_Plea_Deal.md) - The NPA that replaced this indictment

@@ -177,6 +177,11 @@ The fact that **nine Democratic members** of the Oversight Committee supported c
 - Suggests genuine bipartisan concern
 - May reflect constituent pressure following document releases
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Jun 30**: Longtime Clinton aide **Doug Band** told House Oversight his contact with Epstein was limited and incidental to his work for Clinton, and repeatedly said he could not recall. See [Doug Band](../profiles/Doug_Band.md).
+- The committee's final report, which Chairman Comer says will include criminal referrals, had not been issued as of Sep 23.
+
 ## See Also
 
 - [Bill Clinton](../profiles/Bill_Clinton.md) - Full profile

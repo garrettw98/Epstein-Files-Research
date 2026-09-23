@@ -57,6 +57,12 @@ Source: [Associated Press, Feb 13, 2026](https://apnews.com/article/5709588906fb
 ## Verdict
 **Documented Long-Term Associate.** Barak stayed in Epstein's properties, appeared in photos, is linked through financial transactions, and maintained the relationship for over a decade — including after Epstein's conviction. The FBI intelligence memo adds a layer of concern, though no allegations of participation in crimes have been substantiated.
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Feb 19, 2026**: Reporting showed Israeli officials coordinated with Epstein's staff to install security at an Epstein-managed Manhattan building (301 East 66th Street) for Barak starting in early 2016. [Al Jazeera](https://www.aljazeera.com/news/2026/2/19/israel-installed-security-at-epsteins-manhattan-apartment-for-ex-pm-barak)
+- **Jul 20-21, 2026**: Rep. Raskin's FARA letter alleges Epstein worked as an ongoing consultant for Barak. This is a congressional minority allegation, not a finding. See [FARA Inquiry](../topics/The_FARA_Foreign_Agent_Inquiry.md).
+- **Status**: Not accused of involvement in Epstein's sexual abuse. He apologized publicly in February and says he cut ties in 2019.
+
 ## See Also
 
 - [Intelligence](../topics/Intelligence.md) - Mossad/intelligence connections

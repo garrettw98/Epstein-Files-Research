@@ -155,14 +155,53 @@ graph LR
     style MF fill:#93c5fd,stroke:#333,color:#000
     style SR fill:#93c5fd,stroke:#333,color:#000
     style CW fill:#93c5fd,stroke:#333,color:#000
+    style DS fill:#ff9999,stroke:#333,color:#000
 ```
+
+## 2026 Enforcement Map (Mar-Sep 2026)
+
+This second diagram shows **who is compelling what from whom** as of Sep 23, 2026. It is not a map of relationships with Epstein. An arrow means an enforcement action (a court order, subpoena, lawsuit, investigation, or request), not a finding of wrongdoing.
+
+```mermaid
+graph LR
+    subgraph Enforcers
+        CT[Judge Sullivan<br/>Phang v. Blanche]
+        PR[Judge Preska<br/>Maxwell case]
+        HO[House Oversight<br/>Comer / Garcia]
+        SDNY[SDNY prosecutors]
+        NMX[New Mexico AG<br/>+ Truth Commission]
+        WD[DOJ IG + GAO]
+        FOR[UK / Norway / Poland<br/>Latvia / Lithuania / France]
+    end
+
+    DOJ[DOJ / AG Blanche]
+    LBk[Leon Black]
+    EX[Executors<br/>Indyke and Kahn]
+    GMx[Ghislaine Maxwell]
+
+    CT -->|injunction; Sept 24 deadline| DOJ
+    WD -->|audit of redactions| DOJ
+    NMX -->|lawsuit for records| DOJ
+    FOR -->|unanswered legal-assistance requests| DOJ
+    HO -->|contempt Sept 16| LBk
+    HO -->|referral request: Levine, Fekkai| DOJ
+    SDNY -->|reported criminal probe| EX
+    PR -->|sealing orders overridden| GMx
+
+    style DOJ fill:#fef08a,stroke:#333,color:#000
+    style LBk fill:#d8b4fe,stroke:#333,color:#000
+    style EX fill:#d8b4fe,stroke:#333,color:#000
+    style GMx fill:#ff6666,stroke:#333,color:#000
+```
+
+See [April-September 2026 Accountability Synthesis](../analysis/April_September_2026_Accountability_Synthesis.md).
 
 ## How to Read This
 
 - **Solid Lines**: Confirmed direct relationship (financial, social, or documented meetings).
 - **Dotted Lines**: The primary evidence linking them to the case.
 - **Colors**:
-  - **Red**: Charged/Convicted/Deceased (Epstein, Maxwell, Brunel, Kellen, Marcinkova).
+  - **Red**: Charged/Convicted/Deceased (Epstein, Maxwell, Brunel, Kellen, Marcinkova, Siad).
   - **Purple**: 2026 Key Revelations (Mandelson, Bannon, Lutnick, Lajcak, Barak, Ratner, Brin, Kamen).
   - **Blue**: Survivors/Victims (Giuffre, Farmer, Ransome, Wild).
   - **Yellow**: Banks (JPMorgan, Deutsche Bank).
@@ -185,24 +224,24 @@ For viewers without Mermaid support, here is the network as a structured list:
 - Nadia Marcinkova (pilot; immunity)
 - Lesley Groff (assistant; immunity)
 - Adriana Ross (recruiter; immunity)
-- Daniel Siad (Polish "scout")
+- Daniel Siad (Polish "scout"; found dead Jul 20, 2026)
 
 **Money & Law**:
 - Les Wexner (patron; $0 townhouse; power of attorney)
 - Steven Hoffenberg (mentor; Towers Financial Ponzi)
-- Jes Staley (JPMorgan banker; "Snow White" emails)
-- Leon Black ($158M in payments; Apollo Global)
-- Darren Indyke & Richard Kahn (estate executors; 1953 Trust)
-- JPMorgan Chase ($290M settlement) / Deutsche Bank ($75M settlement)
+- Jes Staley (JPMorgan banker; "Snow White" emails; told House he shared market-sensitive bank data)
+- Leon Black ($158M+ in payments, >$170M per Senate Finance; Apollo Global; held in contempt of Congress Sep 16, 2026)
+- Darren Indyke & Richard Kahn (estate executors; 1953 Trust; reported SDNY criminal probe, Sep 23, 2026)
+- JPMorgan Chase ($290M settlement) / Deutsche Bank ($75M settlement) / Bank of America ($72.5M settlement, approved Aug 27, 2026)
 
 **Politics & Royalty**:
 - Bill Clinton (26+ flights; no victim accusations)
 - Donald Trump (social ties 1990s; rift ~2004; 8 flights)
-- Prince Andrew (accused; settled; Buckingham Palace emails)
-- Peter Mandelson (UK state secrets; criminal investigation)
-- Kathryn Ruemmler (Obama WH Counsel; "adoration" emails)
+- Prince Andrew (accused; settled; Buckingham Palace emails; arrested Feb 19, 2026, uncharged)
+- Peter Mandelson (UK state secrets; arrested Feb 23, 2026, uncharged)
+- Kathryn Ruemmler (Obama WH Counsel; "adoration" emails; left Goldman Jun 30, 2026)
 - Steve Bannon (15hr interviews; Trump-mocking texts)
-- Howard Lutnick (Trump Commerce Sec.; 2012 island visit)
+- Howard Lutnick (Trump Commerce Sec.; 2012 island visit; House interview May 6, 2026)
 - Miroslav Lajcak (Slovak official; resigned Jan 31, 2026)
 - Ehud Barak (Former Israeli PM; apartment stays; FBI Mossad memo)
 

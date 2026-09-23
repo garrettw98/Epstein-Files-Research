@@ -37,6 +37,10 @@ By March 2026, this blind spot became more than an abstract estate-law problem. 
 - [Full Timeline](../timeline/Full_Timeline.md)
 - [March 2026 Escalation Synthesis](../analysis/March_2026_Escalation_Synthesis.md)
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Sep 23**: The WSJ reported SDNY prosecutors are investigating co-executors Darren Indyke and Richard Kahn, who witnessed the trust. They deny wrongdoing and have not been charged. See [Estate Executors Investigation](The_Estate_Executors_Investigation.md).
+
 ## See Also
 
 - [The Art Market Money Channel](The_Art_Market_Money_Channel.md)

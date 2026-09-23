@@ -1,6 +1,7 @@
 # The Norway Scandal (February 2026)
 
-> **Status**: **ONGOING** — Multiple Investigations
+> **Status**: **ONGOING** — Jagland and Juul charged; Rød-Larsen under investigation; parliamentary commission of inquiry appointed Apr 15, 2026
+> **Last updated**: Sep 23, 2026 (Mette-Marit became Queen on Aug 28, 2026)
 > **Figures**: Crown Princess Mette-Marit, PM Jagland, FM Brende, Amb. Juul, Terje Rød-Larsen
 > **Trigger**: January 30, 2026 DOJ Release
 
@@ -86,6 +87,18 @@ A married couple — perhaps Norway's most famous diplomats, known for helping b
 - The scandal is the **largest political crisis** in Norway since the 2011 Utøya attacks
 - Media coverage has been described as a **"national reckoning"**
 - Despite the scandal, parliament voted to **maintain the monarchy**
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Feb 9-13**: Mona Juul charged with aggravated corruption; Terje Rød-Larsen under investigation for complicity (investigators are examining a loan, a below-market Oslo flat purchase, a 2011 island trip, and payment for home help). Jagland formally charged with aggravated corruption after searches of his properties; the Council of Europe waived his immunity. Both deny wrongdoing.
+- **Feb 10**: The Storting's scrutiny committee voted for an independent inquiry and public hearings.
+- **Feb 24-25**: Jagland hospitalized "due to the strain." **Feb 26**: Børge Brende resigned as WEF president. See [Børge Brende](../profiles/Borge_Brende.md).
+- **Mar 19-20**: Mette-Marit told NRK that Epstein "manipulated and deceived" her. [CNN](https://www.cnn.com/2026/03/20/europe/norway-crown-princess-interview-epstein-intl-scli)
+- **Apr 15 / May 5**: The Storting appointed a **commission of inquiry** (chair Amund Djuve; vice chair Kjersti Buun Nygaard; members Sunniva Engh, Toril Johansson, Hugo Munthe Kaas, Axel Wernhoff, Pia Therese Jansen), which first met May 5. [Stortinget](https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2025-2026/commission-of-enquiry-has-its-first-meeting/)
+- **Aug 28**: King Harald V died; Haakon became king and **Mette-Marit became queen**. [NPR](https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii)
+- **Sep 9**: Norwegian prosecutors said their U.S. legal-assistance request has not been approved. [Washington Post](https://www.washingtonpost.com/world/2026/09/09/europeans-investigating-epstein-say-doj-has-not-agreed-requests-help/)
+- **Sep 23**: Rød-Larsen apologized in an NRK documentary: "I deeply regret today the relationship I had with Epstein." [Euronews](https://www.euronews.com/2026/09/23/norwegian-diplomat-behind-oslo-accords-to-apologise-for-epstein-ties-in-documentary)
+- **Scheduled**: Parliamentary hearings on Sep 30 (PM Jonas Gahr Støre, Brende, Ine Eriksen Søreide) and Oct 1 (FM Espen Barth Eide, Anniken Huitfeldt), per reporting that could not be confirmed against a primary Storting schedule. [Caliber](https://caliber.az/en/post/norway-s-prime-minister-to-testify-in-parliament-over-epstein-case)
 
 ## See Also
 

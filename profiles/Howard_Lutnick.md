@@ -78,6 +78,13 @@ As a sitting Cabinet member in the Trump administration, these revelations carry
 | Email | 2010 | Construction discussion |
 | Records | 2011 | Philanthropic dinner contribution |
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Feb 10, 2026**: Told the Senate Appropriations Committee he had lunch on Epstein's island in 2012 with his wife, four children, and nannies. [CNBC](https://www.cnbc.com/2026/02/10/lutnick-epstein-island-vacation-congress.html)
+- **May 6, 2026**: In a voluntary House Oversight interview, described three "meaningless and inconsequential" interactions and said Epstein's staff "discovered my family's vacation plans" before the island visit. Transcript released May 13. [NPR](https://www.npr.org/2026/05/06/nx-s1-5814081/howard-lutnick-epstein-files-house-oversight-committee), [ABC](https://abcnews.com/Politics/lutnick-called-interactions-epstein-meaningless-inconsequential-transcript/story?id=132938658), [PBS transcript](https://www.pbs.org/newshour/politics/read-the-full-transcript-of-howard-lutnicks-testimony-about-jeffrey-epstein)
+- **May 14, 2026**: House Democrats said he "lied" and demanded his resignation. [CNBC](https://www.cnbc.com/2026/05/14/howard-lutnick-jeffrey-epstein-commerce-trump.html)
+- **Status (Sep 23, 2026)**: Remains Commerce Secretary in available reporting. Not accused of any crime.
+
 ## See Also
 
 - [Steve Tisch](Steve_Tisch.md) - Fellow Giants co-owner in files

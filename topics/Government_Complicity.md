@@ -89,3 +89,10 @@ Source: [Associated Press, Feb 12, 2026](https://apnews.com/article/13eeb9ccadcc
 ## Deep-Dive Matrix
 - [Government Cover-Up Evidence Matrix](../analysis/Government_Coverup_Evidence_Matrix.md)
 - [Primary Sources Index](../evidence/Primary_Sources_Index.md)
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- A federal judge found DOJ out of compliance with the Transparency Act in some respects (Jun 25) and has threatened contempt (Aug 13, Sep 16). See [Phang v. Blanche Litigation](The_Phang_v_Blanche_Litigation.md).
+- State and foreign prosecutors say DOJ has not provided unredacted records they need (New Mexico lawsuit, Aug 5; Washington Post on European requests, Sep 9). DOJ says it has not refused any jurisdiction.
+- Vice President Vance acknowledged (Jul 15) that the administration "mishandled" the release.
+- **Caution**: these are findings about disclosure and cooperation, not proof of a cover-up of specific crimes. See [Government Response Matrix](../analysis/Government_Coverup_Evidence_Matrix.md).

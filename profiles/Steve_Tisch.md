@@ -93,6 +93,11 @@ The emails reveal a specific vocabulary:
 
 This language suggests Epstein's network discussed women as commodities.
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Mar 11-12, 2026**: An NFL memo showed Steve, Laurie, and Jonathan Tisch proposed moving their remaining **23.1%** of the Giants into their children's trusts, subject to league finance-committee approval. [CNN](https://www.cnn.com/2026/03/12/sport/new-york-giants-owner-steve-tisch-transfer-stake), [ESPN](https://www.espn.com/nfl/story/_/id/48174929/tisch-family-looks-transfer-giants-stake-children-trusts)
+- **Late March 2026**: Commissioner Roger Goodell said the league had looked into Tisch's ties "but we have not found anything that's a violation at this stage." [Elite Sports NY](https://elitesportsny.com/2026/03/31/nfl-washes-its-hands-of-giants-steve-tisch-but-questions-remain/)
+
 ## See Also
 
 - [Howard Lutnick](Howard_Lutnick.md) - Fellow Giants co-owner

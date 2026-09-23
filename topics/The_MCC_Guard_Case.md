@@ -23,6 +23,11 @@ In November 2019, SDNY announced charges against two MCC correctional officers t
 - SDNY release (Nov 2019): https://www.justice.gov/usao-sdny/pr/correctional-officers-charged-falsifying-records-august-9th-and-10th-metropolitan
 - DOJ OIG custody review context: https://oig.justice.gov/reports/investigation-and-review-federal-bureau-prisons-custody-care-and-supervision-jeffrey
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Mar 13**: Chairman Comer requested a transcribed interview with Tova Noel. [Oversight](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard)
+- **May 18**: Noel's interview: she blamed a "dysfunctional culture" at MCC, described threats and conspiracy theories, and said she did not recall an FBI-flagged search ("latest on Epstein in jail") the morning of the death. [ABC](https://abcnews.com/US/former-epstein-prison-guard-life-upended-conspiracy-theories/story?id=133638001), [MS NOW](https://www.ms.now/news/tova-noel-epstein-transcript-released-house-oversight)
+
 ## See Also
 
 - [Deep Dive: The Death](Deep_Dive_The_Death.md)

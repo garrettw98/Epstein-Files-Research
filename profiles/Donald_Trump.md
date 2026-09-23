@@ -53,6 +53,20 @@ Trump's name appears **thousands of times** in the documents, though the DOJ not
 ## Verdict
 **Social Associate.** They were in the same circles in the 1990s. Trump made the "likes them young" comment and flew on the plane at least 8 times. However, there is **no verified evidence** linking him to the trafficking operation, key witnesses have excluded him from the island and abuse scenes, and the FBI complaint list consists of unverified public tips. The 2026 files do not materially change his evidentiary status.
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Mar 5-6, 2026**: DOJ posted FBI memos (2019 interviews) of a woman alleging abuse by Epstein and Trump in the 1980s when she was a minor. The allegations are **unverified** and the FBI never charged anyone over them; Press Secretary Karoline Leavitt called them "completely baseless accusations, backed by zero credible evidence." [NPR](https://www.npr.org/2026/03/05/nx-s1-5737562/justice-department-missing-epstein-files-trump)
+- **Apr 2, 2026**: Removed AG Pam Bondi; installed Todd Blanche as acting AG.
+- **Apr 9, 2026**: Melania Trump publicly denied any Epstein ties and called for survivor hearings. [ABC](https://abcnews.com/Politics/melania-trump-declares-epsteins-victim/story?id=131891150)
+- **Apr 13, 2026**: Judge Darrin Gayles dismissed Trump's $10 billion defamation suit against the Wall Street Journal and Rupert Murdoch over the birthday-letter story, finding it "comes nowhere close" to actual malice. Trump **refiled** on May 28. [NPR](https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch), [CNN](https://www.cnn.com/2026/05/28/politics/trump-refiles-lawsuit-wall-street-journal-epstein)
+- **May 19, 2026**: His endorsed candidate defeated Rep. Thomas Massie in Kentucky's primary.
+- **Jun 25, 2026**: Judge Sullivan's order in *Phang v. Blanche* covers the FBI interview notes of the woman who made the unverified allegation.
+- **Jul 15, 2026**: VP JD Vance said the administration "mishandled" the files' release. [Axios](https://www.axios.com/2026/07/15/jd-vance-epstein-files-joe-rogan-podcast)
+- **Jul 21, 2026**: Rep. Raskin's FARA inquiry alleges Epstein leveraged his friendship with Trump to pursue foreign-government business. See [FARA Inquiry](../topics/The_FARA_Foreign_Agent_Inquiry.md).
+- **Jul 29, 2026**: The Senate unanimously opposed any pardon for Maxwell; Sen. Reed said Trump "refuses to rule one out."
+- **Sep 9, 2026**: A traveling exhibit in Dallas presented a timeline of the Trump-Epstein relationship alongside the released files. [CBS Texas](https://www.cbsnews.com/texas/news/dallas-epstein-files-exhibit-trump-relationship-rnc-convention-september-2026/)
+- **Status**: Trump denies wrongdoing and says he cut ties with Epstein long before his 2019 arrest. He has not been charged with any Epstein-related crime.
+
 ## See Also
 
 - [2026 Release](../evidence/2026_Release.md) - Document details

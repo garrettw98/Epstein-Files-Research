@@ -90,6 +90,12 @@ This directly contradicts former AG **Bill Barr's** assertion that "no one enter
 
 The 2026 revelation of the "orange shape" and contradictions with official statements have **reinvigorated questions** about what happened that night.
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **May 6**: A purported note Nicholas Tartaglione says he found after the July 23, 2019 incident was unsealed; it is **unauthenticated**. See [The Purported Suicide Note](The_Purported_Suicide_Note.md).
+- **May 18**: Former MCC guard Tova Noel gave her first account to House Oversight, describing a "dysfunctional culture" at the jail. See [Tova Noel](../profiles/Tova_Noel.md).
+- **Evidence handling**: Records released in January show the FBI authorized destruction of the master MCC video (item 1B60) in June 2024; DOJ reconstructed footage from another recorder copy. See [Missing Evidence](Missing_Evidence.md).
+
 ## See Also
 
 - [Deep Dive: The Death](Deep_Dive_The_Death.md) - Detailed theories and evidence

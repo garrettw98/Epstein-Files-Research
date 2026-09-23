@@ -190,6 +190,14 @@ Following Miroslav Lajcak's resignation:
 4. **Ongoing prosecutions?** No charges announced as of Feb 2026
 5. **Other countries?** Full scope of pipeline unclear
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Mar 12**: Poland's prosecutors opened a preliminary inquiry ("Investigation Team No. 5") into an international organized group active 2005-2018. [Notes From Poland](https://notesfrompoland.com/2026/03/12/polish-prosecutors-investigate-alleged-human-trafficking-by-epstein-linked-group/)
+- **Apr 2**: Lithuania announced a U.S. legal-assistance request. [Reuters via US News](https://www.usnews.com/news/world/articles/2026-04-02/lithuania-to-seek-us-help-in-epstein-linked-trafficking-probe)
+- **Jul 20**: Daniel Siad, whose 2009 emails describe recruiting in Kraków, was found dead in France. See [Daniel Siad](../profiles/Daniel_Siad.md).
+- **Aug 4**: The Wyden report says Deutsche Bank failed to promptly report more than $250 million in suspicious transactions, including payments to women in Russia and Eastern Europe. See [The Banks](The_Banks.md).
+- **Sep 9**: Poland (waiting since April), Latvia, and others said DOJ had not answered legal-assistance requests. [Washington Post](https://www.washingtonpost.com/world/2026/09/09/europeans-investigating-epstein-say-doj-has-not-agreed-requests-help/)
+
 ## See Also
 
 - [Daniel Siad](../profiles/Daniel_Siad.md) - Polish scout

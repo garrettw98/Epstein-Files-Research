@@ -49,3 +49,9 @@ Despite millions of pages being released, key pieces of the puzzle remain missin
 *   **The Claim**: Guardian reporting said a foreign hacker breached an FBI New York field-office server holding Epstein-related files in 2023.
 *   **The Mystery**: Did the breach affect only confidentiality, or did it also affect preservation, access logs, or confidence in the completeness of later disclosures?
 *   **The Significance**: The problem is not only whether files were withheld. It is whether the archive itself was stable, secure, and fully knowable by the time the public release happened.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Master jail video**: Records released Jan 30 show the FBI authorized destruction of the master MCC recording (item 1B60) on June 25, 2024 as "no longer pertinent"; DOJ later reconstructed footage from a NiceVision recorder copy. [CBS](https://www.cbsnews.com/news/mystery-of-the-missing-minute-from-epstein-jail-solved/)
+- **Withheld pages**: DOJ identified about 6 million potentially responsive pages but released about 3.5 million. Court, IG, and GAO reviews are now examining the gap.
+- **Estate records**: The reported SDNY investigation of the executors (Sep 23) is the first sign federal prosecutors are examining the post-2019 records layer.

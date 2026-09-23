@@ -92,6 +92,11 @@ Epstein sat for a deposition in 2016 and was asked several questions about Clint
 
 The February 26-27, 2026 depositions are now complete, with selected testimony video released publicly on March 2, 2026.
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Jun 30, 2026**: His longtime aide **Doug Band** told House Oversight his own contact with Epstein was limited and incidental and repeatedly said he could not recall details. See [Doug Band](Doug_Band.md).
+- **Status**: Deposition complete (Feb 27); not accused of a crime in these proceedings.
+
 ## See Also
 
 - [The Clinton Oversight Investigation](../topics/The_Clinton_Oversight_Investigation.md) - Full investigation details

@@ -37,3 +37,7 @@ While the Palm Beach staff saw the abuse, the New York staff saw the socialites.
 
 ## Significance
 These men were "the help." Epstein ignored them, thinking they were invisible. In the end, their logbooks and stolen photocopies became the evidence that destroyed him.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- House Oversight interviewed former assistants **Sarah Kellen** (May 21) and **Lesley Groff** (Jun 9) in 2026. Kellen described years of abuse and named additional alleged abusers (who deny it); survivors dispute parts of Groff's account. See [House Oversight Witness Program (2026)](../topics/The_House_Oversight_Witness_Program_2026.md).

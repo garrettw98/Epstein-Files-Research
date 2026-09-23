@@ -1,6 +1,6 @@
 # 📅 The Master Timeline: Every Verified Event
 
-> **Scope**: 1953 - Mar 16, 2026
+> **Scope**: 1953 - Sep 23, 2026
 > **Sources**: Court documents, Flight Logs, Police Reports, 2024/2026 Releases.
 
 This timeline integrates all data points from this repository into a single chronological flow.
@@ -10,15 +10,17 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 <!-- LAST24H_TIMELINE:START -->
 ## Last 24 Hours Snapshot (Auto-generated)
-- Window: Mar 16, 2026 02:19 UTC to Mar 17, 2026 02:19 UTC.
+- Window: Sep 22, 2026 22:09 UTC to Sep 23, 2026 22:09 UTC.
 - Monitored updates: 0 links across 0 domains.
-- Primary-doc changes: added 8, removed 2, changed 0.
+- Primary-doc changes: added 0, removed 0, changed 0.
 - Claim review pressure: p1=0, p2=0, p3=0 open.
 - DOJ data-set file index health: 12/12 sets with files.
 
 ### Recent items
 - No monitored links in the current 24-hour window.
 <!-- LAST24H_TIMELINE:END -->
+
+> **Pipeline note (Sep 23, 2026):** the network ingest steps could not run in the environment used for this update, so the snapshot above reflects claim-registry changes only. DOJ data-set counts come from the last successful crawl (Mar 17, 2026). See the [Data Pipeline Runbook](../docs/DATA_PIPELINE.md#network-requirements).
 
 ---
 
@@ -218,7 +220,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   Khanna states: **"70 to 80 percent of the files are still redacted."**
     *   Khanna states: **"If we found six men that they were hiding in two hours, imagine how many men they are covering up for in those 3 million files."**
     *   DOJ tells lawmakers they **"just uploaded whatever the FBI sent us"** — suggesting FBI, not DOJ, responsible for scrubbing.
-*   **2026 (Feb 10)**: **Current Status**.
+*   **2026 (Feb 10)**: **Status snapshot as of Feb 10** (superseded; see the Sep 23 snapshot below).
     *   **DOJ**: Data Sets 9-12 released; ~3 million pages still withheld; 16 names unredacted from 20-person list.
     *   **Congress**: AG Bondi testimony held Feb 11; Clinton depositions scheduled Feb 26-27; Wexner testimony Feb 18.
     *   **Newly Named**: Six names revealed — Nuara, Mikeladze, Leonov, Caputo, Bin Sulayem, Wexner.
@@ -228,6 +230,52 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   **Resignations**: Mandelson (Labour, Lords), Lajcak (Slovakia), Rubinstein (Sweden UNHCR), Kamen (FIRST leave), Karp (Paul Weiss), Ross (SVA).
     *   **NFL**: Investigating Steve Tisch and Howard Lutnick.
     *   **Victims**: Fighting for website shutdown and proper redactions.
+*   **2026 (Feb 13)**: Former Norwegian PM **Thorbjørn Jagland** formally **charged with aggravated corruption** by Økokrim (he denies the charges). The Council of Europe waived his immunity; he was hospitalized on Feb 24.
+*   **2026 (Feb 16)**: **Tom Pritzker** retires as Hyatt executive chairman **effective immediately** (not at year-end, as some early reports and earlier versions of this repo said).
+*   **2026 (Feb 19)**: **Andrew Mountbatten-Windsor arrested** by Thames Valley Police on suspicion of misconduct in public office; released under investigation. First senior royal arrested in roughly 400 years.
+*   **2026 (Feb 23)**: **Peter Mandelson arrested** by the Metropolitan Police on suspicion of misconduct in public office; bailed Feb 24, then released under investigation (no longer on bail) on Mar 6.
+*   **2026 (Feb 26)**: **Børge Brende** resigns as WEF president and CEO after an internal review.
+
+---
+
+## 2026 (Mar-Sep): The Accountability Phase
+
+*   **2026 (Mar 17)**: House Oversight subpoenas AG **Pam Bondi** for an April 14 deposition.
+*   **2026 (Apr 2)**: Trump **removes Bondi** as attorney general; **Todd Blanche** becomes acting AG.
+*   **2026 (Apr 9)**: **Melania Trump** publicly denies any Epstein ties and calls for public survivor hearings.
+*   **2026 (Apr 13)**: Judge dismisses Trump's $10B WSJ lawsuit over the birthday letter (refiled May 28).
+*   **2026 (Apr 15)**: Norway's Storting appoints an **Epstein commission of inquiry**.
+*   **2026 (Apr 16)**: Report that **Mandelson failed security vetting** before his ambassadorship; Starmer pressure intensifies.
+*   **2026 (Apr 23 / Apr 28)**: **DOJ Inspector General** opens an audit and **GAO** opens a review of DOJ's handling of the files.
+*   **2026 (Apr 27)**: Katie Phang files **Phang v. Blanche** to enforce the Transparency Act.
+*   **2026 (Apr 30 - Jul 24)**: House Oversight interviews **Waitt, Lutnick, Noel, Kellen, Bondi, Groff, Gates, Black, Band, Ruemmler, Staley**.
+*   **2026 (May 6)**: Judge unseals a **purported Epstein note** found by cellmate Tartaglione (authenticity unverified).
+*   **2026 (May 12)**: Oversight Democrats hold a **Palm Beach field hearing** with survivors.
+*   **2026 (May 19)**: **Thomas Massie loses** his Republican primary to Trump-backed Ed Gallrein.
+*   **2026 (Jun 4)**: Comer asks DOJ to investigate **Kellen's allegations** against Philip Levine and Frederic Fekkai (both deny them).
+*   **2026 (Jun 22)**: **Keir Starmer announces his resignation** amid the Mandelson fallout; Andy Burnham becomes PM on Jul 20.
+*   **2026 (Jun 25)**: Judge **Emmet Sullivan enjoins DOJ** to unredact or justify disputed records.
+*   **2026 (Jul 15)**: **Epstein Files Transparency Act II** introduced.
+*   **2026 (Jul 20)**: French model scout **Daniel Siad found dead** before French investigators could question him.
+*   **2026 (Jul 21)**: Raskin opens a **foreign-agent (FARA) inquiry** into Epstein.
+*   **2026 (Jul 29)**: Senate **unanimously opposes any Maxwell pardon**.
+*   **2026 (Aug 4)**: **Wyden report** says JPMorgan, Bank of America, and Deutsche Bank looked the other way.
+*   **2026 (Aug 5)**: **New Mexico sues DOJ** for records; the Truth Commission issues its interim report.
+*   **2026 (Aug 8)**: Senate confirms **Blanche as attorney general**, 50-49.
+*   **2026 (Aug 11)**: Judge **Preska** rules the Act overrides sealing orders in the Maxwell case.
+*   **2026 (Aug 25)**: Judge **Engelmayer denies Maxwell's** bid to vacate her conviction.
+*   **2026 (Aug 27)**: **Bank of America's $72.5M settlement** receives final approval.
+*   **2026 (Aug 28)**: King Harald V dies; **Mette-Marit becomes Queen of Norway**.
+*   **2026 (Sep 3)**: **Leon Black** skips a subpoenaed deposition and sues House Oversight.
+*   **2026 (Sep 16)**: House holds **Leon Black in contempt**; Sullivan sets a **Sept. 24** deadline for DOJ; Comer introduces the **Survivor's Voice Protection Act**.
+*   **2026 (Sep 18)**: **EFTA II discharge petition** reaches 218 signatures.
+*   **2026 (Sep 23)**: WSJ reports SDNY is investigating estate executors **Darren Indyke and Richard Kahn**.
+*   **2026 (Sep 23)**: **Status snapshot**.
+    *   **DOJ**: AG Blanche under court deadline (Sep 24) in Phang v. Blanche; IG and GAO reviews pending; DOJ has not answered European legal-assistance requests; no Data Set 13 published.
+    *   **Congress**: Oversight witness phase largely complete; Black contempt referral pending; final report and promised public hearings not yet delivered; EFTA II vote possible after the House returns Nov. 9.
+    *   **Criminal exposure**: SDNY executor probe (reported); New Mexico criminal probe; UK investigations of Andrew and Mandelson; Norway's Jagland and Juul/Rød-Larsen cases; France's expanded probe.
+    *   **Maxwell**: Post-conviction petition denied; clemency opposed by unanimous Senate resolution.
+    *   **Politics**: Epstein files are a live midterm issue (Ohio Senate race, Dallas "reading room," Massie's primary loss).
 <!-- LIVE_TIMELINE:START -->
 *   **Feb 8, 2026**: **AP review: no DOJ "client list" finding**.
     *   AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men.
@@ -256,6 +304,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 13, 2026**: **Barak public apology**.
     *   Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly.
     *   Source: [Source](https://apnews.com/article/5709588906fb10cd51bb49f30a9825d2).
+*   **Feb 13, 2026**: **CNN: Former Norwegian PM Jagland charged with aggravated corruption**.
+    *   Lawyers for Thorbjorn Jagland said Norway's Okokrim charged him with aggravated corruption over gifts, travel and loans linked to Epstein; Jagland denies all charges.
+    *   Source: [Source](https://www.cnn.com/2026/02/13/europe/norway-pm-jagland-charged-epstein-ties-intl-hnk).
 *   **Feb 14, 2026**: **DP World interim leadership announced**.
     *   DP World announced Esa Kazim as interim chairman and Yuvraj Narayan as interim group CEO after Bin Sulayem's resignation.
     *   Source: [Source](https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490).
@@ -277,9 +328,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 16, 2026**: **Reuters: French police searched Arab World Institute and homes linked to Jack Lang**.
     *   Reuters reported French investigators searched the Arab World Institute and residences linked to former Culture Minister Jack Lang as part of an inquiry tied to Epstein-linked allegations; Lang denied wrongdoing.
     *   Source: [Source](https://www.reuters.com/world/french-police-raid-arab-world-institute-epstein-linked-probe-into-jack-lang-2026-02-16/).
-*   **Feb 16, 2026**: **Reuters: Hyatt chairman Tom Pritzker announced step-down**.
-    *   Reuters reported Hyatt executive chairman Tom Pritzker said he will step down at the end of 2026, citing "terrible judgment" over his association with Epstein while denying knowledge of Epstein's crimes.
-    *   Source: [Source](https://www.reuters.com/sustainability/hyatt-executive-chairman-pritzker-steps-down-cites-terrible-judgment-epstein-2026-02-16/).
+*   **Feb 16, 2026**: **Hyatt: Tom Pritzker retired as executive chairman effective immediately**.
+    *   Hyatt announced Tom Pritzker retired as executive chairman effective immediately and would not seek board re-election, with CEO Mark Hoplamazian becoming chairman; Pritzker cited "terrible judgment" over his Epstein and Maxwell contacts. (Corrects an earlier repo entry that said the step-down would take effect at the end of 2026.)
+    *   Source: [Source](https://newsroom.hyatt.com/021626-Hyatt-Announces-Thomas-J-Pritzker-Retires-as-Executive-Chairman-and-Will-Not-Seek-Re-Election-to-Board-of-Directors-Mark-S-Hoplamazian-Assumes-Combined-Role-of-Chairman-of-the-Board-and-Chief-Executive-Officer).
 *   **Feb 17, 2026**: **Reuters: New Mexico approved Zorro Ranch investigation commission**.
     *   Reuters reported New Mexico lawmakers approved a state commission to investigate allegations tied to Epstein's Zorro Ranch, with hearings and a final report planned in 2027.
     *   Source: [Source](https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/).
@@ -295,6 +346,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 19, 2026**: **Reuters/Ipsos poll: many Americans say the powerful get a pass**.
     *   Reuters reported new Reuters/Ipsos polling found many Americans believe the Epstein files show powerful people avoid accountability.
     *   Source: [Source](https://www.reuters.com/world/us/americans-believe-epstein-files-show-powerful-get-pass-reutersipsos-poll-finds-2026-02-18/).
+*   **Feb 19, 2026**: **NPR: Andrew Mountbatten-Windsor arrested in Epstein-linked misconduct probe**.
+    *   Thames Valley Police arrested the former prince on suspicion of misconduct in public office over allegations he passed confidential trade-envoy material to Epstein; he was released under investigation.
+    *   Source: [Source](https://www.npr.org/2026/02/19/nx-s1-5719098/former-prince-andrew-arrested-on-suspicion-of-misconduct-in-public-office-reports).
 *   **Feb 24, 2026**: **AP: Peter Mandelson released on bail after UK Epstein-probe arrest**.
     *   AP reported former UK ambassador Peter Mandelson was released on bail after his arrest in an Epstein-linked misconduct investigation.
     *   Source: [Source](https://apnews.com/video/former-u-k-ambassador-to-u-s-released-on-bail-after-arrest-in-epstein-misconduct-probe-6fda5c8ac404422ca1bddaff09278c53).
@@ -307,6 +361,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 26, 2026**: **AP: DOJ reviewing whether Epstein-related records were mistakenly withheld**.
     *   AP reported DOJ said it is reviewing whether any Epstein-related records were mistakenly withheld from prior releases.
     *   Source: [Source](https://apnews.com/video/doj-says-its-reviewing-whether-any-epstein-related-records-were-mistakenly-withheld-9c56463b73c04749a1e777ca92df7718).
+*   **Feb 26, 2026**: **CNN: WEF president Borge Brende resigned over Epstein ties**.
+    *   Borge Brende resigned as president and CEO of the World Economic Forum after an internal review of his Epstein contacts; Alois Zwinggi was named interim leader.
+    *   Source: [Source](https://www.cnn.com/2026/02/26/business/borge-brende-wef-epstein-files-intl).
 *   **Feb 27, 2026**: **AP: Hillary Clinton deposition ran over six hours**.
     *   AP reported Hillary Clinton's House deposition ended after more than six hours of questioning.
     *   Source: [Source](https://apnews.com/video/hillary-clintons-deposition-in-house-epstein-investigation-ends-after-over-six-hours-of-questioning-fe56f7a8a1334ee895122c11ec14a90a).
@@ -352,6 +409,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 6, 2026**: **AP: DOJ published previously withheld Epstein files tied to unverified Trump claim**.
     *   AP reported DOJ released additional Epstein files involving uncorroborated allegations against Trump that it said had been mistakenly withheld earlier.
     *   Source: [Source](https://apnews.com/article/epstein-files-missing-release-doj-trump-f9cb1358a649c61f4bb7793bf358393b).
+*   **Mar 6, 2026**: **ITV: Mandelson released from bail but remains under investigation**.
+    *   ITV reported Peter Mandelson was no longer on bail and had been released under investigation by the Metropolitan Police.
+    *   Source: [Source](https://www.itv.com/news/2026-03-06/lord-mandelson-no-longer-on-bail-as-hes-released-under-investigation-by-police).
 *   **Mar 10, 2026**: **AP: New Mexico investigators searched former Zorro Ranch**.
     *   AP reported state investigators began searching Epstein's former New Mexico ranch amid allegations it may have been used for sexual abuse and trafficking.
     *   Source: [Source](https://apnews.com/article/jeffrey-epstein-sex-abuse-trafficking-new-mexico-98ee07a273865c1cfc2b034ef182171a).
@@ -382,6 +442,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 12, 2026**: **Guardian: report said hacker breached FBI server holding Epstein files in 2023**.
     *   The Guardian reported documents and a source indicated a foreign hacker breached an FBI New York field-office server holding Epstein-related files in 2023.
     *   Source: [Source](https://www.theguardian.com/us-news/2026/mar/11/fbi-epstein-files-hacker-break-in).
+*   **Mar 12, 2026**: **CNN: Tisch siblings sought to move Giants stakes into children's trusts**.
+    *   An NFL memo showed Steve, Laurie and Jonathan Tisch proposed transferring their remaining 23.1% of the Giants to their children's trusts as the league reviewed Steve Tisch's Epstein emails.
+    *   Source: [Source](https://www.cnn.com/2026/03/12/sport/new-york-giants-owner-steve-tisch-transfer-stake).
 *   **Mar 14, 2026**: **Fox: World Economic Forum faced renewed scrutiny over Epstein ties**.
     *   Fox News reported the World Economic Forum faced fresh scrutiny over Epstein-linked ties and criticism surrounding past leadership connections.
     *   Source: [Source](https://www.foxnews.com/world/world-economic-forum-faces-fresh-scrutiny-epstein-ties-revive-past-scandals-criticism).
@@ -394,7 +457,233 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 16, 2026**: **Fox: Peggy Siegal interview described Epstein's search for a "baby mama"**.
     *   Fox News reported publicist Peggy Siegal described Epstein's search for a woman to bear his child and other details from her interview.
     *   Source: [Source](https://www.foxnews.com/entertainment/a-list-publicist-reveals-epsteins-baby-mama-search-100k-gift-bombshells-peggy-siegals-tell-all).
+*   **Mar 17, 2026**: **House Oversight subpoenaed AG Bondi for an April 14 deposition**.
+    *   The House Oversight Committee issued a subpoena ordering Attorney General Pam Bondi to appear for a deposition on April 14 in its Epstein-files investigation.
+    *   Source: [Source](https://oversight.house.gov/wp-content/uploads/2026/03/03.17.2026-Subpoena-Cover-Letter-Bondi-FINAL.pdf).
+*   **Mar 20, 2026**: **CNN: Norway's crown princess said Epstein "manipulated and deceived" her**.
+    *   In her first interview on the relationship, broadcast by NRK, Mette-Marit said she did not know Epstein was an abuser and wished she had never met him.
+    *   Source: [Source](https://www.cnn.com/2026/03/20/europe/norway-crown-princess-interview-epstein-intl-scli).
+*   **Mar 27, 2026**: **CNBC: Bank of America settlement with Epstein victims set at $72.5 million**.
+    *   CNBC reported Bank of America agreed to pay $72.5 million to settle claims that it enabled Epstein's trafficking, while denying it facilitated his crimes.
+    *   Source: [Source](https://www.cnbc.com/2026/03/27/jeffrey-epstein-bank-of-america-lawsuit-settle.html).
+*   **Apr 2, 2026**: **CBS: Trump removed Pam Bondi as attorney general; Todd Blanche named acting AG**.
+    *   Trump announced Bondi's ouster and installed Deputy Attorney General Todd Blanche as acting attorney general; reporting cited frustration that included her handling of the Epstein files.
+    *   Source: [Source](https://www.cbsnews.com/news/trump-pam-bondi-attorney-general/).
+*   **Apr 2, 2026**: **Reuters: Lithuania to seek U.S. legal aid in Epstein-linked trafficking probe**.
+    *   Lithuania's prosecutor general said the country was preparing a formal legal-assistance request to the United States in its human-trafficking investigation.
+    *   Source: [Source](https://www.usnews.com/news/world/articles/2026-04-02/lithuania-to-seek-us-help-in-epstein-linked-trafficking-probe).
+*   **Apr 8, 2026**: **CNN: DOJ said Bondi would not sit for Epstein deposition after leaving office**.
+    *   DOJ argued Bondi had been subpoenaed in her official capacity; Oversight Democrats said the bipartisan subpoena still applied to her personally.
+    *   Source: [Source](https://www.cnn.com/2026/04/08/politics/pam-bondi-epstein-deposition-justice-department).
+*   **Apr 9, 2026**: **ABC: Melania Trump publicly denied Epstein ties and called for survivor hearings**.
+    *   In White House remarks, the first lady said the "lies linking me with the disgraceful Jeffrey Epstein need to end today" and urged Congress to give survivors a public hearing; survivor reaction was mixed.
+    *   Source: [Source](https://abcnews.com/Politics/melania-trump-declares-epsteins-victim/story?id=131891150).
+*   **Apr 13, 2026**: **NPR: Judge dismissed Trump's $10 billion WSJ suit over Epstein birthday letter**.
+    *   U.S. District Judge Darrin Gayles ruled the complaint "comes nowhere close" to the actual-malice standard; Trump refiled the suit in May.
+    *   Source: [Source](https://www.npr.org/2026/04/13/g-s1-117248/judge-dismisses-trump-lawsuit-epstein-letter-wsj-story-murdoch).
+*   **Apr 15, 2026**: **Storting: Norway's parliament resolved to appoint an Epstein commission of inquiry**.
+    *   The Storting resolved to appoint a commission of enquiry into questions raised by the Epstein files; it met for the first time on May 5 under chair Amund Djuve.
+    *   Source: [Source](https://www.stortinget.no/en/In-English/About-the-Storting/News-archive/Front-page-news/2025-2026/commission-of-enquiry-has-its-first-meeting/).
+*   **Apr 16, 2026**: **Al Jazeera: Report said Mandelson failed security vetting before ambassador posting**.
+    *   Reporting said Mandelson was initially denied clearance but Foreign Office officials used a rarely used authority to override the recommendation, intensifying pressure on Keir Starmer.
+    *   Source: [Source](https://www.aljazeera.com/news/2026/4/16/uks-starmer-under-fire-over-report-mandelson-failed-security-vetting).
+*   **Apr 23, 2026**: **UPI: DOJ inspector general opened audit of Epstein Files Transparency Act compliance**.
+    *   Inspector General William Blier said the audit would examine how DOJ identified, collected, redacted, withheld and released records under the Act.
+    *   Source: [Source](https://www.upi.com/Top_News/US/2026/04/23/justice-department-inspector-general-audit-epstein-files-release/7901776973145/).
+*   **Apr 27, 2026**: **Journalist Katie Phang sued DOJ over Epstein Files Transparency Act compliance**.
+    *   Phang v. Blanche, filed in federal court in Washington, alleged DOJ violated the Act by withholding and over-redacting required records.
+    *   Source: [Source](https://clearinghouse.net/case/48180/).
+*   **Apr 28, 2026**: **Washington Post: GAO agreed to review DOJ's handling of Epstein-file redactions**.
+    *   The Government Accountability Office accepted a senators' request to review how DOJ reviewed, redacted and released the files.
+    *   Source: [Source](https://www.washingtonpost.com/politics/2026/04/28/epstein-files-gao/).
+*   **Apr 30, 2026**: **ABC: Ted Waitt told House Oversight he paid Maxwell $7.2 million after their breakup**.
+    *   The Gateway co-founder said in a closed-door interview that he met Epstein fewer than five times and regretted not scrutinizing Epstein's 2008 plea; the transcript was released May 13.
+    *   Source: [Source](https://abcnews.com/Politics/ghislaine-maxwells-billionaire-boyfriend-paid-72m-after-breakup/story?id=132943699).
+*   **May 6, 2026**: **NPR: Howard Lutnick questioned by House Oversight on Epstein ties**.
+    *   The Commerce secretary called his interactions with Epstein "meaningless and inconsequential"; Democrats accused him of evasive and misleading testimony and later called for his resignation.
+    *   Source: [Source](https://www.npr.org/2026/05/06/nx-s1-5814081/howard-lutnick-epstein-files-house-oversight-committee).
+*   **May 6, 2026**: **Reuters: Judge released purported Epstein note found by former cellmate**.
+    *   U.S. District Judge Kenneth Karas unsealed a note Nicholas Tartaglione says he found in July 2019; the court did not vouch for its authenticity or chain of custody.
+    *   Source: [Source](https://www.usnews.com/news/us/articles/2026-05-06/new-york-judge-releases-purported-epstein-suicide-note).
+*   **May 11, 2026**: **Publishers Weekly: Giuffre memoir won British Book Awards Book of the Year**.
+    *   Virginia Giuffre's posthumous memoir Nobody's Girl, co-written with Amy Wallace, was named overall Book of the Year at the 2026 British Book Awards.
+    *   Source: [Source](https://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/100385-british-books-awards-honor-giuffre-wynn-williams.html).
+*   **May 12, 2026**: **Oversight Democrats held Palm Beach field hearing with Epstein survivors**.
+    *   Survivors testified at an unofficial hearing in West Palm Beach as Democrats released an interim staff report titled "The Price of Non-Prosecution."
+    *   Source: [Source](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-oversight-democrats-florida-democrats-hold-hearing-on-epstein-investigation-in-palm-beach-florida).
+*   **May 14, 2026**: **CNN: Wes Streeting quit UK Cabinet citing lost confidence in Starmer**.
+    *   Health Secretary Wes Streeting resigned saying he had "lost confidence" in Keir Starmer's leadership amid the Mandelson appointment fallout.
+    *   Source: [Source](https://www.cnn.com/2026/05/14/uk/streeting-resigns-health-secretary-starmer-uk-intl).
+*   **May 17, 2026**: **France 24: About 10 new alleged victims came forward in French Epstein probe**.
+    *   Paris prosecutors said roughly ten previously unidentified alleged victims had contacted investigators.
+    *   Source: [Source](https://www.france24.com/en/americas/20260517-around-10-new-victims-come-forward-in-france-s-epstein-investigation).
+*   **May 18, 2026**: **Former MCC guard Tova Noel gave House Oversight transcribed interview**.
+    *   Noel, on duty the night Epstein died, blamed a "dysfunctional culture" at the jail and said she did not recall an Epstein-related web search FBI agents had flagged.
+    *   Source: [Source](https://www.ms.now/news/tova-noel-epstein-prison-guard-testify-house).
+*   **May 19, 2026**: **CBS: Rep. Thomas Massie lost Kentucky primary to Trump-backed challenger**.
+    *   Massie, a lead sponsor of the Epstein Files Transparency Act, lost the Republican primary for Kentucky's 4th District to Ed Gallrein.
+    *   Source: [Source](https://www.cbsnews.com/news/kentucky-primary-results-massie-gallrein-trump/).
+*   **May 21, 2026**: **PBS: Former Epstein assistant Sarah Kellen testified to House Oversight**.
+    *   Kellen said she was abused by Epstein for more than a decade and, for the first time, accused Maxwell and two other men of abuse; the men deny the allegations.
+    *   Source: [Source](https://www.pbs.org/newshour/politics/former-epstein-assistant-sarah-kellen-testified-before-the-house-committee-heres-what-we-know).
+*   **May 22, 2026**: **CNN: UK police said Andrew probe includes assessment of 2010 Windsor allegation**.
+    *   Thames Valley Police said that alongside the misconduct investigation it is assessing reports a woman was taken to a Windsor address in 2010 for sexual purposes.
+    *   Source: [Source](https://www.cnn.com/2026/05/22/uk/andrew-mountbatten-windsor-intl-hnk).
+*   **May 28, 2026**: **CNN: Trump refiled $10 billion lawsuit against the Wall Street Journal**.
+    *   Trump refiled his defamation suit over the Journal's reporting on a birthday letter bearing his name in Epstein's 50th-birthday book.
+    *   Source: [Source](https://www.cnn.com/2026/05/28/politics/trump-refiles-lawsuit-wall-street-journal-epstein).
+*   **May 29, 2026**: **NPR: Former AG Bondi gave closed-door transcribed interview to House Oversight**.
+    *   Bondi sat for roughly four hours under an arrangement with Chairman Comer, declined many questions and pointed to Todd Blanche on handling of the files.
+    *   Source: [Source](https://www.npr.org/2026/05/29/nx-s1-5836563/pam-bondi-epstein-congress).
+*   **Jun 1, 2026**: **CNN: New Mexico Truth Commission began Zorro Ranch investigation with subpoenas**.
+    *   A bipartisan panel of New Mexico House members began collecting evidence from federal and local agencies, the estate and banks, and later heard survivor testimony.
+    *   Source: [Source](https://www.cnn.com/2026/06/01/politics/new-mexico-truth-commission-epstein-zorro-ranch-subpoenas).
+*   **Jun 1, 2026**: **PBS: UK published a new batch of Mandelson appointment files**.
+    *   The government released more emails and messages about Mandelson's vetting, which National Security Adviser Jonathan Powell described as "weirdly rushed."
+    *   Source: [Source](https://www.pbs.org/newshour/world/publication-of-additional-mandelson-files-brings-more-bad-news-for-keir-starmer).
+*   **Jun 4, 2026**: **Comer asked DOJ to investigate abuse allegations raised in Kellen testimony**.
+    *   Chairman Comer and GOP lawmakers asked acting AG Blanche to investigate Kellen's allegations against former Miami Beach mayor Philip Levine and hairstylist Frederic Fekkai, both of whom deny wrongdoing.
+    *   Source: [Source](https://oversight.house.gov/release/chairman-comer-and-republican-lawmakers-seek-doj-investigation-into-sexual-assault-allegations-made-during-epstein-investigation/).
+*   **Jun 8, 2026**: **CNN: Trump formally nominated Todd Blanche as attorney general**.
+    *   The nomination set up a Senate fight in which Blanche's handling of the Epstein files became a central issue.
+    *   Source: [Source](https://www.cnn.com/2026/06/08/politics/todd-blanche-trump-attorney-general-nomination).
+*   **Jun 9, 2026**: **CNBC: Epstein assistant Lesley Groff interviewed by House Oversight**.
+    *   Groff, who worked for Epstein from 2001 to 2019, denied knowing of his crimes over roughly eight hours of questioning.
+    *   Source: [Source](https://www.cnbc.com/2026/06/09/epstein-lesley-groff-house-oversight-committee.html).
+*   **Jun 10, 2026**: **NPR: Bill Gates told House Oversight he never knew of Epstein's crimes**.
+    *   Gates said Epstein used knowledge of his affairs to pressure him to re-engage and that emails suggest Epstein "contemplated blackmailing me."
+    *   Source: [Source](https://www.npr.org/2026/06/10/nx-s1-5851609/bill-gates-jeffrey-epstein-files-congress-pam-bondi).
+*   **Jun 22, 2026**: **Al Jazeera: Keir Starmer announced resignation amid Mandelson fallout**.
+    *   Starmer said he would step down as Labour leader and prime minister after months of pressure over his appointment of Peter Mandelson as ambassador to Washington.
+    *   Source: [Source](https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over).
+*   **Jun 23, 2026**: **House Oversight released Gates and Groff transcripts**.
+    *   The committee published the transcripts of the June 9 Groff and June 10 Gates interviews.
+    *   Source: [Source](https://oversight.house.gov/release/oversight-committee-releases-gates-and-groff-transcripts/).
+*   **Jun 25, 2026**: **CBS: Judge Sullivan enjoined DOJ in Phang v. Blanche**.
+    *   Judge Emmet Sullivan found DOJ had effectively conceded violating the Epstein Files Transparency Act and ordered it to unredact disputed records or justify each redaction by July 2.
+    *   Source: [Source](https://www.cbsnews.com/news/judge-orders-doj-unredact-more-epstein-files-or-explain-why-blanche/).
+*   **Jun 26, 2026**: **ABC: Leon Black ended House Oversight interview after refusing NDA questions**.
+    *   Black's lawyers ended the voluntary interview after less than an hour; the committee served subpoenas for his nondisclosure agreements and a deposition.
+    *   Source: [Source](https://abcnews.com/US/leon-black-walked-epstein-interview-after-refusing-answer/story?id=134726348).
+*   **Jun 30, 2026**: **ABC: Clinton aide Doug Band repeatedly said he could not recall Epstein interactions**.
+    *   Band told House Oversight his contact with Epstein was limited and incidental to his work for Bill Clinton.
+    *   Source: [Source](https://abcnews.com/US/doug-band-former-aide-bill-clinton-questioned-clintons/story?id=134313410).
+*   **Jul 1, 2026**: **NOTUS: Comer promised public Epstein hearings and a final report**.
+    *   Chairman Comer said Oversight would hold public hearings, possibly with survivors, and issue a full report, adding "I fully expect criminal referrals."
+    *   Source: [Source](https://www.notus.org/james-comer-says-oversight-will-hold-public-hearings-on-epstein).
+*   **Jul 9, 2026**: **CNN: New Mexico AG said DOJ was withholding critical Zorro Ranch information**.
+    *   Attorney General Raul Torrez wrote to Blanche that DOJ was withholding unredacted records needed for the state's criminal investigation.
+    *   Source: [Source](https://edition.cnn.com/2026/07/09/politics/epstein-new-mexico-raul-torrez-letter-blanche).
+*   **Jul 15, 2026**: **Massie and Khanna introduced the Epstein Files Transparency Act II**.
+    *   H.R. 9694 would let state attorneys general, victims and members of Congress sue DOJ over noncompliance with the original Act; Senators Merkley and Lujan introduced a Senate version.
+    *   Source: [Source](https://massie.house.gov/news/documentsingle.aspx?DocumentID=395849).
+*   **Jul 15, 2026**: **CNBC: Kathryn Ruemmler interviewed by House Oversight**.
+    *   The former Goldman Sachs legal chief called Epstein a "masterful liar" who used respectable people to legitimize himself; her transcript was released July 29.
+    *   Source: [Source](https://www.cnbc.com/2026/07/15/epstein-files-kathryn-ruemmler-goldman-sachs-house-oversight-interview.html).
+*   **Jul 15, 2026**: **Axios: Vance said the administration "mishandled" the Epstein files**.
+    *   Vice President JD Vance told Joe Rogan "we did mishandle it — especially the communications of it."
+    *   Source: [Source](https://www.axios.com/2026/07/15/jd-vance-epstein-files-joe-rogan-podcast).
+*   **Jul 16, 2026**: **Axios: Tillis conditioned his Blanche vote on a meeting with Epstein survivors**.
+    *   Sen. Thom Tillis said he would not vote to confirm Blanche unless Blanche met survivors; the meeting took place days later and survivors called it dismissive.
+    *   Source: [Source](https://www.axios.com/2026/07/16/tillis-withholds-blanche-support-esptein).
+*   **Jul 20, 2026**: **CNN: French model scout Daniel Siad found dead**.
+    *   Siad, accused of recruiting young women for Epstein and under French investigation, was found dead at his home near Paris; prosecutors opened an inquiry into the cause of death.
+    *   Source: [Source](https://www.cnn.com/2026/07/22/europe/model-recruiter-epstein-dead-france-intl).
+*   **Jul 21, 2026**: **CNN: Raskin opened inquiry into whether Epstein acted as an unregistered foreign agent**.
+    *   House Judiciary Democrats asked DOJ, State and the SDNY U.S. attorney for records on Epstein's contacts with foreign governments and possible FARA violations.
+    *   Source: [Source](https://www.cnn.com/2026/07/21/politics/jeffrey-epstein-democrats-foreign-agent).
+*   **Jul 21, 2026**: **Gates Foundation external review found about 30 meetings but no payments to Epstein**.
+    *   The foundation's summary said staff met Epstein roughly 30 times from 2011 to 2014, found no payments to him and no knowledge of his trafficking.
+    *   Source: [Source](https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/07/external-review).
+*   **Jul 25, 2026**: **Forbes: Judge Sullivan ordered DOJ to submit 10 unredacted records for private review**.
+    *   DOJ complied and acknowledged it had mistakenly redacted one of Epstein's own email addresses while defending most other redactions.
+    *   Source: [Source](https://www.forbes.com/sites/alisondurkee/2026/07/27/could-more-epstein-files-be-released-soon-redacted-docs-will-be-reviewed-by-judge-this-week/).
+*   **Jul 28, 2026**: **Sportico: Casey Wasserman agreed to sell his remaining agency stake**.
+    *   Providence Equity backed a deal for Wasserman's former agency, now called The Team, to buy out his remaining ownership; he remained LA28 chair.
+    *   Source: [Source](https://www.sportico.com/business/finance/2026/providence-equity-wasserman-agency-sale-billion-1234940141/).
+*   **Jul 29, 2026**: **Axios: Senate unanimously opposed any pardon for Ghislaine Maxwell**.
+    *   The Senate adopted S.Res.608 by unanimous consent, expressing that Maxwell should not receive clemency.
+    *   Source: [Source](https://www.axios.com/2026/07/29/ghislaine-maxwell-jeffrey-epstein-senate-pardon).
+*   **Aug 4, 2026**: **NPR: Wyden report said major banks looked the other way on Epstein**.
+    *   The Senate Finance Democrats' report said JPMorgan, Bank of America and Deutsche Bank failed to timely report suspicious Epstein transactions and urged regulators to investigate.
+    *   Source: [Source](https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats).
+*   **Aug 5, 2026**: **New Mexico sued DOJ as Truth Commission issued interim report**.
+    *   New Mexico sued DOJ for access to unredacted Epstein investigative files, and the legislative Truth Commission released a 119-page interim report on Zorro Ranch.
+    *   Source: [Source](https://nmdoj.gov/press-release/new-mexico-sues-doj-for-blocking-access-to-unredacted-epstein-investigative-files-in-zorro-ranch-criminal-probe/).
+*   **Aug 5, 2026**: **Reuters: UK Prime Minister Burnham considering a public inquiry into Epstein**.
+    *   A minister said new Prime Minister Andy Burnham was looking at a public inquiry into Epstein's activities in Britain.
+    *   Source: [Source](https://www.usnews.com/news/world/articles/2026-08-05/uk-pm-burnham-considering-inquiry-into-epstein-minister-says).
+*   **Aug 8, 2026**: **NPR: Senate confirmed Todd Blanche as attorney general**.
+    *   The Senate confirmed Blanche 50-49, with Republican Sens. Susan Collins and Lisa Murkowski voting no.
+    *   Source: [Source](https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general).
+*   **Aug 11, 2026**: **Bloomberg: Judge Preska cleared release of more Maxwell-case records over her objection**.
+    *   Judge Loretta Preska ruled the Epstein Files Transparency Act overrides earlier sealing orders, grand-jury secrecy and Maxwell's privacy claims.
+    *   Source: [Source](https://www.bloomberg.com/news/articles/2026-08-12/epstein-victim-files-cleared-for-release-over-maxwell-s-protest).
+*   **Aug 13, 2026**: **CNN: Judge Sullivan warned DOJ lawyers of possible contempt**.
+    *   "The public has a right to know what the hell is going on in this case," Sullivan said at a hearing on DOJ's redactions.
+    *   Source: [Source](https://www.cnn.com/2026/08/13/politics/epstein-judge-hearing-justice-department-contempt-warning).
+*   **Aug 14, 2026**: **Bloomberg: FBI Vault records showed internal Epstein-file review deliberations**.
+    *   FBI records posted to its FOIA reading room included emails, spreadsheets and training slides on reviewing and redacting the files, plus a 2025 email relaying a Sarah Ferguson contact to Director Kash Patel.
+    *   Source: [Source](https://www.bloomberg.com/news/newsletters/2026-08-14/new-fbi-epstein-emails-show-sarah-ferguson-contacted-kash-patel).
+*   **Aug 22, 2026**: **PA: Met's Mandelson inquiry reported at risk without unredacted U.S. files**.
+    *   Reports said Scotland Yard escalated its request to a formal mutual legal assistance request and feared the case could stall without DOJ records.
+    *   Source: [Source](https://westernmorning.news/2026/08/22/fears-for-mandelson-investigation-as-met-still-doesnt-have-unredacted-epstein-files/).
+*   **Aug 25, 2026**: **Axios: Judge rejected Ghislaine Maxwell's bid to vacate her conviction**.
+    *   Judge Paul Engelmayer's 67-page order called her pro se petition "demonstrably meritless" and based on "speculation, distortions, and/or outright falsehoods."
+    *   Source: [Source](https://www.axios.com/2026/08/25/ghislaine-maxwells-bid-to-overturn-conviction-rejected).
+*   **Aug 26, 2026**: **House Oversight released Jes Staley interview transcript**.
+    *   Staley said he shared confidential and market-sensitive JPMorgan information with Epstein, including Federal Reserve communications during the 2008 crisis.
+    *   Source: [Source](https://oversight.house.gov/release/oversight-committee-releases-jes-staley-transcript/).
+*   **Aug 27, 2026**: **Reuters: Court gave final approval to Bank of America's $72.5 million Epstein settlement**.
+    *   Judge Jed Rakoff approved the class settlement covering women abused by Epstein or his associates between 2008 and 2019.
+    *   Source: [Source](https://www.usnews.com/news/top-news/articles/2026-08-27/court-approves-bank-of-americas-72-5-million-settlement-with-epstein-accusers).
+*   **Aug 28, 2026**: **NPR: Norway's King Harald V died; Mette-Marit became queen**.
+    *   Harald's death made Haakon king and Mette-Marit queen while her past Epstein contacts remained the subject of a parliamentary commission.
+    *   Source: [Source](https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii).
+*   **Sep 1, 2026**: **Spectrum: Massie launched discharge petition for Epstein Files Transparency Act II**.
+    *   Massie began gathering signatures to force a House floor vote on the follow-up bill.
+    *   Source: [Source](https://spectrumnews1.com/ky/louisville/news/2026/09/01/massie-discharge-petition-epstein).
+*   **Sep 3, 2026**: **NPR: Leon Black skipped subpoenaed deposition and sued House Oversight**.
+    *   Black sued the committee and Chairman Comer, arguing the subpoenas for testimony and nondisclosure agreements exceeded its authority.
+    *   Source: [Source](https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit).
+*   **Sep 9, 2026**: **Washington Post: European investigators said DOJ had not answered requests for help**.
+    *   Officials in Poland, Norway and Latvia said mutual legal assistance requests had gone unanswered; DOJ said it has not refused to assist any jurisdiction.
+    *   Source: [Source](https://www.washingtonpost.com/world/2026/09/09/europeans-investigating-epstein-say-doj-has-not-agreed-requests-help/).
+*   **Sep 9, 2026**: **AP: Epstein files "reading room" opened in Dallas**.
+    *   A traveling exhibit displaying the released files in 3,437 bound volumes opened in Dallas during the GOP convention as survivors pushed for prosecutions.
+    *   Source: [Source](https://www.spokesman.com/stories/2026/sep/09/who-are-they-protecting-survivors-push-for-answers/).
+*   **Sep 10, 2026**: **AFP: Paris prosecutor said French probe has 26 alleged victims and new recruiter names**.
+    *   Laure Beccuau said 13 of the 26 alleged victims had never appeared in earlier cases and that investigators had obtained "other names of potential recruiters."
+    *   Source: [Source](https://www.courthousenews.com/frances-epstein-probe-identifies-potential-recruiters/).
+*   **Sep 15, 2026**: **CNN: Kash Patel questioned about Epstein files at Senate Judiciary hearing**.
+    *   Senators pressed the FBI director on unreleased Epstein material and the bureau's handling of the case.
+    *   Source: [Source](https://www.cnn.com/2026/09/15/politics/live-news/kash-patel-hearing-senate).
+*   **Sep 15, 2026**: **House Democrats introduced Survivors' Rights Restitution Act**.
+    *   H.R. 10397 would create a federal restitution program for survivors, including Epstein survivors, funded partly by trafficking forfeiture proceeds.
+    *   Source: [Source](https://www.govinfo.gov/app/details/BILLS-119hr10397ih).
+*   **Sep 16, 2026**: **NPR: House held Leon Black in contempt of Congress**.
+    *   The House unanimously adopted a contempt resolution over Black's defiance of two Oversight subpoenas, clearing the way for a DOJ referral.
+    *   Source: [Source](https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress).
+*   **Sep 16, 2026**: **The Hill: Judge Sullivan set Sept. 24 deadline and warned Blanche of possible contempt**.
+    *   Sullivan found DOJ's arguments against releasing disputed records "without merit" and said a contempt finding would be premature only "at this juncture."
+    *   Source: [Source](https://thehill.com/regulation/court-battles/6095691-doj-epstein-transparency-ruling/).
+*   **Sep 16, 2026**: **Comer introduced the Survivor's Voice Protection Act**.
+    *   H.R. 10389 would void nondisclosure agreements that bar disclosure of alleged sexual abuse, retroactively, and require trusted adults to report suspected grooming.
+    *   Source: [Source](https://oversight.house.gov/release/chairman-comer-introduces-the-survivors-voice-protection-act/).
+*   **Sep 18, 2026**: **Axios: Epstein Files Transparency Act II discharge petition reached 218 signatures**.
+    *   Massie and Khanna said the petition had enough signatures to force a vote, which cannot occur until the House returns after the midterms.
+    *   Source: [Source](https://www.axios.com/2026/09/18/epstein-files-vote-massie-khanna-support).
+*   **Sep 23, 2026**: **CNBC: WSJ reported criminal probe of Epstein estate executors Indyke and Kahn**.
+    *   Federal prosecutors in Manhattan are investigating Epstein's longtime lawyer Darren Indyke and accountant Richard Kahn, who deny wrongdoing; no charges have been filed.
+    *   Source: [Source](https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors-investigation.html).
+*   **Sep 23, 2026**: **Euronews: Terje Rod-Larsen apologized for Epstein ties in NRK documentary**.
+    *   The Oslo Accords diplomat said he deeply regretted the relationship; he and his wife Mona Juul remain under Okokrim investigation.
+    *   Source: [Source](https://www.euronews.com/2026/09/23/norwegian-diplomat-behind-oslo-accords-to-apologise-for-epstein-ties-in-documentary).
+*   **Sep 23, 2026**: **AP: Wexner donations became an issue in Ohio's Senate race**.
+    *   Sherrod Brown's campaign attacked Sen. Jon Husted over about $116,000 in Les Wexner contributions; Wexner testified he never lobbied anyone to block release of the files.
+    *   Source: [Source](https://www.local10.com/news/politics/2026/09/23/billionaires-political-contributions-make-the-epstein-files-a-focus-of-ohios-us-senate-race/).
 <!-- LIVE_TIMELINE:END -->
+
 
 
 

@@ -1,6 +1,7 @@
 # The Zorro Ranch Commission (New Mexico)
 
-> **Status**: **STATE-LEVEL INVESTIGATIVE PROCESS (APPROVED FEB 2026; SEARCH ACTIVITY REPORTED MAR 2026)**
+> **Status**: **STATE-LEVEL INVESTIGATIVE PROCESS (APPROVED FEB 2026; RANCH SEARCHED MAR 2026; TRUTH COMMISSION INTERIM REPORT AUG 5, 2026; STATE SUING DOJ FOR RECORDS)**
+> **Last updated**: Sep 23, 2026
 
 ## Summary
 
@@ -54,6 +55,22 @@ That does not prove the most extreme claims made about the ranch. It does show t
 - [2026 Release](../evidence/2026_Release.md)
 - [Government Response Timeline](../timeline/Government_Response_To_Epstein_Files.md)
 - [March 2026 Escalation Synthesis](../analysis/March_2026_Escalation_Synthesis.md)
+
+## 2026 Update (Mar 17 - Sep 23)
+
+### Status (Sep 23, 2026): Two Parallel Tracks
+
+**1. Criminal (New Mexico Department of Justice)**
+- Attorney General **Raúl Torrez** reopened the criminal investigation in February 2026; the first search of the ranch was on **Mar 9**. [NMDOJ statement](https://nmdoj.gov/press-release/statement-from-the-new-mexico-department-of-justice-regarding-zorro-ranch/), [CNN](https://www.cnn.com/2026/03/10/politics/epstein-zorro-ranch-search-new-mexico)
+- **Jul 9**: Torrez wrote to acting AG Blanche that DOJ was withholding "critical" information. [CNN](https://edition.cnn.com/2026/07/09/politics/epstein-new-mexico-raul-torrez-letter-blanche)
+- **Aug 5-6**: New Mexico **sued DOJ** for access to unredacted investigative files, arguing that "every day that the USDOJ withholds these records, the foundation upon which a New Mexico prosecution could be built erodes." [NMDOJ](https://nmdoj.gov/press-release/new-mexico-sues-doj-for-blocking-access-to-unredacted-epstein-investigative-files-in-zorro-ranch-criminal-probe/), [Courthouse News](https://www.courthousenews.com/new-mexico-rips-feds-for-stonewalling-probe-into-epstein-ranch/)
+- No public findings from the search have been announced.
+
+**2. Legislative (New Mexico Survivors' Truth Commission)**
+- A bipartisan panel of four New Mexico House members chaired by **Rep. Andrea Romero** began work on **Jun 1** and sought evidence from DOJ, the FBI, the Epstein estate, several banks, the state DOJ, and the Santa Fe County Sheriff. [CNN](https://www.cnn.com/2026/06/01/politics/new-mexico-truth-commission-epstein-zorro-ranch-subpoenas)
+- **June**: Issued 14 subpoenas and heard testimony from **Rachel Benavidez**, who says she was abused after being hired as a massage therapist at the ranch, and from Virginia Giuffre's brother and sister-in-law. [ABQ Journal](https://www.abqjournal.com/news/epstein-truth-finding-panel-hears-victim-testimony/3054538)
+- **Aug 5**: Released a **119-page interim report** after 20 subpoenas and a review of the federal releases. It describes a 7,600-acre property with a 28,600-square-foot main residence, roughly 50 employees, and a $7 million annual payroll; says women and girls were flown to Albuquerque and Santa Fe on Epstein's jet; notes flight logs are incomplete and the FAA had not yet complied with its subpoena. It makes **no final findings of wrongdoing**. [Source NM](https://sourcenm.com/2026/08/05/new-mexico-epstein-commission-releases-report-on-investigation-so-far/), [Interim report PDF](https://www.nmlegis.gov/handouts/HISC%20080526%20Item%201%20Interim%20Report.pdf), [NM Political Report](https://nmpoliticalreport.com/2026/08/05/truth-commission-aug-5-meeting/)
+- A final report remains planned for 2027.
 
 ## See Also
 

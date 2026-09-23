@@ -28,3 +28,8 @@ Jeffrey Epstein's network wasn't limited to the West. He aggressively courted in
 
 ## Verdict
 **A Strategic Target.** Epstein clearly viewed the Middle East as a source of "whale" clients (Sovereign Wealth Funds) and a potential escape route. The passport is the strongest physical evidence of this link.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Jun 25**: Judge Sullivan's order in *Phang v. Blanche* covers the redacted "torture video" emails. See [Phang v. Blanche Litigation](The_Phang_v_Blanche_Litigation.md).
+- **Jul 20-21**: Rep. Raskin's FARA inquiry alleges Epstein advanced the interests of Saudi Arabia and Kuwait. See [FARA Inquiry](The_FARA_Foreign_Agent_Inquiry.md).

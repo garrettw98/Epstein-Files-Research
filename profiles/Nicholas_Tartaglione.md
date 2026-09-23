@@ -27,6 +27,12 @@ Nicholas Tartaglione appears in repository custody timelines as Epstein's cellma
 - [Deep Dive: The Death](../topics/Deep_Dive_The_Death.md)
 - [Full Timeline](../timeline/Full_Timeline.md)
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Apr 30, 2026**: The New York Times asked the court to unseal a note Tartaglione says he found after the July 23, 2019 incident.
+- **May 6, 2026**: Judge Kenneth Karas released the purported note without vouching for its authenticity or chain of custody. See [The Purported Suicide Note](../topics/The_Purported_Suicide_Note.md). [Reuters via US News](https://www.usnews.com/news/us/articles/2026-05-06/new-york-judge-releases-purported-epstein-suicide-note)
+- He is serving four consecutive life sentences (June 2024) and has petitioned the President for a pardon. His further public claims about Epstein's death are unverified. [Daily Beast](https://www.thedailybeast.com/epstein-cellmate-nicholas-tartaglione-alleges-trump-administration-wanted-wealthy-financier-dead/)
+
 ## See Also
 
 - [The Death](../topics/The_Death.md)

@@ -24,6 +24,10 @@ Rep. Summer Lee appears in the 2026 oversight timeline for introducing an amendm
 - [The Epstein Files Transparency Act](../topics/The_Epstein_Files_Transparency_Act.md)
 - [Full Timeline](../timeline/Full_Timeline.md)
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **May 12, 2026**: Joined Oversight Democrats' Palm Beach field hearing, saying former U.S. Attorney Alexander Acosta spent more time negotiating with Epstein's lawyers, including Ken Starr and Alan Dershowitz, than listening to survivors. [Summer Lee](https://summerlee.house.gov/newsroom/press-releases/rep-summer-lee-joins-oversight-dems-for-epstein-investigation-in-palm-beach)
+
 ## See Also
 
 - [Pam Bondi](Pam_Bondi.md)

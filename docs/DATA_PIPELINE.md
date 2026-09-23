@@ -93,6 +93,45 @@ make daily-pipeline
 16. `scripts/run_daily_pipeline.sh`
    - End-to-end wrapper: ingest library, derive dataset completeness, ingest primary docs, derive topics, generate claims/entities/quality/triage, generate primary-evidence/redaction reports, load DB, generate reports, generate command center, update 24-hour brief.
 
+## Network Requirements
+
+Several pipeline steps fetch live sources; the rest run entirely on local `raw/` and `derived/` files. If your environment restricts outbound traffic, allow the hosts below or run only the offline steps.
+
+| Step | Script | Needs network | Hosts contacted |
+|---|---|---|---|
+| Library ingest | `scripts/ingest_epstein_library.sh` | Yes | www.justice.gov |
+| Data-set completeness | `scripts/derive_doj_dataset_completeness.py` | Yes | www.justice.gov |
+| Primary authority ingest | `scripts/ingest_primary_authority_docs.py` | Yes | www.courtlistener.com, www.govinfo.gov, www.govtrack.us, judiciary.house.gov, www.justice.gov, oig.justice.gov |
+| Universe ingest | `scripts/ingest_epstein_universe.py` | Yes | www.justice.gov, oig.justice.gov, www.govtrack.us, apnews.com, www.reuters.com, www.bbc.com, www.theguardian.com, www.foxnews.com, www.cnn.com, api.gdeltproject.org |
+| Bondi hearing liveblog | `scripts/ingest_bondi_hearing_liveblog.py` | Yes | judiciary.house.gov, www.cbsnews.com |
+| Media coverage map | `scripts/analyze_epstein_media_coverage.py` | Yes | Major outlet sitemaps (AP, Reuters, BBC, Guardian, Fox, CNN, CBS, ABC, NPR, NYT, WSJ) |
+| Topics, claims, entities, quality, triage, gap register, redaction taxonomy, SQLite load, daily report, coverage dashboard, command center, 24h brief | `derive_primary_doc_topics.py` ... `update_last24h_brief.py` | **No** | — |
+| Live events | `scripts/update_live_events.sh` | **No** (reads `updates/live_events.latest.txt`) | — |
+
+### Offline refresh (when ingest hosts are unreachable)
+
+```bash
+./scripts/update_live_events.sh --as-of "Mon DD, YYYY" --dataset 12 --events-file updates/live_events.latest.txt
+python3 scripts/derive_primary_doc_topics.py
+python3 scripts/generate_claim_candidates.py
+python3 scripts/derive_entity_mentions.py
+python3 scripts/assess_claim_context_quality.py
+python3 scripts/triage_claim_quality_flags.py
+python3 scripts/generate_primary_evidence_gap_register.py
+python3 scripts/generate_redaction_taxonomy_report.py
+python3 scripts/load_epstein_sqlite.py
+python3 scripts/generate_daily_change_report.py
+python3 scripts/generate_coverage_gap_dashboard.py
+python3 scripts/generate_research_command_center.py
+python3 scripts/update_last24h_brief.py
+```
+
+An offline refresh re-derives outputs from the most recent `raw/` snapshots, so data-set counts and primary-document diffs will reflect the last successful ingest, not the current DOJ site. The coverage-gap dashboard's staleness warnings are expected in that case.
+
+### Update log
+
+- **Sep 23, 2026**: Narrative and claim-registry update covering Mar 17 - Sep 23, 2026. The environment used for this update blocked all ingest hosts listed above, so the network steps were **not** re-run; the latest `raw/` snapshots remain those from Mar 17, 2026. Offline steps were re-run against the updated claim registry.
+
 ## Output Map
 
 - `derived/doj_epstein_library/dataset_file_counts_latest.tsv`

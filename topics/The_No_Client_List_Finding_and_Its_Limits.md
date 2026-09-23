@@ -32,6 +32,12 @@ This finding is significant, but should not be overextended beyond what it expli
 - [FAQ](FAQ.md)
 - [Government Cover-Up Evidence Matrix](../analysis/Government_Coverup_Evidence_Matrix.md)
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Jun 10**: Bill Gates told House Oversight that Epstein "never blackmailed me" but that emails raise "a serious probability that he contemplated blackmailing me." That is testimony about one relationship, not evidence of a client list.
+- **Jul 21**: Rep. Raskin's FARA inquiry reframes part of the "leverage" question as possible unregistered foreign-government work, which is more testable against documents. See [FARA Inquiry](The_FARA_Foreign_Agent_Inquiry.md).
+- The unredacted records under court review in [Phang v. Blanche](The_Phang_v_Blanche_Litigation.md) may clarify who was behind several redacted correspondents; until they are released, do not infer names.
+
 ## See Also
 
 - [The DOJ 300+ Name Letter](The_DOJ_300_Name_Letter.md)

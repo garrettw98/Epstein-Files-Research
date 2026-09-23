@@ -1,6 +1,7 @@
 # 🧊 Cold Cases: The Unresolved Leads
 
 > **Status**: **OPEN INVESTIGATIONS / MISSING LINKS**
+> **Last updated**: Sep 23, 2026
 
 While much has been revealed, several specific avenues of investigation remain "cold" or unresolved. These represent the next frontier for researchers.
 
@@ -33,3 +34,17 @@ While much has been revealed, several specific avenues of investigation remain "
 *   **The Fact**: The FBI raid seized computers and hard drives.
 *   **The Barrier**: Reports indicate some drives were heavily encrypted or "scrubbed" (Zorro Ranch).
 *   **The Missing Link**: The contents of these specific drives have never been entered into public evidence, leading to speculation they contain the "Kompromat" videos.
+
+## 6. The Recruiter Network After Daniel Siad (Added Sep 2026)
+*   **The Fact**: Model scout **Daniel Siad**, named nearly 2,000 times in the DOJ files and under French investigation, was found dead at his home near Paris on **Jul 20, 2026** before investigators could question him. Nanterre prosecutors opened an inquiry into the cause of death. [CNN](https://www.cnn.com/2026/07/22/europe/model-recruiter-epstein-dead-france-intl)
+*   **The Follow-Up**: On Sep 10, Paris prosecutor Laure Beccuau said investigators have "other names of potential recruiters" and 26 alleged victims. [Courthouse News](https://www.courthousenews.com/frances-epstein-probe-identifies-potential-recruiters/)
+*   **The Missing Link**: Who were the other scouts, and do the unredacted U.S. records that France and Poland have requested identify them?
+
+## 7. The Redacted Correspondents (Added Sep 2026)
+*   **The Fact**: A federal judge has personally reviewed unredacted versions of 10 disputed records, including emails with hidden senders or recipients (among them a "torture video" thread) and the 2007 draft indictment's co-conspirator names. See [Phang v. Blanche](topics/The_Phang_v_Blanche_Litigation.md).
+*   **The Missing Link**: Whether the court will order public release, and what the names show. Do not infer identities before release.
+
+## 8. The Executors' Records (Added Sep 2026)
+*   **The Fact**: The WSJ reported on Sep 23, 2026 that SDNY is investigating estate executors Darren Indyke and Richard Kahn (both deny wrongdoing). See [Estate Executors Investigation](topics/The_Estate_Executors_Investigation.md).
+*   **The Missing Link**: What records the estate has held since 2019, and whether any are among the unexhausted evidence channels identified in the [March 2026 synthesis](analysis/March_2026_Escalation_Synthesis.md).
+

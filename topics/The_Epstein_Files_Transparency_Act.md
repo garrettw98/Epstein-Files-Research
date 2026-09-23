@@ -4,6 +4,7 @@
 > **Vote**: House 427-1, Senate Unanimous
 > **Signed By**: President Donald Trump
 > **Deadline**: December 19, 2025 (largely missed)
+> **Enforcement (2026)**: *Phang v. Blanche* injunction (Jun 25); DOJ IG audit and GAO review; follow-up bill EFTA II (H.R. 9694) — see [2026 Update](#2026-update-mar-17---sep-23)
 
 ## Summary
 
@@ -280,6 +281,32 @@ The Act was written as a disclosure statute. By March, it had effectively become
 - whether DOJ's publication was complete,
 - whether politically sensitive material was delayed or filtered,
 - and whether Congress could force testimony from the people who managed the disclosure system.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+Between April and September the fight over the Act moved from press conferences into courtrooms and watchdog offices.
+
+### Enforcement Through the Courts
+- **Apr 27**: Journalist Katie Phang sued DOJ (*Phang v. Blanche*, D.D.C.).
+- **Jun 25**: Judge Emmet Sullivan granted a preliminary injunction, finding DOJ had effectively conceded a violation, and ordered it to unredact or justify five categories of records (hidden email correspondents including the "torture video" thread, the 2007 draft indictment's co-conspirator names, a 2019 co-conspirator email, FBI interview notes, and non-English records) plus a full redaction log.
+- **Jul 25**: DOJ produced 10 disputed records unredacted for the judge's private review and admitted it had mistakenly redacted one of Epstein's own email addresses.
+- **Aug 11**: Judge Loretta Preska (S.D.N.Y.) held the Act overrides earlier sealing orders, grand-jury secrecy, and Maxwell's privacy claims.
+- **Aug 13 / Sep 16**: Sullivan warned of contempt and set a **Sept. 24** deadline, calling DOJ's position "without merit." DOJ filed a protective notice of appeal.
+- Full detail: [Phang v. Blanche Litigation](The_Phang_v_Blanche_Litigation.md).
+
+### Watchdog Reviews
+- **Apr 23**: DOJ Inspector General William Blier opened an audit of DOJ's identification, redaction, withholding, and release of records. [UPI](https://www.upi.com/Top_News/US/2026/04/23/justice-department-inspector-general-audit-epstein-files-release/7901776973145/)
+- **Apr 28**: GAO accepted a request from Sens. Merkley, Murkowski, Luján, and Durbin to review DOJ's redaction practices. [Washington Post](https://www.washingtonpost.com/politics/2026/04/28/epstein-files-gao/)
+- **Aug 14**: FBI records posted to its FOIA "Vault" showed internal deliberations on reviewing and redacting the files. [Bloomberg](https://www.bloomberg.com/news/newsletters/2026-08-14/new-fbi-epstein-emails-show-sarah-ferguson-contacted-kash-patel)
+
+### Leadership Change
+- **Apr 2**: AG Pam Bondi was removed; Todd Blanche became acting AG and was confirmed Aug 8. Vice President Vance said on Jul 15 that the administration "mishandled" the release.
+
+### Follow-Up Legislation
+- **Jul 15**: The [Epstein Files Transparency Act II](The_Epstein_Files_Transparency_Act_II.md) (H.R. 9694) was introduced; its discharge petition reached 218 signatures on Sep 18.
+
+### Interstate and International Demand for the Same Records
+- New Mexico sued DOJ (Aug 5) for unredacted files. European investigators in Poland, Norway, Latvia, and the UK said (Sep 9) their mutual legal assistance requests were unanswered. DOJ says it has not refused any jurisdiction.
 
 ## See Also
 

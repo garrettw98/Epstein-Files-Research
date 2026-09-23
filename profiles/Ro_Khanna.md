@@ -39,6 +39,12 @@ Khanna publicly argued that:
 - AP (Feb 11, hearing context): https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd
 - House Judiciary hearing page: https://judiciary.house.gov/committee-activity/hearings/oversight-us-department-justice-5
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Jul 15, 2026**: Co-led the **Epstein Files Transparency Act II** (H.R. 9694) with Reps. Massie and Leger Fernández.
+- **Sep 18, 2026**: Announced with Massie that the discharge petition had **218 signatures**. [Axios](https://www.axios.com/2026/09/18/epstein-files-vote-massie-khanna-support)
+- See [Epstein Files Transparency Act II](../topics/The_Epstein_Files_Transparency_Act_II.md).
+
 ## See Also
 
 - [Thomas Massie](Thomas_Massie.md)

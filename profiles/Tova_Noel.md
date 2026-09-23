@@ -21,6 +21,11 @@ Tova Noel is one of the two MCC correctional officers charged in November 2019 i
 - [Deep Dive: The Death](../topics/Deep_Dive_The_Death.md)
 - [Government Response Timeline](../timeline/Government_Response_To_Epstein_Files.md)
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Mar 13, 2026**: Chairman Comer requested a transcribed interview. [Oversight](https://oversight.house.gov/release/chairman-comer-seeks-transcribed-interview-with-epstein-prison-guard)
+- **May 18, 2026**: Sat for the interview, her first public account. She blamed a "dysfunctional culture" at MCC, described threats and conspiracy theories directed at her, and said she did not recall an FBI-flagged Google search ("latest on Epstein in jail") the morning Epstein was found. The transcript was released with Pam Bondi's. [ABC](https://abcnews.com/US/former-epstein-prison-guard-life-upended-conspiracy-theories/story?id=133638001), [MS NOW](https://www.ms.now/news/tova-noel-epstein-transcript-released-house-oversight), [Oversight](https://oversight.house.gov/release/oversight-committee-releases-additional-epstein-investigation-transcripts/)
+
 ## See Also
 
 - [Michael Thomas](Michael_Thomas.md)

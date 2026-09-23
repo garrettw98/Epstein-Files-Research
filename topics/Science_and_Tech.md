@@ -44,3 +44,8 @@ Epstein used science as a "laundromat" for his reputation. By associating with N
 ## MIT Media Lab
 *   **Joi Ito (Director)**: Resigned after it was revealed he accepted anonymous donations from Epstein (labeled as "Disqualified" in internal records) to fund the lab.
 *   **The Cover-up**: Emails showed the lab actively tried to hide Epstein's involvement.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Bill Gates** testified Jun 10; the **Gates Foundation's** external review (Jul 21) found about 30 meetings with Epstein and no payments to him. See [Bill Gates](../profiles/Bill_Gates.md).
+- **Academia**: Summers and Nowak departures at Harvard. See [The MIT Scandal](The_MIT_Scandal.md).

@@ -58,6 +58,12 @@ Ruemmler has stated she had a professional relationship with Epstein regarding m
 ## Verdict
 **Professional Enabler / Crisis Fixer.** Ruemmler represents the **legitimization** of Epstein. A former White House Counsel traveled with him, advised his associates through #MeToo crises, received lavish gifts, was named in his will, and called him "Uncle Jeffrey." Her position at Goldman Sachs is now under scrutiny.
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Jun 30, 2026**: Retired as Goldman Sachs chief legal officer and general counsel; Bloomberg Law reported a **$25 million** pay package for 2025. Deputy GC **Michael Bosworth** became acting general counsel in July. [Bloomberg Law](https://news.bloomberglaw.com/esg/goldman-legal-chief-with-epstein-ties-to-exit-with-25-million), [Law360](https://www.law360.com/pulse/in-house/articles/2496198), [Goldman 8-K](https://www.sec.gov/Archives/edgar/data/886982/000119312526105328/gs-20260309.htm)
+- **Jul 15, 2026**: House Oversight transcribed interview. She said she saw no evidence of criminal conduct and would have "immediately reported him to law enforcement," called Epstein "a masterful liar" who "used me and other respectable people to legitimize his standing," and said Epstein referrals made her former law firm "single-digit millions." The 172-page transcript was released Jul 29. [CNBC](https://www.cnbc.com/2026/07/15/epstein-files-kathryn-ruemmler-goldman-sachs-house-oversight-interview.html), [ABC](https://abcnews.com/US/kathy-ruemmler-former-top-lawyer-goldman-sachs-calls/story?id=134726450), [Oversight](https://oversight.house.gov/release/oversight-committee-releases-kathryn-ruemmler-transcript/)
+- **Jul 29, 2026**: The family of an Epstein accuser criticized her statement that the accuser's assertions "lacked inherent credibility." [CNN](https://www.cnn.com/2026/07/29/politics/kathy-ruemmler-epstein)
+
 ## See Also
 
 - [The MeToo Connection](../topics/The_MeToo_Connection.md) - Epstein's #MeToo tracking

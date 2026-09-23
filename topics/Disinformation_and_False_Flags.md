@@ -39,3 +39,9 @@ Disinformation acts as "chaff" to confuse radar.
 **False Flags.** Whether organic mass delusions or intentional psychological operations, these theories successfully **protected the guilty** by burying the boring, complex truth (shell companies, plea deals, intelligence assets) under a mountain of sensational, easily debunked lies.
 
 *   **Critical Distinction (2026)**: It is vital to separate QAnon's "Satanic" antisemitic tropes from the **verified** "Zionist Supremacist" ideology revealed in Epstein's own emails. One is a cartoon villain caricature; the other is a documented political worldview involving eugenics and statecraft.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **The purported suicide note** (unsealed May 6) circulated widely as proof of Epstein's state of mind. Its authorship is unverified. See [The Purported Suicide Note](The_Purported_Suicide_Note.md).
+- **Unverified allegations in FBI files**: DOJ's March release of FBI interview memos containing an uncorroborated allegation against President Trump shows how raw tips can be misread as findings. DOJ's own release warning says the production may include fake or falsely submitted material.
+- **Island trespass videos** became a 2026 social-media genre; content filmed there does not establish anything about historical events. See [The Island Secrets](The_Island_Secrets.md).

@@ -82,6 +82,13 @@ The Gates-Epstein relationship illustrates a key pattern:
 
 The February 2026 statements acknowledge the relationship was a mistake but deny any wrongdoing.
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Jun 10, 2026**: Nearly six-hour House Oversight transcribed interview. Said he "never witnessed nor had any indication that Epstein was engaged in ongoing criminal conduct"; acknowledged extramarital affairs and said Epstein used that knowledge to "pressure me to re-engage with him"; "He never blackmailed me, but looking at these emails, it raises a serious probability that he contemplated blackmailing me." Transcript released Jun 23. [NPR](https://www.npr.org/2026/06/10/nx-s1-5851609/bill-gates-jeffrey-epstein-files-congress-pam-bondi), [PBS](https://www.pbs.org/newshour/politics/what-to-know-about-bill-gates-relationship-with-jeffrey-epstein-as-he-is-interviewed-in-house-probe), [Transcript PDF](https://oversight.house.gov/wp-content/uploads/2026/06/Bill-Gates-Transcript.pdf)
+- **Jul 15, 2026**: Warren Buffett called Gates's Epstein relationship "distasteful" but said "no one bats a thousand"; Buffett said his fortune will be given away through his children's foundations rather than the Gates Foundation, and that Epstein did not drive that decision. [CNBC](https://www.cnbc.com/2026/07/15/warren-buffett-calls-bill-gates-actions-with-epstein-distasteful-but-people-make-mistakes.html), [ABC/AP](https://abcnews.com/US/wireStory/buffett-gates-epstein-ties-distasteful-drive-buffetts-charitable-134790110)
+- **Jul 21, 2026**: The Gates Foundation's external review found roughly **30 meetings** with Epstein from 2011 to 2014 despite staff concerns, **no payments** to Epstein, and no evidence foundation officials knew of his trafficking. The engagement centered on a proposed donor-advised fund that was dropped. [Gates Foundation](https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/07/external-review), [Fortune](https://fortune.com/2026/07/21/bill-gates-met-epstein-30-times-gates-foundation-new-review/)
+- **Aug 26, 2026**: Axios reported the Epstein questions following Gates's AI initiatives. [Axios](https://www.axios.com/2026/08/26/gates-confronts-the-epstein-questions-hanging-over-his-ai-push)
+
 ## See Also
 
 - [2026 Release](../evidence/2026_Release.md) - Document details

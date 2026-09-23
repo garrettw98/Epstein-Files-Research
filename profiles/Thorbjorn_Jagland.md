@@ -71,6 +71,13 @@ Jagland represents a key node in Epstein's strategy of cultivating **heads of st
 ## Verdict
 **Under Criminal Investigation for Aggravated Corruption.** Jagland's case is among the most serious to emerge from the 2026 files. A former prime minister asking a convicted sex offender for money to buy an apartment, staying at his properties across multiple countries, and offering to broker meetings with Russian foreign ministers represents a profound compromise of public office. The immunity question remains unresolved.
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Feb 12-13, 2026**: Police searched his Oslo residence and two other properties; his lawyers said Økokrim **charged him with aggravated corruption**. He "denies all charges." The Council of Europe's Committee of Ministers waived his immunity at Norway's request. [CNN](https://www.cnn.com/2026/02/13/europe/norway-pm-jagland-charged-epstein-ties-intl-hnk), [Al Jazeera](https://www.aljazeera.com/news/2026/2/12/norwegian-police-search-former-pm-jaglands-properties-over-epstein-ties)
+- **Feb 24-25, 2026**: Hospitalized; his lawyer Anders Brosveet cited "the strain arising in the wake of this case." [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-25/norway-s-former-pm-jagland-hospitalized-amid-epstein-scandal)
+- **Apr 15, 2026**: The Storting appointed a commission of inquiry into Norwegian ties to Epstein. See [The Norway Scandal](../topics/The_Norway_Scandal.md).
+- **Status**: Charged, not tried; denies wrongdoing. He is the first former head of government charged in connection with Epstein.
+
 ## See Also
 
 - [Crown Princess Mette-Marit](Crown_Princess_Mette_Marit.md) - Fellow Norwegian figure in files

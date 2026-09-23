@@ -45,6 +45,11 @@ To move from allegation to documented finding, the repository would need:
   - https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2
   - https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Aug 14**: The FBI posted internal emails, spreadsheets, and training slides about reviewing and redacting the files to its FOIA reading room, the first primary-source window into the bureau's process. They should be reviewed against Rep. Khanna's February allegation that the FBI removed survivor statements naming powerful men. [Bloomberg](https://www.bloomberg.com/news/newsletters/2026-08-14/new-fbi-epstein-emails-show-sarah-ferguson-contacted-kash-patel), [FBI Vault](https://vault.fbi.gov/jeffrey-epstein)
+- **Sep 15**: FBI Director Kash Patel was questioned about unreleased Epstein material at the Senate Judiciary Committee's oversight hearing. [CNN](https://www.cnn.com/2026/09/15/politics/live-news/kash-patel-hearing-senate)
+
 ## See Also
 
 - [Redaction and Context Scandal](The_Redaction_and_Context_Scandal.md)

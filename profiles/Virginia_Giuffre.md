@@ -30,3 +30,15 @@ Virginia didn't just survive; she fought back.
 
 ## Why She Matters
 Without Virginia Giuffre, there would be no "Epstein Files." Her refusal to stay silent when the world called her a liar is the only reason the public knows the truth today.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Feb 2026**: Sen. Chuck Schumer and Rep. Teresa Leger Fernández introduced **"Virginia's Law,"** named for her, to eliminate the federal statute of limitations for key civil claims by trafficking survivors. [The Hill](https://thehill.com/homenews/house/5731588-epstein-survivors-push-for-justice/)
+- **May 11, 2026**: *Nobody's Girl* (with Amy Wallace; Knopf, Oct 2025) won **Book of the Year** and Nonfiction Narrative Book of the Year at the British Book Awards, and shared the Freedom to Publish award. [Publishers Weekly](https://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/100385-british-books-awards-honor-giuffre-wynn-williams.html)
+- **May 12, 2026**: Her brother Sky Roberts and sister-in-law Amanda Roberts testified at Oversight Democrats' Palm Beach field hearing; in June they also testified before New Mexico's Truth Commission. [ABQ Journal](https://www.abqjournal.com/news/epstein-truth-finding-panel-hears-victim-testimony/3054538)
+- **Estate**: Her sons have asked Western Australia's Supreme Court to appoint them administrators of her estate, including memoir revenue; competing applications were filed by a former housekeeper and a former lawyer. [Newsweek](https://www.newsweek.com/virginia-giuffres-sons-seek-control-of-estate-potential-memoir-revenue-11127518)
+- **May 22, 2026**: UK police said they would take seriously any report from a second woman who alleges Epstein sent her to Andrew in 2010. See [Prince Andrew](Prince_Andrew.md).
+
+## See Also
+
+- [How to Help](../topics/How_to_Help.md) · [The Victim Compensation Fund](../topics/The_Victim_Compensation_Fund.md)

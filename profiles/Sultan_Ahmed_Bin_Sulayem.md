@@ -64,6 +64,11 @@ DP World announced **Essa Kazim** as interim chairman and **Yuvraj Narayan** as 
 
 Source: [Associated Press, Feb 14, 2026](https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490)
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Jun 25, 2026**: Judge Sullivan's injunction in *Phang v. Blanche* covers the redacted "torture video" email exchanges. In February, Rep. Massie and DOJ had identified one correspondent in that thread as Bin Sulayem. See [Phang v. Blanche Litigation](../topics/The_Phang_v_Blanche_Litigation.md).
+- **Status**: Not charged; reporting has noted no evidence he took part in Epstein's trafficking.
+
 ## See Also
 
 - [2026 Release](../evidence/2026_Release.md) - Document release details

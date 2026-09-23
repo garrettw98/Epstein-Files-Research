@@ -1,7 +1,8 @@
 # International Investigations (2026)
 
 > **Status**: **ONGOING**
-> **Countries**: Poland, Lithuania, Latvia, Turkey, Slovakia, United Kingdom, Norway, France (disinformation + inquiry activity), Sweden
+> **Countries**: Poland, Lithuania, Latvia, Turkey, Slovakia, United Kingdom, Norway, France (criminal probe; 26 alleged victims as of Sep 10, 2026), Sweden, Brazil
+> **Last updated**: Sep 23, 2026 — see the "2026 Update (Mar 17 - Sep 23)" section below
 > **Trigger**: January 2026 DOJ Document Release
 
 ## Summary
@@ -352,6 +353,40 @@ Global scrutiny means:
 - Multiple jurisdictions examining evidence
 - Potential for new witnesses
 - Continued exposure
+
+## 2026 Update (Mar 17 - Sep 23)
+
+### Country-by-Country Status (Sep 23, 2026)
+
+| Country | Development since Mar 17 | Status | Key source |
+| :--- | :--- | :--- | :--- |
+| **United Kingdom** | Andrew (arrested Feb 19) and Mandelson (arrested Feb 23) remain under investigation; Mandelson failed-vetting report (Apr 16); **Starmer resigned** (Jun 22); PM Burnham considering a public inquiry (Aug 5); Met's Mandelson case reportedly stalled without U.S. files (Aug 22) | Investigations open; no charges | [The UK Reckoning](The_UK_Reckoning_2026.md) |
+| **Norway** | Storting appointed commission of inquiry (Apr 15; first met May 5); Mette-Marit became queen (Aug 28); Rød-Larsen apology (Sep 23); hearings scheduled Sep 30 - Oct 1 | Jagland and Juul charged; Rød-Larsen under investigation | [The Norway Scandal](The_Norway_Scandal.md) |
+| **France** | 15 women urged a Gérald Marie probe (Mar 20); ~10 new alleged victims (May 17); **Daniel Siad found dead** (Jul 20); 26 alleged victims and new recruiter names (Sep 10) | Investigation expanding | [The French Connection](The_French_Connection.md) |
+| **Poland** | "Investigation Team No. 5" preliminary inquiry (Mar 12); National Prosecutor's Office probing trafficking 2009-2019; waiting since April for U.S. response | Awaiting U.S. records | [Notes From Poland](https://notesfrompoland.com/2026/03/12/polish-prosecutors-investigate-alleged-human-trafficking-by-epstein-linked-group/) |
+| **Lithuania** | Preparing formal U.S. legal-assistance request (Apr 2) | Preliminary proceeding | [Reuters via US News](https://www.usnews.com/news/world/articles/2026-04-02/lithuania-to-seek-us-help-in-epstein-linked-trafficking-probe) |
+| **Latvia** | Several U.S. requests reported unanswered | Trafficking investigation open | [Washington Post](https://www.washingtonpost.com/world/2026/09/09/europeans-investigating-epstein-say-doj-has-not-agreed-requests-help/) |
+
+### The U.S. Evidence Bottleneck
+On **Sep 9, 2026**, the Washington Post reported that law-enforcement officials in Poland, Norway, and Latvia had received no response to mutual legal assistance requests, and that British investigators were still seeking records for the Mandelson case. DOJ said it does not comment on MLA requests but "has not refused to assist any jurisdiction." [Washington Post](https://www.washingtonpost.com/world/2026/09/09/europeans-investigating-epstein-say-doj-has-not-agreed-requests-help/), [Forbes](https://www.forbes.com/sites/alisondurkee/2026/09/09/doj-so-far-isnt-helping-european-countries-investigate-epstein-officials-say/)
+
+### Added Timeline Entries
+| Date | Country | Event |
+| :--- | :--- | :--- |
+| Feb 13, 2026 | Norway | Jagland formally charged with aggravated corruption |
+| Feb 19, 2026 | UK | Andrew Mountbatten-Windsor arrested |
+| Feb 23, 2026 | UK | Peter Mandelson arrested |
+| Feb 26, 2026 | Norway/WEF | Børge Brende resigned as WEF president |
+| Mar 20, 2026 | Norway | Mette-Marit NRK interview |
+| Apr 2, 2026 | Lithuania | U.S. legal-assistance request announced |
+| Apr 15, 2026 | Norway | Commission of inquiry appointed |
+| Jun 22, 2026 | UK | Starmer announced resignation |
+| Jul 20, 2026 | France | Daniel Siad found dead |
+| Aug 5, 2026 | UK | Burnham considering public inquiry |
+| Aug 28, 2026 | Norway | Mette-Marit became queen |
+| Sep 9, 2026 | Multiple | European MLA requests reported unanswered |
+| Sep 10, 2026 | France | Paris prosecutor: 26 alleged victims |
+| Sep 23, 2026 | Norway | Rød-Larsen apology in NRK documentary |
 
 ## See Also
 

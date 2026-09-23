@@ -140,3 +140,7 @@ Was Jeffrey Epstein murdered?
 
 **The Official Record stands as Suicide.**
 **The Public Record remains permanently unconvinced.**
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- See [The Purported Suicide Note](The_Purported_Suicide_Note.md) (unsealed May 6, unauthenticated) and [Tova Noel](../profiles/Tova_Noel.md) (House Oversight interview May 18). Neither resolves the open questions about the night of Aug 9-10, 2019; the guard account adds context on staffing and culture, and the note's authorship has not been established.

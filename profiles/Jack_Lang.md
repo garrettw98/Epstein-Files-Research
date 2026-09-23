@@ -23,6 +23,11 @@ This profile tracks **reported investigative activity**, not a criminal finding.
 - Reuters: https://www.reuters.com/world/french-police-raid-arab-world-institute-epstein-linked-probe-into-jack-lang-2026-02-16/
 - BBC: https://www.bbc.com/news/articles/c8eg7rllgl7o
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Status (Sep 23, 2026)**: The national financial prosecutor's preliminary investigation into Lang and his daughter Caroline (laundering of aggravated tax fraud, tied to the USVI company Prytanee LLC) remains open; no charges reported. Lang denies wrongdoing. He resigned as president of the Arab World Institute in February. [Al Jazeera](https://www.aljazeera.com/news/2026/2/7/france-to-investigate-former-culture-minister-lang-over-epstein-links), [Euronews](https://www.euronews.com/2026/02/09/former-french-culture-minister-quits-arab-world-institute-over-epstein-ties)
+- The broader Paris investigation into Epstein's French network expanded to 26 alleged victims by September. See [The French Connection](../topics/The_French_Connection.md).
+
 ## See Also
 
 - [The French Connection](../topics/The_French_Connection.md)

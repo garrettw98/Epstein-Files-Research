@@ -114,3 +114,15 @@ These are additional high-value gaps after adding the first three process topics
 2. Add a `primary_evidence_gap_register.md` report listing all `verified_secondary` claims lacking Tier-1 links.
 3. Expand primary-document ingest targets to include additional docket-level records tied to open `p2` claims.
 4. Add a formal redaction taxonomy table (`victim_privacy`, `ongoing_investigation`, `national_security`, `unknown`) for dispute tracking.
+
+## Status Update (Sep 23, 2026)
+
+Added in the Sep 23, 2026 update:
+- Topics: [Phang v. Blanche Litigation](../topics/The_Phang_v_Blanche_Litigation.md), [Epstein Files Transparency Act II](../topics/The_Epstein_Files_Transparency_Act_II.md), [House Oversight Witness Program (2026)](../topics/The_House_Oversight_Witness_Program_2026.md), [The UK Reckoning (2026)](../topics/The_UK_Reckoning_2026.md), [Estate Executors Investigation](../topics/The_Estate_Executors_Investigation.md), [The Purported Suicide Note](../topics/The_Purported_Suicide_Note.md), [FARA Foreign-Agent Inquiry](../topics/The_FARA_Foreign_Agent_Inquiry.md).
+- Profiles: [Katie Phang](../profiles/Katie_Phang.md), [Doug Band](../profiles/Doug_Band.md), [Ted Waitt](../profiles/Ted_Waitt.md), [Darren Indyke](../profiles/Darren_Indyke.md), [James Comer](../profiles/James_Comer.md), [Robert Garcia](../profiles/Robert_Garcia.md), [Børge Brende](../profiles/Borge_Brende.md), [Larry Summers](../profiles/Larry_Summers.md), [Keir Starmer](../profiles/Keir_Starmer.md).
+
+Still open for a future pass:
+- Profiles for Philip Levine and Frédéric Fekkai were deliberately **not** created: they are named only in one witness's allegations, which both deny. They are covered in context in [House Oversight Witness Program (2026)](../topics/The_House_Oversight_Witness_Program_2026.md) and [Sarah Kellen](../profiles/Sarah_Kellen.md).
+- Candidate profiles: Emmet Sullivan (judge), Raúl Torrez (NM AG), Andrea Romero (NM Truth Commission chair), Laure Beccuau (Paris prosecutor), Andy Burnham (UK PM), Ed Gallrein.
+- Track outcomes: Sullivan's Sept. 24 deadline, the estate settlement's final approval, the Leon Black contempt referral, IG/GAO reports, Norway's Sep 30 - Oct 1 hearings, and the EFTA II vote after Nov 9.
+

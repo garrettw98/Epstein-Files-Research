@@ -26,3 +26,7 @@ Jeffrey Epstein wasn't just a financier; he acted as a rogue diplomat, attemptin
 
 ## Verdict
 Epstein operated a "Shadow State Department." He leveraged his connections (Barak, Prince Andrew, Richardson) to insert himself into high-stakes international diplomacy, likely to make himself indispensable to intelligence agencies and secure protection.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- See [The FARA Foreign-Agent Inquiry](The_FARA_Foreign_Agent_Inquiry.md) (opened Jul 21, 2026), which frames Epstein's foreign-government contacts as potential unregistered lobbying.

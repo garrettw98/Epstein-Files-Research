@@ -36,6 +36,10 @@ Those developments push the executors closer to the center of the modern story. 
 - They are one of the few actor groups who connect the pre-2019 operating system to the post-2019 archive.
 - Any gap in the public record naturally points investigators back toward whoever managed the estate and its paperwork.
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Sep 23, 2026**: The Wall Street Journal reported federal prosecutors in Manhattan are investigating executors **Darren Indyke** and **Richard Kahn**; both deny wrongdoing and neither has been charged. See [Estate Executors Investigation](../topics/The_Estate_Executors_Investigation.md) and [Darren Indyke](Darren_Indyke.md).
+
 ## See Also
 
 - [Richard Kahn](Richard_Kahn.md)

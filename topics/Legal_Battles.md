@@ -39,3 +39,19 @@ The "Epstein Case" isn't one lawsuit; it's a tangled web of dozens of civil and 
     *   **JPMorgan**: Paid **$290 million**.
     *   **Deutsche Bank**: Paid **$75 million**.
 *   **Significance**: Proved that the financial system knew about the trafficking and profited from it.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+### Active and Resolved Matters (2026)
+| Matter | Court | Status (Sep 23) |
+| :--- | :--- | :--- |
+| *Phang v. Blanche* (Transparency Act compliance) | D.D.C., Judge Sullivan | Injunction; Sept. 24 deadline; DOJ protective appeal |
+| *United States v. Maxwell* post-conviction petition | S.D.N.Y., Judge Engelmayer | **Denied** Aug 25 |
+| Maxwell-case records release | S.D.N.Y., Judge Preska | Release authorized over Maxwell's objection (Aug 11) |
+| Estate class settlement (Indyke/Kahn) | S.D.N.Y., Judge Subramanian | Preliminary approval Mar 3; final hearing Sep 16 |
+| Bank of America class settlement | S.D.N.Y., Judge Rakoff | **Final approval** Aug 27 ($72.5M) |
+| Black v. House Oversight | D.D.C. | Pending |
+| Trump v. Dow Jones / WSJ (birthday letter) | S.D. Fla. | Dismissed Apr 13; refiled May 28 |
+| Apollo securities class action | Federal court | Filed Mar 2 |
+| New Mexico v. DOJ (records) | Federal court | Filed Aug 2026 |
+| Tartaglione note unsealing | S.D.N.Y., Judge Karas | Released May 6 |

@@ -32,3 +32,9 @@ Epstein didn't just operate in one place. He had a network of luxury properties 
 ## 🇫🇷 The Paris Apartment
 *   **Location**: Avenue Foch, Paris.
 *   **Significance**: Epstein was returning from here when he was arrested in 2019.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Zorro Ranch**: searched by New Mexico investigators (Mar 9); described in the Truth Commission's Aug 5 interim report as 7,600 acres with a 28,600-square-foot residence and about 50 staff. See [The Zorro Ranch Commission](The_Zorro_Ranch_Commission.md).
+- **Little St. James**: 2026 trespassing incidents, arrests, and a lawsuit by the owner. See [The Island Secrets](The_Island_Secrets.md).
+- **301 East 66th Street (Manhattan)**: Israeli officials installed security there for Ehud Barak starting in 2016. See [The Israel Connection](The_Israel_Connection.md).

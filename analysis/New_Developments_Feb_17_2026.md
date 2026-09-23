@@ -14,8 +14,10 @@ This memo captures newly surfaced developments after the Feb 15 update cycle and
      - https://www.bbc.com/news/articles/c8eg7rllgl7o
 
 2. **Tom Pritzker step-down announcement (Feb 16, 2026)**
-   - Reuters reported Hyatt's executive chairman said he would step down by end of 2026 and described his Epstein ties as "terrible judgment."
+   - Hyatt announced its executive chairman retired effective immediately and would not seek board re-election; he described his Epstein ties as "terrible judgment."
+   - *Correction (Sep 23, 2026): this entry originally said he would step down "by end of 2026." Hyatt's release shows the retirement was immediate.*
    - Source:
+     - https://newsroom.hyatt.com/021626-Hyatt-Announces-Thomas-J-Pritzker-Retires-as-Executive-Chairman-and-Will-Not-Seek-Re-Election-to-Board-of-Directors-Mark-S-Hoplamazian-Assumes-Combined-Role-of-Chairman-of-the-Board-and-Chief-Executive-Officer
      - https://www.reuters.com/sustainability/hyatt-executive-chairman-pritzker-steps-down-cites-terrible-judgment-epstein-2026-02-16/
 
 3. **New Mexico Zorro Ranch commission approval (Feb 17, 2026)**

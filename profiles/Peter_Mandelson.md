@@ -77,6 +77,16 @@ This is one of the most serious cases in the Epstein files — a senior governme
 ## Verdict
 **Under Criminal Investigation.** The most consequential political fallout from the 2026 files outside the United States. Mandelson has resigned from his party, the House of Lords, and faces prosecution for misconduct in public office.
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Feb 23-24, 2026**: **Arrested** by the Metropolitan Police at a Camden address on suspicion of misconduct in public office (allegedly passing market-sensitive information to Epstein as business secretary), then bailed. [CNN](https://www.cnn.com/2026/02/23/uk/peter-mandelson-arrested-gbr-intl)
+- **Mar 6, 2026**: No longer on bail; released under investigation. [ITV](https://www.itv.com/news/2026-03-06/lord-mandelson-no-longer-on-bail-as-hes-released-under-investigation-by-police)
+- **Apr 16, 2026**: Reporting revealed he **failed security vetting** in late January 2025 but Foreign Office officials overrode the recommendation. [Al Jazeera](https://www.aljazeera.com/news/2026/4/16/uks-starmer-under-fire-over-report-mandelson-failed-security-vetting)
+- **Jun 1, 2026**: A second batch of government files on his appointment was published. [PBS](https://www.pbs.org/newshour/world/publication-of-additional-mandelson-files-brings-more-bad-news-for-keir-starmer)
+- **Jun 22, 2026**: Keir Starmer, who appointed him, announced his resignation. See [Keir Starmer](Keir_Starmer.md).
+- **Aug 22, 2026**: Reports said the Met inquiry could collapse without unredacted U.S. files; the request was escalated to formal mutual legal assistance, which could take up to a year. [PA via Western Morning News](https://westernmorning.news/2026/08/22/fears-for-mandelson-investigation-as-met-still-doesnt-have-unredacted-epstein-files/)
+- **Status**: Not charged; denies wrongdoing. See [The UK Reckoning (2026)](../topics/The_UK_Reckoning_2026.md).
+
 ## See Also
 
 - [International Investigations](../topics/International_Investigations.md) - UK criminal probe

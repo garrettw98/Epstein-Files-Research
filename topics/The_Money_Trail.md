@@ -34,3 +34,10 @@ The **JPMorgan ($290M)** and **Deutsche Bank ($75M)** settlements revealed the m
 *   **Apollo Global Management**: Leon Black paid Epstein **$158 million**.
 *   **The Explanation**: Tax advice.
 *   **The Reality**: This massive injection of cash (2012-2017) kept Epstein afloat after he lost most other clients post-2008 conviction. It effectively funded the last decade of his operation.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Leon Black**: Senate Finance figures put his payments to Epstein at more than $170 million. Black was held in contempt of Congress on Sep 16 after refusing NDA questions and a subpoenaed deposition. See [Leon Black](../profiles/Leon_Black.md).
+- **Bank flows**: Sen. Wyden's Aug 4 report documents suspicious-activity reporting failures at JPMorgan, Bank of America, Deutsche Bank, and BNY Mellon (about $400 million in 270 wires). See [The Banks](The_Banks.md).
+- **Ted Waitt** told House Oversight (Apr 30) he paid Maxwell $7.2 million after their breakup. See [Ted Waitt](../profiles/Ted_Waitt.md).
+- **Executors**: SDNY reportedly opened a criminal investigation into Darren Indyke and Richard Kahn (Sep 23). See [Estate Executors Investigation](The_Estate_Executors_Investigation.md).

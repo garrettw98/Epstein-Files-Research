@@ -33,6 +33,10 @@ This topic tracks the reported use of visa pathways to move young women into U.S
 - [The Recruitment Pipeline](The_Recruitment_Pipeline.md)
 - [COLD_CASES](../COLD_CASES.md)
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- France's probe widened to 26 alleged victims and new recruiter names (Sep 10), with investigators focused on modeling agencies and intermediaries. Daniel Siad died Jul 20 before he could be questioned. See [The French Connection](The_French_Connection.md).
+
 ## See Also
 
 - [The Eastern European Pipeline](The_Eastern_European_Pipeline.md)

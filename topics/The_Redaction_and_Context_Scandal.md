@@ -98,3 +98,9 @@ The process question this raises:
 - [The Epstein Files Transparency Act](The_Epstein_Files_Transparency_Act.md)
 - [Government Cover-Up Evidence Matrix](../analysis/Government_Coverup_Evidence_Matrix.md)
 - [Government Response Timeline](../timeline/Government_Response_To_Epstein_Files.md)
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Courts**: Judge Sullivan (Jun 25) ordered DOJ to unredact or justify redactions and produce a full redaction log; DOJ later admitted it had mistakenly redacted one of Epstein's own email addresses (Jul 25). See [Phang v. Blanche Litigation](The_Phang_v_Blanche_Litigation.md).
+- **Watchdogs**: DOJ Inspector General audit (Apr 23) and GAO review (Apr 28) of redaction practices.
+- **FBI internal records** (Aug 14): emails, spreadsheets, and training slides on how the files were reviewed and redacted were posted to the FBI Vault. [Bloomberg](https://www.bloomberg.com/news/newsletters/2026-08-14/new-fbi-epstein-emails-show-sarah-ferguson-contacted-kash-patel)

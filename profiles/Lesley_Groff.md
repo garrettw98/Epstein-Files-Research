@@ -32,3 +32,15 @@ Attorney **Michael Bachner**, representing Groff, stated:
 ## Post-Epstein Life
 *   **Defense**: Her lawyers have vehemently denied she knew about the sexual abuse, portraying her as a loyal secretary who just managed a busy billionaire's schedule.
 *   **Current Status**: She lives in Connecticut. She has not been charged, though she was named as a co-conspirator in the original 2008 federal indictment draft that was never filed — and her co-conspirator designation was formally confirmed in the February 2026 unredaction.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Jun 9, 2026**: About eight hours of House Oversight questioning. Groff, who worked for Epstein from 2001 until his July 2019 arrest, said she was kept "on the outside of his perverted life" and "would never have sat silent if I knew of his crimes." Transcript released Jun 23. [CNBC](https://www.cnbc.com/2026/06/09/epstein-lesley-groff-house-oversight-committee.html), [ABC](https://abcnews.com/US/former-epstein-secretary-lesley-groff-denies-awareness-boss/story?id=133925464), [Transcript PDF](https://oversight.house.gov/wp-content/uploads/2026/06/Lesley-Groff-Transcript.pdf)
+- **Jul 9, 2026**: Epstein survivors told CNN that Groff lied to Congress about key details. [CNN](https://www.cnn.com/2026/07/09/politics/lesley-groff-jeffrey-epstein-survivors)
+- **Jul 10, 2026**: A February 2010 Groff email about scheduling Epstein's evenings with Mandelson, Jes Staley, and Jamie Dimon was cited in Sen. Warren's letter to Dimon.
+- **Status**: Not charged. Her lawyer has said she was told she was not being prosecuted.
+
+## See Also
+
+- [House Oversight Witness Program (2026)](../topics/The_House_Oversight_Witness_Program_2026.md)
+- [The Household Staff](The_Household_Staff.md) · [The Co-Conspirator Designation Process](../topics/The_Co_Conspirator_Designation_Process.md)

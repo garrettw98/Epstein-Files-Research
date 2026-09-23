@@ -21,3 +21,11 @@ If reading this database makes you angry, here are verified organizations that f
 
 ## The Lesson
 Epstein thrived because people looked away. The "House Managers," the pilots, the hotel staff—they all saw something. The lesson is: **See something, say something.**
+
+## 2026 Update (Mar 17 - Sep 23)
+
+### Pending Legislation to Follow (as of Sep 23, 2026)
+- **Epstein Files Transparency Act II** (H.R. 9694): enforcement of the original Act; House vote possible after Nov 9. [Congress.gov](https://www.congress.gov/bill/119th-congress/house-bill/9694/text/ih)
+- **Survivor's Voice Protection Act** (H.R. 10389): voids NDAs that silence abuse survivors. [Oversight](https://oversight.house.gov/release/chairman-comer-introduces-the-survivors-voice-protection-act/)
+- **Survivors' Rights Restitution Act** (H.R. 10397): federal restitution program. [GovInfo](https://www.govinfo.gov/app/details/BILLS-119hr10397ih)
+- **"Virginia's Law"**: removes the federal statute of limitations for key civil claims by trafficking survivors. [The Hill](https://thehill.com/homenews/house/5731588-epstein-survivors-push-for-justice/)

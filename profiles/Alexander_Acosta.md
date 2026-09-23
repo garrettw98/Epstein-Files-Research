@@ -34,6 +34,11 @@ Alexander Acosta served as U.S. Attorney for the Southern District of Florida du
 - [The Draft Indictment](../topics/The_Draft_Indictment.md)
 - [The Official Reports](../topics/The_Official_Reports.md)
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **May 12, 2026**: Oversight Democrats released an interim staff report, *"The Price of Non-Prosecution: The Evolution of Epstein's Trafficking Network, from Palm Beach to Paris and Beyond,"* arguing Epstein's global network grew after the 2008 deal Acosta's office negotiated. [Oversight Democrats](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-oversight-democrats-florida-democrats-hold-hearing-on-epstein-investigation-in-palm-beach-florida), [MS NOW](https://www.ms.now/news/epstein-hearing-house-democrats-survivors-acosta)
+- **Jun 25, 2026**: Judge Sullivan's injunction covers the unfiled 2007 draft indictment prepared in Acosta's office, including the redacted co-conspirator names. See [The Draft Indictment](../topics/The_Draft_Indictment.md).
+
 ## See Also
 
 - [Government Complicity](../topics/Government_Complicity.md)

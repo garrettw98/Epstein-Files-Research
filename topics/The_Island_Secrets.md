@@ -30,3 +30,8 @@ This is verified.
 ## 4. The "Steel Safe"
 *   **Location**: Found in the Manhattan townhouse, but relevant here.
 *   **Contents**: The safe contained loose diamonds and passports. This "Go-Bag" mentality matches the submarine capability—always ready to disappear.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **2026 trespassing wave**: NBC counted 15 YouTube videos of people sneaking onto Little St. James by Mar 18. On Apr 24-25, Benjamin Owen of the nonprofit We Fight Monsters trespassed and was arrested. On Apr 26, police arrested Ann Rodriquez, identified in reporting as Epstein's longtime property manager, on charges including kidnapping, false imprisonment, and assault stemming from a March incident with another alleged trespasser; those charges are allegations. The island's owner sued suspected trespassers in May. [CBS](https://www.cbsnews.com/projects/2026/epstein-island-trespassers/), [Virgin Islands Daily News](https://www.virginislandsdailynews.com/news/owner-of-little-st-james-island-sues-suspected-trespassers/article_c7fc461c-f941-47a8-8743-1d4a2ec73836.html)
+- Owner Stephen Deckoff's promised resort had not materialized as of early 2026.

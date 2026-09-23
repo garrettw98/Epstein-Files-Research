@@ -44,3 +44,8 @@ Epstein had Power of Attorney over Les Wexner's finances, meaning he effectively
 
 ## Verdict
 **Verified Ideologue.** The 2026 emails destroy the idea that Epstein was just a "blackmailer for hire." He was a true believer in a twisted form of Zionist eugenics, viewing his crimes as part of a grander project to "preserve" a genetic elite.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Feb 19**: Reporting showed Israeli officials installed security at an Epstein-managed Manhattan building for Ehud Barak starting in early 2016. [Al Jazeera](https://www.aljazeera.com/news/2026/2/19/israel-installed-security-at-epsteins-manhattan-apartment-for-ex-pm-barak)
+- **Jul 20-21**: Rep. Raskin's FARA inquiry alleges Epstein was an ongoing consultant to Barak and acted for foreign governments without registering. See [FARA Inquiry](The_FARA_Foreign_Agent_Inquiry.md).

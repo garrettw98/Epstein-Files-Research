@@ -22,3 +22,7 @@ Most people focus on August 10 (the death). But the events of July 23 are arguab
 
 ## Significance
 This incident is why Epstein was placed on "Suicide Watch." It is also the primary fuel for the theory that someone "got to him" in jail—first to warn him (July 23), then to finish the job (Aug 10).
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **May 6**: A note Nicholas Tartaglione says he found after this incident was unsealed by Judge Kenneth Karas; authenticity has not been established. See [The Purported Suicide Note](The_Purported_Suicide_Note.md).

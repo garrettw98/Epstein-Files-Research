@@ -119,3 +119,10 @@ When using co-conspirator terminology:
 - [Les Wexner](../profiles/Les_Wexner.md)
 - [Lesley Groff](../profiles/Lesley_Groff.md)
 - [Jean-Luc Brunel](../profiles/Jean_Luc_Brunel.md)
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Jun 25**: Judge Sullivan's order covers a 2019 email referencing alleged co-conspirators with redacted identities and the 2007 draft indictment's co-conspirator names. Do not infer identities before the court or DOJ releases them.
+- **Jun 4**: House Oversight Republicans asked DOJ to investigate Sarah Kellen's allegations against Philip Levine and Frédéric Fekkai (both deny them). This is a referral request, not a designation.
+- **Sep 23**: SDNY reportedly opened a criminal investigation into estate executors Darren Indyke and Richard Kahn (both deny wrongdoing).
+- Lesley Groff (designated in 2019 FBI material, unredacted Feb 2026) testified Jun 9 that she did not know of Epstein's crimes; survivors dispute parts of her account.

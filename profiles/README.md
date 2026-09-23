@@ -1,5 +1,7 @@
 # 👥 Profiles of Key Individuals
 
+> Last updated: Sep 23, 2026
+
 This section profiles every major figure connected to the Epstein case. We categorize them by the strength of the evidence.
 
 ## 🦸‍♀️ The Survivors (The Heroes)
@@ -27,7 +29,7 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[Adriana Ross](Adriana_Ross.md)** - The Palm Beach Recruiter.
 
 ## 🟠 The Accused (Civil Suits/Testimony)
-*   **[Prince Andrew](Prince_Andrew.md)** - Settled civil sexual abuse lawsuit.
+*   **[Prince Andrew](Prince_Andrew.md)** - Settled civil sexual abuse lawsuit; **arrested Feb 19, 2026** (misconduct in public office), released under investigation.
 *   **[Bill Richardson](Bill_Richardson.md)** - Accused in sworn testimony (Deceased).
 *   **[Alan Dershowitz](Alan_Dershowitz.md)** - Accused by victim (later partially retracted).
 *   **[Glenn & Eva Dubin](Glenn_and_Eva_Dubin.md)** - Accused by Giuffre (Denied); Eva dated Epstein.
@@ -36,14 +38,14 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[Bill Clinton](Bill_Clinton.md)** - 26+ flights documented.
 *   **[Hillary Clinton](Hillary_Clinton.md)** - Subpoenaed witness; Feb 26, 2026 deposition completed.
 *   **[Donald Trump](Donald_Trump.md)** - Social ties; "terrific guy" quote.
-*   **[Bill Gates](Bill_Gates.md)** - Post-conviction meetings; "I was foolish" (Feb 2026).
+*   **[Bill Gates](Bill_Gates.md)** - Post-conviction meetings; "I was foolish" (Feb 2026); House Oversight interview Jun 10, 2026.
 *   **[Reid Hoffman](Reid_Hoffman.md)** - Tech billionaire; island visitor.
-*   **[Jes Staley](Jes_Staley.md)** - Banking executive who managed Epstein's money.
+*   **[Jes Staley](Jes_Staley.md)** - Banking executive who managed Epstein's money; told House Oversight (Jul 24, 2026) he shared market-sensitive bank information.
 *   **[The Hollywood Circle](The_Hollywood_Circle.md)** - Kevin Spacey, Naomi Campbell, Chris Tucker.
 *   **[Sarah Ferguson](Sarah_Ferguson.md)** - The Duchess of York (Took £15k).
 *   **[George Stephanopoulos](George_Stephanopoulos.md)** - ABC Anchor; 2010 dinner guest.
 *   **[George Mitchell](George_Mitchell.md)** - Former Senate Majority Leader; accused by Giuffre; Alessi "every day" testimony.
-*   **[Tom Pritzker](Tom_Pritzker.md)** - Hyatt exec chairman; 7,000+ search results in files; Giuffre accusation.
+*   **[Tom Pritzker](Tom_Pritzker.md)** - Former Hyatt exec chairman (retired Feb 16, 2026); 7,000+ search results in files; Giuffre accusation.
 *   **[Tom Barrack](Tom_Barrack.md)** - Colony Capital; introduced Epstein to Thiel; Barak/Churkin dinner.
 *   **[Naomi Campbell](Naomi_Campbell.md)** - Supermodel; flight logs; island visit with Brunel.
 *   **[Katie Couric](Katie_Couric.md)** - Journalist; "ROCKIN lasagna"; "world of trouble" warning.
@@ -55,33 +57,37 @@ These women were the "middle management" of the operation. Most were granted imm
 
 ### Political/Government
 *   **[Alexander Acosta](Alexander_Acosta.md)** - Former U.S. Attorney; plea-era federal decision maker in the NPA phase.
-*   **[Pam Bondi](Pam_Bondi.md)** - Attorney General; led DOJ release-era process and testified Feb 11, 2026.
-*   **[Todd Blanche](Todd_Blanche.md)** - Deputy AG; public face of no-new-prosecution and redaction-defense messaging.
+*   **[Pam Bondi](Pam_Bondi.md)** - Former Attorney General (removed Apr 2, 2026); testified Feb 11 and gave a House Oversight interview May 29, 2026.
+*   **[Todd Blanche](Todd_Blanche.md)** - Attorney General (acting from Apr 2; confirmed Aug 8, 2026); defendant in *Phang v. Blanche*.
 *   **[Cynthia Lummis](Cynthia_Lummis.md)** - Senator who publicly reversed stance after reviewing unredacted files.
 *   **[Summer Lee](Summer_Lee.md)** - Introduced Jan 21, 2026 Bondi contempt amendment.
-*   **[Mike Johnson](Mike_Johnson.md)** - House Speaker; objected to DOJ congressional search logging.
-*   **[Jamie Raskin](Jamie_Raskin.md)** - Oversight figure in hearing and subpoena-precedent disputes.
+*   **[Mike Johnson](Mike_Johnson.md)** - House Speaker; objected to DOJ congressional search logging; Sept 2026 calendar fight over EFTA II.
+*   **[Jamie Raskin](Jamie_Raskin.md)** - Oversight figure in hearing and subpoena-precedent disputes; opened FARA inquiry (Jul 2026).
 *   **[Steve Bannon](Steve_Bannon.md)** - Media strategist; 15 hours of interviews; Trump text messages.
-*   **[Peter Mandelson](Peter_Mandelson.md)** - UK Politician; criminal investigation for sharing govt secrets.
+*   **[Peter Mandelson](Peter_Mandelson.md)** - UK Politician; **arrested Feb 23, 2026**; released under investigation; failed-vetting revelation (Apr 2026).
 *   **[Jack Lang](Jack_Lang.md)** - Former French culture minister; Feb 16, 2026 French searches reported; denies wrongdoing.
-*   **[Kathryn Ruemmler](Kathryn_Ruemmler.md)** - Obama WH Counsel; "adoration" emails; #MeToo crisis fixer; "Uncle Jeffrey."
-*   **[Howard Lutnick](Howard_Lutnick.md)** - Trump Commerce Secretary; 2012 island visit with family.
+*   **[Kathryn Ruemmler](Kathryn_Ruemmler.md)** - Obama WH Counsel; "adoration" emails; left Goldman Jun 30, 2026; House Oversight interview Jul 15.
+*   **[Howard Lutnick](Howard_Lutnick.md)** - Trump Commerce Secretary; 2012 island visit with family; House Oversight interview May 6, 2026.
 *   **[Miroslav Lajcak](Miroslav_Lajcak.md)** - Slovak National Security Adviser; **resigned Jan 31, 2026**.
 *   **[Terje Rød-Larsen](Terje_Rod_Larsen.md)** - Oslo Accords negotiator; $130k loan; children in Epstein's will ($5M each).
-*   **[Thorbjorn Jagland](Thorbjorn_Jagland.md)** - Norwegian former PM; Nobel Committee chair; **aggravated corruption probe**.
-*   **[Crown Princess Mette-Marit](Crown_Princess_Mette_Marit.md)** - Norwegian heir to throne; 100+ emails; Palm Beach stay.
+*   **[Thorbjorn Jagland](Thorbjorn_Jagland.md)** - Norwegian former PM; Nobel Committee chair; **charged with aggravated corruption** (Feb 2026; denies).
+*   **[Queen Mette-Marit](Crown_Princess_Mette_Marit.md)** - Queen of Norway since Aug 28, 2026 (formerly Crown Princess); 100+ emails; Palm Beach stay.
 *   **[William Burns](William_Burns.md)** - CIA Director; 2014 townhouse meeting; FOIA requests re: CIA affiliation.
 *   **[George Mitchell](George_Mitchell.md)** - Former Senate leader; accused by Giuffre; Alessi "every day" testimony.
 
 ### Business/Finance
-*   **[Casey Wasserman](Casey_Wasserman.md)** - LA28 chair; AP reported agency-sale fallout after Maxwell email disclosures.
-*   **[Steve Tisch](Steve_Tisch.md)** - NY Giants co-owner; emails about women ("pro or civilian").
+*   **[Casey Wasserman](Casey_Wasserman.md)** - LA28 chair; agency sale agreed Jul 28, 2026 after Maxwell email disclosures.
+*   **[Steve Tisch](Steve_Tisch.md)** - NY Giants co-owner; emails about women ("pro or civilian"); family moved stake to children's trusts (Mar 2026).
 *   **[Richard Branson](Richard_Branson.md)** - Virgin founder; "bring your harem" email; Necker Island meeting.
 *   **[Elon Musk](Elon_Musk.md)** - 16 emails; "wildest party" email; multiple island visit plans.
-*   **[Tom Pritzker](Tom_Pritzker.md)** - Hyatt exec chairman; 7,000+ search results; Giuffre accusation.
+*   **[Tom Pritzker](Tom_Pritzker.md)** - Former Hyatt exec chairman (retired Feb 16, 2026); 7,000+ search results; Giuffre accusation.
 *   **[Tom Barrack](Tom_Barrack.md)** - Colony Capital; introduced Thiel to Epstein; Barak/Churkin dinner.
 *   **[Brad Karp](Brad_Karp.md)** - Paul Weiss chairman; **resigned Feb 4, 2026**; shared client confidences.
-*   **[Richard Kahn](Richard_Kahn.md)** - Estate co-executor; deposed Mar 11, 2026 over finances and records control.
+*   **[Richard Kahn](Richard_Kahn.md)** - Estate co-executor; deposed Mar 11, 2026; reported SDNY criminal probe (Sep 23, 2026; denies wrongdoing).
+*   **[Darren Indyke](Darren_Indyke.md)** - Estate co-executor and Epstein's longtime lawyer; reported SDNY criminal probe (Sep 23, 2026; denies wrongdoing).
+*   **[Leon Black](Leon_Black.md)** - Apollo co-founder; walked out of House interview (Jun 26); **held in contempt of Congress** (Sep 16, 2026).
+*   **[Ted Waitt](Ted_Waitt.md)** - Gateway co-founder; Maxwell's ex-partner; paid her $7.2M after breakup (House testimony Apr 30, 2026).
+*   **[Larry Summers](Larry_Summers.md)** - Former Treasury Secretary; leaving Harvard teaching amid review (announced Feb 25, 2026).
 
 ### Science/Tech
 *   **[Sergey Brin](Sergey_Brin.md)** - Google co-founder; Maxwell communications; dinner guest lists; island allegation.
@@ -101,15 +107,20 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[Peggy Siegal](Peggy_Siegal.md)** - Publicist; social fixer; Oscar campaign via Prince Andrew.
 
 ### Norway Scandal
-*   **[Crown Princess Mette-Marit](Crown_Princess_Mette_Marit.md)** - 1,000+ mentions; 100+ emails; "poor judgment."
-*   **[Thorbjorn Jagland](Thorbjorn_Jagland.md)** - Former PM; Nobel chair; aggravated corruption probe.
+*   **[Queen Mette-Marit](Crown_Princess_Mette_Marit.md)** - 1,000+ mentions; 100+ emails; "manipulated and deceived" (NRK, Mar 2026); Queen since Aug 28, 2026.
+*   **[Thorbjorn Jagland](Thorbjorn_Jagland.md)** - Former PM; Nobel chair; charged with aggravated corruption (denies).
+*   **[Børge Brende](Borge_Brende.md)** - Former foreign minister; **resigned as WEF president Feb 26, 2026**.
 *   **[Joanna Rubinstein](Joanna_Rubinstein.md)** - Sweden UNHCR chair; **resigned Feb 2, 2026**.
-*   **[Mona Juul](Mona_Juul.md)** - Norwegian ambassador; suspended in Feb 2026 fallout wave.
+*   **[Mona Juul](Mona_Juul.md)** - Former Norwegian ambassador; charged with aggravated corruption (Feb 2026); resigned.
 
 ### Resignations (2026)
 *   **[Brad Karp](Brad_Karp.md)** - Paul Weiss chairman; **resigned Feb 4, 2026**.
 *   **[Joanna Rubinstein](Joanna_Rubinstein.md)** - Chair of Sweden for UNHCR; **resigned Feb 2, 2026**.
 *   **[Miroslav Lajcak](Miroslav_Lajcak.md)** - Slovak National Security Adviser; **resigned Jan 31, 2026**.
+*   **[Tom Pritzker](Tom_Pritzker.md)** - Hyatt executive chairman; **retired Feb 16, 2026**.
+*   **[Børge Brende](Borge_Brende.md)** - WEF president and CEO; **resigned Feb 26, 2026**.
+*   **[Keir Starmer](Keir_Starmer.md)** - UK prime minister; **announced resignation Jun 22, 2026** amid Mandelson fallout.
+*   **[Kathryn Ruemmler](Kathryn_Ruemmler.md)** - Goldman Sachs CLO; **retired Jun 30, 2026**.
 
 ### The "Unredacted Six" (Named on House Floor, Feb 10, 2026)
 
@@ -127,16 +138,27 @@ Reps. **Thomas Massie** and **Ro Khanna** discovered six men whose names were re
 > **Update (Feb 11, 2026)**: DOJ spokesperson told CBS that four newly publicized names on this list appear once in one file and do not appear to directly implicate those men in criminal conduct.
 
 ### Enablers
-*   **[Daniel Siad](Daniel_Siad.md)** - Polish "scout"; recruited women from Kraków.
+*   **[Daniel Siad](Daniel_Siad.md)** - Polish "scout"; recruited women from Kraków; **found dead Jul 20, 2026** (cause under investigation).
 *   **[Peggy Siegal](Peggy_Siegal.md)** - Celebrity publicist; social access facilitator.
 
 ### Custody Timeline Figures
 *   **[Nicholas Tartaglione](Nicholas_Tartaglione.md)** - Cellmate in July 23, 2019 incident timeline.
 *   **[Efrain Reyes](Efrain_Reyes.md)** - Cellmate-transfer figure in pre-death custody sequence.
-*   **[Tova Noel](Tova_Noel.md)** - MCC officer charged in 2019 record-falsification case.
+*   **[Tova Noel](Tova_Noel.md)** - MCC officer charged in 2019 record-falsification case; House Oversight interview May 18, 2026.
 *   **[Michael Thomas](Michael_Thomas.md)** - MCC officer charged in 2019 record-falsification case.
 
+### 2026 Accountability Phase (Mar-Sep 2026)
+*   **[James Comer](James_Comer.md)** - House Oversight chair; ran 2026 witness program; promised criminal referrals.
+*   **[Robert Garcia](Robert_Garcia.md)** - House Oversight ranking member; Palm Beach survivor field hearing (May 12, 2026).
+*   **[Katie Phang](Katie_Phang.md)** - Journalist; plaintiff in *Phang v. Blanche* enforcing the Transparency Act.
+*   **[Doug Band](Doug_Band.md)** - Former Clinton aide; House Oversight interview Jun 30, 2026.
+*   **[Ted Waitt](Ted_Waitt.md)** - Gateway co-founder; Maxwell's ex-partner; House Oversight interview Apr 30, 2026.
+*   **[Darren Indyke](Darren_Indyke.md)** - Estate co-executor; reported SDNY criminal probe (denies wrongdoing).
+*   **[Keir Starmer](Keir_Starmer.md)** - Former UK PM; resigned amid Mandelson appointment fallout.
+*   **[Børge Brende](Borge_Brende.md)** - Former WEF president; resigned Feb 26, 2026.
+*   **[Larry Summers](Larry_Summers.md)** - Former Treasury Secretary; leaving Harvard teaching amid review.
+
 ## ⚪ Viral Names (Context Needed)
-*   **[Stephen Hawking](Viral_Names.md#stephen-hawking)** - Defended by Epstein in emails.
-*   **[Michael Jackson](Viral_Names.md#michael-jackson)** - "No massage" testimony.
-*   **[Al Gore](Viral_Names.md#al-gore)** - Named, but witnesses "never saw him."
+*   **[Stephen Hawking](Viral_Names.md#stephen-hawking-the-orgy-email)** - Defended by Epstein in emails.
+*   **[Michael Jackson](Viral_Names.md#michael-jackson-the-massage-denial)** - "No massage" testimony.
+*   **[Al Gore](Viral_Names.md)** - Named, but witnesses "never saw him."

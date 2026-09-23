@@ -25,3 +25,13 @@ Millions of pages of documents, yet only Ghislaine Maxwell is in prison. Why?
 ## 5. The "Rich Man's Justice"
 *   **Defense Teams**: The suspects (Dubin, Wexner, Black) have limitless resources. They can drag out investigations for decades.
 *   **Settlements**: Many accused men (like Prince Andrew) settle *civil* cases with money to avoid the risk of a *criminal* trial.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+The February 2026 position that no new prosecutions were expected has weakened, though no new U.S. charges had been filed as of Sep 23:
+- **SDNY** reportedly opened a criminal investigation into executors Indyke and Kahn (WSJ, Sep 23). See [Estate Executors Investigation](The_Estate_Executors_Investigation.md).
+- **House referrals**: a request to investigate Philip Levine and Frédéric Fekkai (Jun 4; both deny); Leon Black held in contempt (Sep 16).
+- **New Mexico** reopened a criminal probe and sued DOJ for records.
+- **Abroad**: charges in Norway (Jagland, Juul); arrests without charges in the UK (Andrew, Mandelson); an expanding French probe.
+- **Obstacle**: several of these cases say they depend on unredacted U.S. records that DOJ has not yet provided, the same records at issue in [Phang v. Blanche](The_Phang_v_Blanche_Litigation.md).
+- **Loss of witnesses**: model scout Daniel Siad died Jul 20 before French investigators could question him.

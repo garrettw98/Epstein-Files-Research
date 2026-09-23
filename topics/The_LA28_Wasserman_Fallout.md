@@ -34,6 +34,12 @@ This topic tracks the 2026 fallout around LA28 organizing chair Casey Wasserman 
 - AP (Feb 14, 2026): https://apnews.com/article/jeffrey-epstein-casey-wasserman-ghislaine-maxwell-olympics-02bc53aa1b6fa6fecac47e3a31a29ef1
 - Guardian (Feb 18, 2026 report): https://www.theguardian.com/sport/2026/feb/17/karen-bass-casey-wasserman-la-olympics-maxwell-epstein-files
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **February**: LA28's board reviewed Wasserman's contacts with Epstein and Maxwell and backed him; Mayor Karen Bass and other officials called for his resignation; he said he would not resign. [ESPN](https://www.espn.com/olympics/story/_/id/48969633/casey-wasserman-says-resign-chair-2028-olympics)
+- **Jul 28**: His former agency, renamed The Team, announced a Providence Equity-backed buyout of his remaining stake (reported around $3.4 billion), with Michael Watts as the next CEO. [Sportico](https://www.sportico.com/business/finance/2026/providence-equity-wasserman-agency-sale-billion-1234940141/)
+- **Status (Sep 23)**: Wasserman remains LA28 chair.
+
 ## See Also
 
 - [Casey Wasserman](../profiles/Casey_Wasserman.md)

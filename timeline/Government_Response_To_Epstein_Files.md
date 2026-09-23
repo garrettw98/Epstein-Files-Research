@@ -75,17 +75,110 @@ Three pressure points define this phase:
 - **Custody of underlying evidence**: The Kahn deposition and missing-FBI-interview release show that "the archive" was still fragmented across DOJ, congressional oversight, and estate-linked custodians.
 - **Site-based follow-through**: The New Mexico search pushed the response beyond publication fights into renewed physical investigation.
 
+## Phase 5: Leadership Change at DOJ (April-August 2026)
+
+- **March 17, 2026**: House Oversight issues its subpoena to AG Pam Bondi for an April 14 deposition.  
+  Source: https://oversight.house.gov/wp-content/uploads/2026/03/03.17.2026-Subpoena-Cover-Letter-Bondi-FINAL.pdf
+- **April 2, 2026**: President Trump removes Bondi as attorney general; Deputy AG Todd Blanche becomes acting AG.  
+  Sources:  
+  - https://www.cbsnews.com/news/trump-pam-bondi-attorney-general/  
+  - https://www.axios.com/2026/04/02/pam-bondi-attorney-general-out
+- **April 8, 2026**: DOJ says Bondi will not appear for the deposition because she was subpoenaed in her official capacity; Oversight Democrats say the subpoena still binds her.  
+  Source: https://www.cnn.com/2026/04/08/politics/pam-bondi-epstein-deposition-justice-department
+- **May 29, 2026**: Bondi sits for a roughly four-hour transcribed interview (not a deposition) under an arrangement with Chairman Comer.  
+  Sources:  
+  - https://www.npr.org/2026/05/29/nx-s1-5836563/pam-bondi-epstein-congress  
+  - https://thehill.com/homenews/house/5910872-oversight-committee-bondi-transcript/
+- **June 8, 2026**: Trump formally nominates Blanche as attorney general.  
+  Source: https://www.cnn.com/2026/06/08/politics/todd-blanche-trump-attorney-general-nomination
+- **July 16-17, 2026**: Sen. Thom Tillis conditions his vote on Blanche meeting Epstein survivors; the meeting occurs and survivors call it dismissive.  
+  Sources:  
+  - https://www.axios.com/2026/07/16/tillis-withholds-blanche-support-esptein  
+  - https://www.axios.com/2026/07/17/epstein-survivors-blanche-meeting-reaction
+- **July 29, 2026**: Senate adopts S.Res.608 by unanimous consent opposing any pardon or clemency for Ghislaine Maxwell.  
+  Source: https://www.congress.gov/bill/119th-congress/senate-resolution/608
+- **August 8, 2026**: Senate confirms Blanche as attorney general, 50-49.  
+  Source: https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general
+- **September 15, 2026**: FBI Director Kash Patel is questioned on the Epstein files at the Senate Judiciary Committee's annual FBI oversight hearing.  
+  Source: https://www.cnn.com/2026/09/15/politics/live-news/kash-patel-hearing-senate
+
+## Phase 6: Courts and Watchdogs Enforce the Transparency Act (April-September 2026)
+
+- **April 23, 2026**: DOJ Inspector General William Blier announces an audit of DOJ compliance with the Act.  
+  Source: https://www.upi.com/Top_News/US/2026/04/23/justice-department-inspector-general-audit-epstein-files-release/7901776973145/
+- **April 27, 2026**: Katie Phang files *Phang v. Blanche* (D.D.C. 1:26-cv-01417).  
+  Source: https://clearinghouse.net/case/48180/
+- **April 28, 2026**: GAO accepts a request from Sens. Merkley, Murkowski, Luján, and Durbin to review DOJ's redaction process.  
+  Source: https://www.washingtonpost.com/politics/2026/04/28/epstein-files-gao/
+- **June 25, 2026**: Judge Emmet Sullivan grants a preliminary injunction ordering DOJ to unredact or justify five categories of records by July 2.  
+  Source: https://www.cbsnews.com/news/judge-orders-doj-unredact-more-epstein-files-or-explain-why-blanche/
+- **July 25, 2026**: Sullivan orders 10 disputed records produced unredacted for in camera review; DOJ complies.  
+  Source: https://www.forbes.com/sites/alisondurkee/2026/07/27/could-more-epstein-files-be-released-soon-redacted-docs-will-be-reviewed-by-judge-this-week/
+- **August 11, 2026**: Judge Loretta Preska rules the Act overrides prior sealing orders, grand-jury secrecy, and Maxwell's privacy claims.  
+  Source: https://www.bloomberg.com/news/articles/2026-08-12/epstein-victim-files-cleared-for-release-over-maxwell-s-protest
+- **August 13, 2026**: Sullivan warns DOJ lawyers of possible civil contempt.  
+  Source: https://www.cnn.com/2026/08/13/politics/epstein-judge-hearing-justice-department-contempt-warning
+- **August 2026**: DOJ files a protective notice of appeal to the D.C. Circuit.  
+  Source: https://thehill.com/regulation/court-battles/6047840-doj-appeals-epstein-files-ruling/
+- **August 14, 2026**: FBI records posted to its FOIA "Vault" show internal deliberations on reviewing and redacting the files.  
+  Source: https://www.bloomberg.com/news/newsletters/2026-08-14/new-fbi-epstein-emails-show-sarah-ferguson-contacted-kash-patel
+- **August 25, 2026**: Judge Paul Engelmayer denies Maxwell's post-conviction petition.  
+  Source: https://www.axios.com/2026/08/25/ghislaine-maxwells-bid-to-overturn-conviction-rejected
+- **September 16, 2026**: Sullivan calls DOJ's arguments "without merit" and sets a September 24 deadline, warning of contempt.  
+  Source: https://thehill.com/regulation/court-battles/6095691-doj-epstein-transparency-ruling/
+
+## Phase 7: Congressional Witness Program, Referrals, and New Legislation (April-September 2026)
+
+- **April 30 - July 24, 2026**: House Oversight interviews Ted Waitt, Howard Lutnick, Tova Noel, Sarah Kellen, Pam Bondi, Lesley Groff, Bill Gates, Leon Black, Doug Band, Kathryn Ruemmler, and Jes Staley. See `topics/The_House_Oversight_Witness_Program_2026.md`.
+- **May 12, 2026**: Oversight Democrats hold an unofficial field hearing with survivors in West Palm Beach and release an interim staff report.  
+  Source: https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-oversight-democrats-florida-democrats-hold-hearing-on-epstein-investigation-in-palm-beach-florida
+- **June 4, 2026**: Comer and Republican members ask DOJ to investigate allegations Sarah Kellen made against Philip Levine and Frederic Fekkai (both deny them).  
+  Source: https://oversight.house.gov/release/chairman-comer-and-republican-lawmakers-seek-doj-investigation-into-sexual-assault-allegations-made-during-epstein-investigation/
+- **July 15, 2026**: Epstein Files Transparency Act II (H.R. 9694) introduced in the House, with a Senate companion.  
+  Source: https://massie.house.gov/news/documentsingle.aspx?DocumentID=395849
+- **July 20-21, 2026**: House Judiciary Democrats (Raskin) open an inquiry into whether Epstein acted as an unregistered foreign agent.  
+  Source: https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-launches-investigation-into-evidence-epstein-acted-as-unregistered-agent-for-foreign-powers-leveraging-ties-to-trump
+- **August 4, 2026**: Senate Finance Democrats (Wyden) publish "Looking the Other Way" on bank anti-money-laundering failures.  
+  Source: https://www.finance.senate.gov/ranking-members-news/wyden-releases-new-report-on-failure-of-wall-street-banks-to-blow-the-whistle-on-jeffrey-epsteins-sex-trafficking-and-money-laundering-schemes
+- **September 3, 2026**: Leon Black skips his subpoenaed deposition and sues the committee.  
+  Source: https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit
+- **September 15, 2026**: Survivors' Rights Restitution Act (H.R. 10397) introduced.  
+  Source: https://www.govinfo.gov/app/details/BILLS-119hr10397ih
+- **September 16, 2026**: House holds Leon Black in contempt of Congress; Comer introduces the Survivor's Voice Protection Act (H.R. 10389).  
+  Sources:  
+  - https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress  
+  - https://oversight.house.gov/release/chairman-comer-introduces-the-survivors-voice-protection-act/
+- **September 18, 2026**: EFTA II discharge petition reaches 218 signatures; the House is out until November 9.  
+  Source: https://www.axios.com/2026/09/18/epstein-files-vote-massie-khanna-support
+
+## Phase 8: State, Foreign, and Criminal Follow-Through (April-September 2026)
+
+- **June 1 - August 5, 2026**: New Mexico's Survivors' Truth Commission issues subpoenas, hears testimony, and releases a 119-page interim report; the state attorney general sues DOJ for unredacted records.  
+  Sources:  
+  - https://www.cnn.com/2026/06/01/politics/new-mexico-truth-commission-epstein-zorro-ranch-subpoenas  
+  - https://nmdoj.gov/press-release/new-mexico-sues-doj-for-blocking-access-to-unredacted-epstein-investigative-files-in-zorro-ranch-criminal-probe/
+- **September 9, 2026**: European investigators in Poland, Norway, Latvia, and the UK say DOJ has not answered mutual legal assistance requests; DOJ says it has not refused any jurisdiction.  
+  Source: https://www.washingtonpost.com/world/2026/09/09/europeans-investigating-epstein-say-doj-has-not-agreed-requests-help/
+- **September 23, 2026**: The Wall Street Journal reports SDNY is criminally investigating estate executors Darren Indyke and Richard Kahn (both deny wrongdoing).  
+  Source: https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors-investigation.html
+
 ## Government Response Pattern (What Changed)
 
 - **2019-2021**: Response was prosecution-centered (indictments, trial outcomes).
 - **2022-2024**: Response shifted to institutional review and detention-failure accountability.
 - **2025-2026**: Response became disclosure-governance focused (legislation, mass publication, redaction disputes, congressional oversight).
 - **March 2026 onward**: Response became a contest over records custody, release credibility, and who still controls unexhausted evidence channels.
+- **April-September 2026**: Enforcement moved into courts (Phang v. Blanche, Preska ruling), watchdog offices (DOJ OIG, GAO), and state and foreign prosecutors, while DOJ leadership changed hands. The first reported federal criminal investigation of Epstein-circle figures since 2020 (the executors) emerged on Sept. 23.
 
 ## Related Files
 
 - `evidence/Bondi_Hearing_Feb_11_2026.md`
 - `evidence/2026_Release.md`
 - `analysis/March_2026_Escalation_Synthesis.md`
+- `analysis/April_September_2026_Accountability_Synthesis.md`
 - `topics/The_Epstein_Files_Transparency_Act.md`
+- `topics/The_Epstein_Files_Transparency_Act_II.md`
+- `topics/The_Phang_v_Blanche_Litigation.md`
+- `topics/The_House_Oversight_Witness_Program_2026.md`
+- `topics/The_Estate_Executors_Investigation.md`
 - `derived/bondi_hearing/bondi_hearing_updates_latest.tsv`

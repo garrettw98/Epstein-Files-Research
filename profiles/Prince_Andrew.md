@@ -1,6 +1,6 @@
-# 👑 Prince Andrew, Duke of York
+# 👑 Andrew Mountbatten-Windsor (formerly Prince Andrew, Duke of York)
 
-> **Status**: **ACCUSED / SETTLED** (Evidence Level: ◐ DOCUMENTED)
+> **Status**: **ACCUSED / SETTLED; ARRESTED FEB 19, 2026 AND RELEASED UNDER INVESTIGATION** (Evidence Level: ◐ DOCUMENTED) — not charged; stripped of royal titles in 2025
 
 ## The Connection
 Prince Andrew was a long-time friend of Ghislaine Maxwell and Jeffrey Epstein. He was photographed with Epstein in Central Park in 2010, *after* Epstein's first conviction.
@@ -71,6 +71,14 @@ Epstein victims have also requested Andrew testify before lawmakers, though he i
 
 ## Verdict
 **Accused / Settled.** Andrew's documented relationship with Epstein — including post-conviction socializing, the Buckingham Palace invitation, and attempts to introduce him to young women — represents one of the deepest and most troubling connections in the files. He settled the Giuffre lawsuit and now faces a second accuser.
+
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Feb 19, 2026**: **Arrested** by Thames Valley Police on his 66th birthday on suspicion of misconduct in public office, over allegations he sent confidential material to Epstein while UK trade envoy. Released under investigation; police searched his residences. King Charles said "the law must take its course." [NPR](https://www.npr.org/2026/02/19/nx-s1-5719098/former-prince-andrew-arrested-on-suspicion-of-misconduct-in-public-office-reports), [CBS](https://www.cbsnews.com/news/former-prince-andrew-arrested-epstein-files-suspected-misconduct-public-office/), [Al Jazeera](https://www.aljazeera.com/news/2026/2/20/police-search-ex-prince-andrews-home-a-day-after-his-arrest)
+- **May 22, 2026**: Thames Valley Police said that, in addition to the misconduct investigation, "the assessment of reports that a woman was taken to an address in Windsor in 2010 for sexual purposes is ongoing," and that they had contacted the woman's lawyer. [CNN](https://www.cnn.com/2026/05/22/uk/andrew-mountbatten-windsor-intl-hnk)
+- **Status (Sep 23, 2026)**: Not charged. Reported to be living at Marsh Farm on the Sandringham estate. [GB News](https://www.gbnews.com/royal/andrew-mountbatten-windsor-limbo-thames-valley-police-investigation)
+- **Related**: Virginia Giuffre's memoir *Nobody's Girl*, which details her allegations against him, won Book of the Year at the 2026 British Book Awards (May 11).
+- See [The UK Reckoning (2026)](../topics/The_UK_Reckoning_2026.md).
 
 ## See Also
 

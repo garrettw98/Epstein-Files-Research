@@ -1,0 +1,24 @@
+# Larry Summers
+
+> **Status**: **RESIGNED / DEPARTED ROLES** — not accused of any crime
+> **Role in Repo**: Former Treasury Secretary and Harvard president whose Epstein correspondence led to his departure from Harvard teaching and the OpenAI board
+> **Last updated**: Sep 23, 2026
+
+## Summary
+
+Lawrence H. Summers, Treasury Secretary under Bill Clinton and former Harvard president, appears hundreds of times in Epstein records released by Congress and DOJ. After emails with Epstein became public in November 2025, he took leave from Harvard teaching and resigned from the board of OpenAI. On February 25, 2026, while Harvard reviewed his ties, he said he would resign from teaching at the end of the academic year; Harvard said he would not receive emeritus status.
+
+## Key Timeline
+
+- **Nov 2025**: Takes leave from Harvard teaching; resigns from OpenAI's board after emails with Epstein are released.
+- **Feb 14, 2026**: AP reports Epstein highlighted contacts with Nobel-linked figures in outreach to high-profile people, including Summers. [AP](https://apnews.com/article/epstein-nobel-jagland-branson-summers-bannon-trump-a947bbf2bd307658014862d01517d21f)
+- **Feb 25, 2026**: Announces he will resign as a Harvard professor at year-end amid the university's review. [CNBC](https://www.cnbc.com/2026/02/25/epstein-larry-summers-harvard-professor.html), [NPR](https://www.npr.org/2026/02/26/nx-s1-5726434/harvard-professor-larry-summers-to-retire-as-school-investigates-his-ties-to-epstein), [PBS](https://www.pbs.org/newshour/nation/larry-summers-will-resign-from-teaching-at-harvard-during-review-of-epstein-ties-university-says)
+
+## Related
+
+- Harvard also placed mathematical biologist **Martin Nowak** on leave (Feb 25, 2026); Nowak resigned from the Austrian Academy of Sciences in late March (reported Apr 2), preempting an ethics review. [Harvard Crimson](https://www.thecrimson.com/article/2026/4/2/nowak-austrian-academy-resignation/)
+
+## See Also
+
+- [The MIT Scandal](../topics/The_MIT_Scandal.md) · [Science and Tech](../topics/Science_and_Tech.md)
+- [Corporate Fallout Tracker (2026)](../topics/The_Corporate_Fallout_Tracker_2026.md)

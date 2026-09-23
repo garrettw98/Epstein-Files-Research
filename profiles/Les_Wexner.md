@@ -75,6 +75,13 @@ A legal representative for Wexner stated: **"Wexner was neither a co-conspirator
 ## Verdict
 **The Enabler.** Without Les Wexner's money, jet, and houses, Jeffrey Epstein would have just been a creep in a suit. Wexner's patronage built the empire that facilitated the crimes. The 2026 revelations — the FBI co-conspirators list, the failed subpoena attempt, the congressional compelled testimony, and the formal unredaction of his co-conspirator designation — raise new questions about whether Wexner was merely "deceived" or more deeply involved.
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Feb 11, 2026**: A federal judge ordered him to sit for a deposition within 60 days in lawsuits against Ohio State over team doctor Richard Strauss's abuse (Wexner was an OSU trustee from 1988 to 1997). [WOSU](https://www.wosu.org/politics-government/2026-02-11/judge-orders-les-wexner-to-testify-in-lawsuit-against-ohio-state-over-richard-strauss-sexual-abuse)
+- **Feb 18, 2026**: House deposition statement: "I was naïve, foolish, and gullible to put any trust in Jeffrey Epstein." He said under oath that he never lobbied anyone to block release of the files.
+- **Sep 23, 2026**: AP reported his roughly **$116,000** in contributions to Sen. Jon Husted (2001-2025) have become an issue in Ohio's Senate race, with Sherrod Brown's campaign running ads on the donations. [AP via Local10](https://www.local10.com/news/politics/2026/09/23/billionaires-political-contributions-make-the-epstein-files-a-focus-of-ohios-us-senate-race/)
+- **Status**: Not charged. Named in a 2019 FBI document as a potential co-conspirator (unredacted in February 2026); his spokesperson says he was told he was not a target.
+
 ## See Also
 
 - [The Draft Indictment](../topics/The_Draft_Indictment.md) - Florida prosecution that never happened

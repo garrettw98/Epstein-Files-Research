@@ -43,6 +43,12 @@ Kahn is where several underexplained threads meet:
 2. What did congressional investigators seek to establish through the March 11 deposition: money flow, document custody, prominent names, or all three?
 3. How much of the post-2019 estate record has ever been independently visible outside litigation and selective releases?
 
+## 2026 Update (Mar 17 - Sep 23)
+
+- **Sep 16, 2026**: Scheduled final-approval hearing on the up-to-$35 million class settlement naming Kahn and Darren Indyke (preliminarily approved Mar 3). No ruling located as of Sep 23.
+- **Sep 23, 2026**: The WSJ reported federal prosecutors in Manhattan have opened a **criminal investigation** into Kahn and Indyke; they deny wrongdoing and have not been charged. [CNBC](https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors-investigation.html)
+- See [Estate Executors Investigation](../topics/The_Estate_Executors_Investigation.md) and [Darren Indyke](Darren_Indyke.md).
+
 ## See Also
 
 - [The Executors: Darren Indyke & Richard Kahn](The_Lawyers.md)

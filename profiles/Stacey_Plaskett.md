@@ -25,6 +25,7 @@ Stacey Plaskett has been the U.S. Virgin Islands' nonvoting delegate to the Hous
 
 ## See Also
 
+- [The Virgin Islands Reckoning (2026)](../topics/The_Virgin_Islands_Reckoning_2026.md)
 - [The Island Secrets](../topics/The_Island_Secrets.md)
 - [The 2026 Release](../evidence/2026_Release.md)
 - [April-September 2026 Accountability Synthesis](../analysis/April_September_2026_Accountability_Synthesis.md)

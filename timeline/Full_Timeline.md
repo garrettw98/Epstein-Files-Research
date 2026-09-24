@@ -10,7 +10,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 <!-- LAST24H_TIMELINE:START -->
 ## Last 24 Hours Snapshot (Auto-generated)
-- Window: Sep 23, 2026 22:46 UTC to Sep 24, 2026 22:46 UTC.
+- Window: Sep 23, 2026 22:50 UTC to Sep 24, 2026 22:50 UTC.
 - Monitored updates: 0 links across 0 domains.
 - Primary-doc changes: added 0, removed 0, changed 0.
 - Claim review pressure: p1=0, p2=0, p3=0 open.
@@ -420,6 +420,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 25, 2026**: **AP: Larry Summers to resign from Harvard amid Epstein-ties review**.
     *   AP reported Harvard said Larry Summers would resign during a review focused on his past Epstein ties.
     *   Source: [Source](https://apnews.com/video/larry-summers-to-resign-from-harvard-university-amid-review-of-his-epstein-ties-c61a4621aa9b4f9d8b48a8e2da543cec).
+*   **Feb 25, 2026**: **CNN: Virgin Islands governor offered Epstein help in a 2019 permit dispute, texts show**.
+    *   Gov. Albert Bryan Jr. told Epstein he had asked the environmental commissioner to pause enforcement of a stop-work order on Epstein's islands and wrote "We got u"; Bryan denies wrongdoing.
+    *   Source: [Source](https://edition.cnn.com/2026/02/25/politics/epstein-virgin-islands-governor-kfile-invs).
 *   **Feb 26, 2026**: **AP: Hillary Clinton testified in closed-door House Epstein deposition**.
     *   AP reported Hillary Clinton appeared for a closed-door deposition in the House investigation into Jeffrey Epstein.
     *   Source: [Source](https://apnews.com/video/hillary-clinton-is-testifying-as-part-of-the-house-investigation-into-jeffrey-epstein-7ed636a55a144b609dd8ece4e976ee2b).
@@ -456,6 +459,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 2, 2026**: **KPBS: UC San Diego said it will end Deepak Chopra's affiliation over his Epstein ties**.
     *   UCSD called the association "regrettable" and said his unpaid voluntary clinical professorship would end with its Jun 30 term; Chopra denies any involvement in criminal conduct.
     *   Source: [Source](https://www.kpbs.org/podcasts/kpbs-midday-edition/ucsd-to-cut-ties-with-deepak-chopra-over-epstein-connection).
+*   **Mar 2, 2026**: **St. Thomas Source: Gov. Bryan said he "absolutely" supports an Epstein inquiry and denied wrongdoing**.
+    *   Bryan said the record shows no instance of special privilege for Epstein from his administration and did not apologize for the texts.
+    *   Source: [Source](https://stthomassource.com/content/2026/03/02/bryan-absolutely-supports-an-epstein-inquiry-denies-wrongdoing/).
 *   **Mar 3, 2026**: **AP: Hillary Clinton said she did not recall meeting Epstein**.
     *   AP video coverage highlighted testimony that Hillary Clinton said she did not recall ever meeting Jeffrey Epstein.
     *   Source: [Source](https://apnews.com/video/hillary-clinton-said-she-never-even-recalled-meeting-jeffrey-epstein-4137852ceef043a68b3937c7e8a82420).
@@ -621,6 +627,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **May 1, 2026**: **Harvard Crimson: Harvard Medical School gave Epstein a $75 million donor rating in 2012**.
     *   Harvard's development records also show it mailed him personalized endowment updates from 2009 to 2018; neither appeared in the university's 2020 review, and Harvard declined to comment.
     *   Source: [Source](https://www.thecrimson.com/article/2026/5/1/epstein-harvard-hms-rating/).
+*   **May 4, 2026**: **WAMC: Epstein survivors urged New York lawmakers to pass a trafficking-accountability bill**.
+    *   Survivors testified for S9960, which would create benefiting-from-trafficking crimes and revive time-barred civil claims; the Senate Codes Committee advanced it the same day.
+    *   Source: [Source](https://www.wamc.org/2026-05-04/epstein-victims-urge-new-york-lawmakers-to-increase-penalties-for-traffickers).
 *   **May 6, 2026**: **NPR: Howard Lutnick questioned by House Oversight on Epstein ties**.
     *   The Commerce secretary called his interactions with Epstein "meaningless and inconsequential"; Democrats accused him of evasive and misleading testimony and later called for his resignation.
     *   Source: [Source](https://www.npr.org/2026/05/06/nx-s1-5814081/howard-lutnick-epstein-files-house-oversight-committee).
@@ -919,6 +928,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   Investigators have interviewed potential witnesses, including survivors, and sought emails and checks, with interest in entities such as the Florida Science Foundation; Indyke and Kahn deny wrongdoing.
     *   Source: [Source](https://www.cnn.com/2026/09/24/politics/epstein-advisers-investigation-indyke-kahn).
 <!-- LIVE_TIMELINE:END -->
+
 
 
 

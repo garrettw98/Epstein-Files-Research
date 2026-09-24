@@ -20,3 +20,7 @@ Epstein didn't just hide on his island; he bought the goodwill of the local comm
 
 ## Verdict
 Epstein used strategic philanthropy to embed himself in the fabric of St. Thomas society, creating a "human shield" of local support that lasted until his 2019 arrest.
+
+## 2026 Update (Mar 17 - Sep 24)
+
+- Gov. Albert Bryan Jr.'s 2019 texts offering Epstein help in a permit dispute ("We got u"), former AG Denise George's account to the FBI of pressure over Epstein, and Sen. Marise James's inquiry into agencies' handling of him are covered in [The Virgin Islands Reckoning (2026)](The_Virgin_Islands_Reckoning_2026.md). Bryan denies wrongdoing.

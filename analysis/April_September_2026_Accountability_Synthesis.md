@@ -80,13 +80,18 @@ The Washington Post (Sep 9) reported that investigators in Poland (waiting since
 
 **Inference (labeled):** The same unredacted material at issue in *Phang v. Blanche* is what foreign and state prosecutors say they need. That makes court-ordered disclosure more than a transparency issue: it may determine whether several criminal cases can proceed at all.
 
+**Added in the Sep 24 gap review:** Brazil's federal prosecutors opened a confidential inquiry on Feb 10 into possible recruitment of Brazilian women. Mexico said any investigation belongs in the U.S. Russia has announced no probe; the files document Epstein's Russian contacts but not intelligence work. See [International Investigations](../topics/International_Investigations.md).
+
 ## 6. Money-Channel Evidence Hardened
 
 - **Wyden's "Looking the Other Way" report (Aug 4)** concluded a four-year investigation. It said more than a dozen bankers at JPMorgan, Bank of America, and Deutsche Bank knew of suspicious Epstein transactions as early as 2002, that Deutsche failed to promptly report more than $250 million including payments to women in Russia and Eastern Europe, and that about $400 million moved through BNY Mellon in 270 wires.
 - **Bank of America** settled for $72.5 million (final approval Aug 27), the third bank to settle publicly after JPMorgan and Deutsche Bank. BofA denies facilitating Epstein's crimes.
 - **Staley's testimony** and Sen. Warren's July letter to Jamie Dimon reopened questions about JPMorgan's senior-level knowledge. JPMorgan maintains Dimon did not know Epstein.
 
-See [The Banks](../topics/The_Banks.md) and [The Money Trail](../topics/The_Money_Trail.md).
+- **The DEA "Chain Reaction" memo**: A redacted 2015 drug-task-force memo in the release describes a probe of Epstein and 14 unnamed others over wire transfers tied to alleged drug and prostitution activity. Wyden said (Mar 18) that Blanche blocked DEA from giving him the unredacted memo; Blanche called that "a completely fabricated story" and said members can read it in DOJ's reading room. Republicans also blocked (Mar 3) Wyden's bill to compel Treasury's Epstein bank records. See [Senate Finance Investigation](../topics/The_Senate_Finance_Investigation.md).
+- **Leon Black**: Wyden's Mar 20 letter said the records suggest hush-money payments routed through Epstein and surveillance of women on Black's behalf. Black disputes this and relies on a Dechert review. Wyden referred his findings to House Oversight (Jun 4).
+
+See [The Banks](../topics/The_Banks.md), [The Money Trail](../topics/The_Money_Trail.md), and [Senate Finance Investigation](../topics/The_Senate_Finance_Investigation.md).
 
 ## 7. Politics: The Files Became an Electoral Variable
 
@@ -94,12 +99,16 @@ See [The Banks](../topics/The_Banks.md) and [The Money Trail](../topics/The_Mone
 - Speaker Johnson canceled late-September session weeks and recessed early (Sep 16), which Massie said was designed to delay the vote. A vote is possible only after the House returns on Nov 9.
 - **Ohio's Senate race** turned partly on Les Wexner's donations to Sen. Jon Husted (AP, Sep 23).
 - **Stacey Plaskett**, the Virgin Islands delegate who survived a November 2025 censure vote over texting Epstein during a 2019 hearing, won the Democratic primary for Virgin Islands governor with about 48% (Aug 1-3). See [Stacey Plaskett](../profiles/Stacey_Plaskett.md).
+- **Virgin Islands**: CNN reported (Feb 25) that Gov. Albert Bryan Jr. texted Epstein in 2019 that he had asked the environmental commissioner to pause enforcement against construction on Epstein's islands ("We got u"). A DOJ-released FBI memo records former AG Denise George's account of pressure from Bryan over Epstein. Bryan denies wrongdoing and says he supports an inquiry. Only one senator has held a hearing. See [The Virgin Islands Reckoning (2026)](../topics/The_Virgin_Islands_Reckoning_2026.md).
 - A GBAO poll reported that 88% of likely midterm voters, including 83% of Republicans, would prioritize candidates promising accountability, including full release of the files.
-- **Melania Trump** (Apr 9) publicly denied any Epstein ties and called for survivor hearings. Survivors' reactions were mixed.
+- **Melania Trump** (Apr 9) publicly denied any Epstein ties and called for survivor hearings. Survivors' reactions were mixed. She then won dismissal of Michael Wolff's preemptive suit (May 22) and moved for sanctions (Jul 21; pending). See [Melania Trump](../profiles/Melania_Trump.md).
+- **Public opinion**: In February, the last period with national Epstein-specific tracking found, 24% approved and 57% disapproved of Trump's handling of the investigations (Economist/YouGov).
 
 ## 8. Institutions Beyond Government: Academia
 
 Universities ran their own reviews. Bard's president **Leon Botstein** retired (announced May 1) after a WilmerHale review; Columbia disciplined dental-school officials over an "irregular" admission tied to Epstein's girlfriend and Nobel laureate Richard Axel gave up an institute directorship; Ohio State's review cleared a physician of involvement in crimes; Harvard (Nowak) and Yale (Gelernter) reviews remain open. House Judiciary Democrats extended their university inquiry to Harvard and Bard on Jun 17. See [The Academic Fallout (2026)](../topics/The_Academic_Fallout_2026.md).
+
+**Added in the Sep 24 gap review:** Harvard's review drew criticism after *The Crimson* found its 2020 report left out a $75 million Harvard Medical School donor rating for Epstein (May 1). 156 affiliates asked for an independent probe (Jul 23), and academic-freedom advocates objected (Jul 30). Ohio State faces more than 500 requests to remove the Wexner name, and Wexner is stepping down as medical-center board chair (Sep 1). Dartmouth created a naming-policy committee rather than decide on Leon Black's name (June). UC San Diego ended Deepak Chopra's affiliation (Jun 30). See [The Academic Fallout (2026)](../topics/The_Academic_Fallout_2026.md).
 
 ## 9. Survivors Took the Fight to Civil Court
 
@@ -133,6 +142,9 @@ That is a significant shift from February, when DOJ could credibly say the files
 10. What will New Mexico's Truth Commission final report (due Dec 31) conclude?
 11. Will any of the 14 people Massie named face investigation, and will the Wexner suit be refiled?
 12. Will Mount Sinai or New York's Health Department publish findings on Epstein-linked doctors?
+13. What does the unredacted DEA "Chain Reaction" memo show, and why did that probe end without charges?
+14. Will Harvard publish findings from its review, and will Ohio State and Dartmouth remove the Wexner and Black names?
+15. Will Judge Vyskocil sanction Michael Wolff, and will the Wall Street Journal win dismissal of Trump's refiled suit?
 
 ## Read This With
 

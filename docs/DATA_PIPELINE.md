@@ -136,6 +136,7 @@ An offline refresh re-derives outputs from the most recent `raw/` snapshots, so 
 - **Sep 24, 2026 (final round)**: Added 8 live events and 9 claims (1 `verified_primary`, 8 `alleged`), new topic (survivor advocacy) and profile (Melania Trump), Brazil, Mexico, and Russia sections on the international page, a Harvard section on the academic page, and a fabricated-images and unverified-leak entry on the disinformation page. Corrected the date of the Vance-Carlson Situation Room meeting to Jul 17, 2025.
 - **Sep 24, 2026 (final round, part 2)**: Added 8 live events and 6 claims (4 `verified_primary`, 2 `alleged`), a new topic (Senate Finance investigation, including the DEA "Chain Reaction" memo dispute and the blocked Treasury-records bill) and profile (Andrew Farkas), and Leon Black (Wyden letters, Dartmouth, MoMA), Brad Karp, Ohio State, island, polling, Australia, and Gardner-hoax updates.
 - **Sep 24, 2026 (final round, part 3)**: Added 4 live events and 3 claims (all `alleged`). Covered the Jan 21 monitor denial, the Dec 2025 inherent-contempt threat, Gordon Brown's letter to the Met, Chopra's exit from UCSD, Attia's timeline, and Summers's departure. Sorted out-of-order bullets in seven profiles.
+- **Sep 24, 2026 (final round, part 4)**: Added 3 live events and 3 claims (1 `verified_primary`, 2 `alleged`), a new topic (Virgin Islands reckoning: Gov. Bryan's 2019 texts, former AG George's FBI account, the Marise James inquiry), New York's S9960, and synthesis updates.
 
 ## Output Map
 

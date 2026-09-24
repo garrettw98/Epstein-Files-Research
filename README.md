@@ -90,6 +90,7 @@ This repository is a source-linked research index for documents, entities, event
 | **[The Purported Suicide Note](topics/The_Purported_Suicide_Note.md)** | **[FAQ](topics/FAQ.md)** | **[Network Map](topics/Network_Map.md)** |
 | **[Academic Fallout (2026)](topics/The_Academic_Fallout_2026.md)** | **[Survivor Litigation Wave (2026)](topics/The_Survivor_Litigation_Wave_2026.md)** | **[Massie Floor Speech (Aug 31, 2026)](topics/The_Massie_Floor_Speech_Aug_2026.md)** |
 | **[Medical Network (2026)](topics/The_Medical_Network_2026.md)** | **[Survivor Advocacy (2026)](topics/The_Survivor_Advocacy_2026.md)** | **[Senate Finance Investigation](topics/The_Senate_Finance_Investigation.md)** |
+| **[Virgin Islands Reckoning (2026)](topics/The_Virgin_Islands_Reckoning_2026.md)** | | |
 
 </details>
 
@@ -133,6 +134,7 @@ This repository is a source-linked research index for documents, entities, event
 *   **NBC: Nobel laureate Richard Axel stepped down as co-director of Columbia's Zuckerman Institute** (Feb 24, 2026): Axel called his past association with Epstein "a serious error in judgment" and resigned as an HHMI investigator; Columbia said he broke no university policy or law. [Source](https://www.nbcnews.com/news/us-news/columbia-brain-institute-co-director-nobel-laureate-steps-epstein-ties-rcna260585)
 *   **Washington Post: Epstein survivors attended the State of the Union as Democrats' guests** (Feb 24, 2026): Guests included survivors Marina Lacerda, Haley Robson, Teresa Helm and Jess Michaels, Annie Farmer, and Virginia Giuffre's brother and sister-in-law. [Source](https://www.washingtonpost.com/politics/2026/02/24/epstein-accusers-state-of-the-union/)
 *   **AP: Larry Summers to resign from Harvard amid Epstein-ties review** (Feb 25, 2026): AP reported Harvard said Larry Summers would resign during a review focused on his past Epstein ties. [Source](https://apnews.com/video/larry-summers-to-resign-from-harvard-university-amid-review-of-his-epstein-ties-c61a4621aa9b4f9d8b48a8e2da543cec)
+*   **CNN: Virgin Islands governor offered Epstein help in a 2019 permit dispute, texts show** (Feb 25, 2026): Gov. Albert Bryan Jr. told Epstein he had asked the environmental commissioner to pause enforcement of a stop-work order on Epstein's islands and wrote "We got u"; Bryan denies wrongdoing. [Source](https://edition.cnn.com/2026/02/25/politics/epstein-virgin-islands-governor-kfile-invs)
 *   **AP: Hillary Clinton testified in closed-door House Epstein deposition** (Feb 26, 2026): AP reported Hillary Clinton appeared for a closed-door deposition in the House investigation into Jeffrey Epstein. [Source](https://apnews.com/video/hillary-clinton-is-testifying-as-part-of-the-house-investigation-into-jeffrey-epstein-7ed636a55a144b609dd8ece4e976ee2b)
 *   **AP: DOJ reviewing whether Epstein-related records were mistakenly withheld** (Feb 26, 2026): AP reported DOJ said it is reviewing whether any Epstein-related records were mistakenly withheld from prior releases. [Source](https://apnews.com/video/doj-says-its-reviewing-whether-any-epstein-related-records-were-mistakenly-withheld-9c56463b73c04749a1e777ca92df7718)
 *   **CNN: WEF president Borge Brende resigned over Epstein ties** (Feb 26, 2026): Borge Brende resigned as president and CEO of the World Economic Forum after an internal review of his Epstein contacts; Alois Zwinggi was named interim leader. [Source](https://www.cnn.com/2026/02/26/business/borge-brende-wef-epstein-files-intl)
@@ -145,6 +147,7 @@ This repository is a source-linked research index for documents, entities, event
 *   **BBC: Bill and Hillary Clinton testimony released** (Mar 2, 2026): BBC reported videos of both Clintons' testimony in the Epstein inquiry were released publicly. [Source](https://www.bbc.com/news/articles/c20zg7prz12o)
 *   **House Democrats asked the Bureau of Prisons who approved Maxwell's transfer** (Mar 2, 2026): Reps. Ross, Raskin and Khanna wrote after Bondi told the House she did not authorize Maxwell's move to a minimum-security camp and did not know who did. [Source](https://ross.house.gov/2026/3/ross-raskin-khanna-demand-answers-on-ghislaine-maxwell-s-transfer-to-club-fed)
 *   **KPBS: UC San Diego said it will end Deepak Chopra's affiliation over his Epstein ties** (Mar 2, 2026): UCSD called the association "regrettable" and said his unpaid voluntary clinical professorship would end with its Jun 30 term; Chopra denies any involvement in criminal conduct. [Source](https://www.kpbs.org/podcasts/kpbs-midday-edition/ucsd-to-cut-ties-with-deepak-chopra-over-epstein-connection)
+*   **St. Thomas Source: Gov. Bryan said he "absolutely" supports an Epstein inquiry and denied wrongdoing** (Mar 2, 2026): Bryan said the record shows no instance of special privilege for Epstein from his administration and did not apologize for the texts. [Source](https://stthomassource.com/content/2026/03/02/bryan-absolutely-supports-an-epstein-inquiry-denies-wrongdoing/)
 *   **AP: Hillary Clinton said she did not recall meeting Epstein** (Mar 3, 2026): AP video coverage highlighted testimony that Hillary Clinton said she did not recall ever meeting Jeffrey Epstein. [Source](https://apnews.com/video/hillary-clinton-said-she-never-even-recalled-meeting-jeffrey-epstein-4137852ceef043a68b3937c7e8a82420)
 *   **AP: Key moments from Bill Clinton's Epstein testimony published** (Mar 3, 2026): AP video coverage summarized key moments from Bill Clinton's deposition testimony on Epstein. [Source](https://apnews.com/video/key-moments-from-bill-clintons-testimony-on-jeffrey-epstein-8983fcc771d24f219adaf6f3788c6d84)
 *   **Reuters: Apollo and Leon Black sued over alleged Epstein-ties disclosure failures** (Mar 3, 2026): Reuters reported shareholders sued Apollo and Leon Black, alleging Epstein-related business ties were concealed from investors. [Source](https://www.reuters.com/sustainability/boards-policy-regulation/apollo-leon-black-sued-allegedly-concealing-epstein-business-ties-shareholders-2026-03-03/)
@@ -200,6 +203,7 @@ This repository is a source-linked research index for documents, entities, event
 *   **ABC: Ted Waitt told House Oversight he paid Maxwell $7.2 million after their breakup** (Apr 30, 2026): The Gateway co-founder said in a closed-door interview that he met Epstein fewer than five times and regretted not scrutinizing Epstein's 2008 plea; the transcript was released May 13. [Source](https://abcnews.com/Politics/ghislaine-maxwells-billionaire-boyfriend-paid-72m-after-breakup/story?id=132943699)
 *   **NPR: Bard College president Leon Botstein to retire after review of Epstein ties** (May 1, 2026): A WilmerHale review found about 25 visits to Epstein's townhouse and a two-day island visit between 2012 and 2019; it found nothing illegal but said his decisions reflect on his leadership. [Source](https://www.npr.org/2026/05/02/nx-s1-5808942/bard-college-president-leon-botstein-retire-jeffrey-epstein)
 *   **Harvard Crimson: Harvard Medical School gave Epstein a $75 million donor rating in 2012** (May 1, 2026): Harvard's development records also show it mailed him personalized endowment updates from 2009 to 2018; neither appeared in the university's 2020 review, and Harvard declined to comment. [Source](https://www.thecrimson.com/article/2026/5/1/epstein-harvard-hms-rating/)
+*   **WAMC: Epstein survivors urged New York lawmakers to pass a trafficking-accountability bill** (May 4, 2026): Survivors testified for S9960, which would create benefiting-from-trafficking crimes and revive time-barred civil claims; the Senate Codes Committee advanced it the same day. [Source](https://www.wamc.org/2026-05-04/epstein-victims-urge-new-york-lawmakers-to-increase-penalties-for-traffickers)
 *   **NPR: Howard Lutnick questioned by House Oversight on Epstein ties** (May 6, 2026): The Commerce secretary called his interactions with Epstein "meaningless and inconsequential"; Democrats accused him of evasive and misleading testimony and later called for his resignation. [Source](https://www.npr.org/2026/05/06/nx-s1-5814081/howard-lutnick-epstein-files-house-oversight-committee)
 *   **Reuters: Judge released purported Epstein note found by former cellmate** (May 6, 2026): U.S. District Judge Kenneth Karas unsealed a note Nicholas Tartaglione says he found in July 2019; the court did not vouch for its authenticity or chain of custody. [Source](https://www.usnews.com/news/us/articles/2026-05-06/new-york-judge-releases-purported-epstein-suicide-note)
 *   **The Art Newspaper: Epstein files reading room opened in New York** (May 8, 2026): The Institute for Primary Facts displayed all 3,437 bound volumes of released files in Tribeca; nearly 10,000 people visited before it moved to Washington in June. [Source](https://www.theartnewspaper.com/2026/05/13/a-reading-room-for-the-epstein-files-opens-in-new-york)
@@ -304,7 +308,7 @@ This repository is a source-linked research index for documents, entities, event
 
 <!-- LAST24H:START -->
 ### What Changed in Last 24 Hours (Auto-generated)
-- Window: Sep 23, 2026 22:46 UTC to Sep 24, 2026 22:46 UTC.
+- Window: Sep 23, 2026 22:50 UTC to Sep 24, 2026 22:50 UTC.
 - Monitored link updates: 0 across 0 domains.
 - Primary-doc diffs: added 0, removed 0, changed 0.
 - Claim-status diffs: added 3, removed 0, changed 0.
@@ -442,6 +446,7 @@ This repository is a source-linked research index for documents, entities, event
 - [Medical Network (2026)](topics/The_Medical_Network_2026.md) *(Sep 2026)*
 - [Survivor Advocacy (2026)](topics/The_Survivor_Advocacy_2026.md) *(Sep 2026)*
 - [Senate Finance Investigation (Wyden)](topics/The_Senate_Finance_Investigation.md) *(Sep 2026)*
+- [Virgin Islands Reckoning (2026)](topics/The_Virgin_Islands_Reckoning_2026.md) *(Sep 2026)*
 
 </details>
 
@@ -544,6 +549,7 @@ Or use Make targets:
 ---
 
 > Note: This database prioritizes source-linked records and explicit claim status labels so readers can separate verified evidence from open or disputed claims.
+
 
 
 

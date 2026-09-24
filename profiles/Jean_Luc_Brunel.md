@@ -31,8 +31,8 @@ The unredacted document explicitly labels Brunel as a **"co-conspirator"** along
 - **Mar 20, 2026**: Fifteen women urged French authorities to investigate former Elite Paris head Gérald Marie for links to Epstein and Brunel's MC2 agency. [The Local](https://www.thelocal.fr/20260320/women-urge-france-to-investigate-model-agency-boss-over-epstein-links)
 - **May 17, 2026**: About ten new alleged victims contacted French investigators. [France 24](https://www.france24.com/en/americas/20260517-around-10-new-victims-come-forward-in-france-s-epstein-investigation)
 - **Jul 20, 2026**: Fellow scout Daniel Siad was found dead before he could be questioned.
-- **Sep 10, 2026**: Paris prosecutor Laure Beccuau said the probe counts 26 alleged victims, 13 of whom never appeared in earlier cases including those against Brunel and Marie. [Courthouse News](https://www.courthousenews.com/frances-epstein-probe-identifies-potential-recruiters/)
 - **Aug 31, 2026**: Named (posthumously) on Rep. Massie's House-floor list of 14. See [The Massie Floor Speech](../topics/The_Massie_Floor_Speech_Aug_2026.md).
+- **Sep 10, 2026**: Paris prosecutor Laure Beccuau said the probe counts 26 alleged victims, 13 of whom never appeared in earlier cases including those against Brunel and Marie. [Courthouse News](https://www.courthousenews.com/frances-epstein-probe-identifies-potential-recruiters/)
 
 ## See Also
 

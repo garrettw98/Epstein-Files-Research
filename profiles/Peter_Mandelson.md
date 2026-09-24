@@ -40,6 +40,8 @@ Like Prince Andrew, Mandelson maintained contact *after* Epstein's 2008 convicti
 **February 4, 2026**: Mandelson formally resigned from the **House of Lords** — the first such resignation linked to misconduct since 1917.
 
 ### Criminal Investigation
+**February 3, 2026**: Former Prime Minister **Gordon Brown**, in whose cabinet Mandelson was business secretary, wrote to Metropolitan Police Commissioner Sir Mark Rowley with information he said was relevant to Mandelson's alleged disclosure of market-sensitive government information to Epstein during the 2009-10 financial crisis. He called it "an inexcusable and unpatriotic act at a time when the whole government and country were attempting to address the global financial crisis." The Met opened its criminal inquiry the same day. [The Scotsman](https://scotsman.com/politics/gordon-brown-writes-to-the-police-over-mandelsons-unpatriotic-act-5501722), [LBC](https://www.lbc.co.uk/article/mandelson-police-latest-jeffrey-epstein-5HjdRnT_2/), [NPR](https://www.npr.org/2026/02/03/g-s1-108529/epstein-files-uk-peter-mandelson)
+
 The **Metropolitan Police** confirmed they launched a criminal investigation into a "72-year-old man" on **suspicion of misconduct in public office**.
 
 ### PM Starmer's Response

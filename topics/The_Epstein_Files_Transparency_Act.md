@@ -70,6 +70,8 @@ The DOJ released a **"relatively small amount"** by the deadline:
 - Led to **bipartisan criticism**
 - Seen as inadequate compliance
 - Prompted calls for additional releases
+- **Inherent-contempt threat (Dec 21, 2025)**: Reps. Thomas Massie and Ro Khanna, the Act's House sponsors, said they would draft a privileged resolution holding AG Pam Bondi in **inherent contempt**, with a fine of up to **$5,000 a day** until the files were fully released. No such resolution was adopted; Congress's pressure moved instead to the Bondi subpoena (Mar 4, 2026), and enforcement moved to the courts. [The Hill](https://thehill.com/homenews/house/5659394-khanna-massie-bondi-contempt-epstein/), [Fortune](https://fortune.com/2025/12/21/inherent-contempt-charges-attorney-general-pam-bondi-epstein-files-massie-khanna)
+- **Monitor request denied (Jan 21, 2026)**: Judge Paul Engelmayer rejected Massie and Khanna's request, filed as an amicus brief in the Maxwell case, for a special master or independent monitor, saying he lacked authority to supervise compliance. See [Phang v. Blanche](The_Phang_v_Blanche_Litigation.md#the-failed-first-attempt-january-2026).
 
 ### January 30, 2026 Release
 

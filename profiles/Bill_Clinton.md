@@ -94,8 +94,8 @@ The February 26-27, 2026 depositions are now complete, with selected testimony v
 
 ## 2026 Update (Mar 17 - Sep 23)
 
-- **Jun 30, 2026**: His longtime aide **Doug Band** told House Oversight his own contact with Epstein was limited and incidental and repeatedly said he could not recall details. See [Doug Band](Doug_Band.md).
 - **Nov 14, 2025**: President Trump asked DOJ to investigate Epstein's ties to Bill Clinton, Larry Summers, Reid Hoffman, and JPMorgan Chase, naming only Democrats; AG Bondi assigned SDNY's Jay Clayton. No charges or public findings have followed as of Sep 24, 2026. [CNBC](https://www.cnbc.com/2025/11/14/trump-doj-jeffrey-epstein-clinton-jpmorgan-summers.html). See [Jay Clayton](Jay_Clayton.md).
+- **Jun 30, 2026**: His longtime aide **Doug Band** told House Oversight his own contact with Epstein was limited and incidental and repeatedly said he could not recall details. See [Doug Band](Doug_Band.md).
 - **Status**: Deposition complete (Feb 27); not accused of a crime in these proceedings.
 
 ## See Also

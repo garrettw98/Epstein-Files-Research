@@ -10,7 +10,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 <!-- LAST24H_TIMELINE:START -->
 ## Last 24 Hours Snapshot (Auto-generated)
-- Window: Sep 23, 2026 22:41 UTC to Sep 24, 2026 22:41 UTC.
+- Window: Sep 23, 2026 22:46 UTC to Sep 24, 2026 22:46 UTC.
 - Monitored updates: 0 links across 0 domains.
 - Primary-doc changes: added 0, removed 0, changed 0.
 - Claim review pressure: p1=0, p2=0, p3=0 open.
@@ -312,6 +312,12 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   **Maxwell**: Post-conviction petition denied; clemency opposed by unanimous Senate resolution.
     *   **Politics**: Epstein files are a live midterm issue (Ohio Senate race, Dallas "reading room," Massie's primary loss).
 <!-- LIVE_TIMELINE:START -->
+*   **Jan 21, 2026**: **The Hill: Judge denied Massie and Khanna's request for an independent Epstein-files monitor**.
+    *   Judge Paul Engelmayer said he lacked authority in the Maxwell case to supervise DOJ's compliance with the Transparency Act, while calling the concerns raised "undeniably important and timely."
+    *   Source: [Source](https://thehill.com/regulation/court-battles/5699694-judge-denies-independent-monitor-request-epstein-files/).
+*   **Feb 3, 2026**: **The Scotsman: Gordon Brown gave police information on Mandelson's alleged leaks to Epstein**.
+    *   The former prime minister wrote to Met Commissioner Mark Rowley, calling the alleged disclosure of market-sensitive information during the financial crisis "inexcusable and unpatriotic."
+    *   Source: [Source](https://scotsman.com/politics/gordon-brown-writes-to-the-police-over-mandelsons-unpatriotic-act-5501722).
 *   **Feb 8, 2026**: **AP review: no DOJ "client list" finding**.
     *   AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men.
     *   Source: [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b).
@@ -399,6 +405,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 19, 2026**: **NPR: Andrew Mountbatten-Windsor arrested in Epstein-linked misconduct probe**.
     *   Thames Valley Police arrested the former prince on suspicion of misconduct in public office over allegations he passed confidential trade-envoy material to Epstein; he was released under investigation.
     *   Source: [Source](https://www.npr.org/2026/02/19/nx-s1-5719098/former-prince-andrew-arrested-on-suspicion-of-misconduct-in-public-office-reports).
+*   **Feb 23, 2026**: **CNBC: Peter Attia left his CBS News contributor role after Epstein email fallout**.
+    *   Attia, named a contributor days before the Jan 30 release, had already left David Protein; he says he was not involved in any criminal activity.
+    *   Source: [Source](https://www.cnbc.com/2026/02/23/epstein-files-peter-attia-cbs-news.html).
 *   **Feb 24, 2026**: **AP: Peter Mandelson released on bail after UK Epstein-probe arrest**.
     *   AP reported former UK ambassador Peter Mandelson was released on bail after his arrest in an Epstein-linked misconduct investigation.
     *   Source: [Source](https://apnews.com/video/former-u-k-ambassador-to-u-s-released-on-bail-after-arrest-in-epstein-misconduct-probe-6fda5c8ac404422ca1bddaff09278c53).
@@ -444,6 +453,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 2, 2026**: **House Democrats asked the Bureau of Prisons who approved Maxwell's transfer**.
     *   Reps. Ross, Raskin and Khanna wrote after Bondi told the House she did not authorize Maxwell's move to a minimum-security camp and did not know who did.
     *   Source: [Source](https://ross.house.gov/2026/3/ross-raskin-khanna-demand-answers-on-ghislaine-maxwell-s-transfer-to-club-fed).
+*   **Mar 2, 2026**: **KPBS: UC San Diego said it will end Deepak Chopra's affiliation over his Epstein ties**.
+    *   UCSD called the association "regrettable" and said his unpaid voluntary clinical professorship would end with its Jun 30 term; Chopra denies any involvement in criminal conduct.
+    *   Source: [Source](https://www.kpbs.org/podcasts/kpbs-midday-edition/ucsd-to-cut-ties-with-deepak-chopra-over-epstein-connection).
 *   **Mar 3, 2026**: **AP: Hillary Clinton said she did not recall meeting Epstein**.
     *   AP video coverage highlighted testimony that Hillary Clinton said she did not recall ever meeting Jeffrey Epstein.
     *   Source: [Source](https://apnews.com/video/hillary-clinton-said-she-never-even-recalled-meeting-jeffrey-epstein-4137852ceef043a68b3937c7e8a82420).
@@ -907,6 +919,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   Investigators have interviewed potential witnesses, including survivors, and sought emails and checks, with interest in entities such as the Florida Science Foundation; Indyke and Kahn deny wrongdoing.
     *   Source: [Source](https://www.cnn.com/2026/09/24/politics/epstein-advisers-investigation-indyke-kahn).
 <!-- LIVE_TIMELINE:END -->
+
 
 
 

@@ -3,7 +3,7 @@
 > **Status**: **ASSOCIATE / DOCUMENTED CORRESPONDENCE** (Evidence Level: ◐ DOCUMENTED - 2026 Release)
 
 ## The Connection
-Deepak Chopra is a world-famous author, speaker, and alternative medicine advocate who holds a professorship at UC San Diego. The January 2026 document release revealed a frequent and familiar correspondence with Jeffrey Epstein that extended to personal, financial, and social matters.
+Deepak Chopra is a world-famous author, speaker, and alternative medicine advocate who held an unpaid voluntary clinical professorship at UC San Diego (ended Jun 30, 2026). The January 2026 document release revealed a frequent and familiar correspondence with Jeffrey Epstein that extended to personal, financial, and social matters.
 
 ## Key Evidence (2026 Files)
 
@@ -65,6 +65,14 @@ Chopra fits a recognizable pattern in Epstein's network:
 
 ## Verdict
 **Documented Associate with Frequent Correspondence.** Chopra maintained a sustained relationship with Epstein that included personal emails, financial consultations, genetic data sharing, and social networking. The "cute girls are real" email stands out as a particularly uncomfortable exchange from a spiritual leader. No allegations of criminal conduct have been made against Chopra.
+
+## 2026 Update (Mar 17 - Sep 24)
+
+- **Feb 5, 2026**: Chopra said he was "deeply saddened by the suffering of the victims," that he "unequivocally condemn[s] abuse and exploitation in all forms," and that he "was never involved in, nor did I participate in, any criminal or exploitative conduct." He said some of his emails "reflect poor judgment in tone." [AOL](https://www.aol.com/articles/deepak-chopra-responds-epstein-emails-044820958.html)
+- **Feb 23, 2026**: CNN reported that messages from 2016 to 2019 show a close relationship, including Chopra telling Epstein to "bring your girls" on trips. [CNN](https://www.cnn.com/2026/02/23/politics/deepak-chopra-jeffrey-epstein-files)
+- **Late Feb - Mar 2, 2026**: UC San Diego told CNN his association with Epstein was "regrettable." It said his unpaid voluntary clinical professorship in family medicine would end when the term expired on Jun 30, 2026, and that he would have no active responsibilities until then. Records also show Epstein came up in a UCSD research proposal after Chopra introduced him. [KPBS](https://www.kpbs.org/podcasts/kpbs-midday-edition/ucsd-to-cut-ties-with-deepak-chopra-over-epstein-connection), [Patch](https://patch.com/california/san-diego/uc-researchers-ties-epstein-started-telepathy-they-couldnt-foresee-what-would)
+- **Jun 30, 2026**: His UCSD appointment was scheduled to end.
+- **Status**: Not accused of a crime. See [The Academic Fallout (2026)](../topics/The_Academic_Fallout_2026.md).
 
 ## See Also
 

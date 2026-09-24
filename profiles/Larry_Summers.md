@@ -21,6 +21,7 @@ Lawrence H. Summers, Treasury Secretary under Bill Clinton and former Harvard pr
 ## 2026 Update (Mar 17 - Sep 24)
 
 - **Nov 14, 2025**: President Trump asked DOJ to investigate Epstein's ties to Summers, Bill Clinton, Reid Hoffman, and JPMorgan Chase; AG Bondi assigned SDNY's Jay Clayton. No charges or public findings have followed as of Sep 24, 2026. [CNBC](https://www.cnbc.com/2025/11/14/trump-doj-jeffrey-epstein-clinton-jpmorgan-summers.html). See [Jay Clayton](Jay_Clayton.md).
+- **End of the 2025-26 academic year**: His resignation announced Feb 25 was set to take effect, ending his tenured professorship and University Professorship. He also left his post as co-director of the Kennedy School's Mossavar-Rahmani Center and keeps the title president emeritus. Harvard's review, which covers whether his and others' contacts with Epstein broke university gift guidelines, had published no findings as of Sep 24. He has not been accused of wrongdoing in connection with Epstein's crimes. See [The Academic Fallout (2026)](../topics/The_Academic_Fallout_2026.md#harvard-the-review-and-its-critics). [Harvard Crimson](https://www.thecrimson.com/article/2026/2/25/summers-retire-harvard-epstein/), [Harvard Magazine](https://www.harvardmagazine.com/university-news/larry-summers-retire-harvard-epstein-probe-kennedy-school), [NPR](https://www.npr.org/2026/02/26/nx-s1-5726434/harvard-professor-larry-summers-to-retire-as-school-investigates-his-ties-to-epstein)
 
 ## See Also
 

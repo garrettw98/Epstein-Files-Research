@@ -97,6 +97,8 @@ This repository is a source-linked research index for documents, entities, event
 
 <!-- LIVE_UPDATES:START -->
 ### Live Updates (As of Sep 24, 2026)
+*   **The Hill: Judge denied Massie and Khanna's request for an independent Epstein-files monitor** (Jan 21, 2026): Judge Paul Engelmayer said he lacked authority in the Maxwell case to supervise DOJ's compliance with the Transparency Act, while calling the concerns raised "undeniably important and timely." [Source](https://thehill.com/regulation/court-battles/5699694-judge-denies-independent-monitor-request-epstein-files/)
+*   **The Scotsman: Gordon Brown gave police information on Mandelson's alleged leaks to Epstein** (Feb 3, 2026): The former prime minister wrote to Met Commissioner Mark Rowley, calling the alleged disclosure of market-sensitive information during the financial crisis "inexcusable and unpatriotic." [Source](https://scotsman.com/politics/gordon-brown-writes-to-the-police-over-mandelsons-unpatriotic-act-5501722)
 *   **AP review: no DOJ "client list" finding** (Feb 8, 2026): AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men. [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b)
 *   **CNN: UK prime minister's chief of staff Morgan McSweeney resigned over Mandelson** (Feb 8, 2026): McSweeney took full responsibility for advising Starmer to appoint Mandelson as ambassador despite his Epstein ties. [Source](https://www.cnn.com/2026/02/08/uk/morgan-mcsweeney-resigns-mandelson-epstein-intl)
 *   **Congressional access to unredacted files opened** (Feb 9, 2026): DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice. [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2)
@@ -126,6 +128,7 @@ This repository is a source-linked research index for documents, entities, event
 *   **Harvard Crimson: Hasty Pudding members petitioned for Andrew Farkas's resignation over Epstein ties** (Feb 18, 2026): A majority of the current Hasty Pudding Theatricals company asked the Institute chair to step down; Farkas has said he never conducted himself inappropriately and no resignation has been reported. [Source](https://www.thecrimson.com/article/2026/2/18/hasty-pudding-farkas-petition/)
 *   **Reuters/Ipsos poll: many Americans say the powerful get a pass** (Feb 19, 2026): Reuters reported new Reuters/Ipsos polling found many Americans believe the Epstein files show powerful people avoid accountability. [Source](https://www.reuters.com/world/us/americans-believe-epstein-files-show-powerful-get-pass-reutersipsos-poll-finds-2026-02-18/)
 *   **NPR: Andrew Mountbatten-Windsor arrested in Epstein-linked misconduct probe** (Feb 19, 2026): Thames Valley Police arrested the former prince on suspicion of misconduct in public office over allegations he passed confidential trade-envoy material to Epstein; he was released under investigation. [Source](https://www.npr.org/2026/02/19/nx-s1-5719098/former-prince-andrew-arrested-on-suspicion-of-misconduct-in-public-office-reports)
+*   **CNBC: Peter Attia left his CBS News contributor role after Epstein email fallout** (Feb 23, 2026): Attia, named a contributor days before the Jan 30 release, had already left David Protein; he says he was not involved in any criminal activity. [Source](https://www.cnbc.com/2026/02/23/epstein-files-peter-attia-cbs-news.html)
 *   **AP: Peter Mandelson released on bail after UK Epstein-probe arrest** (Feb 24, 2026): AP reported former UK ambassador Peter Mandelson was released on bail after his arrest in an Epstein-linked misconduct investigation. [Source](https://apnews.com/video/former-u-k-ambassador-to-u-s-released-on-bail-after-arrest-in-epstein-misconduct-probe-6fda5c8ac404422ca1bddaff09278c53)
 *   **NBC: Nobel laureate Richard Axel stepped down as co-director of Columbia's Zuckerman Institute** (Feb 24, 2026): Axel called his past association with Epstein "a serious error in judgment" and resigned as an HHMI investigator; Columbia said he broke no university policy or law. [Source](https://www.nbcnews.com/news/us-news/columbia-brain-institute-co-director-nobel-laureate-steps-epstein-ties-rcna260585)
 *   **Washington Post: Epstein survivors attended the State of the Union as Democrats' guests** (Feb 24, 2026): Guests included survivors Marina Lacerda, Haley Robson, Teresa Helm and Jess Michaels, Annie Farmer, and Virginia Giuffre's brother and sister-in-law. [Source](https://www.washingtonpost.com/politics/2026/02/24/epstein-accusers-state-of-the-union/)
@@ -141,6 +144,7 @@ This repository is a source-linked research index for documents, entities, event
 *   **Guardian: House committee released video of Clinton depositions** (Mar 2, 2026): The Guardian reported the House committee publicly released videos of Bill and Hillary Clinton's Epstein testimony sessions. [Source](https://www.theguardian.com/us-news/2026/mar/02/clintons-epstein-testimony-released)
 *   **BBC: Bill and Hillary Clinton testimony released** (Mar 2, 2026): BBC reported videos of both Clintons' testimony in the Epstein inquiry were released publicly. [Source](https://www.bbc.com/news/articles/c20zg7prz12o)
 *   **House Democrats asked the Bureau of Prisons who approved Maxwell's transfer** (Mar 2, 2026): Reps. Ross, Raskin and Khanna wrote after Bondi told the House she did not authorize Maxwell's move to a minimum-security camp and did not know who did. [Source](https://ross.house.gov/2026/3/ross-raskin-khanna-demand-answers-on-ghislaine-maxwell-s-transfer-to-club-fed)
+*   **KPBS: UC San Diego said it will end Deepak Chopra's affiliation over his Epstein ties** (Mar 2, 2026): UCSD called the association "regrettable" and said his unpaid voluntary clinical professorship would end with its Jun 30 term; Chopra denies any involvement in criminal conduct. [Source](https://www.kpbs.org/podcasts/kpbs-midday-edition/ucsd-to-cut-ties-with-deepak-chopra-over-epstein-connection)
 *   **AP: Hillary Clinton said she did not recall meeting Epstein** (Mar 3, 2026): AP video coverage highlighted testimony that Hillary Clinton said she did not recall ever meeting Jeffrey Epstein. [Source](https://apnews.com/video/hillary-clinton-said-she-never-even-recalled-meeting-jeffrey-epstein-4137852ceef043a68b3937c7e8a82420)
 *   **AP: Key moments from Bill Clinton's Epstein testimony published** (Mar 3, 2026): AP video coverage summarized key moments from Bill Clinton's deposition testimony on Epstein. [Source](https://apnews.com/video/key-moments-from-bill-clintons-testimony-on-jeffrey-epstein-8983fcc771d24f219adaf6f3788c6d84)
 *   **Reuters: Apollo and Leon Black sued over alleged Epstein-ties disclosure failures** (Mar 3, 2026): Reuters reported shareholders sued Apollo and Leon Black, alleging Epstein-related business ties were concealed from investors. [Source](https://www.reuters.com/sustainability/boards-policy-regulation/apollo-leon-black-sued-allegedly-concealing-epstein-business-ties-shareholders-2026-03-03/)
@@ -300,10 +304,10 @@ This repository is a source-linked research index for documents, entities, event
 
 <!-- LAST24H:START -->
 ### What Changed in Last 24 Hours (Auto-generated)
-- Window: Sep 23, 2026 22:41 UTC to Sep 24, 2026 22:41 UTC.
+- Window: Sep 23, 2026 22:46 UTC to Sep 24, 2026 22:46 UTC.
 - Monitored link updates: 0 across 0 domains.
 - Primary-doc diffs: added 0, removed 0, changed 0.
-- Claim-status diffs: added 6, removed 0, changed 0.
+- Claim-status diffs: added 3, removed 0, changed 0.
 - Claim review queue (open): p1=0, p2=0, p3=0.
 - DOJ data-set file index: 12/12 sets with files, 524 total indexed files.
 
@@ -540,6 +544,7 @@ Or use Make targets:
 ---
 
 > Note: This database prioritizes source-linked records and explicit claim status labels so readers can separate verified evidence from open or disputed claims.
+
 
 
 

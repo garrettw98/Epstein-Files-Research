@@ -40,12 +40,12 @@ The "Epstein Case" isn't one lawsuit; it's a tangled web of dozens of civil and 
     *   **Deutsche Bank**: Paid **$75 million**.
 *   **Significance**: Proved that the financial system knew about the trafficking and profited from it.
 
-## 2026 Update (Mar 17 - Sep 23)
+## 2026 Update (Mar 17 - Sep 24)
 
 ### Active and Resolved Matters (2026)
-| Matter | Court | Status (Sep 23) |
+| Matter | Court | Status (Sep 24) |
 | :--- | :--- | :--- |
-| *Phang v. Blanche* (Transparency Act compliance) | D.D.C., Judge Sullivan | Injunction; Sept. 24 deadline; DOJ protective appeal |
+| *Phang v. Blanche* (Transparency Act compliance) | D.D.C., Judge Sullivan; D.C. Cir. No. 26-5299 | Injunction (Jun 25); Sep 16 order with Sept. 24 deadline; DOJ appealed (Sep 17) and moved to stay the foreign-language portions (Sep 22) |
 | *United States v. Maxwell* post-conviction petition | S.D.N.Y., Judge Engelmayer | **Denied** Aug 25 |
 | Maxwell-case records release | S.D.N.Y., Judge Preska | Release authorized over Maxwell's objection (Aug 11) |
 | Estate class settlement (Indyke/Kahn) | S.D.N.Y., Judge Subramanian | Preliminary approval Mar 3; final hearing Sep 16 |
@@ -55,3 +55,5 @@ The "Epstein Case" isn't one lawsuit; it's a tangled web of dozens of civil and 
 | Apollo securities class action | Federal court | Filed Mar 2 |
 | New Mexico v. DOJ (records) | Federal court | Filed Aug 2026 |
 | Tartaglione note unsealing | S.D.N.Y., Judge Karas | Released May 6 |
+| Survivors v. DOJ and Google (privacy; proposed class action) | N.D. Cal. | Filed Mar 26; alleges the releases exposed about 100 survivors' names, contact details, and photos; seeks at least $1,000 per class member from the government |
+| Survivors v. United States (FBI negligence, FTCA; about $320M) | S.D. Fla. | Magistrate Judge Ryon McCabe recommended Aug 18 that the claims proceed to 90 days of limited discovery; district judge's ruling pending |

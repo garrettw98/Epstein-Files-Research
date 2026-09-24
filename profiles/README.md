@@ -31,7 +31,7 @@ These women were the "middle management" of the operation. Most were granted imm
 ## 🟠 The Accused (Civil Suits/Testimony)
 *   **[Prince Andrew](Prince_Andrew.md)** - Settled civil sexual abuse lawsuit; **arrested Feb 19, 2026** (misconduct in public office), released under investigation.
 *   **[Bill Richardson](Bill_Richardson.md)** - Accused in sworn testimony (Deceased).
-*   **[Alan Dershowitz](Alan_Dershowitz.md)** - Accused by victim (later partially retracted).
+*   **[Alan Dershowitz](Alan_Dershowitz.md)** - Accused by victim (later partially retracted); withdrew from a scheduled Jul 2026 House Oversight interview citing a "legal barrier."
 *   **[Glenn & Eva Dubin](Glenn_and_Eva_Dubin.md)** - Accused by Giuffre (Denied); Eva dated Epstein.
 
 ## 🟡 The Associates (Flight Logs/Meetings)
@@ -69,7 +69,7 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[Kathryn Ruemmler](Kathryn_Ruemmler.md)** - Obama WH Counsel; "adoration" emails; left Goldman Jun 30, 2026; House Oversight interview Jul 15.
 *   **[Howard Lutnick](Howard_Lutnick.md)** - Trump Commerce Secretary; 2012 island visit with family; House Oversight interview May 6, 2026.
 *   **[Miroslav Lajcak](Miroslav_Lajcak.md)** - Slovak National Security Adviser; **resigned Jan 31, 2026**.
-*   **[Terje Rød-Larsen](Terje_Rod_Larsen.md)** - Oslo Accords negotiator; $130k loan; children in Epstein's will ($5M each).
+*   **[Terje Rød-Larsen](Terje_Rod_Larsen.md)** - Oslo Accords negotiator; $130k loan; children in Epstein's will ($5M each); charged with complicity in aggravated corruption (Feb 2026).
 *   **[Thorbjorn Jagland](Thorbjorn_Jagland.md)** - Norwegian former PM; Nobel Committee chair; **charged with aggravated corruption** (Feb 2026; denies).
 *   **[Queen Mette-Marit](Crown_Princess_Mette_Marit.md)** - Queen of Norway since Aug 28, 2026 (formerly Crown Princess); 100+ emails; Palm Beach stay.
 *   **[William Burns](William_Burns.md)** - CIA Director; 2014 townhouse meeting; FOIA requests re: CIA affiliation.
@@ -92,7 +92,7 @@ These women were the "middle management" of the operation. Most were granted imm
 ### Science/Tech
 *   **[Sergey Brin](Sergey_Brin.md)** - Google co-founder; Maxwell communications; dinner guest lists; island allegation.
 *   **[Peter Attia](Peter_Attia.md)** - Longevity doctor; 1,700 emails.
-*   **[Dean Kamen](Dean_Kamen.md)** - Segway inventor; FIRST founder; island visitor; **placed on leave**.
+*   **[Dean Kamen](Dean_Kamen.md)** - Segway inventor; FIRST founder; island visitor; resigned from the FIRST board (Mar 2026) after a review found no misconduct.
 *   **[Deepak Chopra](Deepak_Chopra.md)** - "Cute girls are real" email; 23andMe test with Epstein.
 
 ### Intelligence/Diplomatic
@@ -111,7 +111,7 @@ These women were the "middle management" of the operation. Most were granted imm
 *   **[Thorbjorn Jagland](Thorbjorn_Jagland.md)** - Former PM; Nobel chair; charged with aggravated corruption (denies).
 *   **[Børge Brende](Borge_Brende.md)** - Former foreign minister; **resigned as WEF president Feb 26, 2026**.
 *   **[Joanna Rubinstein](Joanna_Rubinstein.md)** - Sweden UNHCR chair; **resigned Feb 2, 2026**.
-*   **[Mona Juul](Mona_Juul.md)** - Former Norwegian ambassador; charged with aggravated corruption (Feb 2026); resigned.
+*   **[Mona Juul](Mona_Juul.md)** - Former Norwegian ambassador; resigned (Feb 8, 2026) and charged with aggravated corruption (Feb 9, 2026); Norway-France joint investigation.
 
 ### Resignations (2026)
 *   **[Brad Karp](Brad_Karp.md)** - Paul Weiss chairman; **resigned Feb 4, 2026**.

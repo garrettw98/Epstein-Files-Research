@@ -4,7 +4,7 @@
 > **Committee**: House Committee on Oversight and Government Reform
 > **Chair**: Rep. James Comer (R-KY) · **Ranking Member**: Rep. Robert Garcia (D-CA)
 > **Authority**: H.Res. 668 directs the committee to continue its investigation into the federal handling of the Epstein and Maxwell cases and to release committee records. [Congress.gov](https://www.congress.gov/bill/119th-congress/house-resolution/668)
-> **Last updated**: Sep 23, 2026
+> **Last updated**: Sep 24, 2026
 
 ## How to Read This File
 
@@ -30,10 +30,12 @@
 | Jun 30, 2026 | **Doug Band** (former Clinton aide) | Transcribed interview | About four hours; repeatedly said he could not recall; described contact as limited and incidental | [Oversight release](https://oversight.house.gov/release/oversight-committee-releases-leon-black-and-doug-band-transcripts/), [ABC](https://abcnews.com/US/doug-band-former-aide-bill-clinton-questioned-clintons/story?id=134313410) |
 | Jul 15, 2026 | **Kathryn Ruemmler** (former Goldman Sachs CLO) | Transcribed interview | Called Epstein a "masterful liar" who "used me and other respectable people to legitimize his standing"; said referrals made her former firm "single-digit millions." 172-page transcript released Jul 29 | [Oversight release](https://oversight.house.gov/release/oversight-committee-releases-kathryn-ruemmler-transcript/), [ABC](https://abcnews.com/US/kathy-ruemmler-former-top-lawyer-goldman-sachs-calls/story?id=134726450) |
 | Jul 24, 2026 | **Jes Staley** (ex-JPMorgan, ex-Barclays) | Transcribed interview | Said he shared confidential, market-sensitive bank information with Epstein, including Federal Reserve communications during the 2008 crisis and a $44 billion private-bank inflow figure; was once named a trustee of Epstein's estate. Transcript released Aug 26 | [Transcript PDF](https://oversight.house.gov/wp-content/uploads/2026/08/Jes-Staley-Final-Transcript_Redacted-8.26.26.pdf), [Reuters via Star-Advertiser](https://www.staradvertiser.com/2026/08/27/breaking-news/ex-jpmorgan-executive-says-he-shared-market-sensitive-bank-info-with-epstein/) |
+| Jul 20, 2026 | **Alan Dershowitz** (former Epstein defense attorney) | Transcribed interview (requested Jun 12) | **Did not appear.** On Jul 15 his counsel said he "cannot now testify in Congress concerning the matters in which the Committee are interested," citing an unspecified legal barrier, after he had publicly volunteered to testify. Comer called it "unacceptable" and requested a videotaped interview on **Sep 2**, warning of compulsory process. Whether the Sep 2 session occurred was not publicly reported as of Sep 24 | [ABC](https://abcnews.com/US/comer-calls-unacceptable-after-alan-dershowitz-fails-panel/story?id=134952381), [Comer letter (PDF)](https://oversight.house.gov/wp-content/uploads/2026/07/Dershowitz-Letter-FINAL-7.21.26.pdf) |
 | Sep 3, 2026 | **Leon Black** | Subpoenaed deposition | **Did not appear**; sued the committee and Comer in D.D.C. arguing the subpoenas exceed its authority | [NPR](https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit) |
 
 ## Follow-Up Actions
 
+- **Jun 10, 2026 — New requests**: After the Groff interview, Comer said he would seek interviews with **Alan Dershowitz** and acting AG **Todd Blanche**, whom Bondi had repeatedly identified as the decision-maker on the files. No Blanche interview has been reported. [The Hill](https://thehill.com/homenews/house/5918269-comer-dershowitz-blanche-interviews-epstein/)
 - **Jun 4, 2026 — DOJ referral request**: Comer and Republican members asked acting AG Blanche to investigate Kellen's allegations against Philip Levine (former Miami Beach mayor) and Frédéric Fekkai, "using all available tools, including immunity for certain witnesses." Levine's spokesperson said he had "a brief intimate encounter with another consenting adult" nearly 25 years ago; Fekkai's representative denied the allegations. [Oversight release](https://oversight.house.gov/release/chairman-comer-and-republican-lawmakers-seek-doj-investigation-into-sexual-assault-allegations-made-during-epstein-investigation/), [Forbes](https://www.forbes.com/sites/alisondurkee/2026/06/04/house-republicans-ask-doj-to-criminally-investigate-epstein-friends-philip-levine-and-frdric-fekkai/)
 - **Sep 16, 2026 — Contempt**: The House unanimously held Leon Black in contempt for defying the deposition subpoena and not fully complying with the NDA subpoena (he produced one NDA). The vote lets the Speaker certify a referral to DOJ. [NPR](https://www.npr.org/2026/09/16/nx-s1-5954258/leon-black-jeffrey-epstein-contempt-congress), [CNBC](https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html)
 - **Sep 16, 2026 — Legislation**: Comer introduced the **Survivor's Voice Protection Act** (H.R. 10389) based on the committee's finding that NDAs were used to silence survivors. [Oversight release](https://oversight.house.gov/release/chairman-comer-introduces-the-survivors-voice-protection-act/)
@@ -44,7 +46,7 @@
 - **June 2026**: Garcia asked Comer to bring in AG Blanche and FBI Director Kash Patel for transcribed interviews. [Oversight Democrats](https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-demands-todd-blanche-and-kash-patel-testify-in-epstein-investigation)
 - **June 2026**: After a staff visit to FPC Bryan, Raskin and Garcia accused DOJ of covering up Maxwell's preferential treatment. [House Judiciary Democrats](https://democrats-judiciary.house.gov/media-center/press-releases/after-staff-visit-to-ghislaine-maxwell-s-prison-camp-ranking-members-raskin-garcia-slam-blanche-for-continued-cover-up-of-maxwell-s-preferential-treatment)
 
-## Promised but Not Yet Delivered (as of Sep 23)
+## Promised but Not Yet Delivered (as of Sep 24)
 
 - **Public survivor hearings**: promised by Comer after Melania Trump's Apr 9 call ([CNBC, Apr 10](https://www.cnbc.com/2026/04/10/epstein-melania-trump-victims-house-hearings.html)) and again on Jul 1 ([NOTUS](https://www.notus.org/james-comer-says-oversight-will-hold-public-hearings-on-epstein)). No official majority hearing located.
 - **Final report with criminal referrals**: Comer said "I fully expect criminal referrals," with the report due by the end of the session.
@@ -54,5 +56,5 @@
 - [The Clinton Oversight Investigation](The_Clinton_Oversight_Investigation.md)
 - [James Comer](../profiles/James_Comer.md) · [Robert Garcia](../profiles/Robert_Garcia.md)
 - [Sarah Kellen](../profiles/Sarah_Kellen.md) · [Lesley Groff](../profiles/Lesley_Groff.md) · [Leon Black](../profiles/Leon_Black.md) · [Bill Gates](../profiles/Bill_Gates.md)
-- [Ted Waitt](../profiles/Ted_Waitt.md) · [Doug Band](../profiles/Doug_Band.md) · [Jes Staley](../profiles/Jes_Staley.md) · [Tova Noel](../profiles/Tova_Noel.md)
+- [Ted Waitt](../profiles/Ted_Waitt.md) · [Doug Band](../profiles/Doug_Band.md) · [Jes Staley](../profiles/Jes_Staley.md) · [Tova Noel](../profiles/Tova_Noel.md) · [Alan Dershowitz](../profiles/Alan_Dershowitz.md)
 - [The NDA](The_NDA.md)

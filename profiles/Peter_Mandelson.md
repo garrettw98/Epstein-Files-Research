@@ -1,6 +1,6 @@
 # 🇬🇧 Peter Mandelson (Lord Mandelson)
 
-> **Status**: **CRIMINAL INVESTIGATION** (Evidence Level: ◐ DOCUMENTED - 2026 Release)
+> **Status**: **CRIMINAL INVESTIGATION — ARRESTED FEB 23, 2026; RELEASED UNDER INVESTIGATION; NOT CHARGED** (Evidence Level: ◐ DOCUMENTED - 2026 Release)
 
 ## The Connection
 Peter Mandelson is a prominent British politician — architect of "New Labour," former cabinet minister, former EU Trade Commissioner, and former British Ambassador to the United States. The 2026 files revealed he shared confidential UK government documents with Epstein and received payments totaling ~$75,000.
@@ -75,7 +75,7 @@ This is one of the most serious cases in the Epstein files — a senior governme
 5. Became the subject of a second-stage warning-file controversy that implicates government awareness as well as personal conduct
 
 ## Verdict
-**Under Criminal Investigation.** The most consequential political fallout from the 2026 files outside the United States. Mandelson has resigned from his party, the House of Lords, and faces prosecution for misconduct in public office.
+**Under Criminal Investigation.** The most consequential political fallout from the 2026 files outside the United States. Mandelson has resigned from his party and the House of Lords, and was arrested on suspicion of misconduct in public office (Feb 23, 2026). As of Sep 24, 2026 he has not been charged and denies wrongdoing; PA reported in August that the Met still lacked unredacted U.S. records. His appointment as ambassador later contributed to Keir Starmer's resignation.
 
 ## 2026 Update (Mar 17 - Sep 23)
 

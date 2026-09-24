@@ -1,7 +1,7 @@
 # ❓ Frequently Asked Questions (FAQ)
 
 > **Goal**: Simple answers to the most common questions.
-> **Last updated**: Sep 23, 2026
+> **Last updated**: Sep 24, 2026
 
 ## 1. Is there a "Client List"?
 **No and Yes.** There is no single sheet of paper titled "Client List."
@@ -45,7 +45,7 @@
 ## 7. Have all the Epstein files been released?
 **No.**
 *   DOJ released about 3.5 million of roughly 6 million pages it identified (Data Sets 1-12, plus roughly 50,000 previously removed files reported restored in March 2026).
-*   A federal judge found DOJ out of compliance with the Transparency Act in some respects and set a **Sept. 24, 2026** deadline. See [Phang v. Blanche](The_Phang_v_Blanche_Litigation.md).
+*   A federal judge found DOJ out of compliance with the Transparency Act in some respects and set a **Sept. 24, 2026** deadline. DOJ appealed and asked the D.C. Circuit to pause part of the order; what DOJ filed on the deadline had not been reported when this page was updated. See [Phang v. Blanche](The_Phang_v_Blanche_Litigation.md).
 *   The DOJ Inspector General and the GAO are both reviewing how DOJ redacted and withheld records.
 *   A second law, the [Epstein Files Transparency Act II](The_Epstein_Files_Transparency_Act_II.md), has enough signatures to force a House vote after the midterms.
 

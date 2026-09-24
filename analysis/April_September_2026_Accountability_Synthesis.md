@@ -34,7 +34,7 @@ Five tracks define the period:
 
 Before April, the only enforcement of the Transparency Act was political: floor speeches, letters, and subpoenas. After April, it became judicial.
 
-- **Phang v. Blanche (D.D.C.)**: preliminary injunction (Jun 25), in camera review of 10 records (Jul 25, when DOJ admitted redacting one of Epstein's own email addresses), contempt warning from the bench (Aug 13), and a Sept 24 deadline after the court called DOJ's position "without merit" (Sep 16). DOJ filed a protective notice of appeal.
+- **Phang v. Blanche (D.D.C.)**: preliminary injunction (Jun 25), in camera review of 10 records (Jul 25, when DOJ admitted redacting one of Epstein's own email addresses), contempt warning from the bench (Aug 13), and a Sept 24 deadline after the court called DOJ's position "without merit" (Sep 16), with a companion order for the "Jane Doe 4" FBI interview notes. DOJ filed a protective notice of appeal in August, appealed the Sep 16 order (Sep 17), and asked the D.C. Circuit to stay the foreign-language-records portions (Sep 22). Separately, survivors sued DOJ and Google over exposed personal information (Mar 26), and a magistrate judge recommended that survivors' $320 million FBI negligence suit proceed (Aug 18).
 - **Maxwell case (S.D.N.Y.)**: Judge Preska held (Aug 11) that the Act overrides prior sealing orders, grand-jury secrecy, and Maxwell's privacy claims, finding that continued secrecy would leave the public with "an incomplete and potentially misleading picture."
 - **Watchdogs**: the DOJ Inspector General (Apr 23) and GAO (Apr 28) opened reviews of the redaction process. Neither has reported.
 
@@ -53,6 +53,8 @@ The committee's March 3 request list (Gates, Black, Waitt, Ruemmler, Groff, Kell
 
 **Limits the minority has flagged:** witnesses were generally interviewed, not deposed under oath, and video was released only for the Clintons (NOTUS, Aug 6). Groff's account has been disputed by survivors (CNN, Jul 9). Doug Band repeatedly said he could not recall. Leon Black ended his interview after refusing NDA questions, then defied subpoenas and sued.
 
+**Refusals:** besides Leon Black, former Epstein lawyer **Alan Dershowitz**, who had publicly volunteered to testify, withdrew five days before his Jul 20 interview citing an unspecified legal barrier; Comer demanded a Sep 2 appearance, and no outcome has been reported.
+
 **Still outstanding:** the public survivor hearings Comer promised (Apr 10, Jul 1) and the committee's final report with the criminal referrals he said he "fully expect[s]."
 
 ## 4. Criminal Exposure Returns
@@ -66,7 +68,7 @@ For most of 2026, DOJ's stated position (Blanche, Feb 2) was that no new prosecu
 | Leon Black contempt | House vote Sep 16; DOJ referral pending; Black's suit pending | [Leon Black](../profiles/Leon_Black.md) |
 | New Mexico criminal probe | Reopened in Feb; state suing DOJ for records | [Zorro Ranch Commission](../topics/The_Zorro_Ranch_Commission.md) |
 | UK: Andrew, Mandelson | Both released under investigation; Met reportedly stalled without U.S. files | [The UK Reckoning](../topics/The_UK_Reckoning_2026.md) |
-| Norway: Jagland, Juul, Rød-Larsen | Charged or under investigation; all deny | [The Norway Scandal](../topics/The_Norway_Scandal.md) |
+| Norway: Jagland, Juul, Rød-Larsen | Charged (Rød-Larsen with complicity); not tried | [The Norway Scandal](../topics/The_Norway_Scandal.md) |
 | France: recruiter network | 26 alleged victims; new recruiter names; Siad died Jul 20 | [The French Connection](../topics/The_French_Connection.md) |
 | Maxwell | Post-conviction petition denied Aug 25; Senate opposes clemency | [Ghislaine Maxwell](../profiles/Ghislaine_Maxwell.md) |
 
@@ -94,6 +96,10 @@ See [The Banks](../topics/The_Banks.md) and [The Money Trail](../topics/The_Mone
 - A GBAO poll reported that 88% of likely midterm voters, including 83% of Republicans, would prioritize candidates promising accountability, including full release of the files.
 - **Melania Trump** (Apr 9) publicly denied any Epstein ties and called for survivor hearings. Survivors' reactions were mixed.
 
+## 8. Institutions Beyond Government: Academia
+
+Universities ran their own reviews. Bard's president **Leon Botstein** retired (announced May 1) after a WilmerHale review; Columbia disciplined dental-school officials over an "irregular" admission tied to Epstein's girlfriend and Nobel laureate Richard Axel gave up an institute directorship; Ohio State's review cleared a physician of involvement in crimes; Harvard (Nowak) and Yale (Gelernter) reviews remain open. House Judiciary Democrats extended their university inquiry to Harvard and Bard on Jun 17. See [The Academic Fallout (2026)](../topics/The_Academic_Fallout_2026.md).
+
 ## Working Narrative
 
 The strongest current synthesis:
@@ -102,9 +108,9 @@ The strongest current synthesis:
 
 That is a significant shift from February, when DOJ could credibly say the files were out and the matter was closed. The archive is still incomplete, but for the first time several institutions with coercive power are working on the gaps simultaneously.
 
-## Open Questions (as of Sep 23, 2026)
+## Open Questions (as of Sep 24, 2026)
 
-1. Will DOJ meet Judge Sullivan's Sept 24 deadline, and will the D.C. Circuit hear an appeal?
+1. What did DOJ file on Judge Sullivan's Sept 24 deadline, and will the D.C. Circuit grant DOJ's partial stay in No. 26-5299?
 2. What do the unredacted "torture video" emails and the 2007 draft indictment's co-conspirator list actually show?
 3. Will the SDNY executor investigation produce charges, and does it reach post-2019 records custody?
 4. Will DOJ act on the Leon Black contempt referral while his lawsuit against the committee is pending?
@@ -112,6 +118,8 @@ That is a significant shift from February, when DOJ could credibly say the files
 6. Will DOJ answer the Polish, Norwegian, Latvian, Lithuanian, and UK mutual legal assistance requests?
 7. What will the DOJ Inspector General and GAO reviews conclude about how redaction decisions were made?
 8. Will EFTA II pass the House after Nov 9, and will the Senate take it up?
+9. Will Alan Dershowitz testify, and will the committee subpoena him?
+10. What will New Mexico's Truth Commission final report (due Dec 31) conclude?
 
 ## Read This With
 

@@ -1,7 +1,7 @@
 # Sultan Ahmed Bin Sulayem
 
 > **Role**: **Emirati Businessman / Email Correspondent**
-> **Status**: **NAMED ON HOUSE FLOOR (Feb 10, 2026)**
+> **Status**: **NAMED ON HOUSE FLOOR (Feb 10, 2026); STEPPED DOWN AS DP WORLD CHAIRMAN AND CEO (Feb 13, 2026); NOT CHARGED**
 > **Nationality**: United Arab Emirates
 > **Position**: Former Chairman and Group CEO, DP World (stepped down Feb 13, 2026)
 

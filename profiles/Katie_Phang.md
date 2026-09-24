@@ -2,7 +2,7 @@
 
 > **Status**: **LITIGANT / JOURNALIST** (not accused of wrongdoing)
 > **Role in Repo**: Plaintiff in *Phang v. Blanche*, the first lawsuit to produce court orders enforcing the Epstein Files Transparency Act
-> **Last updated**: Sep 23, 2026
+> **Last updated**: Sep 24, 2026
 
 ## Summary
 
@@ -14,7 +14,9 @@ Katie Phang is an attorney, former cable-news host, and independent journalist. 
 - **Jun 25, 2026**: Preliminary injunction granted. [CBS](https://www.cbsnews.com/news/judge-orders-doj-unredact-more-epstein-files-or-explain-why-blanche/)
 - **Jul 25, 2026**: Court orders 10 records produced unredacted for private review. [Forbes](https://www.forbes.com/sites/alisondurkee/2026/07/27/could-more-epstein-files-be-released-soon-redacted-docs-will-be-reviewed-by-judge-this-week/)
 - **Aug 13, 2026**: Contempt warning at hearing. [CNN](https://www.cnn.com/2026/08/13/politics/epstein-judge-hearing-justice-department-contempt-warning)
-- **Sep 16, 2026**: Sept. 24 deadline set. [The Hill](https://thehill.com/regulation/court-battles/6095691-doj-epstein-transparency-ruling/)
+- **Jul 2, 2026**: DOJ declined to produce more records at the injunction deadline. [ABC](https://abcnews.com/Politics/doj-declines-turn-additional-epstein-files-redactions/story?id=134430675)
+- **Sep 16, 2026**: Sept. 24 deadline set; separate order for the "Jane Doe 4" interview notes (private review). [The Hill](https://thehill.com/regulation/court-battles/6095691-doj-epstein-transparency-ruling/), [MS NOW](https://www.ms.now/news/judge-rules-todd-blanche-must-turn-over-notes-from-fbi-interview-with-trump-accuser)
+- **Sep 17-22, 2026**: DOJ appealed and asked the D.C. Circuit to stay the foreign-language portions of the orders. See [Phang v. Blanche Litigation](../topics/The_Phang_v_Blanche_Litigation.md).
 
 ## See Also
 

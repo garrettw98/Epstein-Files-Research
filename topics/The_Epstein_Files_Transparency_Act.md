@@ -291,7 +291,7 @@ Between April and September the fight over the Act moved from press conferences 
 - **Jun 25**: Judge Emmet Sullivan granted a preliminary injunction, finding DOJ had effectively conceded a violation, and ordered it to unredact or justify five categories of records (hidden email correspondents including the "torture video" thread, the 2007 draft indictment's co-conspirator names, a 2019 co-conspirator email, FBI interview notes, and non-English records) plus a full redaction log.
 - **Jul 25**: DOJ produced 10 disputed records unredacted for the judge's private review and admitted it had mistakenly redacted one of Epstein's own email addresses.
 - **Aug 11**: Judge Loretta Preska (S.D.N.Y.) held the Act overrides earlier sealing orders, grand-jury secrecy, and Maxwell's privacy claims.
-- **Aug 13 / Sep 16**: Sullivan warned of contempt and set a **Sept. 24** deadline, calling DOJ's position "without merit." DOJ filed a protective notice of appeal.
+- **Aug 13 / Sep 16**: Sullivan warned of contempt and set a **Sept. 24** deadline, calling DOJ's position "without merit." DOJ had filed a protective notice of appeal in August; it appealed the Sep 16 order on Sep 17 and on Sep 22 asked the D.C. Circuit to stay the foreign-language-records portions.
 - Full detail: [Phang v. Blanche Litigation](The_Phang_v_Blanche_Litigation.md).
 
 ### Watchdog Reviews

@@ -1,6 +1,6 @@
 # 📅 The Master Timeline: Every Verified Event
 
-> **Scope**: 1953 - Sep 23, 2026
+> **Scope**: 1953 - Sep 24, 2026
 > **Sources**: Court documents, Flight Logs, Police Reports, 2024/2026 Releases.
 
 This timeline integrates all data points from this repository into a single chronological flow.
@@ -10,7 +10,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 <!-- LAST24H_TIMELINE:START -->
 ## Last 24 Hours Snapshot (Auto-generated)
-- Window: Sep 22, 2026 22:09 UTC to Sep 23, 2026 22:09 UTC.
+- Window: Sep 23, 2026 16:21 UTC to Sep 24, 2026 16:21 UTC.
 - Monitored updates: 0 links across 0 domains.
 - Primary-doc changes: added 0, removed 0, changed 0.
 - Claim review pressure: p1=0, p2=0, p3=0 open.
@@ -20,7 +20,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 - No monitored links in the current 24-hour window.
 <!-- LAST24H_TIMELINE:END -->
 
-> **Pipeline note (Sep 23, 2026):** the network ingest steps could not run in the environment used for this update, so the snapshot above reflects claim-registry changes only. DOJ data-set counts come from the last successful crawl (Mar 17, 2026). See the [Data Pipeline Runbook](../docs/DATA_PIPELINE.md#network-requirements).
+> **Pipeline note (Sep 24, 2026):** the network ingest steps could not run in the environment used for this update, so the snapshot above reflects claim-registry changes only. DOJ data-set counts come from the last successful crawl (Mar 17, 2026). See the [Data Pipeline Runbook](../docs/DATA_PIPELINE.md#network-requirements).
 
 ---
 
@@ -230,17 +230,22 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   **Resignations**: Mandelson (Labour, Lords), Lajcak (Slovakia), Rubinstein (Sweden UNHCR), Kamen (FIRST leave), Karp (Paul Weiss), Ross (SVA).
     *   **NFL**: Investigating Steve Tisch and Howard Lutnick.
     *   **Victims**: Fighting for website shutdown and proper redactions.
-*   **2026 (Feb 13)**: Former Norwegian PM **Thorbjørn Jagland** formally **charged with aggravated corruption** by Økokrim (he denies the charges). The Council of Europe waived his immunity; he was hospitalized on Feb 24.
+*   **2026 (Feb 8-9)**: Norwegian ambassador **Mona Juul** steps down (Feb 8); Økokrim charges her with aggravated corruption and her husband **Terje Rød-Larsen** with complicity (Feb 9).
+*   **2026 (Feb 11)**: **Columbia** removes dental-school officials over the "irregular" 2012 admission of Epstein's girlfriend; **Yale** bars Prof. David Gelernter from teaching pending review.
+*   **2026 (Feb 12)**: Former Norwegian PM **Thorbjørn Jagland** formally **charged with aggravated corruption** by Økokrim (he denies the charges), a day after the Council of Europe waived his immunity (Feb 11). On Feb 24 his lawyer said he had been hospitalized because of the strain.
 *   **2026 (Feb 16)**: **Tom Pritzker** retires as Hyatt executive chairman **effective immediately** (not at year-end, as some early reports and earlier versions of this repo said).
 *   **2026 (Feb 19)**: **Andrew Mountbatten-Windsor arrested** by Thames Valley Police on suspicion of misconduct in public office; released under investigation. First senior royal arrested in roughly 400 years.
 *   **2026 (Feb 23)**: **Peter Mandelson arrested** by the Metropolitan Police on suspicion of misconduct in public office; bailed Feb 24, then released under investigation (no longer on bail) on Mar 6.
+*   **2026 (Feb 24)**: Nobel laureate **Richard Axel** steps down as co-director of Columbia's Zuckerman Institute.
 *   **2026 (Feb 26)**: **Børge Brende** resigns as WEF president and CEO after an internal review.
 
 ---
 
 ## 2026 (Mar-Sep): The Accountability Phase
 
+*   **2026 (Mar 12)**: **Dean Kamen** resigns from the FIRST board; FIRST's review found no evidence of misconduct.
 *   **2026 (Mar 17)**: House Oversight subpoenas AG **Pam Bondi** for an April 14 deposition.
+*   **2026 (Mar 26)**: Survivors sue **DOJ and Google** over personal information exposed in the releases (proposed class action, N.D. Cal.).
 *   **2026 (Apr 2)**: Trump **removes Bondi** as attorney general; **Todd Blanche** becomes acting AG.
 *   **2026 (Apr 9)**: **Melania Trump** publicly denies any Epstein ties and calls for public survivor hearings.
 *   **2026 (Apr 13)**: Judge dismisses Trump's $10B WSJ lawsuit over the birthday letter (refiled May 28).
@@ -248,14 +253,20 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **2026 (Apr 16)**: Report that **Mandelson failed security vetting** before his ambassadorship; Starmer pressure intensifies.
 *   **2026 (Apr 23 / Apr 28)**: **DOJ Inspector General** opens an audit and **GAO** opens a review of DOJ's handling of the files.
 *   **2026 (Apr 27)**: Katie Phang files **Phang v. Blanche** to enforce the Transparency Act.
+*   **2026 (Apr 27)**: Norway and France form a **joint investigation team** for the Juul/Rød-Larsen case.
 *   **2026 (Apr 30 - Jul 24)**: House Oversight interviews **Waitt, Lutnick, Noel, Kellen, Bondi, Groff, Gates, Black, Band, Ruemmler, Staley**.
+*   **2026 (May 1)**: Bard College president **Leon Botstein** announces his retirement after a WilmerHale review of his Epstein ties.
 *   **2026 (May 6)**: Judge unseals a **purported Epstein note** found by cellmate Tartaglione (authenticity unverified).
 *   **2026 (May 12)**: Oversight Democrats hold a **Palm Beach field hearing** with survivors.
 *   **2026 (May 19)**: **Thomas Massie loses** his Republican primary to Trump-backed Ed Gallrein.
 *   **2026 (Jun 4)**: Comer asks DOJ to investigate **Kellen's allegations** against Philip Levine and Frederic Fekkai (both deny them).
+*   **2026 (Jun 10-12)**: Comer says he will seek interviews with **Alan Dershowitz** and acting AG Blanche; formally requests Dershowitz's testimony.
+*   **2026 (Jun 17)**: House Judiciary Democrats extend their **university inquiry** to Harvard and Bard.
 *   **2026 (Jun 22)**: **Keir Starmer announces his resignation** amid the Mandelson fallout; Andy Burnham becomes PM on Jul 20.
 *   **2026 (Jun 25)**: Judge **Emmet Sullivan enjoins DOJ** to unredact or justify disputed records.
+*   **2026 (Jul 2)**: At the injunction deadline, **DOJ declines to produce more records** and defends its redactions.
 *   **2026 (Jul 15)**: **Epstein Files Transparency Act II** introduced.
+*   **2026 (Jul 20)**: **Alan Dershowitz** skips his House Oversight interview, citing an unspecified legal barrier; Comer demands a Sep 2 appearance (Jul 21).
 *   **2026 (Jul 20)**: French model scout **Daniel Siad found dead** before French investigators could question him.
 *   **2026 (Jul 21)**: Raskin opens a **foreign-agent (FARA) inquiry** into Epstein.
 *   **2026 (Jul 29)**: Senate **unanimously opposes any Maxwell pardon**.
@@ -263,15 +274,17 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **2026 (Aug 5)**: **New Mexico sues DOJ** for records; the Truth Commission issues its interim report.
 *   **2026 (Aug 8)**: Senate confirms **Blanche as attorney general**, 50-49.
 *   **2026 (Aug 11)**: Judge **Preska** rules the Act overrides sealing orders in the Maxwell case.
+*   **2026 (Aug 18)**: A magistrate judge recommends survivors' **$320M FBI negligence suit** proceed to limited discovery.
 *   **2026 (Aug 25)**: Judge **Engelmayer denies Maxwell's** bid to vacate her conviction.
 *   **2026 (Aug 27)**: **Bank of America's $72.5M settlement** receives final approval.
 *   **2026 (Aug 28)**: King Harald V dies; **Mette-Marit becomes Queen of Norway**.
 *   **2026 (Sep 3)**: **Leon Black** skips a subpoenaed deposition and sues House Oversight.
-*   **2026 (Sep 16)**: House holds **Leon Black in contempt**; Sullivan sets a **Sept. 24** deadline for DOJ; Comer introduces the **Survivor's Voice Protection Act**.
+*   **2026 (Sep 16)**: House holds **Leon Black in contempt**; Sullivan sets a **Sept. 24** deadline for DOJ and separately orders the "Jane Doe 4" FBI interview notes submitted for private review; Comer introduces the **Survivor's Voice Protection Act**.
+*   **2026 (Sep 17-22)**: DOJ appeals Sullivan's order and asks the D.C. Circuit (No. 26-5299) to stay the foreign-language-records portions of his Jun 25 and Sep 16 orders.
 *   **2026 (Sep 18)**: **EFTA II discharge petition** reaches 218 signatures.
 *   **2026 (Sep 23)**: WSJ reports SDNY is investigating estate executors **Darren Indyke and Richard Kahn**.
-*   **2026 (Sep 23)**: **Status snapshot**.
-    *   **DOJ**: AG Blanche under court deadline (Sep 24) in Phang v. Blanche; IG and GAO reviews pending; DOJ has not answered European legal-assistance requests; no Data Set 13 published.
+*   **2026 (Sep 24)**: **Status snapshot**.
+    *   **DOJ**: AG Blanche under a Sep 24 court deadline in Phang v. Blanche while DOJ appeals and seeks a partial stay (outcome not yet reported); IG and GAO reviews pending; DOJ has not answered European legal-assistance requests; no Data Set 13 published.
     *   **Congress**: Oversight witness phase largely complete; Black contempt referral pending; final report and promised public hearings not yet delivered; EFTA II vote possible after the House returns Nov. 9.
     *   **Criminal exposure**: SDNY executor probe (reported); New Mexico criminal probe; UK investigations of Andrew and Mandelson; Norway's Jagland and Juul/Rød-Larsen cases; France's expanded probe.
     *   **Maxwell**: Post-conviction petition denied; clemency opposed by unanimous Senate resolution.
@@ -292,21 +305,24 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 11, 2026**: **AP: Lutnick acknowledged pre-government meetings with Epstein**.
     *   AP reported Commerce Secretary Howard Lutnick said he met Epstein before entering government service, contradicting earlier White House denials that he had ever met him.
     *   Source: [Source](https://apnews.com/article/epstein-howard-lutnick-trump-administration-2ead9f28f66e0df4da8f8e2d266ebe4f).
+*   **Feb 11, 2026**: **Columbia removed dental-school officials over admission of Epstein's girlfriend**.
+    *   Columbia said Karyna Shuliak was admitted in 2012 through an "irregular process" coinciding with fundraising solicitations; it removed Epstein's former dentist Thomas Magnani from admissions and volunteer roles and Letty Moss-Salentijn stepped down from administrative posts.
+    *   Source: [Source](https://communications.news.columbia.edu/news/statement-columbia-university-regarding-college-dental-medicine-and-communications-jeffrey).
 *   **Feb 12, 2026**: **DOJ search-logging controversy**.
     *   AP reported DOJ tracked how often and where lawmakers and aides searched the Epstein files, triggering bipartisan backlash.
     *   Source: [Source](https://apnews.com/article/13eeb9ccadcc03ba34922d8ba95ce220).
 *   **Feb 12, 2026**: **Goldman legal leadership change**.
     *   Goldman Sachs Chief Legal Officer Kathryn Ruemmler announced she will step down effective June 30, 2026 after renewed scrutiny tied to Epstein-file disclosures.
     *   Source: [Source](https://apnews.com/article/3ba7b9e87cc8e38f563f91917630e484).
+*   **Feb 12, 2026**: **CNN: Former Norwegian PM Jagland charged with aggravated corruption**.
+    *   Lawyers for Thorbjorn Jagland said Norway's Okokrim charged him with aggravated corruption over gifts, travel and loans linked to Epstein; Jagland denies all charges.
+    *   Source: [Source](https://www.cnn.com/2026/02/13/europe/norway-pm-jagland-charged-epstein-ties-intl-hnk).
 *   **Feb 13, 2026**: **DP World leadership change**.
     *   Sultan Ahmed bin Sulayem stepped down as chairman and group CEO amid fallout from the files.
     *   Source: [Source](https://apnews.com/article/5709588906fb10cd51bb49f30a9825d2).
 *   **Feb 13, 2026**: **Barak public apology**.
     *   Former Israeli PM Ehud Barak said he regrets his relationship with Epstein and apologized publicly.
     *   Source: [Source](https://apnews.com/article/5709588906fb10cd51bb49f30a9825d2).
-*   **Feb 13, 2026**: **CNN: Former Norwegian PM Jagland charged with aggravated corruption**.
-    *   Lawyers for Thorbjorn Jagland said Norway's Okokrim charged him with aggravated corruption over gifts, travel and loans linked to Epstein; Jagland denies all charges.
-    *   Source: [Source](https://www.cnn.com/2026/02/13/europe/norway-pm-jagland-charged-epstein-ties-intl-hnk).
 *   **Feb 14, 2026**: **DP World interim leadership announced**.
     *   DP World announced Esa Kazim as interim chairman and Yuvraj Narayan as interim group CEO after Bin Sulayem's resignation.
     *   Source: [Source](https://apnews.com/article/82cf3efbffe5ed2c1ea89dde06c86490).
@@ -352,6 +368,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 24, 2026**: **AP: Peter Mandelson released on bail after UK Epstein-probe arrest**.
     *   AP reported former UK ambassador Peter Mandelson was released on bail after his arrest in an Epstein-linked misconduct investigation.
     *   Source: [Source](https://apnews.com/video/former-u-k-ambassador-to-u-s-released-on-bail-after-arrest-in-epstein-misconduct-probe-6fda5c8ac404422ca1bddaff09278c53).
+*   **Feb 24, 2026**: **NBC: Nobel laureate Richard Axel stepped down as co-director of Columbia's Zuckerman Institute**.
+    *   Axel called his past association with Epstein "a serious error in judgment" and resigned as an HHMI investigator; Columbia said he broke no university policy or law.
+    *   Source: [Source](https://www.nbcnews.com/news/us-news/columbia-brain-institute-co-director-nobel-laureate-steps-epstein-ties-rcna260585).
 *   **Feb 25, 2026**: **AP: Larry Summers to resign from Harvard amid Epstein-ties review**.
     *   AP reported Harvard said Larry Summers would resign during a review focused on his past Epstein ties.
     *   Source: [Source](https://apnews.com/video/larry-summers-to-resign-from-harvard-university-amid-review-of-his-epstein-ties-c61a4621aa9b4f9d8b48a8e2da543cec).
@@ -445,6 +464,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 12, 2026**: **CNN: Tisch siblings sought to move Giants stakes into children's trusts**.
     *   An NFL memo showed Steve, Laurie and Jonathan Tisch proposed transferring their remaining 23.1% of the Giants to their children's trusts as the league reviewed Steve Tisch's Epstein emails.
     *   Source: [Source](https://www.cnn.com/2026/03/12/sport/new-york-giants-owner-steve-tisch-transfer-stake).
+*   **Mar 12, 2026**: **NHPR: Dean Kamen resigned from the FIRST board**.
+    *   FIRST's board chair said Kamen voluntarily resigned and withdrew from FIRST activities and that the board's independent review found no evidence of misconduct.
+    *   Source: [Source](https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire).
 *   **Mar 14, 2026**: **Fox: World Economic Forum faced renewed scrutiny over Epstein ties**.
     *   Fox News reported the World Economic Forum faced fresh scrutiny over Epstein-linked ties and criticism surrounding past leadership connections.
     *   Source: [Source](https://www.foxnews.com/world/world-economic-forum-faces-fresh-scrutiny-epstein-ties-revive-past-scandals-criticism).
@@ -463,6 +485,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 20, 2026**: **CNN: Norway's crown princess said Epstein "manipulated and deceived" her**.
     *   In her first interview on the relationship, broadcast by NRK, Mette-Marit said she did not know Epstein was an abuser and wished she had never met him.
     *   Source: [Source](https://www.cnn.com/2026/03/20/europe/norway-crown-princess-interview-epstein-intl-scli).
+*   **Mar 26, 2026**: **CNN: Survivors sued DOJ and Google over exposed personal information**.
+    *   A proposed class action in federal court in Northern California alleges the Epstein releases outed about 100 survivors and that Google kept republishing their information.
+    *   Source: [Source](https://www.cnn.com/2026/03/27/us/epstein-survivors-sue-doj-google-hnk).
 *   **Mar 27, 2026**: **CNBC: Bank of America settlement with Epstein victims set at $72.5 million**.
     *   CNBC reported Bank of America agreed to pay $72.5 million to settle claims that it enabled Epstein's trafficking, while denying it facilitated his crimes.
     *   Source: [Source](https://www.cnbc.com/2026/03/27/jeffrey-epstein-bank-of-america-lawsuit-settle.html).
@@ -493,12 +518,18 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Apr 27, 2026**: **Journalist Katie Phang sued DOJ over Epstein Files Transparency Act compliance**.
     *   Phang v. Blanche, filed in federal court in Washington, alleged DOJ violated the Act by withholding and over-redacting required records.
     *   Source: [Source](https://clearinghouse.net/case/48180/).
+*   **Apr 27, 2026**: **Euronews: Norway and France formed a joint investigation team on the Juul/Rod-Larsen case**.
+    *   Okokrim and French investigators set up a joint team so they can share information without separate legal-assistance requests.
+    *   Source: [Source](https://www.euronews.com/my-europe/2026/04/27/norway-and-france-launch-joint-police-probe-into-diplomats-alleged-links-with-epstein).
 *   **Apr 28, 2026**: **Washington Post: GAO agreed to review DOJ's handling of Epstein-file redactions**.
     *   The Government Accountability Office accepted a senators' request to review how DOJ reviewed, redacted and released the files.
     *   Source: [Source](https://www.washingtonpost.com/politics/2026/04/28/epstein-files-gao/).
 *   **Apr 30, 2026**: **ABC: Ted Waitt told House Oversight he paid Maxwell $7.2 million after their breakup**.
     *   The Gateway co-founder said in a closed-door interview that he met Epstein fewer than five times and regretted not scrutinizing Epstein's 2008 plea; the transcript was released May 13.
     *   Source: [Source](https://abcnews.com/Politics/ghislaine-maxwells-billionaire-boyfriend-paid-72m-after-breakup/story?id=132943699).
+*   **May 1, 2026**: **NPR: Bard College president Leon Botstein to retire after review of Epstein ties**.
+    *   A WilmerHale review found about 25 visits to Epstein's townhouse and a two-day island visit between 2012 and 2019; it found nothing illegal but said his decisions reflect on his leadership.
+    *   Source: [Source](https://www.npr.org/2026/05/02/nx-s1-5808942/bard-college-president-leon-botstein-retire-jeffrey-epstein).
 *   **May 6, 2026**: **NPR: Howard Lutnick questioned by House Oversight on Epstein ties**.
     *   The Commerce secretary called his interactions with Epstein "meaningless and inconsequential"; Democrats accused him of evasive and misleading testimony and later called for his resignation.
     *   Source: [Source](https://www.npr.org/2026/05/06/nx-s1-5814081/howard-lutnick-epstein-files-house-oversight-committee).
@@ -553,6 +584,12 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jun 10, 2026**: **NPR: Bill Gates told House Oversight he never knew of Epstein's crimes**.
     *   Gates said Epstein used knowledge of his affairs to pressure him to re-engage and that emails suggest Epstein "contemplated blackmailing me."
     *   Source: [Source](https://www.npr.org/2026/06/10/nx-s1-5851609/bill-gates-jeffrey-epstein-files-congress-pam-bondi).
+*   **Jun 10, 2026**: **The Hill: Comer said he would seek interviews with Alan Dershowitz and Todd Blanche**.
+    *   After the Groff interview and a meeting with survivors, Comer said he would ask Dershowitz to come in; Dershowitz said he wanted to testify publicly and under oath.
+    *   Source: [Source](https://thehill.com/homenews/house/5918269-comer-dershowitz-blanche-interviews-epstein/).
+*   **Jun 17, 2026**: **Raskin expanded university inquiry to Harvard and Bard**.
+    *   House Judiciary Democrats asked Harvard and Bard for Epstein-related records and asked Bard to make Botstein available for an interview.
+    *   Source: [Source](https://democrats-judiciary.house.gov/media-center/press-releases/judiciary-democrats-expand-investigation-into-how-epstein-leveraged-ties-to-universities-to-further-his-crimes-and-lure-victims).
 *   **Jun 22, 2026**: **Al Jazeera: Keir Starmer announced resignation amid Mandelson fallout**.
     *   Starmer said he would step down as Labour leader and prime minister after months of pressure over his appointment of Peter Mandelson as ambassador to Washington.
     *   Source: [Source](https://www.aljazeera.com/news/2026/6/22/why-has-keir-starmer-resigned-as-uk-prime-minister-and-who-will-take-over).
@@ -571,6 +608,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jul 1, 2026**: **NOTUS: Comer promised public Epstein hearings and a final report**.
     *   Chairman Comer said Oversight would hold public hearings, possibly with survivors, and issue a full report, adding "I fully expect criminal referrals."
     *   Source: [Source](https://www.notus.org/james-comer-says-oversight-will-hold-public-hearings-on-epstein).
+*   **Jul 2, 2026**: **ABC: DOJ declined to turn over more Epstein files and defended its redactions**.
+    *   At the injunction deadline in Phang v. Blanche, DOJ asked Judge Sullivan for 60 more days or to accept its reasons for withholding.
+    *   Source: [Source](https://abcnews.com/Politics/doj-declines-turn-additional-epstein-files-redactions/story?id=134430675).
 *   **Jul 9, 2026**: **CNN: New Mexico AG said DOJ was withholding critical Zorro Ranch information**.
     *   Attorney General Raul Torrez wrote to Blanche that DOJ was withholding unredacted records needed for the state's criminal investigation.
     *   Source: [Source](https://edition.cnn.com/2026/07/09/politics/epstein-new-mexico-raul-torrez-letter-blanche).
@@ -595,6 +635,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jul 21, 2026**: **Gates Foundation external review found about 30 meetings but no payments to Epstein**.
     *   The foundation's summary said staff met Epstein roughly 30 times from 2011 to 2014, found no payments to him and no knowledge of his trafficking.
     *   Source: [Source](https://www.gatesfoundation.org/ideas/media-center/press-releases/2026/07/external-review).
+*   **Jul 21, 2026**: **ABC: Comer called Alan Dershowitz's no-show "unacceptable"**.
+    *   Dershowitz skipped his Jul 20 transcribed interview, citing an unspecified legal barrier; Comer requested a Sep 2 videotaped interview and threatened compulsory process.
+    *   Source: [Source](https://abcnews.com/US/comer-calls-unacceptable-after-alan-dershowitz-fails-panel/story?id=134952381).
 *   **Jul 25, 2026**: **Forbes: Judge Sullivan ordered DOJ to submit 10 unredacted records for private review**.
     *   DOJ complied and acknowledged it had mistakenly redacted one of Epstein's own email addresses while defending most other redactions.
     *   Source: [Source](https://www.forbes.com/sites/alisondurkee/2026/07/27/could-more-epstein-files-be-released-soon-redacted-docs-will-be-reviewed-by-judge-this-week/).
@@ -625,6 +668,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Aug 14, 2026**: **Bloomberg: FBI Vault records showed internal Epstein-file review deliberations**.
     *   FBI records posted to its FOIA reading room included emails, spreadsheets and training slides on reviewing and redacting the files, plus a 2025 email relaying a Sarah Ferguson contact to Director Kash Patel.
     *   Source: [Source](https://www.bloomberg.com/news/newsletters/2026-08-14/new-fbi-epstein-emails-show-sarah-ferguson-contacted-kash-patel).
+*   **Aug 18, 2026**: **Courthouse News: Magistrate judge recommended survivors' FBI negligence suit proceed**.
+    *   Magistrate Judge Ryon McCabe recommended that the $320 million Federal Tort Claims Act suit move to 90 days of limited discovery on FBI policies.
+    *   Source: [Source](https://www.courthousenews.com/epstein-victims-suit-against-fbi-poised-to-survive-dismissal-for-now/).
 *   **Aug 22, 2026**: **PA: Met's Mandelson inquiry reported at risk without unredacted U.S. files**.
     *   Reports said Scotland Yard escalated its request to a formal mutual legal assistance request and feared the case could stall without DOJ records.
     *   Source: [Source](https://westernmorning.news/2026/08/22/fears-for-mandelson-investigation-as-met-still-doesnt-have-unredacted-epstein-files/).
@@ -670,19 +716,31 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Sep 16, 2026**: **Comer introduced the Survivor's Voice Protection Act**.
     *   H.R. 10389 would void nondisclosure agreements that bar disclosure of alleged sexual abuse, retroactively, and require trusted adults to report suspected grooming.
     *   Source: [Source](https://oversight.house.gov/release/chairman-comer-introduces-the-survivors-voice-protection-act/).
+*   **Sep 16, 2026**: **MS NOW: Judge ordered DOJ to submit FBI notes from 'Jane Doe 4' interviews for private review**.
+    *   Sullivan required handwritten notes from four 2019 interviews of a woman whose allegations against Trump are unverified by 11 a.m. Sept. 24 and declined to stay the order.
+    *   Source: [Source](https://www.ms.now/news/judge-rules-todd-blanche-must-turn-over-notes-from-fbi-interview-with-trump-accuser).
+*   **Sep 17, 2026**: **Axios: DOJ appealed Judge Sullivan's order as he warned of contempt**.
+    *   DOJ filed a notice of appeal; a spokesperson said leadership was "not 'concerned'" about the case.
+    *   Source: [Source](https://www.axios.com/2026/09/17/epstein-files-doj-contempt-judge-blanche).
 *   **Sep 18, 2026**: **Axios: Epstein Files Transparency Act II discharge petition reached 218 signatures**.
     *   Massie and Khanna said the petition had enough signatures to force a vote, which cannot occur until the House returns after the midterms.
     *   Source: [Source](https://www.axios.com/2026/09/18/epstein-files-vote-massie-khanna-support).
+*   **Sep 22, 2026**: **Raw Story: Blanche asked the D.C. Circuit to pause foreign-language records orders**.
+    *   In consolidated appeal No. 26-5299, DOJ asked the court to stay the foreign-language portions of the Jun 25 and Sep 16 orders and to expedite the appeal.
+    *   Source: [Source](https://www.rawstory.com/todd-blanche-epstein-files-2677919559/).
 *   **Sep 23, 2026**: **CNBC: WSJ reported criminal probe of Epstein estate executors Indyke and Kahn**.
     *   Federal prosecutors in Manhattan are investigating Epstein's longtime lawyer Darren Indyke and accountant Richard Kahn, who deny wrongdoing; no charges have been filed.
     *   Source: [Source](https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors-investigation.html).
 *   **Sep 23, 2026**: **Euronews: Terje Rod-Larsen apologized for Epstein ties in NRK documentary**.
-    *   The Oslo Accords diplomat said he deeply regretted the relationship; he and his wife Mona Juul remain under Okokrim investigation.
+    *   The Oslo Accords diplomat said he deeply regretted the relationship; Okokrim charged his wife Mona Juul with aggravated corruption and him with complicity in February; neither has been tried.
     *   Source: [Source](https://www.euronews.com/2026/09/23/norwegian-diplomat-behind-oslo-accords-to-apologise-for-epstein-ties-in-documentary).
 *   **Sep 23, 2026**: **AP: Wexner donations became an issue in Ohio's Senate race**.
     *   Sherrod Brown's campaign attacked Sen. Jon Husted over about $116,000 in Les Wexner contributions; Wexner testified he never lobbied anyone to block release of the files.
     *   Source: [Source](https://www.local10.com/news/politics/2026/09/23/billionaires-political-contributions-make-the-epstein-files-a-focus-of-ohios-us-senate-race/).
 <!-- LIVE_TIMELINE:END -->
+
+
+
 
 
 

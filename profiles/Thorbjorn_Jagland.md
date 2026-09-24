@@ -1,6 +1,6 @@
 # 🇳🇴 Thorbjorn Jagland (Former Norwegian Prime Minister)
 
-> **Status**: **CRIMINAL INVESTIGATION** (Evidence Level: ● SUBSTANTIAL - 2026 Release)
+> **Status**: **CHARGED (AGGRAVATED CORRUPTION, FEB 12, 2026); NOT TRIED; DENIES ALL CHARGES** (Evidence Level: ● SUBSTANTIAL - 2026 Release)
 
 ## The Connection
 Thorbjorn Jagland is one of Norway's most prominent political figures: former Prime Minister (1996-97), Foreign Affairs Minister (2000-01), President of the Storting (Norwegian parliament), Secretary General of the Council of Europe, and Chairman of the Norwegian Nobel Committee. The January 2026 document release revealed a deep personal relationship with Jeffrey Epstein that has triggered a criminal investigation by Norway's economic crime authority.
@@ -49,16 +49,15 @@ As Chairman of the Norwegian Nobel Committee, Jagland had influence over the Nob
 ## The Criminal Investigation
 
 ### Okokrim Probe
-Norway's **Okokrim** (National Authority for Investigation and Prosecution of Economic and Environmental Crime) has opened an **AGGRAVATED CORRUPTION** probe into Jagland.
+Norway's **Okokrim** (National Authority for Investigation and Prosecution of Economic and Environmental Crime) opened an **AGGRAVATED CORRUPTION** probe into Jagland on Feb 5, 2026 and formally charged him on **Feb 12, 2026**.
 
-### The Immunity Question
-As a former **Secretary General of the Council of Europe**, Jagland may hold immunity from prosecution:
-- Norway is **seeking to revoke** this immunity
-- The legal process for stripping immunity from a former Council of Europe head is unprecedented
-- The outcome will set a significant legal precedent
+### The Immunity Question (Resolved Feb 11, 2026)
+As a former **Secretary General of the Council of Europe**, Jagland held immunity tied to that office:
+- Norway asked the Council of Europe to waive it
+- The Council's Committee of Ministers **waived the immunity on Feb 11, 2026**, clearing the way for the charge the next day
 
 ### Jagland's Response
-Jagland's lawyer has stated that his client is **"calm"** about the investigation — suggesting confidence that immunity protections or other defenses will hold.
+Jagland's lawyer initially said his client was **"calm"** about the investigation. After the charge, his lawyers said he "denies all charges."
 
 ## The Pattern
 Jagland represents a key node in Epstein's strategy of cultivating **heads of state and international institution leaders**:
@@ -69,12 +68,12 @@ Jagland represents a key node in Epstein's strategy of cultivating **heads of st
 4. **Mutual Benefit**: Epstein offered financial help; Jagland offered diplomatic access
 
 ## Verdict
-**Under Criminal Investigation for Aggravated Corruption.** Jagland's case is among the most serious to emerge from the 2026 files. A former prime minister asking a convicted sex offender for money to buy an apartment, staying at his properties across multiple countries, and offering to broker meetings with Russian foreign ministers represents a profound compromise of public office. The immunity question remains unresolved.
+**Charged with Aggravated Corruption (Feb 12, 2026); not tried; denies all charges.** Jagland's case is among the most serious to emerge from the 2026 files. The files show a former prime minister asking a convicted sex offender for money to buy an apartment, staying at his properties across multiple countries, and offering to broker meetings with Russia's foreign minister. Whether that amounts to corruption is for Norwegian courts to decide. The Council of Europe waived his immunity on Feb 11, 2026.
 
 ## 2026 Update (Mar 17 - Sep 23)
 
-- **Feb 12-13, 2026**: Police searched his Oslo residence and two other properties; his lawyers said Økokrim **charged him with aggravated corruption**. He "denies all charges." The Council of Europe's Committee of Ministers waived his immunity at Norway's request. [CNN](https://www.cnn.com/2026/02/13/europe/norway-pm-jagland-charged-epstein-ties-intl-hnk), [Al Jazeera](https://www.aljazeera.com/news/2026/2/12/norwegian-police-search-former-pm-jaglands-properties-over-epstein-ties)
-- **Feb 24-25, 2026**: Hospitalized; his lawyer Anders Brosveet cited "the strain arising in the wake of this case." [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-25/norway-s-former-pm-jagland-hospitalized-amid-epstein-scandal)
+- **Feb 11-12, 2026**: The Council of Europe's Committee of Ministers waived his immunity at Norway's request (Feb 11). On Feb 12, police searched his Oslo residence and two other properties, and Økokrim **charged him with aggravated corruption**. He "denies all charges." [News in English (Feb 12)](https://www.newsinenglish.no/2026/02/12/jagland-also-charged-with-corruption/), [CNN](https://www.cnn.com/2026/02/13/europe/norway-pm-jagland-charged-epstein-ties-intl-hnk), [Al Jazeera](https://www.aljazeera.com/news/2026/2/12/norwegian-police-search-former-pm-jaglands-properties-over-epstein-ties)
+- **Feb 24-25, 2026**: His lawyer Anders Brosveet said he had been hospitalized "due to the strain arising in the wake of this case." Some outlets reported unconfirmed claims about the cause; this repo does not repeat them. [Bloomberg](https://www.bloomberg.com/news/articles/2026-02-25/norway-s-former-pm-jagland-hospitalized-amid-epstein-scandal)
 - **Apr 15, 2026**: The Storting appointed a commission of inquiry into Norwegian ties to Epstein. See [The Norway Scandal](../topics/The_Norway_Scandal.md).
 - **Status**: Charged, not tried; denies wrongdoing. He is the first former head of government charged in connection with Epstein.
 

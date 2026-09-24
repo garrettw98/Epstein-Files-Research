@@ -11,7 +11,7 @@ In February 2026, Reuters reported New Mexico lawmakers approved a commission pr
 
 - **Feb 17, 2026**: Reuters reported commission approval by New Mexico lawmakers.
 - **Mar 10, 2026**: AP reported New Mexico investigators searched the former ranch property.
-- **Planned output (reported)**: hearings phase and a final report in 2027.
+- **Planned output**: early reports (February) described hearings and a final report in 2027; by the Aug 5 interim report, the final report was due **Dec 31, 2026**. See the status section below.
 
 ## How the Narrative Changed in March 2026
 
@@ -58,7 +58,7 @@ That does not prove the most extreme claims made about the ranch. It does show t
 
 ## 2026 Update (Mar 17 - Sep 23)
 
-### Status (Sep 23, 2026): Two Parallel Tracks
+### Status (Sep 24, 2026): Two Parallel Tracks
 
 **1. Criminal (New Mexico Department of Justice)**
 - Attorney General **Raúl Torrez** reopened the criminal investigation in February 2026; the first search of the ranch was on **Mar 9**. [NMDOJ statement](https://nmdoj.gov/press-release/statement-from-the-new-mexico-department-of-justice-regarding-zorro-ranch/), [CNN](https://www.cnn.com/2026/03/10/politics/epstein-zorro-ranch-search-new-mexico)
@@ -69,8 +69,8 @@ That does not prove the most extreme claims made about the ranch. It does show t
 **2. Legislative (New Mexico Survivors' Truth Commission)**
 - A bipartisan panel of four New Mexico House members chaired by **Rep. Andrea Romero** began work on **Jun 1** and sought evidence from DOJ, the FBI, the Epstein estate, several banks, the state DOJ, and the Santa Fe County Sheriff. [CNN](https://www.cnn.com/2026/06/01/politics/new-mexico-truth-commission-epstein-zorro-ranch-subpoenas)
 - **June**: Issued 14 subpoenas and heard testimony from **Rachel Benavidez**, who says she was abused after being hired as a massage therapist at the ranch, and from Virginia Giuffre's brother and sister-in-law. [ABQ Journal](https://www.abqjournal.com/news/epstein-truth-finding-panel-hears-victim-testimony/3054538)
-- **Aug 5**: Released a **119-page interim report** after 20 subpoenas and a review of the federal releases. It describes a 7,600-acre property with a 28,600-square-foot main residence, roughly 50 employees, and a $7 million annual payroll; says women and girls were flown to Albuquerque and Santa Fe on Epstein's jet; notes flight logs are incomplete and the FAA had not yet complied with its subpoena. It makes **no final findings of wrongdoing**. [Source NM](https://sourcenm.com/2026/08/05/new-mexico-epstein-commission-releases-report-on-investigation-so-far/), [Interim report PDF](https://www.nmlegis.gov/handouts/HISC%20080526%20Item%201%20Interim%20Report.pdf), [NM Political Report](https://nmpoliticalreport.com/2026/08/05/truth-commission-aug-5-meeting/)
-- A final report remains planned for 2027.
+- **Aug 5**: Released a **119-page interim report** after 20 subpoenas and a review of the federal releases. It describes a 7,600-acre property with a 28,600-square-foot main residence, roughly 50 employees, and a $7 million annual payroll; counts **227 flights** to or from Albuquerque and Santa Fe on Epstein's aircraft between 1992 and 2019; and says women and girls were flown in on his jet. The commission said evidence supports reports that **at least five women and girls (Jane Does 1-5) were sexually abused at the ranch between 1996 and 2012**, including local massage therapists recruited through a Santa Fe spa, and identified about **30 more potential survivors, witnesses, or facilitators**. The report says no one searched the ranch until March 2026, and the Albuquerque Journal reported it found state law enforcement gave Epstein "preferential treatment." Of 20 subpoenas, 11 drew full compliance, 2 partial, and 7 none, including the FAA and the U.S. Attorney's Office for the Southern District of New York; the commission said it had received more than 100,000 records. It draws **no final conclusions and makes no recommendations**. [Source NM](https://sourcenm.com/2026/08/05/new-mexico-epstein-commission-releases-report-on-investigation-so-far/), [Interim report PDF](https://www.nmlegis.gov/handouts/HISC%20080526%20Item%201%20Interim%20Report.pdf), [NM Political Report](https://nmpoliticalreport.com/2026/08/05/truth-commission-aug-5-meeting/), [KOB](https://www.kob.com/new-mexico/new-mexicos-epstein-commission-releases-initial-report/), [Albuquerque Journal](https://www.abqjournal.com/news/truth-commission-report-epstein-likely-got-favorable-treatment-from-nm-law-enforcement/3097503)
+- **Next steps**: depositions of current and former estate employees, contractors, and associates; an inspection of the ranch with its current owners; and legislation for the 2027 session to close a sex-offender registration loophole and end the statute of limitations for human trafficking. The **final report is due Dec 31, 2026**. [Source NM via News From The States](https://www.newsfromthestates.com/article/new-mexico-epstein-commission-releases-report-investigation-so-far)
 
 ## See Also
 

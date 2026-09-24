@@ -53,7 +53,7 @@ Trump's name appears **thousands of times** in the documents, though the DOJ not
 ## Verdict
 **Social Associate.** They were in the same circles in the 1990s. Trump made the "likes them young" comment and flew on the plane at least 8 times. However, there is **no verified evidence** linking him to the trafficking operation, key witnesses have excluded him from the island and abuse scenes, and the FBI complaint list consists of unverified public tips. The 2026 files do not materially change his evidentiary status.
 
-## 2026 Update (Mar 17 - Sep 23)
+## 2026 Update (Mar 17 - Sep 24)
 
 - **Mar 5-6, 2026**: DOJ posted FBI memos (2019 interviews) of a woman alleging abuse by Epstein and Trump in the 1980s when she was a minor. The allegations are **unverified** and the FBI never charged anyone over them; Press Secretary Karoline Leavitt called them "completely baseless accusations, backed by zero credible evidence." [NPR](https://www.npr.org/2026/03/05/nx-s1-5737562/justice-department-missing-epstein-files-trump)
 - **Apr 2, 2026**: Removed AG Pam Bondi; installed Todd Blanche as acting AG.
@@ -65,6 +65,7 @@ Trump's name appears **thousands of times** in the documents, though the DOJ not
 - **Jul 21, 2026**: Rep. Raskin's FARA inquiry alleges Epstein leveraged his friendship with Trump to pursue foreign-government business. See [FARA Inquiry](../topics/The_FARA_Foreign_Agent_Inquiry.md).
 - **Jul 29, 2026**: The Senate unanimously opposed any pardon for Maxwell; Sen. Reed said Trump "refuses to rule one out."
 - **Sep 9, 2026**: A traveling exhibit in Dallas presented a timeline of the Trump-Epstein relationship alongside the released files. [CBS Texas](https://www.cbsnews.com/texas/news/dallas-epstein-files-exhibit-trump-relationship-rnc-convention-september-2026/)
+- **Sep 16-17, 2026**: Judge Sullivan ordered DOJ to give the court, for private review, the handwritten notes of four 2019 FBI interviews with the woman ("Jane Doe 4") who made the unverified allegation; DOJ appealed the next day. The White House calls her allegations baseless. [MS NOW](https://www.ms.now/news/judge-rules-todd-blanche-must-turn-over-notes-from-fbi-interview-with-trump-accuser)
 - **Status**: Trump denies wrongdoing and says he cut ties with Epstein long before his 2019 arrest. He has not been charged with any Epstein-related crime.
 
 ## See Also

@@ -309,7 +309,7 @@ Countries may need to coordinate on:
 | Jan 30, 2026 | US | DOJ releases 3+ million pages |
 | Jan 31, 2026 | Slovakia | Lajcak resigns |
 | Feb 1, 2026 | UK | Mandelson resigns from Labour Party |
-| Feb 1, 2026 | USA | Dean Kamen placed on leave from FIRST |
+| Feb 1, 2026 | USA | Dean Kamen placed on leave from FIRST (resigned from its board Mar 12) |
 | Feb 2, 2026 | Sweden | Joanna Rubinstein resigns from Sweden for UNHCR |
 | Feb 3, 2026 | Poland | Task force announced by PM Tusk |
 | Feb 3, 2026 | Turkey | Prosecutors expand review to include Jan 30 release |
@@ -325,8 +325,8 @@ Countries may need to coordinate on:
 | Feb 5, 2026 | Norway | WEF launches review of CEO Børge Brende |
 | Feb 6, 2026 | France | Viginum identifies Russian disinfo campaign linking Macron to files |
 | Feb 16, 2026 | France | Investigators search Arab World Institute and properties linked to Jack Lang (Reuters) |
-| Ongoing | UK | Mandelson criminal investigation for misconduct in public office |
-| Ongoing | Norway | Jagland corruption investigation; immunity revocation sought |
+| Ongoing | UK | Mandelson criminal investigation for misconduct in public office (arrested Feb 23; released under investigation Mar 6; uncharged as of Sep 24) |
+| Ongoing | Norway | Jagland charged with aggravated corruption Feb 12 after the Council of Europe waived his immunity Feb 11; not tried |
 
 ## Implications
 
@@ -354,18 +354,19 @@ Global scrutiny means:
 - Potential for new witnesses
 - Continued exposure
 
-## 2026 Update (Mar 17 - Sep 23)
+## 2026 Update (Mar 17 - Sep 24)
 
-### Country-by-Country Status (Sep 23, 2026)
+### Country-by-Country Status (Sep 24, 2026)
 
 | Country | Development since Mar 17 | Status | Key source |
 | :--- | :--- | :--- | :--- |
 | **United Kingdom** | Andrew (arrested Feb 19) and Mandelson (arrested Feb 23) remain under investigation; Mandelson failed-vetting report (Apr 16); **Starmer resigned** (Jun 22); PM Burnham considering a public inquiry (Aug 5); Met's Mandelson case reportedly stalled without U.S. files (Aug 22) | Investigations open; no charges | [The UK Reckoning](The_UK_Reckoning_2026.md) |
-| **Norway** | Storting appointed commission of inquiry (Apr 15; first met May 5); Mette-Marit became queen (Aug 28); Rød-Larsen apology (Sep 23); hearings scheduled Sep 30 - Oct 1 | Jagland and Juul charged; Rød-Larsen under investigation | [The Norway Scandal](The_Norway_Scandal.md) |
+| **Norway** | Storting appointed commission of inquiry (Apr 15; first met May 5); Mette-Marit became queen (Aug 28); Rød-Larsen apology (Sep 23); hearings scheduled Sep 30 - Oct 1 | Jagland and Juul charged; Rød-Larsen charged with complicity; Norway-France joint investigation team (Apr 27) | [The Norway Scandal](The_Norway_Scandal.md) |
 | **France** | 15 women urged a Gérald Marie probe (Mar 20); ~10 new alleged victims (May 17); **Daniel Siad found dead** (Jul 20); 26 alleged victims and new recruiter names (Sep 10) | Investigation expanding | [The French Connection](The_French_Connection.md) |
 | **Poland** | "Investigation Team No. 5" preliminary inquiry (Mar 12); National Prosecutor's Office probing trafficking 2009-2019; waiting since April for U.S. response | Awaiting U.S. records | [Notes From Poland](https://notesfrompoland.com/2026/03/12/polish-prosecutors-investigate-alleged-human-trafficking-by-epstein-linked-group/) |
 | **Lithuania** | Preparing formal U.S. legal-assistance request (Apr 2) | Preliminary proceeding | [Reuters via US News](https://www.usnews.com/news/world/articles/2026-04-02/lithuania-to-seek-us-help-in-epstein-linked-trafficking-probe) |
 | **Latvia** | Several U.S. requests reported unanswered | Trafficking investigation open | [Washington Post](https://www.washingtonpost.com/world/2026/09/09/europeans-investigating-epstein-say-doj-has-not-agreed-requests-help/) |
+| **India** | The Foreign Ministry dismissed Epstein's emails mentioning PM Narendra Modi's 2017 Israel visit as "trashy ruminations by a convicted criminal" (Jan 31-Feb 1); opposition leader Rahul Gandhi raised Union Minister Hardeep Singh Puri's contacts with Epstein and businessman Anil Ambani's appearance in the files in Parliament (Feb 11); Puri said he met Epstein "three or four times" as a private citizen and called the allegations "buffoonery"; Bill Gates withdrew from a New Delhi AI summit keynote (Feb 19) | No investigation reported | [Al Jazeera](https://www.aljazeera.com/news/2026/2/2/modi-to-kevin-rudd-how-epstein-files-set-off-a-storm-far-beyond-the-us), [The Wire](https://m.thewire.in/article/diplomacy/union-minister-hardeep-singh-puri-and-his-many-explanations-over-epstein-link), [NBC](https://www.nbcnews.com/world/asia/bill-gates-india-ai-summit-epstein-rcna259865) |
 
 ### The U.S. Evidence Bottleneck
 On **Sep 9, 2026**, the Washington Post reported that law-enforcement officials in Poland, Norway, and Latvia had received no response to mutual legal assistance requests, and that British investigators were still seeking records for the Mandelson case. DOJ said it does not comment on MLA requests but "has not refused to assist any jurisdiction." [Washington Post](https://www.washingtonpost.com/world/2026/09/09/europeans-investigating-epstein-say-doj-has-not-agreed-requests-help/), [Forbes](https://www.forbes.com/sites/alisondurkee/2026/09/09/doj-so-far-isnt-helping-european-countries-investigate-epstein-officials-say/)
@@ -373,13 +374,14 @@ On **Sep 9, 2026**, the Washington Post reported that law-enforcement officials 
 ### Added Timeline Entries
 | Date | Country | Event |
 | :--- | :--- | :--- |
-| Feb 13, 2026 | Norway | Jagland formally charged with aggravated corruption |
+| Feb 12, 2026 | Norway | Jagland formally charged with aggravated corruption (reported Feb 12-13; immunity waived Feb 11) |
 | Feb 19, 2026 | UK | Andrew Mountbatten-Windsor arrested |
 | Feb 23, 2026 | UK | Peter Mandelson arrested |
 | Feb 26, 2026 | Norway/WEF | Børge Brende resigned as WEF president |
 | Mar 20, 2026 | Norway | Mette-Marit NRK interview |
 | Apr 2, 2026 | Lithuania | U.S. legal-assistance request announced |
 | Apr 15, 2026 | Norway | Commission of inquiry appointed |
+| Apr 27, 2026 | Norway/France | Joint investigation team formed for the Juul/Rød-Larsen case |
 | Jun 22, 2026 | UK | Starmer announced resignation |
 | Jul 20, 2026 | France | Daniel Siad found dead |
 | Aug 5, 2026 | UK | Burnham considering public inquiry |

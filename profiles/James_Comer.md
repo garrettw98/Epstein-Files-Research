@@ -18,8 +18,10 @@ James Comer has chaired the House Oversight Committee's Epstein investigation si
 - **Apr 17**: Tells Newsmax there are "5 to 8 more scheduled depositions."
 - **May 29**: Arranges Bondi's transcribed interview in lieu of a deposition.
 - **Jun 4**: Asks DOJ to investigate allegations Sarah Kellen made against Philip Levine and Frédéric Fekkai (both deny them). [Oversight](https://oversight.house.gov/release/chairman-comer-and-republican-lawmakers-seek-doj-investigation-into-sexual-assault-allegations-made-during-epstein-investigation/)
+- **Jun 10-12**: Says he will seek interviews with Alan Dershowitz and acting AG Todd Blanche; formally requests Dershowitz's testimony (Jun 12). [The Hill](https://thehill.com/homenews/house/5918269-comer-dershowitz-blanche-interviews-epstein/), [Letter](https://oversight.house.gov/wp-content/uploads/2026/06/Dershowitz-Letter-061226.pdf)
 - **Jun 26**: Committee serves Leon Black with subpoenas during his interview.
 - **Jul 1**: Promises public hearings and a "full report"; "I fully expect criminal referrals." [NOTUS](https://www.notus.org/james-comer-says-oversight-will-hold-public-hearings-on-epstein)
+- **Jul 21**: After Dershowitz skipped his Jul 20 interview, calls it "unacceptable" and demands a videotaped interview on Sep 2, threatening compulsory process. [ABC](https://abcnews.com/US/comer-calls-unacceptable-after-alan-dershowitz-fails-panel/story?id=134952381)
 - **Sep 3**: Named, with the committee, as a defendant in Leon Black's lawsuit; unveils an anti-trafficking legislative plan. [NPR](https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit), [Daily Signal](https://www.dailysignal.com/2026/09/03/government-failed-the-victims-james-comer-unveils-plan-to-close-epstein-era-human-trafficking-loopholes/)
 - **Sep 16**: House holds Black in contempt; Comer introduces the Survivor's Voice Protection Act (H.R. 10389). [Oversight](https://oversight.house.gov/release/chairman-comer-introduces-the-survivors-voice-protection-act/)
 

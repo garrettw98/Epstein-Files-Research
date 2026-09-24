@@ -37,7 +37,7 @@ No country outside the United States has seen larger institutional consequences 
 
 | Person | Status | Charged? |
 | :--- | :--- | :--- |
-| Andrew Mountbatten-Windsor | Released under investigation (misconduct in public office); sexual-offence allegation under assessment; living at Marsh Farm, Sandringham | No |
+| Andrew Mountbatten-Windsor | Released under investigation (misconduct in public office); sexual-offence allegation under assessment; living at Marsh Farm, Sandringham; succession-removal legislation discussed since February but not passed ([Commons Library](https://commonslibrary.parliament.uk/research-briefings/cbp-10509/)) | No |
 | Peter Mandelson | Released under investigation (misconduct in public office); denies wrongdoing | No |
 | Keir Starmer | Resigned as PM (announced Jun 22) and as an MP (Sep 1); not accused of a crime | N/A |
 | Sarah Ferguson | Companies and charity wound down (Feb); not accused of a crime | N/A |

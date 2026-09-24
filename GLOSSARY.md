@@ -45,7 +45,7 @@ A quick-reference guide to the specific language of the Epstein Files.
 *   **Orange Shape**: Unidentified figure seen on surveillance footage climbing stairs to Epstein's tier the night before his death. OIG called it a corrections officer carrying linen; forensic experts disagree.
 *   **Screen Recording**: Forensic analysis found the released jail surveillance footage was created May 23, 2025 (metadata), suggesting it was a screen recording rather than a raw DVR export.
 *   **Soft Redaction**: The technical error in the December 2025 release where black boxes could be copy-pasted to reveal hidden text underneath.
-*   **Two Eiffel Towers**: Deputy AG Blanche's metaphor for the volume of documents (3.5 million pages stacked).
+*   **Two Eiffel Towers**: then-Deputy AG Blanche's metaphor for the volume of documents (3.5 million pages stacked).
 *   **GLOMAR Response**: "Neither confirm nor deny" — the NSA's response to FOIA requests about Epstein's intelligence ties.
 *   **Okokrim**: Norway's National Authority for Investigation and Prosecution of Economic and Environmental Crime; charged former PM Jagland and diplomat Mona Juul with aggravated corruption (Feb 2026).
 *   **Aggravated Corruption**: Norwegian criminal charge carrying up to 10 years; applied to former PM Jagland over Epstein ties.

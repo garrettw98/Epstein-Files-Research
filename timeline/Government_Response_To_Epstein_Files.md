@@ -124,8 +124,12 @@ Three pressure points define this phase:
   Source: https://www.bloomberg.com/news/newsletters/2026-08-14/new-fbi-epstein-emails-show-sarah-ferguson-contacted-kash-patel
 - **August 25, 2026**: Judge Paul Engelmayer denies Maxwell's post-conviction petition.  
   Source: https://www.axios.com/2026/08/25/ghislaine-maxwells-bid-to-overturn-conviction-rejected
-- **September 16, 2026**: Sullivan calls DOJ's arguments "without merit" and sets a September 24 deadline, warning of contempt.  
+- **July 2, 2026**: At the injunction deadline, DOJ declines to produce more records and asks for 60 more days or acceptance of its reasons.  
+  Source: https://abcnews.com/Politics/doj-declines-turn-additional-epstein-files-redactions/story?id=134430675
+- **September 16, 2026**: Sullivan calls DOJ's arguments "without merit" and sets a September 24 deadline, warning of contempt; a companion order requires the "Jane Doe 4" FBI interview notes for private review.  
   Source: https://thehill.com/regulation/court-battles/6095691-doj-epstein-transparency-ruling/
+- **September 17-22, 2026**: DOJ files a notice of appeal, then asks the D.C. Circuit (No. 26-5299) to stay the foreign-language-records portions of the June 25 and September 16 orders and to expedite.  
+  Source: https://www.axios.com/2026/09/17/epstein-files-doj-contempt-judge-blanche ; https://www.rawstory.com/todd-blanche-epstein-files-2677919559/
 
 ## Phase 7: Congressional Witness Program, Referrals, and New Legislation (April-September 2026)
 

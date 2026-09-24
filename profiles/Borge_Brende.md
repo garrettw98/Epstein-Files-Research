@@ -14,7 +14,7 @@ Børge Brende, Norway's foreign minister from 2013 to 2017, led the World Econom
 - **Feb 5, 2026**: WEF opens an independent review.
 - **Feb 26, 2026**: Resigns; Alois Zwinggi named interim president and CEO. [CNN](https://www.cnn.com/2026/02/26/business/borge-brende-wef-epstein-files-intl), [Semafor](https://www.semafor.com/article/02/26/2026/world-economic-forum-head-brge-brende-resigns-over-epstein-ties), [Al Jazeera](https://www.aljazeera.com/news/2026/2/26/world-economic-forum-head-borge-brende-quits-after-epstein-links-revealed)
 - **Mar 14, 2026**: The WEF faced renewed scrutiny over Epstein-linked ties. [Fox News](https://www.foxnews.com/world/world-economic-forum-faces-fresh-scrutiny-epstein-ties-revive-past-scandals-criticism)
-- **Sep 30, 2026 (scheduled)**: Reported to be among former foreign ministers called to Norway's parliamentary Epstein hearings. [Caliber](https://caliber.az/en/post/norway-s-prime-minister-to-testify-in-parliament-over-epstein-case)
+- **Sep 30, 2026 (scheduled)**: Called, with other former foreign ministers, to the first day of the Storting scrutiny committee's Epstein hearing. [NRK](https://www.nrk.no/nyheter/store-innkalles-forste-dag-i-epstein-horingen-pa-stortinget-1.18031450)
 
 ## See Also
 

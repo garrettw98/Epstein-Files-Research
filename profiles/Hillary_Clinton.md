@@ -1,6 +1,6 @@
 # 🇺🇸 Hillary Clinton (Former Secretary of State)
 
-> **Status**: **ASSOCIATE / SUBPOENAED TESTIMONY** (Evidence Level: ◐ DOCUMENTED)
+> **Status**: **ASSOCIATE / DEPOSED (FEB 26, 2026)** (Evidence Level: ◐ DOCUMENTED) — not accused of a crime
 
 ## The Connection
 

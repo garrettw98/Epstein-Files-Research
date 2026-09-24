@@ -18,6 +18,7 @@ While the "Black Book" showed who Epstein *knew*, the leaked emails show *how he
     *   *The Twist*: Botstein then donated that same amount to the college.
     *   *Significance*: This structure avoided direct "Epstein -> College" donations that might trigger compliance red flags.
 *   **The Laptops**: Epstein also donated 66 laptops to the college (unsolicited).
+*   **2026 Outcome**: After a WilmerHale review commissioned by Bard's trustees (about 25 townhouse visits and a two-day island visit, 2012-2019; no illegality found), Botstein announced on May 1, 2026 that he would retire, and did so Jun 30. See [The Academic Fallout (2026)](The_Academic_Fallout_2026.md).
 
 ## 3. Woody Allen (The "Castle Dracula" Regular)
 *   **The Regular**: Woody Allen was a staple at Epstein's "Salon" dinners from 2010 to 2019.

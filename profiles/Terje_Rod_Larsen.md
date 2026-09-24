@@ -1,6 +1,6 @@
 # 🇳🇴 Terje Rød-Larsen (Diplomat)
 
-> **Status**: **ASSOCIATE / FINANCIAL RECIPIENT** (Resigned in Disgrace)
+> **Status**: **CHARGED (COMPLICITY IN AGGRAVATED CORRUPTION, FEB 9, 2026); NOT TRIED** (resigned from IPI in 2020)
 
 ## The Connection
 Terje Rød-Larsen was a senior Norwegian diplomat and President of the **International Peace Institute (IPI)**. He was a key node in Epstein's international diplomatic network.
@@ -21,9 +21,10 @@ Terje Rød-Larsen was a senior Norwegian diplomat and President of the **Interna
 
 ## 2026 Update (Mar 17 - Sep 23)
 
-- **Feb 2026**: Under Økokrim investigation for **complicity in aggravated corruption**; his wife Mona Juul is charged with aggravated corruption.
+- **Feb 9, 2026**: Økokrim **charged him with complicity in aggravated corruption**; his wife Mona Juul was charged with aggravated corruption the same day. [News in English](https://www.newsinenglish.no/2026/02/08/top-diplomats-dramatic-decline/)
+- **Apr 27-28, 2026**: Norway and France formed a joint investigation team covering the couple's case. [Euronews](https://www.euronews.com/my-europe/2026/04/27/norway-and-france-launch-joint-police-probe-into-diplomats-alleged-links-with-epstein)
 - **Sep 23, 2026**: In an NRK documentary he said: "I deeply regret today the relationship I had with Epstein. I should have cut all ties with him earlier." [Euronews](https://www.euronews.com/2026/09/23/norwegian-diplomat-behind-oslo-accords-to-apologise-for-epstein-ties-in-documentary), [FMT/AFP](https://www.freemalaysiatoday.com/category/world/2026/09/23/norwegian-diplomat-behind-oslo-accords-apologises-for-epstein-ties)
-- **Status**: Not charged; under investigation.
+- **Status**: Charged with complicity in aggravated corruption (Feb 9, 2026); not tried.
 
 ## See Also
 

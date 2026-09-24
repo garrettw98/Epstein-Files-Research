@@ -44,6 +44,8 @@ Khanna publicly argued that:
 - **Jul 15, 2026**: Co-led the **Epstein Files Transparency Act II** (H.R. 9694) with Reps. Massie and Leger Fernández.
 - **Sep 18, 2026**: Announced with Massie that the discharge petition had **218 signatures**. [Axios](https://www.axios.com/2026/09/18/epstein-files-vote-massie-khanna-support)
 - See [Epstein Files Transparency Act II](../topics/The_Epstein_Files_Transparency_Act_II.md).
+- **Mar 30 - Apr 28, 2026**: Wrote to King Charles III asking him to meet survivors during his U.S. state visit; the king's lawyers declined, citing an ongoing investigation. Khanna then hosted a Capitol Hill roundtable with survivors, Virginia Giuffre's family, and advocacy groups. [Khanna letter (PDF)](https://khanna.house.gov/sites/evo-subsites/khanna.house.gov/files/evo-media-document/rep-khanna-letter-to-king-charles-final.pdf), [Ms.](https://msmagazine.com/2026/05/06/capitol-hill-round-table-epstein-survivors-refuse-to-be-ignored/)
+- **Mar 2 and Jun 12, 2026**: With Reps. Raskin and Ross, demanded answers from the Bureau of Prisons on who approved Ghislaine Maxwell's transfer to a minimum-security camp and on a later policy change giving the attorney general authority over inmate placement. See [Ghislaine Maxwell](Ghislaine_Maxwell.md).
 
 ## See Also
 

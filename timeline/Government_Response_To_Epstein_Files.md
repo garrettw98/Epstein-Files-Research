@@ -28,6 +28,8 @@ This timeline maps how U.S. government response evolved from prosecution activit
   Source: https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files
 - **July 15, 2025**: H.R. 4405 (Epstein Files Transparency Act) introduced.  
   Source: https://www.govtrack.us/congress/bills/119/hr4405
+- **November 14, 2025**: President Trump asks DOJ to investigate Epstein's ties to Bill Clinton, Larry Summers, Reid Hoffman, and JPMorgan Chase; AG Bondi assigns SDNY U.S. Attorney Jay Clayton to lead it. No charges or report have followed.  
+  Source: https://www.cnbc.com/2025/11/14/trump-doj-jeffrey-epstein-clinton-jpmorgan-summers.html
 - **November 18, 2025**: Bill passes House (recorded vote 427-1).  
   Source: https://www.govtrack.us/congress/bills/119/hr4405
 - **November 19, 2025**: Bill passes Senate and is signed by the President (Public Law 119-38).  
@@ -91,6 +93,12 @@ Three pressure points define this phase:
   - https://thehill.com/homenews/house/5910872-oversight-committee-bondi-transcript/
 - **June 8, 2026**: Trump formally nominates Blanche as attorney general.  
   Source: https://www.cnn.com/2026/06/08/politics/todd-blanche-trump-attorney-general-nomination
+- **July 15, 2026**: At Jay Clayton's DNI confirmation hearing, Sen. Martin Heinrich presses him on DOJ's refusal to share unredacted Zorro Ranch evidence with New Mexico and on exposed victim data.  
+  Source: https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-presses-jay-clayton-on-doj-obstruction-of-new-mexico-investigation-into-jeffrey-epsteins-crimes-at-zorro-ranch
+- **July 29 - August 3, 2026**: Clayton is confirmed and sworn in as Director of National Intelligence; Jamie McDonald becomes SDNY U.S. attorney.  
+  Sources:  
+  - https://www.npr.org/2026/07/29/nx-s1-5910749/senate-confirms-jay-clayton-as-director-of-national-intelligence  
+  - https://www.justice.gov/usao-sdny/pr/jamie-mcdonald-assumes-role-united-states-attorney-southern-district-new-york
 - **July 16-17, 2026**: Sen. Thom Tillis conditions his vote on Blanche meeting Epstein survivors; the meeting occurs and survivors call it dismissive.  
   Sources:  
   - https://www.axios.com/2026/07/16/tillis-withholds-blanche-support-esptein  
@@ -136,6 +144,10 @@ Three pressure points define this phase:
 - **April 30 - July 24, 2026**: House Oversight interviews Ted Waitt, Howard Lutnick, Tova Noel, Sarah Kellen, Pam Bondi, Lesley Groff, Bill Gates, Leon Black, Doug Band, Kathryn Ruemmler, and Jes Staley. See `topics/The_House_Oversight_Witness_Program_2026.md`.
 - **May 12, 2026**: Oversight Democrats hold an unofficial field hearing with survivors in West Palm Beach and release an interim staff report.  
   Source: https://oversightdemocrats.house.gov/news/press-releases/ranking-member-robert-garcia-oversight-democrats-florida-democrats-hold-hearing-on-epstein-investigation-in-palm-beach-florida
+- **March 2 and June 12, 2026**: Reps. Ross, Raskin, and Khanna press the Bureau of Prisons on who approved Maxwell's transfer to a minimum-security camp (Bondi told the House she did not), then on a newly published policy letting the attorney general designate where a prisoner is held.  
+  Sources:  
+  - https://ross.house.gov/2026/3/ross-raskin-khanna-demand-answers-on-ghislaine-maxwell-s-transfer-to-club-fed  
+  - https://democrats-judiciary.house.gov/media-center/press-releases/raskin-ross-khanna-demand-answers-on-secretive-bop-policy-change-following-ghislaine-maxwell-prison-transfer
 - **June 4, 2026**: Comer and Republican members ask DOJ to investigate allegations Sarah Kellen made against Philip Levine and Frederic Fekkai (both deny them).  
   Source: https://oversight.house.gov/release/chairman-comer-and-republican-lawmakers-seek-doj-investigation-into-sexual-assault-allegations-made-during-epstein-investigation/
 - **July 15, 2026**: Epstein Files Transparency Act II (H.R. 9694) introduced in the House, with a Senate companion.  

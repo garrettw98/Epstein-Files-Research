@@ -36,5 +36,6 @@ Epstein didn't just operate in one place. He had a network of luxury properties 
 ## 2026 Update (Mar 17 - Sep 23)
 
 - **Zorro Ranch**: searched by New Mexico investigators (Mar 9); described in the Truth Commission's Aug 5 interim report as 7,600 acres with a 28,600-square-foot residence and about 50 staff. See [The Zorro Ranch Commission](The_Zorro_Ranch_Commission.md).
+- **Zorro Ranch ownership**: In February 2026 records showed the ranch was bought in 2023 by San Rafael Ranch LLC, tied to the family of Don Huffines, a former Texas state senator running for Texas comptroller. The family said it had no prior connection to Epstein, renamed the property San Rafael Ranch, and held a Catholic exorcism there; county officials halted construction over missing permits. The owners allowed the March search. [Texas Tribune](https://www.texastribune.org/2026/02/13/don-huffines-jeffrey-epstein-ranch-new-mexico-texas/), [The Real Deal](https://therealdeal.com/texas/2026/02/17/huffines-family-bought-epsteins-zorro-ranch-in-new-mexico/)
 - **Little St. James**: 2026 trespassing incidents, arrests, and a lawsuit by the owner. See [The Island Secrets](The_Island_Secrets.md).
 - **301 East 66th Street (Manhattan)**: Israeli officials installed security there for Ehud Barak starting in 2016. See [The Israel Connection](The_Israel_Connection.md).

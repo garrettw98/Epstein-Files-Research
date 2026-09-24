@@ -15,3 +15,8 @@ Hoffman represents the "Science Club" sector of Epstein's network. He wasn't the
 
 ## Verdict
 **Professional Associate.** Visited the island for business. No allegations of misconduct.
+
+## 2026 Update (Mar 17 - Sep 24)
+
+- **Nov 14, 2025**: President Trump asked DOJ to investigate Epstein's ties to Hoffman, Bill Clinton, Larry Summers, and JPMorgan Chase. Hoffman has not been accused by any victim and has said his contact with Epstein was for MIT fundraising; AG Bondi assigned SDNY's Jay Clayton. No charges or public findings have followed as of Sep 24, 2026. [CNBC](https://www.cnbc.com/2025/11/14/trump-doj-jeffrey-epstein-clinton-jpmorgan-summers.html). See [Jay Clayton](Jay_Clayton.md).
+

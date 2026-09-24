@@ -361,6 +361,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 17, 2026**: **Reuters: New Mexico approved Zorro Ranch investigation commission**.
     *   Reuters reported New Mexico lawmakers approved a state commission to investigate allegations tied to Epstein's Zorro Ranch, with hearings and a final report planned in 2027.
     *   Source: [Source](https://www.reuters.com/world/us/new-mexico-approves-comprehensive-probe-epsteins-zorro-ranch-2026-02-17/).
+*   **Feb 17, 2026**: **UN experts said Epstein-file allegations may amount to crimes against humanity**.
+    *   Independent experts appointed by the UN Human Rights Council called for impartial investigations and criticized redactions that exposed victims.
+    *   Source: [Source](https://www.ohchr.org/en/press-releases/2026/02/flawed-epstein-files-disclosures-undermine-accountability-grave-crimes).
 *   **Feb 18, 2026**: **AP: Britain's House of Lords scrutiny intensified after Epstein fallout**.
     *   AP reported renewed scrutiny of Britain's House of Lords after Peter Mandelson resigned over his friendship with Epstein.
     *   Source: [Source](https://apnews.com/article/uk-house-of-lords-mandelson-epstein-a9a550b79b40f77b7d34044489b1265b).
@@ -412,6 +415,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 2, 2026**: **BBC: Bill and Hillary Clinton testimony released**.
     *   BBC reported videos of both Clintons' testimony in the Epstein inquiry were released publicly.
     *   Source: [Source](https://www.bbc.com/news/articles/c20zg7prz12o).
+*   **Mar 2, 2026**: **House Democrats asked the Bureau of Prisons who approved Maxwell's transfer**.
+    *   Reps. Ross, Raskin and Khanna wrote after Bondi told the House she did not authorize Maxwell's move to a minimum-security camp and did not know who did.
+    *   Source: [Source](https://ross.house.gov/2026/3/ross-raskin-khanna-demand-answers-on-ghislaine-maxwell-s-transfer-to-club-fed).
 *   **Mar 3, 2026**: **AP: Hillary Clinton said she did not recall meeting Epstein**.
     *   AP video coverage highlighted testimony that Hillary Clinton said she did not recall ever meeting Jeffrey Epstein.
     *   Source: [Source](https://apnews.com/video/hillary-clinton-said-she-never-even-recalled-meeting-jeffrey-epstein-4137852ceef043a68b3937c7e8a82420).
@@ -535,6 +541,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Apr 16, 2026**: **Al Jazeera: Report said Mandelson failed security vetting before ambassador posting**.
     *   Reporting said Mandelson was initially denied clearance but Foreign Office officials used a rarely used authority to override the recommendation, intensifying pressure on Keir Starmer.
     *   Source: [Source](https://www.aljazeera.com/news/2026/4/16/uks-starmer-under-fire-over-report-mandelson-failed-security-vetting).
+*   **Apr 16, 2026**: **UN News: Rights experts demanded accountability for trafficking alleged in the Epstein files**.
+    *   The UN Special Rapporteur on trafficking and the Working Group on discrimination against women and girls called for a full and transparent investigation and reparations.
+    *   Source: [Source](https://news.un.org/en/story/2026/04/1167314).
 *   **Apr 23, 2026**: **UPI: DOJ inspector general opened audit of Epstein Files Transparency Act compliance**.
     *   Inspector General William Blier said the audit would examine how DOJ identified, collected, redacted, withheld and released records under the Act.
     *   Source: [Source](https://www.upi.com/Top_News/US/2026/04/23/justice-department-inspector-general-audit-epstein-files-release/7901776973145/).
@@ -547,6 +556,12 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Apr 28, 2026**: **Washington Post: GAO agreed to review DOJ's handling of Epstein-file redactions**.
     *   The Government Accountability Office accepted a senators' request to review how DOJ reviewed, redacted and released the files.
     *   Source: [Source](https://www.washingtonpost.com/politics/2026/04/28/epstein-files-gao/).
+*   **Apr 28, 2026**: **PBS: Survivors held a Capitol roundtable after King Charles declined to meet them**.
+    *   The king's lawyers cited an ongoing investigation in declining Rep. Khanna's request; his address to Congress did not mention Epstein or the survivors by name.
+    *   Source: [Source](https://www.pbs.org/newshour/nation/watch-epstein-survivors-and-families-join-rep-khanna-for-roundtable-ahead-of-king-charles-visit).
+*   **Apr 28, 2026**: **AP: Judge let fired Epstein prosecutor Maurene Comey's lawsuit proceed**.
+    *   Judge Jesse Furman ruled her wrongful-termination suit belongs in federal court, noting DOJ cited only Article II as the reason for firing her.
+    *   Source: [Source](https://www.usnews.com/news/best-states/new-york/articles/2026-04-28/judge-rules-that-fired-prosecutor-maurene-comeys-lawsuit-belongs-in-federal-court).
 *   **Apr 30, 2026**: **ABC: Ted Waitt told House Oversight he paid Maxwell $7.2 million after their breakup**.
     *   The Gateway co-founder said in a closed-door interview that he met Epstein fewer than five times and regretted not scrutinizing Epstein's 2008 plea; the transcript was released May 13.
     *   Source: [Source](https://abcnews.com/Politics/ghislaine-maxwells-billionaire-boyfriend-paid-72m-after-breakup/story?id=132943699).
@@ -613,6 +628,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jun 10, 2026**: **The Hill: Comer said he would seek interviews with Alan Dershowitz and Todd Blanche**.
     *   After the Groff interview and a meeting with survivors, Comer said he would ask Dershowitz to come in; Dershowitz said he wanted to testify publicly and under oath.
     *   Source: [Source](https://thehill.com/homenews/house/5918269-comer-dershowitz-blanche-interviews-epstein/).
+*   **Jun 12, 2026**: **House Democrats challenged a new prison policy tied to Maxwell's transfer**.
+    *   Reps. Raskin, Ross and Khanna said a newly published BOP rule letting the attorney general designate a prisoner's placement retroactively covers Maxwell's move.
+    *   Source: [Source](https://democrats-judiciary.house.gov/media-center/press-releases/raskin-ross-khanna-demand-answers-on-secretive-bop-policy-change-following-ghislaine-maxwell-prison-transfer).
 *   **Jun 17, 2026**: **Raskin expanded university inquiry to Harvard and Bard**.
     *   House Judiciary Democrats asked Harvard and Bard for Epstein-related records and asked Bard to make Botstein available for an interview.
     *   Source: [Source](https://democrats-judiciary.house.gov/media-center/press-releases/judiciary-democrats-expand-investigation-into-how-epstein-leveraged-ties-to-universities-to-further-his-crimes-and-lure-victims).
@@ -652,6 +670,12 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jul 15, 2026**: **Axios: Vance said the administration "mishandled" the Epstein files**.
     *   Vice President JD Vance told Joe Rogan "we did mishandle it — especially the communications of it."
     *   Source: [Source](https://www.axios.com/2026/07/15/jd-vance-epstein-files-joe-rogan-podcast).
+*   **Jul 15, 2026**: **Heinrich pressed DNI nominee Jay Clayton on DOJ's handling of New Mexico's Epstein probe**.
+    *   At Clayton's Senate Intelligence hearing, Heinrich raised DOJ's 2019 request that New Mexico stand down and its refusal to share unredacted Zorro Ranch evidence; New Mexico's attorney general disputed Clayton's account.
+    *   Source: [Source](https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-presses-jay-clayton-on-doj-obstruction-of-new-mexico-investigation-into-jeffrey-epsteins-crimes-at-zorro-ranch).
+*   **Jul 15, 2026**: **JTA: Vance told Joe Rogan Epstein had connections to Israeli intelligence**.
+    *   The vice president, who cited no documents, said Epstein's ties reached Israeli intelligence's highest levels and also mentioned U.S. intelligence.
+    *   Source: [Source](https://www.jta.org/2026/07/15/politics/jd-vance-tells-joe-rogan-that-jeffrey-epstein-had-connections-to-israeli-intelligence).
 *   **Jul 16, 2026**: **Axios: Tillis conditioned his Blanche vote on a meeting with Epstein survivors**.
     *   Sen. Thom Tillis said he would not vote to confirm Blanche unless Blanche met survivors; the meeting took place days later and survivors called it dismissive.
     *   Source: [Source](https://www.axios.com/2026/07/16/tillis-withholds-blanche-support-esptein).
@@ -670,6 +694,12 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jul 23, 2026**: **NBC4: Survivors' lawsuits against Les Wexner consolidated in federal court**.
     *   A federal judge in Manhattan combined the late-March and late-June suits against Wexner and the Wexner Foundation.
     *   Source: [Source](https://www.nbc4i.com/news/local-news/new-albany/epstein-survivors-lawsuits-against-les-wexner-combined-into-one-case/).
+*   **Jul 23, 2026**: **Bloomberg: JPMorgan reiterated that Jamie Dimon never met Epstein**.
+    *   Responding to Sen. Warren, the bank said Dimon never met or emailed Epstein and was not involved in decisions to keep him as a client.
+    *   Source: [Source](https://www.bloomberg.com/news/articles/2026-07-23/jpmorgan-reiterates-that-dimon-never-met-epstein-in-new-letter).
+*   **Jul 24, 2026**: **Bloomberg: Epstein's staff booked more than 3,700 commercial flights from 2009 to 2019**.
+    *   An analysis of Skype messages and flight records in the DOJ release found no identifiable passenger name in more than 1,700 bookings.
+    *   Source: [Source](https://www.bloomberg.com/graphics/2026-jeffrey-epstein-trafficking/).
 *   **Jul 25, 2026**: **Forbes: Judge Sullivan ordered DOJ to submit 10 unredacted records for private review**.
     *   DOJ complied and acknowledged it had mistakenly redacted one of Epstein's own email addresses while defending most other redactions.
     *   Source: [Source](https://www.forbes.com/sites/alisondurkee/2026/07/27/could-more-epstein-files-be-released-soon-redacted-docs-will-be-reviewed-by-judge-this-week/).
@@ -679,6 +709,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jul 29, 2026**: **Axios: Senate unanimously opposed any pardon for Ghislaine Maxwell**.
     *   The Senate adopted S.Res.608 by unanimous consent, expressing that Maxwell should not receive clemency.
     *   Source: [Source](https://www.axios.com/2026/07/29/ghislaine-maxwell-jeffrey-epstein-senate-pardon).
+*   **Jul 29, 2026**: **NPR: Senate confirmed Jay Clayton as director of national intelligence**.
+    *   Clayton, who as SDNY U.S. attorney led the Trump-requested Epstein probe of Democrats, was succeeded at SDNY by Jamie McDonald the same day.
+    *   Source: [Source](https://www.npr.org/2026/07/29/nx-s1-5910749/senate-confirms-jay-clayton-as-director-of-national-intelligence).
 *   **Jul 31, 2026**: **St. Thomas Source: FirstBank moved to dismiss Epstein survivor's lawsuit**.
     *   The bank filed a 33-page memorandum seeking dismissal before Judge Jed Rakoff.
     *   Source: [Source](https://stthomassource.com/content/2026/07/31/firstbank-puerto-rico-moves-to-dismiss-epstein-victims-lawsuit/).
@@ -796,6 +829,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Sep 23, 2026**: **AP: Wexner donations became an issue in Ohio's Senate race**.
     *   Sherrod Brown's campaign attacked Sen. Jon Husted over about $116,000 in Les Wexner contributions; Wexner testified he never lobbied anyone to block release of the files.
     *   Source: [Source](https://www.local10.com/news/politics/2026/09/23/billionaires-political-contributions-make-the-epstein-files-a-focus-of-ohios-us-senate-race/).
+*   **Sep 24, 2026**: **CNN: Executor probe includes witness interviews and Epstein shell entities**.
+    *   Investigators have interviewed potential witnesses, including survivors, and sought emails and checks, with interest in entities such as the Florida Science Foundation; Indyke and Kahn deny wrongdoing.
+    *   Source: [Source](https://www.cnn.com/2026/09/24/politics/epstein-advisers-investigation-indyke-kahn).
 <!-- LIVE_TIMELINE:END -->
 
 

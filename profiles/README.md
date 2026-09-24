@@ -157,6 +157,8 @@ Reps. **Thomas Massie** and **Ro Khanna** discovered six men whose names were re
 *   **[Keir Starmer](Keir_Starmer.md)** - Former UK PM; resigned amid Mandelson appointment fallout.
 *   **[Børge Brende](Borge_Brende.md)** - Former WEF president; resigned Feb 26, 2026.
 *   **[Larry Summers](Larry_Summers.md)** - Former Treasury Secretary; leaving Harvard teaching amid review.
+*   **[Maurene Comey](Maurene_Comey.md)** - Former SDNY prosecutor on the Epstein and Maxwell cases; fired July 2025; wrongful-termination suit allowed to proceed (Apr 28, 2026).
+*   **[Jay Clayton](Jay_Clayton.md)** - SDNY U.S. attorney who led the Trump-requested Epstein probe of Democrats (Nov 2025); Director of National Intelligence since Aug 3, 2026.
 *   **[Frédéric Fekkai](Frederic_Fekkai.md)** - Hairstylist; accused in Sarah Kellen's House testimony and in a Sep 2026 civil suit; named on Massie's Aug 31 list; denies all allegations.
 
 ## ⚪ Viral Names (Context Needed)

@@ -58,6 +58,7 @@ For the survivor-driven cases in context, see [The Survivor Litigation Wave (202
 | Apollo securities class actions (*Feldman*, *Perez*) | S.D.N.Y. | Filed Mar 2 and Apr 29; consolidated; lead-plaintiff motions pending |
 | New Mexico v. DOJ (records) | Federal court | Filed Aug 2026 |
 | Tartaglione note unsealing | S.D.N.Y., Judge Karas | Released May 6 |
+| Maurene Comey wrongful-termination suit (fired Epstein/Maxwell prosecutor) | S.D.N.Y., Judge Furman | Apr 28: may proceed in federal court; merits pending |
 | Survivors v. DOJ and Google (privacy; proposed class action) | N.D. Cal. | Filed Mar 26; alleges the releases exposed about 100 survivors' names, contact details, and photos; seeks at least $1,000 per class member from the government |
 | Survivors v. United States (FBI negligence, FTCA; about $320M) | S.D. Fla. | Magistrate Judge Ryon McCabe recommended Aug 18 that the claims proceed to 90 days of limited discovery; district judge's ruling pending |
 | Survivors v. Wexner, Wexner Foundation, Nine East 71st Street Corp. | N.Y. Sup. Ct. → S.D.N.Y. (consolidated Jul 23) | Voluntarily dismissed without prejudice Sep 1 amid a jurisdiction dispute |

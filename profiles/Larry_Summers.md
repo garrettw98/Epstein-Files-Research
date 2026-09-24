@@ -18,6 +18,10 @@ Lawrence H. Summers, Treasury Secretary under Bill Clinton and former Harvard pr
 
 - Harvard also placed mathematical biologist **Martin Nowak** on leave (Feb 25, 2026); Nowak resigned from the Austrian Academy of Sciences in late March (reported Apr 2), preempting an ethics review. [Harvard Crimson](https://www.thecrimson.com/article/2026/4/2/nowak-austrian-academy-resignation/)
 
+## 2026 Update (Mar 17 - Sep 24)
+
+- **Nov 14, 2025**: President Trump asked DOJ to investigate Epstein's ties to Summers, Bill Clinton, Reid Hoffman, and JPMorgan Chase; AG Bondi assigned SDNY's Jay Clayton. No charges or public findings have followed as of Sep 24, 2026. [CNBC](https://www.cnbc.com/2025/11/14/trump-doj-jeffrey-epstein-clinton-jpmorgan-summers.html). See [Jay Clayton](Jay_Clayton.md).
+
 ## See Also
 
 - [The MIT Scandal](../topics/The_MIT_Scandal.md) · [Science and Tech](../topics/Science_and_Tech.md)

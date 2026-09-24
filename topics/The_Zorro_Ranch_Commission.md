@@ -62,8 +62,10 @@ That does not prove the most extreme claims made about the ranch. It does show t
 
 **1. Criminal (New Mexico Department of Justice)**
 - Attorney General **Raúl Torrez** reopened the criminal investigation in February 2026; the first search of the ranch was on **Mar 9**. [NMDOJ statement](https://nmdoj.gov/press-release/statement-from-the-new-mexico-department-of-justice-regarding-zorro-ranch/), [CNN](https://www.cnn.com/2026/03/10/politics/epstein-zorro-ranch-search-new-mexico)
+- **Background (Jul 23, 2019)**: DOJ officials told New Mexico to "stand down" from its own sex-trafficking investigation of the ranch, according to Sen. Martin Heinrich, who raised it at Jay Clayton's Jul 15, 2026 DNI confirmation hearing. [Heinrich](https://www.heinrich.senate.gov/newsroom/press-releases/heinrich-presses-jay-clayton-on-doj-obstruction-of-new-mexico-investigation-into-jeffrey-epsteins-crimes-at-zorro-ranch)
 - **Jul 9**: Torrez wrote to acting AG Blanche that DOJ was withholding "critical" information. [CNN](https://edition.cnn.com/2026/07/09/politics/epstein-new-mexico-raul-torrez-letter-blanche)
 - **Aug 5-6**: New Mexico **sued DOJ** for access to unredacted investigative files, arguing that "every day that the USDOJ withholds these records, the foundation upon which a New Mexico prosecution could be built erodes." [NMDOJ](https://nmdoj.gov/press-release/new-mexico-sues-doj-for-blocking-access-to-unredacted-epstein-investigative-files-in-zorro-ranch-criminal-probe/), [Courthouse News](https://www.courthousenews.com/new-mexico-rips-feds-for-stonewalling-probe-into-epstein-ranch/)
+- **Jul 15**: At Clayton's confirmation hearing, Torrez's office disputed Clayton's description of ongoing talks, saying the only federal contact had been a call saying DOJ would not cooperate. [NM Political Report](https://nmpoliticalreport.com/2026/07/15/video-heinrich-presses-trumps-spy-pick-on-epstein-cover-up-victim-data-leak/)
 - No public findings from the search have been announced.
 
 **2. Legislative (New Mexico Survivors' Truth Commission)**

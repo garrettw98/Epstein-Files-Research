@@ -25,10 +25,13 @@ This tracker consolidates major corporate and institutional governance consequen
 | Feb 26, 2026 | World Economic Forum | Børge Brende resigned as president and CEO; Alois Zwinggi named interim. | CNN / Semafor |
 | Mar 2-3, 2026 | Apollo Global Management | Securities class action filed alleging concealed Epstein-related communications by Leon Black and Marc Rowan. | Reuters / D&O Diary |
 | Mar 11-12, 2026 | New York Giants | Steve, Laurie, and Jonathan Tisch proposed moving their remaining 23.1% stake into children's trusts. | CNN / ESPN |
+| Mar 7, 2026 | Sollis Health / Atria | Dr. Bernard Kruger put on leave from Sollis's board pending an external review; Atria said he had "recently retired." | New York Times (via DNYUZ) |
 | Mar 12, 2026 | FIRST | Dean Kamen resigned from the board; FIRST's independent review found no evidence of misconduct. | NHPR |
+| Late Mar 2026 | NFL / New York Giants | Commissioner Goodell said the league found no personal-conduct violation by Steve Tisch, who is no longer an owner after the trust transfer; the Tisch siblings keep front-office roles. | Front Office Sports |
 | Mar 27, 2026 | Bank of America | Agreed to a $72.5 million settlement with Epstein accusers (denies facilitating his crimes). | CNBC |
 | Late Mar 2026 | Austrian Academy of Sciences | Martin Nowak resigned, preempting an ethics review. | Harvard Crimson |
 | May 1, 2026 | Bard College | President Leon Botstein announced his retirement (effective Jun 30) after a WilmerHale review of his Epstein ties found no illegality but faulted his judgment. | NPR / CNBC |
+| Jun 24 / Jul 31, 2026 | FirstBank Puerto Rico | Sued in a proposed class action alleging it serviced 30+ Epstein-linked accounts (1998-2020); First BanCorp denies the claims and moved to dismiss. | American Banker / St. Thomas Source |
 | Jun 30, 2026 | Goldman Sachs | Ruemmler's retirement took effect; Michael Bosworth named acting general counsel (July). Bloomberg Law reported a $25 million 2025 pay package. | Law360 / Bloomberg Law |
 | Jul 21, 2026 | Gates Foundation | External review found ~30 meetings with Epstein (2011-2014), no payments to him, and no knowledge of trafficking. | Gates Foundation |
 | Jul 28, 2026 | The Team (formerly Wasserman) | Providence Equity-backed deal to buy out Casey Wasserman's remaining stake; Michael Watts named next CEO. Wasserman remains LA28 chair. | Sportico |
@@ -71,12 +74,17 @@ This tracker consolidates major corporate and institutional governance consequen
 - NBC (Feb 24, Axel): https://www.nbcnews.com/news/us-news/columbia-brain-institute-co-director-nobel-laureate-steps-epstein-ties-rcna260585
 - NHPR (Mar 12, Kamen): https://www.nhpr.org/nh-news/2026-03-12/dean-kamen-resigns-first-epstein-nh-newhampshire
 - NPR (May 2, Botstein): https://www.npr.org/2026/05/02/nx-s1-5808942/bard-college-president-leon-botstein-retire-jeffrey-epstein
+- Front Office Sports (Mar, Tisch): https://frontofficesports.com/article/goodell-tisch-is-no-longer-giants-owner-no-policy-violation/
+- NYT via DNYUZ (Mar 7, Kruger): https://dnyuz.com/2026/03/07/epstein-doctor-steps-away-from-elite-health-clinics/
+- American Banker (Jun, FirstBank): https://www.americanbanker.com/news/epstein-victim-says-puerto-rico-bank-facilitated-his-crimes
 
 ## See Also
 
 - [The LA28/Wasserman Fallout](The_LA28_Wasserman_Fallout.md)
 - [The Accountability Log](The_Accountability_Log.md)
 - [The Academic Fallout (2026)](The_Academic_Fallout_2026.md)
+- [The Medical Network (2026)](The_Medical_Network_2026.md)
+- [The Survivor Litigation Wave (2026)](The_Survivor_Litigation_Wave_2026.md)
 - [The Banks](The_Banks.md)
 - [New Developments (Feb 17, 2026)](../analysis/New_Developments_Feb_17_2026.md)
 - [April-September 2026 Accountability Synthesis](../analysis/April_September_2026_Accountability_Synthesis.md)

@@ -25,6 +25,10 @@ David Copperfield, one of the most famous illusionists in the world, had a socia
 ## Verdict
 **Mentioned / Social Ties.** Copperfield performed at Epstein's home and is named in the Giuffre deposition. Alessi's testimony that girls were clothed during his visits suggests the household distinguished between social entertainment and its darker operations. No evidence links Copperfield to the abuse, but his presence in victim testimony and at the home is documented.
 
+## 2026 Update (Mar 17 - Sep 24)
+
+- **Aug 31, 2026**: Named on Rep. Thomas Massie's House-floor list of 14 people he said should be investigated as Epstein "co-conspirators." Copperfield has denied awareness of Epstein's crimes and has not been charged. [Newsweek](https://www.newsweek.com/thomas-massie-names-14-people-he-says-should-be-investigated-over-epstein-12389523). See [The Massie Floor Speech](../topics/The_Massie_Floor_Speech_Aug_2026.md).
+
 ## See Also
 
 - [Virginia Giuffre](Virginia_Giuffre.md) - Named Copperfield in deposition

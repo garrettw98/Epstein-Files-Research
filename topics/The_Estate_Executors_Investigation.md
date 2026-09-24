@@ -28,6 +28,8 @@ Sources: [CNBC](https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors
 | Feb 19, 2026 | Settlement announced (up to $35 million; as low as $25 million if fewer than 40 eligible class members) | [NBC](https://www.nbcnews.com/news/us-news/epstein-estate-agrees-35-million-settlement-victim-class-action-rcna259863) |
 | Mar 3, 2026 | Judge Arun Subramanian grants preliminary approval, calling it "fair, reasonable and adequate" | [Reuters via US News](https://www.usnews.com/news/world/articles/2026-03-03/us-judge-preliminarily-approves-35-million-settlement-between-epstein-estate-accusers) |
 | Sep 16, 2026 | Scheduled final-approval hearing | Same |
+| Aug 19, 2026 | Six women sue the estate and executors in state court under NYC's Gender-Motivated Violence Act (*Christiansen v. Indyke*) | [Bloomberg Law](https://news.bloomberglaw.com/litigation/epstein-victims-sue-estate-executors-in-ny-over-sexual-assaults) |
+| Sep 15-16, 2026 | Proposed class action against the estate over Epstein's collection of child sexual abuse images | [Reuters via US News](https://www.usnews.com/news/us/articles/2026-09-16/epstein-survivors-sue-his-estate-over-child-pornography-collection) |
 | Sep 24, 2026 | No final-approval ruling located in public reporting (rechecked Sep 24) | — |
 
 The settlement does not include an admission of wrongdoing. The estate also funded a 2021 victims' compensation program of roughly $125 million. See [The Victim Compensation Fund](The_Victim_Compensation_Fund.md).

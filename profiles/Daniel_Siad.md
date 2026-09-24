@@ -113,6 +113,7 @@ If investigations proceed, potential charges could include:
 - **Jul 20, 2026**: **Found dead** at his home in Colombes, outside Paris, aged 69. Nanterre prosecutors opened an inquiry into the cause of death and ordered an autopsy; his lawyer said she believed he had a heart attack. He had been under French investigation over trafficking tied to Epstein and separate allegations of sexual crimes, and multiple women say he connected them to Epstein. His name appears nearly 2,000 times in the DOJ files. [CNN](https://www.cnn.com/2026/07/22/europe/model-recruiter-epstein-dead-france-intl), [Al Jazeera](https://www.aljazeera.com/news/2026/7/22/french-model-recruiter-with-close-ties-to-jeffrey-epstein-found-dead), [ABC](https://abcnews.com/International/model-scout-investigated-epstein-trafficking-ties-found-dead/story?id=134992628)
 - **Sep 10, 2026**: Paris prosecutor Laure Beccuau said investigators have "other names of potential recruiters" and 26 alleged victims. [Courthouse News](https://www.courthousenews.com/frances-epstein-probe-identifies-potential-recruiters/)
 - He was never charged in the United States. His death removes a potential witness and defendant; it does not establish guilt.
+- **Aug 31, 2026**: Named (posthumously) on Rep. Massie's House-floor list of 14. See [The Massie Floor Speech](../topics/The_Massie_Floor_Speech_Aug_2026.md).
 
 ## See Also
 

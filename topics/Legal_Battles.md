@@ -43,6 +43,9 @@ The "Epstein Case" isn't one lawsuit; it's a tangled web of dozens of civil and 
 ## 2026 Update (Mar 17 - Sep 24)
 
 ### Active and Resolved Matters (2026)
+
+For the survivor-driven cases in context, see [The Survivor Litigation Wave (2026)](The_Survivor_Litigation_Wave_2026.md).
+
 | Matter | Court | Status (Sep 24) |
 | :--- | :--- | :--- |
 | *Phang v. Blanche* (Transparency Act compliance) | D.D.C., Judge Sullivan; D.C. Cir. No. 26-5299 | Injunction (Jun 25); Sep 16 order with Sept. 24 deadline; DOJ appealed (Sep 17) and moved to stay the foreign-language portions (Sep 22) |
@@ -52,8 +55,13 @@ The "Epstein Case" isn't one lawsuit; it's a tangled web of dozens of civil and 
 | Bank of America class settlement | S.D.N.Y., Judge Rakoff | **Final approval** Aug 27 ($72.5M) |
 | Black v. House Oversight | D.D.C. | Pending |
 | Trump v. Dow Jones / WSJ (birthday letter) | S.D. Fla. | Dismissed Apr 13; refiled May 28 |
-| Apollo securities class action | Federal court | Filed Mar 2 |
+| Apollo securities class actions (*Feldman*, *Perez*) | S.D.N.Y. | Filed Mar 2 and Apr 29; consolidated; lead-plaintiff motions pending |
 | New Mexico v. DOJ (records) | Federal court | Filed Aug 2026 |
 | Tartaglione note unsealing | S.D.N.Y., Judge Karas | Released May 6 |
 | Survivors v. DOJ and Google (privacy; proposed class action) | N.D. Cal. | Filed Mar 26; alleges the releases exposed about 100 survivors' names, contact details, and photos; seeks at least $1,000 per class member from the government |
 | Survivors v. United States (FBI negligence, FTCA; about $320M) | S.D. Fla. | Magistrate Judge Ryon McCabe recommended Aug 18 that the claims proceed to 90 days of limited discovery; district judge's ruling pending |
+| Survivors v. Wexner, Wexner Foundation, Nine East 71st Street Corp. | N.Y. Sup. Ct. → S.D.N.Y. (consolidated Jul 23) | Voluntarily dismissed without prejudice Sep 1 amid a jurisdiction dispute |
+| *Doe v. FirstBank Puerto Rico / First BanCorp* (proposed class) | S.D.N.Y., Judge Rakoff | Filed Jun 24; motion to dismiss filed Jul 31; bank denies the claims |
+| *Christiansen v. Indyke* (NYC Gender-Motivated Violence Act) | N.Y. Sup. Ct. | Filed Aug 19 by six women against the estate and executors |
+| Seven women v. Frédéric Fekkai | N.Y. Sup. Ct. | Filed Sep 1; Fekkai denies |
+| Jane Doe and "Amy" v. Epstein estate (abuse-image collection; proposed class) | S.D.N.Y. | Filed Sep 15-16; seeks at least $6M and a notification program |

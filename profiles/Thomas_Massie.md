@@ -47,6 +47,7 @@ He also signaled willingness to use Speech or Debate protections for additional 
 - **Jul 15, 2026**: Introduced the **Epstein Files Transparency Act II** (H.R. 9694) with Reps. Khanna and Leger Fernández.
 - **Sep 1-18, 2026**: Filed a discharge petition, accused Speaker Johnson of cutting session days to block it, and announced **218 signatures** on Sep 18. [Axios](https://www.axios.com/2026/09/18/epstein-files-vote-massie-khanna-support)
 - See [Epstein Files Transparency Act II](../topics/The_Epstein_Files_Transparency_Act_II.md).
+- **Aug 31, 2026**: In a House floor speech, **named 14 people** (Staley, Black, Wexner, Copperfield, Lapo Elkann, Pritzker, Glenn Dubin, Fekkai, Eduardo Teodorani-Fabbri, Brunel, Siad, Ramsey Elkholy, Andrew Mountbatten-Windsor, Groff) he said should be investigated as Epstein "co-conspirators," and launched the EFTA II discharge petition. Those who have responded deny wrongdoing. [The Hill](https://thehill.com/homenews/house/6062468-massie-names-epstein-coconspirators/). See [The Massie Floor Speech](../topics/The_Massie_Floor_Speech_Aug_2026.md).
 
 ## See Also
 

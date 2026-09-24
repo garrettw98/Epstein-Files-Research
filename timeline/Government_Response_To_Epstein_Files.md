@@ -142,6 +142,8 @@ Three pressure points define this phase:
   Source: https://massie.house.gov/news/documentsingle.aspx?DocumentID=395849
 - **July 20-21, 2026**: House Judiciary Democrats (Raskin) open an inquiry into whether Epstein acted as an unregistered foreign agent.  
   Source: https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-launches-investigation-into-evidence-epstein-acted-as-unregistered-agent-for-foreign-powers-leveraging-ties-to-trump
+- **August 31, 2026**: Rep. Massie names 14 people on the House floor he says should be investigated as Epstein "co-conspirators" and launches the EFTA II discharge petition. Those who have responded deny wrongdoing.  
+  Source: https://thehill.com/homenews/house/6062468-massie-names-epstein-coconspirators/
 - **August 4, 2026**: Senate Finance Democrats (Wyden) publish "Looking the Other Way" on bank anti-money-laundering failures.  
   Source: https://www.finance.senate.gov/ranking-members-news/wyden-releases-new-report-on-failure-of-wall-street-banks-to-blow-the-whistle-on-jeffrey-epsteins-sex-trafficking-and-money-laundering-schemes
 - **September 3, 2026**: Leon Black skips his subpoenaed deposition and sues the committee.  
@@ -161,6 +163,14 @@ Three pressure points define this phase:
   Sources:  
   - https://www.cnn.com/2026/06/01/politics/new-mexico-truth-commission-epstein-zorro-ranch-subpoenas  
   - https://nmdoj.gov/press-release/new-mexico-sues-doj-for-blocking-access-to-unredacted-epstein-investigative-files-in-zorro-ranch-criminal-probe/
+- **April 27, 2026**: Norway and France form a joint investigation team for the Mona Juul / Terje Rød-Larsen case.  
+  Source: https://www.euronews.com/my-europe/2026/04/27/norway-and-france-launch-joint-police-probe-into-diplomats-alleged-links-with-epstein
+- **August 5, 2026**: After a minister said the UK prime minister was looking at a public inquiry, Downing Street says it is not actively considering one.  
+  Source: https://www.upi.com/Top_News/World-News/2026/08/05/Epstein-inquiry-ruled-out-for-now/1481785925123/
+- **August 25, 2026**: New York's Department of Health says it is reviewing allegations about doctors linked to Epstein.  
+  Source: https://ca.style.yahoo.com/doctors-connected-jeffrey-epstein-under-174500785.html
+- **September 5, 2026**: Rome prosecutors open a sexual-violence file against unknown persons and send a letter rogatory to DOJ.  
+  Source: https://www.ansa.it/sito/notizie/cronaca/2026/09/05/indagine-della-procura-di-roma-sugli-italiani-negli-epstein-files_144afa36-da50-4944-a016-c834cf475473.html
 - **September 9, 2026**: European investigators in Poland, Norway, Latvia, and the UK say DOJ has not answered mutual legal assistance requests; DOJ says it has not refused any jurisdiction.  
   Source: https://www.washingtonpost.com/world/2026/09/09/europeans-investigating-epstein-say-doj-has-not-agreed-requests-help/
 - **September 23, 2026**: The Wall Street Journal reports SDNY is criminally investigating estate executors Darren Indyke and Richard Kahn (both deny wrongdoing).  

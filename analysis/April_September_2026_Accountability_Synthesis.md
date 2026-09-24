@@ -100,6 +100,16 @@ See [The Banks](../topics/The_Banks.md) and [The Money Trail](../topics/The_Mone
 
 Universities ran their own reviews. Bard's president **Leon Botstein** retired (announced May 1) after a WilmerHale review; Columbia disciplined dental-school officials over an "irregular" admission tied to Epstein's girlfriend and Nobel laureate Richard Axel gave up an institute directorship; Ohio State's review cleared a physician of involvement in crimes; Harvard (Nowak) and Yale (Gelernter) reviews remain open. House Judiciary Democrats extended their university inquiry to Harvard and Bard on Jun 17. See [The Academic Fallout (2026)](../topics/The_Academic_Fallout_2026.md).
 
+## 9. Survivors Took the Fight to Civil Court
+
+New York City's reopened claims window (veto overridden Jan 29, open until about July 2027) turned into a second enforcement track run by survivors rather than governments. It produced suits against Les Wexner (dropped without prejudice Sep 1 over jurisdiction), FirstBank Puerto Rico (Jun 24), the estate and executors (Aug 19), hairstylist Frédéric Fekkai (Sep 1), and the estate over Epstein's abuse-image collection (Sep 15-16). Earlier cases targeted DOJ and Google (Mar 26) and the FBI (Aug 18 recommendation to proceed). Defendants deny the claims. See [The Survivor Litigation Wave (2026)](../topics/The_Survivor_Litigation_Wave_2026.md).
+
+**Inference (labeled):** Civil suits reach people and institutions that criminal cases have not, and they produce discovery. They also settle, so they rarely produce public findings about who knew what.
+
+## 10. Naming Without Charging
+
+On Aug 31 Rep. Massie read 14 names on the House floor, extending February's reading of six DOJ-redacted names. Floor speeches are protected from defamation claims, so they put names on the record without testing the evidence. Those named who have responded deny wrongdoing; two of the 14 are dead. See [The Massie Floor Speech](../topics/The_Massie_Floor_Speech_Aug_2026.md). Italy opened its own inquiry (Sep 5), with two named Italians publicly discussed.
+
 ## Working Narrative
 
 The strongest current synthesis:
@@ -120,6 +130,8 @@ That is a significant shift from February, when DOJ could credibly say the files
 8. Will EFTA II pass the House after Nov 9, and will the Senate take it up?
 9. Will Alan Dershowitz testify, and will the committee subpoena him?
 10. What will New Mexico's Truth Commission final report (due Dec 31) conclude?
+11. Will any of the 14 people Massie named face investigation, and will the Wexner suit be refiled?
+12. Will Mount Sinai or New York's Health Department publish findings on Epstein-linked doctors?
 
 ## Read This With
 

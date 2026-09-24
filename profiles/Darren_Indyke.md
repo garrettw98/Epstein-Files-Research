@@ -18,6 +18,11 @@ Darren K. Indyke was Jeffrey Epstein's personal lawyer for more than a decade an
 - **Sep 16, 2026**: Scheduled final-approval hearing on the settlement (no ruling located as of Sep 24).
 - **Sep 23, 2026**: WSJ reports an SDNY criminal investigation. [CNBC](https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors-investigation.html), [Forbes](https://www.forbes.com/sites/alisondurkee/2026/09/23/doj-investigating-executors-of-epsteins-estate-report-says/)
 
+## 2026 Update (Mar 17 - Sep 24)
+
+- **Aug 19, 2026**: Six women sued Indyke, Kahn, and the estate in New York state court (*Christiansen v. Indyke*) under New York City's Gender-Motivated Violence Act, alleging the executors enabled Epstein by giving him financial and legal support. [Bloomberg Law](https://news.bloomberglaw.com/litigation/epstein-victims-sue-estate-executors-in-ny-over-sexual-assaults)
+- **Sep 15-16, 2026**: Two women filed a proposed class action against the estate on behalf of people pictured in Epstein's collection of child sexual abuse material, seeking at least $6 million and a notification program. [Reuters via US News](https://www.usnews.com/news/us/articles/2026-09-16/epstein-survivors-sue-his-estate-over-child-pornography-collection). See [Survivor Litigation](../topics/The_Survivor_Litigation_Wave_2026.md).
+
 ## See Also
 
 - [Estate Executors Investigation](../topics/The_Estate_Executors_Investigation.md)

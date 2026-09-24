@@ -157,6 +157,7 @@ Reps. **Thomas Massie** and **Ro Khanna** discovered six men whose names were re
 *   **[Keir Starmer](Keir_Starmer.md)** - Former UK PM; resigned amid Mandelson appointment fallout.
 *   **[Børge Brende](Borge_Brende.md)** - Former WEF president; resigned Feb 26, 2026.
 *   **[Larry Summers](Larry_Summers.md)** - Former Treasury Secretary; leaving Harvard teaching amid review.
+*   **[Frédéric Fekkai](Frederic_Fekkai.md)** - Hairstylist; accused in Sarah Kellen's House testimony and in a Sep 2026 civil suit; named on Massie's Aug 31 list; denies all allegations.
 
 ## ⚪ Viral Names (Context Needed)
 *   **[Stephen Hawking](Viral_Names.md#stephen-hawking-the-orgy-email)** - Defended by Epstein in emails.

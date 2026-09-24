@@ -68,6 +68,10 @@ With **7,000+ search results** in the files, Pritzker's name appears with extrao
 ## Verdict
 **Accused by Victim; Extensively Documented Associate.** Pritzker is one of the few individuals both accused by Virginia Giuffre and connected through thousands of documents. His prison-release email, post-conviction invitations, and the sheer volume of references in the files indicate a deep and lasting relationship with Epstein. Pritzker denies the sexual allegations.
 
+## 2026 Update (Mar 17 - Sep 24)
+
+- **Aug 31, 2026**: Named on Rep. Massie's House-floor list of 14. Pritzker denies Giuffre's allegations and has not been charged. See [The Massie Floor Speech](../topics/The_Massie_Floor_Speech_Aug_2026.md).
+
 ## See Also
 
 - [Virginia Giuffre](Virginia_Giuffre.md) - Accuser

@@ -243,9 +243,12 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 ## 2026 (Mar-Sep): The Accountability Phase
 
+*   **2026 (Mar 7)**: Epstein physician **Bernard Kruger** steps away from two concierge clinics amid scrutiny of Epstein's medical network.
 *   **2026 (Mar 12)**: **Dean Kamen** resigns from the FIRST board; FIRST's review found no evidence of misconduct.
 *   **2026 (Mar 17)**: House Oversight subpoenas AG **Pam Bondi** for an April 14 deposition.
 *   **2026 (Mar 26)**: Survivors sue **DOJ and Google** over personal information exposed in the releases (proposed class action, N.D. Cal.).
+*   **2026 (Mar 26)**: Italian group **Differenza Donna** asks Rome prosecutors to investigate Epstein's Italian links.
+*   **2026 (Late Mar)**: NFL says it found no violation by **Steve Tisch**; survivors sue **Les Wexner** and his foundation in New York (dropped without prejudice Sep 1).
 *   **2026 (Apr 2)**: Trump **removes Bondi** as attorney general; **Todd Blanche** becomes acting AG.
 *   **2026 (Apr 9)**: **Melania Trump** publicly denies any Epstein ties and calls for public survivor hearings.
 *   **2026 (Apr 13)**: Judge dismisses Trump's $10B WSJ lawsuit over the birthday letter (refiled May 28).
@@ -259,10 +262,12 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **2026 (May 6)**: Judge unseals a **purported Epstein note** found by cellmate Tartaglione (authenticity unverified).
 *   **2026 (May 12)**: Oversight Democrats hold a **Palm Beach field hearing** with survivors.
 *   **2026 (May 19)**: **Thomas Massie loses** his Republican primary to Trump-backed Ed Gallrein.
+*   **2026 (May 26)**: CNN details Epstein's VIP treatment at **Mount Sinai**, whose board is reviewing its ties.
 *   **2026 (Jun 4)**: Comer asks DOJ to investigate **Kellen's allegations** against Philip Levine and Frederic Fekkai (both deny them).
 *   **2026 (Jun 10-12)**: Comer says he will seek interviews with **Alan Dershowitz** and acting AG Blanche; formally requests Dershowitz's testimony.
 *   **2026 (Jun 17)**: House Judiciary Democrats extend their **university inquiry** to Harvard and Bard.
 *   **2026 (Jun 22)**: **Keir Starmer announces his resignation** amid the Mandelson fallout; Andy Burnham becomes PM on Jul 20.
+*   **2026 (Jun 24)**: Survivor sues **FirstBank Puerto Rico** over 30-plus Epstein-linked accounts (bank denies; moved to dismiss Jul 31).
 *   **2026 (Jun 25)**: Judge **Emmet Sullivan enjoins DOJ** to unredact or justify disputed records.
 *   **2026 (Jul 2)**: At the injunction deadline, **DOJ declines to produce more records** and defends its redactions.
 *   **2026 (Jul 15)**: **Epstein Files Transparency Act II** introduced.
@@ -275,10 +280,15 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **2026 (Aug 8)**: Senate confirms **Blanche as attorney general**, 50-49.
 *   **2026 (Aug 11)**: Judge **Preska** rules the Act overrides sealing orders in the Maxwell case.
 *   **2026 (Aug 18)**: A magistrate judge recommends survivors' **$320M FBI negligence suit** proceed to limited discovery.
+*   **2026 (Aug 19)**: Six women sue the estate and executors under NYC's reopened Gender-Motivated Violence Act window (*Christiansen v. Indyke*).
+*   **2026 (Aug 25)**: New York's Health Department says it is reviewing doctors linked to Epstein.
 *   **2026 (Aug 25)**: Judge **Engelmayer denies Maxwell's** bid to vacate her conviction.
 *   **2026 (Aug 27)**: **Bank of America's $72.5M settlement** receives final approval.
 *   **2026 (Aug 28)**: King Harald V dies; **Mette-Marit becomes Queen of Norway**.
+*   **2026 (Aug 31)**: **Massie names 14 people** on the House floor he says should be investigated as Epstein "co-conspirators" (those who responded deny wrongdoing) and launches the EFTA II discharge petition.
+*   **2026 (Sep 1-5)**: Seven women sue hairstylist **Frédéric Fekkai** (he denies); Rome prosecutors open a sexual-violence file and send a letter rogatory to DOJ (reported Sep 5).
 *   **2026 (Sep 3)**: **Leon Black** skips a subpoenaed deposition and sues House Oversight.
+*   **2026 (Sep 15-16)**: Proposed class action against the estate over Epstein's **child sexual abuse image collection**.
 *   **2026 (Sep 16)**: House holds **Leon Black in contempt**; Sullivan sets a **Sept. 24** deadline for DOJ and separately orders the "Jane Doe 4" FBI interview notes submitted for private review; Comer introduces the **Survivor's Voice Protection Act**.
 *   **2026 (Sep 17-22)**: DOJ appeals Sullivan's order and asks the D.C. Circuit (No. 26-5299) to stay the foreign-language-records portions of his Jun 25 and Sep 16 orders.
 *   **2026 (Sep 18)**: **EFTA II discharge petition** reaches 218 signatures.
@@ -286,7 +296,8 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **2026 (Sep 24)**: **Status snapshot**.
     *   **DOJ**: AG Blanche under a Sep 24 court deadline in Phang v. Blanche while DOJ appeals and seeks a partial stay (outcome not yet reported); IG and GAO reviews pending; DOJ has not answered European legal-assistance requests; no Data Set 13 published.
     *   **Congress**: Oversight witness phase largely complete; Black contempt referral pending; final report and promised public hearings not yet delivered; EFTA II vote possible after the House returns Nov. 9.
-    *   **Criminal exposure**: SDNY executor probe (reported); New Mexico criminal probe; UK investigations of Andrew and Mandelson; Norway's Jagland and Juul/Rød-Larsen cases; France's expanded probe.
+    *   **Criminal exposure**: SDNY executor probe (reported); New Mexico criminal probe; UK investigations of Andrew and Mandelson; Norway's Jagland and Juul/Rød-Larsen cases; France's expanded probe; Italy's new Rome inquiry.
+    *   **Civil**: A new wave of survivor suits under NYC's reopened claims window (estate, Fekkai, FirstBank; Wexner suit dropped without prejudice).
     *   **Maxwell**: Post-conviction petition denied; clemency opposed by unanimous Senate resolution.
     *   **Politics**: Epstein files are a live midterm issue (Ohio Senate race, Dallas "reading room," Massie's primary loss).
 <!-- LIVE_TIMELINE:START -->
@@ -431,6 +442,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 6, 2026**: **ITV: Mandelson released from bail but remains under investigation**.
     *   ITV reported Peter Mandelson was no longer on bail and had been released under investigation by the Metropolitan Police.
     *   Source: [Source](https://www.itv.com/news/2026-03-06/lord-mandelson-no-longer-on-bail-as-hes-released-under-investigation-by-police).
+*   **Mar 7, 2026**: **NYT: Epstein physician Bernard Kruger stepped away from two concierge clinics**.
+    *   Sollis Health put Kruger on leave from its board pending an external review and Atria said he had retired; 2016 records show a Sollis-predecessor plan covered Epstein and several women.
+    *   Source: [Source](https://dnyuz.com/2026/03/07/epstein-doctor-steps-away-from-elite-health-clinics/).
 *   **Mar 10, 2026**: **AP: New Mexico investigators searched former Zorro Ranch**.
     *   AP reported state investigators began searching Epstein's former New Mexico ranch amid allegations it may have been used for sexual abuse and trafficking.
     *   Source: [Source](https://apnews.com/article/jeffrey-epstein-sex-abuse-trafficking-new-mexico-98ee07a273865c1cfc2b034ef182171a).
@@ -488,9 +502,18 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 26, 2026**: **CNN: Survivors sued DOJ and Google over exposed personal information**.
     *   A proposed class action in federal court in Northern California alleges the Epstein releases outed about 100 survivors and that Google kept republishing their information.
     *   Source: [Source](https://www.cnn.com/2026/03/27/us/epstein-survivors-sue-doj-google-hnk).
+*   **Mar 26, 2026**: **Italian women's group asked Rome prosecutors to investigate Epstein's Italian links**.
+    *   Differenza Donna filed a complaint seeking a probe of possible transnational trafficking and sexual exploitation connected to the DOJ release.
+    *   Source: [Source](https://www.ansa.it/sito/notizie/cronaca/2026/09/05/indagine-della-procura-di-roma-sugli-italiani-negli-epstein-files_144afa36-da50-4944-a016-c834cf475473.html).
 *   **Mar 27, 2026**: **CNBC: Bank of America settlement with Epstein victims set at $72.5 million**.
     *   CNBC reported Bank of America agreed to pay $72.5 million to settle claims that it enabled Epstein's trafficking, while denying it facilitated his crimes.
     *   Source: [Source](https://www.cnbc.com/2026/03/27/jeffrey-epstein-bank-of-america-lawsuit-settle.html).
+*   **Mar 31, 2026**: **Front Office Sports: Goodell said NFL found no violation by Steve Tisch**.
+    *   Goodell said Tisch is no longer a Giants owner after moving his stake into his children's trusts and that the league found no personal-conduct violation; the Tisch siblings keep front-office roles.
+    *   Source: [Source](https://frontofficesports.com/article/goodell-tisch-is-no-longer-giants-owner-no-policy-violation/).
+*   **Apr 1, 2026**: **WOSU: Eleven Epstein survivors sued Les Wexner and the Wexner Foundation**.
+    *   The suit, filed in New York state court and later moved to federal court, alleges Wexner supplied the money and property Epstein used; Wexner denies wrongdoing.
+    *   Source: [Source](https://www.wosu.org/politics-government/2026-04-01/jeffrey-epstein-victims-sue-billionaire-les-wexner-over-claims-he-enabled-the-late-sex-offender).
 *   **Apr 2, 2026**: **CBS: Trump removed Pam Bondi as attorney general; Todd Blanche named acting AG**.
     *   Trump announced Bondi's ouster and installed Deputy Attorney General Todd Blanche as acting attorney general; reporting cited frustration that included her handling of the Epstein files.
     *   Source: [Source](https://www.cbsnews.com/news/trump-pam-bondi-attorney-general/).
@@ -560,6 +583,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **May 22, 2026**: **CNN: UK police said Andrew probe includes assessment of 2010 Windsor allegation**.
     *   Thames Valley Police said that alongside the misconduct investigation it is assessing reports a woman was taken to a Windsor address in 2010 for sexual purposes.
     *   Source: [Source](https://www.cnn.com/2026/05/22/uk/andrew-mountbatten-windsor-intl-hnk).
+*   **May 26, 2026**: **CNN: Epstein got VIP treatment at Mount Sinai, files show**.
+    *   DOJ records show house calls, expedited care for women connected to Epstein, and a 2013 pitch for an "Epstein Floor for Women"; Mount Sinai's board is reviewing its ties.
+    *   Source: [Source](https://www.cnn.com/2026/05/26/politics/jeffrey-epstein-mount-sinai-hospital).
 *   **May 28, 2026**: **CNN: Trump refiled $10 billion lawsuit against the Wall Street Journal**.
     *   Trump refiled his defamation suit over the Journal's reporting on a birthday letter bearing his name in Epstein's 50th-birthday book.
     *   Source: [Source](https://www.cnn.com/2026/05/28/politics/trump-refiles-lawsuit-wall-street-journal-epstein).
@@ -596,6 +622,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jun 23, 2026**: **House Oversight released Gates and Groff transcripts**.
     *   The committee published the transcripts of the June 9 Groff and June 10 Gates interviews.
     *   Source: [Source](https://oversight.house.gov/release/oversight-committee-releases-gates-and-groff-transcripts/).
+*   **Jun 24, 2026**: **American Banker: Survivor sued FirstBank Puerto Rico over Epstein accounts**.
+    *   A proposed class action says the bank kept 30-plus accounts for Epstein, his entities and associates from 1998 to 2020; First BanCorp denies the claims.
+    *   Source: [Source](https://www.americanbanker.com/news/epstein-victim-says-puerto-rico-bank-facilitated-his-crimes).
 *   **Jun 25, 2026**: **CBS: Judge Sullivan enjoined DOJ in Phang v. Blanche**.
     *   Judge Emmet Sullivan found DOJ had effectively conceded violating the Epstein Files Transparency Act and ordered it to unredact disputed records or justify each redaction by July 2.
     *   Source: [Source](https://www.cbsnews.com/news/judge-orders-doj-unredact-more-epstein-files-or-explain-why-blanche/).
@@ -638,6 +667,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jul 21, 2026**: **ABC: Comer called Alan Dershowitz's no-show "unacceptable"**.
     *   Dershowitz skipped his Jul 20 transcribed interview, citing an unspecified legal barrier; Comer requested a Sep 2 videotaped interview and threatened compulsory process.
     *   Source: [Source](https://abcnews.com/US/comer-calls-unacceptable-after-alan-dershowitz-fails-panel/story?id=134952381).
+*   **Jul 23, 2026**: **NBC4: Survivors' lawsuits against Les Wexner consolidated in federal court**.
+    *   A federal judge in Manhattan combined the late-March and late-June suits against Wexner and the Wexner Foundation.
+    *   Source: [Source](https://www.nbc4i.com/news/local-news/new-albany/epstein-survivors-lawsuits-against-les-wexner-combined-into-one-case/).
 *   **Jul 25, 2026**: **Forbes: Judge Sullivan ordered DOJ to submit 10 unredacted records for private review**.
     *   DOJ complied and acknowledged it had mistakenly redacted one of Epstein's own email addresses while defending most other redactions.
     *   Source: [Source](https://www.forbes.com/sites/alisondurkee/2026/07/27/could-more-epstein-files-be-released-soon-redacted-docs-will-be-reviewed-by-judge-this-week/).
@@ -647,15 +679,18 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jul 29, 2026**: **Axios: Senate unanimously opposed any pardon for Ghislaine Maxwell**.
     *   The Senate adopted S.Res.608 by unanimous consent, expressing that Maxwell should not receive clemency.
     *   Source: [Source](https://www.axios.com/2026/07/29/ghislaine-maxwell-jeffrey-epstein-senate-pardon).
+*   **Jul 31, 2026**: **St. Thomas Source: FirstBank moved to dismiss Epstein survivor's lawsuit**.
+    *   The bank filed a 33-page memorandum seeking dismissal before Judge Jed Rakoff.
+    *   Source: [Source](https://stthomassource.com/content/2026/07/31/firstbank-puerto-rico-moves-to-dismiss-epstein-victims-lawsuit/).
 *   **Aug 4, 2026**: **NPR: Wyden report said major banks looked the other way on Epstein**.
     *   The Senate Finance Democrats' report said JPMorgan, Bank of America and Deutsche Bank failed to timely report suspicious Epstein transactions and urged regulators to investigate.
     *   Source: [Source](https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats).
 *   **Aug 5, 2026**: **New Mexico sued DOJ as Truth Commission issued interim report**.
     *   New Mexico sued DOJ for access to unredacted Epstein investigative files, and the legislative Truth Commission released a 119-page interim report on Zorro Ranch.
     *   Source: [Source](https://nmdoj.gov/press-release/new-mexico-sues-doj-for-blocking-access-to-unredacted-epstein-investigative-files-in-zorro-ranch-criminal-probe/).
-*   **Aug 5, 2026**: **Reuters: UK Prime Minister Burnham considering a public inquiry into Epstein**.
-    *   A minister said new Prime Minister Andy Burnham was looking at a public inquiry into Epstein's activities in Britain.
-    *   Source: [Source](https://www.usnews.com/news/world/articles/2026-08-05/uk-pm-burnham-considering-inquiry-into-epstein-minister-says).
+*   **Aug 5, 2026**: **UPI: UK government ruled out an Epstein public inquiry for now**.
+    *   Victims Minister Alex Davies-Jones told BBC Newsnight that Prime Minister Andy Burnham was looking at an inquiry, but Downing Street said the same day it was not actively considering one.
+    *   Source: [Source](https://www.upi.com/Top_News/World-News/2026/08/05/Epstein-inquiry-ruled-out-for-now/1481785925123/).
 *   **Aug 8, 2026**: **NPR: Senate confirmed Todd Blanche as attorney general**.
     *   The Senate confirmed Blanche 50-49, with Republican Sens. Susan Collins and Lisa Murkowski voting no.
     *   Source: [Source](https://www.npr.org/2026/08/08/g-s1-137631/senate-confirms-todd-blanche-attorney-general).
@@ -671,12 +706,18 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Aug 18, 2026**: **Courthouse News: Magistrate judge recommended survivors' FBI negligence suit proceed**.
     *   Magistrate Judge Ryon McCabe recommended that the $320 million Federal Tort Claims Act suit move to 90 days of limited discovery on FBI policies.
     *   Source: [Source](https://www.courthousenews.com/epstein-victims-suit-against-fbi-poised-to-survive-dismissal-for-now/).
+*   **Aug 19, 2026**: **Bloomberg Law: Six women sued Epstein's estate and executors under NYC law**.
+    *   Christiansen v. Indyke, filed in New York state court under the city's reopened Gender-Motivated Violence Act window, alleges the executors enabled Epstein's abuse.
+    *   Source: [Source](https://news.bloomberglaw.com/litigation/epstein-victims-sue-estate-executors-in-ny-over-sexual-assaults).
 *   **Aug 22, 2026**: **PA: Met's Mandelson inquiry reported at risk without unredacted U.S. files**.
     *   Reports said Scotland Yard escalated its request to a formal mutual legal assistance request and feared the case could stall without DOJ records.
     *   Source: [Source](https://westernmorning.news/2026/08/22/fears-for-mandelson-investigation-as-met-still-doesnt-have-unredacted-epstein-files/).
 *   **Aug 25, 2026**: **Axios: Judge rejected Ghislaine Maxwell's bid to vacate her conviction**.
     *   Judge Paul Engelmayer's 67-page order called her pro se petition "demonstrably meritless" and based on "speculation, distortions, and/or outright falsehoods."
     *   Source: [Source](https://www.axios.com/2026/08/25/ghislaine-maxwells-bid-to-overturn-conviction-rejected).
+*   **Aug 25, 2026**: **New York Health Department said it is reviewing doctors linked to Epstein**.
+    *   The department called allegations about Epstein-connected physicians "deeply troubling" and declined to name anyone.
+    *   Source: [Source](https://ca.style.yahoo.com/doctors-connected-jeffrey-epstein-under-174500785.html).
 *   **Aug 26, 2026**: **House Oversight released Jes Staley interview transcript**.
     *   Staley said he shared confidential and market-sensitive JPMorgan information with Epstein, including Federal Reserve communications during the 2008 crisis.
     *   Source: [Source](https://oversight.house.gov/release/oversight-committee-releases-jes-staley-transcript/).
@@ -686,12 +727,27 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Aug 28, 2026**: **NPR: Norway's King Harald V died; Mette-Marit became queen**.
     *   Harald's death made Haakon king and Mette-Marit queen while her past Epstein contacts remained the subject of a parliamentary commission.
     *   Source: [Source](https://www.npr.org/2026/08/28/nx-s1-5947778/norways-king-harald-v-dies-king-haakon-viii).
+*   **Aug 31, 2026**: **The Hill: Massie named 14 alleged Epstein "co-conspirators" on the House floor**.
+    *   Massie said Staley, Black, Wexner, Copperfield, Lapo Elkann, Pritzker, Glenn Dubin, Fekkai, Eduardo Teodorani-Fabbri, Brunel, Siad, Ramsey Elkholy, Andrew Mountbatten-Windsor and Groff should be investigated; those who have responded deny wrongdoing.
+    *   Source: [Source](https://thehill.com/homenews/house/6062468-massie-names-epstein-coconspirators/).
 *   **Sep 1, 2026**: **Spectrum: Massie launched discharge petition for Epstein Files Transparency Act II**.
     *   Massie began gathering signatures to force a House floor vote on the follow-up bill.
     *   Source: [Source](https://spectrumnews1.com/ky/louisville/news/2026/09/01/massie-discharge-petition-epstein).
+*   **Sep 1, 2026**: **IBTimes: Survivors dropped their federal suit against Les Wexner without prejudice**.
+    *   The dismissal followed a fight over one plaintiff's residency and federal jurisdiction; the claims could be refiled.
+    *   Source: [Source](https://www.ibtimes.co.uk/epstein-survivors-withdraw-lawsuit-wexner-jurisdiction-dispute-1817375).
+*   **Sep 1, 2026**: **CNN: Seven women sued hairstylist Frederic Fekkai over alleged grooming for Epstein**.
+    *   The New York state suit alleges his salon styled young women to Epstein's instructions; Fekkai denies knowing of Epstein's crimes.
+    *   Source: [Source](https://www.cnn.com/2026/09/04/politics/frederic-fekkai-epstein-files-lawsuit).
 *   **Sep 3, 2026**: **NPR: Leon Black skipped subpoenaed deposition and sued House Oversight**.
     *   Black sued the committee and Chairman Comer, arguing the subpoenas for testimony and nondisclosure agreements exceeded its authority.
     *   Source: [Source](https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit).
+*   **Sep 3, 2026**: **Deadline: ABC Australia documentary "Diabolical: The Epstein Files" launched on HBO Max internationally**.
+    *   Warner Bros. Discovery acquired international rights to the 90-minute documentary, which aired in Australia in March.
+    *   Source: [Source](https://deadline.com/2026/08/hbo-max-diabolical-epstein-files-1237049645/).
+*   **Sep 5, 2026**: **ANSA: Rome prosecutors opened an Epstein sexual-violence inquiry and sought DOJ records**.
+    *   The file, against unknown persons and coordinated by prosecutor Maurizio Arcuri, follows a March complaint; prosecutors sent a letter rogatory to DOJ.
+    *   Source: [Source](https://www.ansa.it/sito/notizie/cronaca/2026/09/05/indagine-della-procura-di-roma-sugli-italiani-negli-epstein-files_144afa36-da50-4944-a016-c834cf475473.html).
 *   **Sep 9, 2026**: **Washington Post: European investigators said DOJ had not answered requests for help**.
     *   Officials in Poland, Norway and Latvia said mutual legal assistance requests had gone unanswered; DOJ said it has not refused to assist any jurisdiction.
     *   Source: [Source](https://www.washingtonpost.com/world/2026/09/09/europeans-investigating-epstein-say-doj-has-not-agreed-requests-help/).
@@ -719,6 +775,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Sep 16, 2026**: **MS NOW: Judge ordered DOJ to submit FBI notes from 'Jane Doe 4' interviews for private review**.
     *   Sullivan required handwritten notes from four 2019 interviews of a woman whose allegations against Trump are unverified by 11 a.m. Sept. 24 and declined to stay the order.
     *   Source: [Source](https://www.ms.now/news/judge-rules-todd-blanche-must-turn-over-notes-from-fbi-interview-with-trump-accuser).
+*   **Sep 16, 2026**: **Reuters: Survivors sued Epstein's estate over his child sexual abuse image collection**.
+    *   The proposed class action seeks at least $6 million for 40-plus people and a program with NCMEC to identify and notify others pictured.
+    *   Source: [Source](https://www.usnews.com/news/us/articles/2026-09-16/epstein-survivors-sue-his-estate-over-child-pornography-collection).
 *   **Sep 17, 2026**: **Axios: DOJ appealed Judge Sullivan's order as he warned of contempt**.
     *   DOJ filed a notice of appeal; a spokesperson said leadership was "not 'concerned'" about the case.
     *   Source: [Source](https://www.axios.com/2026/09/17/epstein-files-doj-contempt-judge-blanche).

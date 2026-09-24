@@ -23,3 +23,7 @@ How did Epstein convince parents (and the girls themselves) that this was a job?
 
 ## Significance
 This veneer of "Health & Wellness" allowed him to operate in plain sight. It gave his recruiters a script: *"He's a rich guy who needs massages for his back pain. It pays $200."*
+
+## See Also
+
+- [The Medical Network (2026)](The_Medical_Network_2026.md) - 2026 reviews of Epstein-linked doctors

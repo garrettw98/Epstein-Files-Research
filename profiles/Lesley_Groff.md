@@ -38,6 +38,7 @@ Attorney **Michael Bachner**, representing Groff, stated:
 - **Jun 9, 2026**: About eight hours of House Oversight questioning. Groff, who worked for Epstein from 2001 until his July 2019 arrest, said she was kept "on the outside of his perverted life" and "would never have sat silent if I knew of his crimes." Transcript released Jun 23. [CNBC](https://www.cnbc.com/2026/06/09/epstein-lesley-groff-house-oversight-committee.html), [ABC](https://abcnews.com/US/former-epstein-secretary-lesley-groff-denies-awareness-boss/story?id=133925464), [Transcript PDF](https://oversight.house.gov/wp-content/uploads/2026/06/Lesley-Groff-Transcript.pdf)
 - **Jul 9, 2026**: Epstein survivors told CNN that Groff lied to Congress about key details. [CNN](https://www.cnn.com/2026/07/09/politics/lesley-groff-jeffrey-epstein-survivors)
 - **Jul 10, 2026**: A February 2010 Groff email about scheduling Epstein's evenings with Mandelson, Jes Staley, and Jamie Dimon was cited in Sen. Warren's letter to Dimon.
+- **Aug 31, 2026**: Named last on Rep. Massie's House-floor list of 14. Her lawyer has said she was told she would not be prosecuted. See [The Massie Floor Speech](../topics/The_Massie_Floor_Speech_Aug_2026.md).
 - **Status**: Not charged. Her lawyer has said she was told she was not being prosecuted.
 
 ## See Also

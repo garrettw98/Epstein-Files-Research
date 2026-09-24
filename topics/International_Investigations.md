@@ -218,6 +218,16 @@ Brazil's significance in this repository is not that a formal Brazilian state in
 
 That makes Brazil important to the repo's international narrative even without a March government announcement there.
 
+## Italy (2026)
+
+### Complaint and Investigation
+- **Mar 26, 2026**: The women's-rights group Differenza Donna (through its national network of anti-violence centers) filed a complaint asking Rome prosecutors to investigate possible transnational trafficking, sexual violence, and sexual exploitation of women, girls, and minors linked to the DOJ release. It pointed to recurring Italian names and to stays and contacts in Capri, the Amalfi Coast, Costa Smeralda, Milan, and Rome.
+- **Sep 5, 2026**: ANSA reported that the Rome prosecutor's office had opened a file **against unknown persons** for sexual violence, coordinated by assistant prosecutor Maurizio Arcuri, and had sent a **letter rogatory to the U.S. Department of Justice** seeking documents, including records not yet public. [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/09/05/indagine-della-procura-di-roma-sugli-italiani-negli-epstein-files_144afa36-da50-4944-a016-c834cf475473.html), [Il Tempo](https://www.iltempo.it/attualita/2026/09/05/news/procura-roma-inchiesta-epstein-files-violenza-sessuale-rogatoria-usa-atti-secretati-49051708/)
+
+### Named Italians
+- Rep. Thomas Massie's Aug 31 list included Fiat heir **Lapo Elkann** and Agnelli relative **Eduardo Teodorani-Fabbri**. Elkann says he met Epstein twice, in public, and called the allegations baseless. No public statement from Teodorani-Fabbri was located. Neither has been charged. See [The Massie Floor Speech](The_Massie_Floor_Speech_Aug_2026.md).
+- Former MEP-name match **Nicola Caputo** was read on the House floor on Feb 10; his identity in the file is not confirmed. See [Nicola Caputo](../profiles/Nicola_Caputo.md).
+
 ## European Union Impact
 
 ### Pattern Recognition
@@ -360,12 +370,13 @@ Global scrutiny means:
 
 | Country | Development since Mar 17 | Status | Key source |
 | :--- | :--- | :--- | :--- |
-| **United Kingdom** | Andrew (arrested Feb 19) and Mandelson (arrested Feb 23) remain under investigation; Mandelson failed-vetting report (Apr 16); **Starmer resigned** (Jun 22); PM Burnham considering a public inquiry (Aug 5); Met's Mandelson case reportedly stalled without U.S. files (Aug 22) | Investigations open; no charges | [The UK Reckoning](The_UK_Reckoning_2026.md) |
+| **United Kingdom** | Andrew (arrested Feb 19) and Mandelson (arrested Feb 23) remain under investigation; Mandelson failed-vetting report (Apr 16); **Starmer resigned** (Jun 22); a minister said PM Burnham was looking at a public inquiry, but Downing Street said the same day it was not actively considering one (Aug 4-5); Met's Mandelson case reportedly stalled without U.S. files (Aug 22) | Investigations open; no charges | [The UK Reckoning](The_UK_Reckoning_2026.md) |
 | **Norway** | Storting appointed commission of inquiry (Apr 15; first met May 5); Mette-Marit became queen (Aug 28); Rød-Larsen apology (Sep 23); hearings scheduled Sep 30 - Oct 1 | Jagland and Juul charged; Rød-Larsen charged with complicity; Norway-France joint investigation team (Apr 27) | [The Norway Scandal](The_Norway_Scandal.md) |
 | **France** | 15 women urged a Gérald Marie probe (Mar 20); ~10 new alleged victims (May 17); **Daniel Siad found dead** (Jul 20); 26 alleged victims and new recruiter names (Sep 10) | Investigation expanding | [The French Connection](The_French_Connection.md) |
 | **Poland** | "Investigation Team No. 5" preliminary inquiry (Mar 12); National Prosecutor's Office probing trafficking 2009-2019; waiting since April for U.S. response | Awaiting U.S. records | [Notes From Poland](https://notesfrompoland.com/2026/03/12/polish-prosecutors-investigate-alleged-human-trafficking-by-epstein-linked-group/) |
 | **Lithuania** | Preparing formal U.S. legal-assistance request (Apr 2) | Preliminary proceeding | [Reuters via US News](https://www.usnews.com/news/world/articles/2026-04-02/lithuania-to-seek-us-help-in-epstein-linked-trafficking-probe) |
 | **Latvia** | Several U.S. requests reported unanswered | Trafficking investigation open | [Washington Post](https://www.washingtonpost.com/world/2026/09/09/europeans-investigating-epstein-say-doj-has-not-agreed-requests-help/) |
+| **Italy** | Differenza Donna complaint (Mar 26); Rome prosecutors opened a sexual-violence file against unknown persons and sent a letter rogatory to DOJ (reported Sep 5); Elkann and Teodorani-Fabbri named by Massie (Aug 31) | Investigation open; no suspects publicly named | [ANSA](https://www.ansa.it/sito/notizie/cronaca/2026/09/05/indagine-della-procura-di-roma-sugli-italiani-negli-epstein-files_144afa36-da50-4944-a016-c834cf475473.html) |
 | **India** | The Foreign Ministry dismissed Epstein's emails mentioning PM Narendra Modi's 2017 Israel visit as "trashy ruminations by a convicted criminal" (Jan 31-Feb 1); opposition leader Rahul Gandhi raised Union Minister Hardeep Singh Puri's contacts with Epstein and businessman Anil Ambani's appearance in the files in Parliament (Feb 11); Puri said he met Epstein "three or four times" as a private citizen and called the allegations "buffoonery"; Bill Gates withdrew from a New Delhi AI summit keynote (Feb 19) | No investigation reported | [Al Jazeera](https://www.aljazeera.com/news/2026/2/2/modi-to-kevin-rudd-how-epstein-files-set-off-a-storm-far-beyond-the-us), [The Wire](https://m.thewire.in/article/diplomacy/union-minister-hardeep-singh-puri-and-his-many-explanations-over-epstein-link), [NBC](https://www.nbcnews.com/world/asia/bill-gates-india-ai-summit-epstein-rcna259865) |
 
 ### The U.S. Evidence Bottleneck
@@ -384,9 +395,10 @@ On **Sep 9, 2026**, the Washington Post reported that law-enforcement officials 
 | Apr 27, 2026 | Norway/France | Joint investigation team formed for the Juul/Rød-Larsen case |
 | Jun 22, 2026 | UK | Starmer announced resignation |
 | Jul 20, 2026 | France | Daniel Siad found dead |
-| Aug 5, 2026 | UK | Burnham considering public inquiry |
+| Aug 5, 2026 | UK | Downing Street says it is not actively considering a public inquiry, after the victims minister suggested one |
 | Aug 28, 2026 | Norway | Mette-Marit became queen |
 | Sep 9, 2026 | Multiple | European MLA requests reported unanswered |
+| Sep 5, 2026 | Italy | Rome prosecutors' sexual-violence file and letter rogatory to DOJ reported |
 | Sep 10, 2026 | France | Paris prosecutor: 26 alleged victims |
 | Sep 23, 2026 | Norway | Rød-Larsen apology in NRK documentary |
 

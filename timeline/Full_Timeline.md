@@ -10,7 +10,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 <!-- LAST24H_TIMELINE:START -->
 ## Last 24 Hours Snapshot (Auto-generated)
-- Window: Sep 23, 2026 22:17 UTC to Sep 24, 2026 22:17 UTC.
+- Window: Sep 23, 2026 22:32 UTC to Sep 24, 2026 22:32 UTC.
 - Monitored updates: 0 links across 0 domains.
 - Primary-doc changes: added 0, removed 0, changed 0.
 - Claim review pressure: p1=0, p2=0, p3=0 open.
@@ -270,7 +270,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **2026 (May 26)**: CNN details Epstein's VIP treatment at **Mount Sinai**, whose board is reviewing its ties.
 *   **2026 (Jun 4)**: Comer asks DOJ to investigate **Kellen's allegations** against Philip Levine and Frederic Fekkai (both deny them).
 *   **2026 (Jun 10-12)**: Comer says he will seek interviews with **Alan Dershowitz** and acting AG Blanche; formally requests Dershowitz's testimony.
-*   **2026 (Jun 10)**: Excerpts of Haberman and Swan's *Regime Change* report White House Situation Room meetings on the Epstein files.
+*   **2026 (Jun 10)**: Excerpts of Haberman and Swan's *Regime Change* report July 2025 White House Situation Room meetings on the Epstein files, including Vance's suggestion that Tucker Carlson interview Maxwell.
 *   **2026 (Jun 12)**: House Democrats challenge a new **BOP policy** letting the attorney general decide where prisoners are held, saying it retroactively covers Maxwell's transfer.
 *   **2026 (Jun 17)**: House Judiciary Democrats extend their **university inquiry** to Harvard and Bard.
 *   **2026 (Jun 22)**: **Keir Starmer announces his resignation** amid the Mandelson fallout; Andy Burnham becomes PM on Jul 20.
@@ -315,12 +315,18 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 8, 2026**: **AP review: no DOJ "client list" finding**.
     *   AP reported internal FBI/DOJ review material says investigators did not find evidence Epstein kept a blackmail "client list" or a trafficking ring serving powerful men.
     *   Source: [Source](https://apnews.com/article/049c96080a2ca2c12c84ac506437e50b).
+*   **Feb 8, 2026**: **CNN: UK prime minister's chief of staff Morgan McSweeney resigned over Mandelson**.
+    *   McSweeney took full responsibility for advising Starmer to appoint Mandelson as ambassador despite his Epstein ties.
+    *   Source: [Source](https://www.cnn.com/2026/02/08/uk/morgan-mcsweeney-resigns-mandelson-epstein-intl).
 *   **Feb 9, 2026**: **Congressional access to unredacted files opened**.
     *   DOJ began allowing members of Congress to review unredacted Epstein files in a secure room with advance notice.
     *   Source: [Source](https://apnews.com/article/5219f89459e80a141b84e1aa2551b0d2).
 *   **Feb 9, 2026**: **Maxwell deposition and clemency request**.
     *   AP reported Maxwell invoked the Fifth Amendment in a House deposition and later sought clemency before withdrawing the request.
     *   Source: [Source](https://apnews.com/article/f1e947bb9128aaa626390f0987f322e9).
+*   **Feb 10, 2026**: **Correio Braziliense: Brazil's federal prosecutors opened a confidential Epstein recruitment inquiry**.
+    *   The MPF's international human-trafficking unit opened the procedure after BBC News Brasil reporting, starting from a 2010 email about bringing a young woman from Natal to the U.S.; no public result as of Sep 24.
+    *   Source: [Source](https://www.correiobraziliense.com.br/mundo/2026/02/7353387-mpf-abre-investigacao-sobre-rede-de-aliciamento-de-mulheres-para-epstein-no-brasil-apos-reportagem-da-bbc-participacao-das-vitimas-e-fundamental.html).
 *   **Feb 11, 2026**: **Bondi testimony held before House Judiciary**.
     *   Bondi testified for over five hours and faced bipartisan criticism over unanswered questions about releases and redactions.
     *   Source: [Source](https://apnews.com/article/6d7502b80e42e9e9454264e242507bbd).
@@ -396,6 +402,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 24, 2026**: **NBC: Nobel laureate Richard Axel stepped down as co-director of Columbia's Zuckerman Institute**.
     *   Axel called his past association with Epstein "a serious error in judgment" and resigned as an HHMI investigator; Columbia said he broke no university policy or law.
     *   Source: [Source](https://www.nbcnews.com/news/us-news/columbia-brain-institute-co-director-nobel-laureate-steps-epstein-ties-rcna260585).
+*   **Feb 24, 2026**: **Washington Post: Epstein survivors attended the State of the Union as Democrats' guests**.
+    *   Guests included survivors Marina Lacerda, Haley Robson, Teresa Helm and Jess Michaels, Annie Farmer, and Virginia Giuffre's brother and sister-in-law.
+    *   Source: [Source](https://www.washingtonpost.com/politics/2026/02/24/epstein-accusers-state-of-the-union/).
 *   **Feb 25, 2026**: **AP: Larry Summers to resign from Harvard amid Epstein-ties review**.
     *   AP reported Harvard said Larry Summers would resign during a review focused on his past Epstein ties.
     *   Source: [Source](https://apnews.com/video/larry-summers-to-resign-from-harvard-university-amid-review-of-his-epstein-ties-c61a4621aa9b4f9d8b48a8e2da543cec).
@@ -579,12 +588,18 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **May 1, 2026**: **NPR: Bard College president Leon Botstein to retire after review of Epstein ties**.
     *   A WilmerHale review found about 25 visits to Epstein's townhouse and a two-day island visit between 2012 and 2019; it found nothing illegal but said his decisions reflect on his leadership.
     *   Source: [Source](https://www.npr.org/2026/05/02/nx-s1-5808942/bard-college-president-leon-botstein-retire-jeffrey-epstein).
+*   **May 1, 2026**: **Harvard Crimson: Harvard Medical School gave Epstein a $75 million donor rating in 2012**.
+    *   Harvard's development records also show it mailed him personalized endowment updates from 2009 to 2018; neither appeared in the university's 2020 review, and Harvard declined to comment.
+    *   Source: [Source](https://www.thecrimson.com/article/2026/5/1/epstein-harvard-hms-rating/).
 *   **May 6, 2026**: **NPR: Howard Lutnick questioned by House Oversight on Epstein ties**.
     *   The Commerce secretary called his interactions with Epstein "meaningless and inconsequential"; Democrats accused him of evasive and misleading testimony and later called for his resignation.
     *   Source: [Source](https://www.npr.org/2026/05/06/nx-s1-5814081/howard-lutnick-epstein-files-house-oversight-committee).
 *   **May 6, 2026**: **Reuters: Judge released purported Epstein note found by former cellmate**.
     *   U.S. District Judge Kenneth Karas unsealed a note Nicholas Tartaglione says he found in July 2019; the court did not vouch for its authenticity or chain of custody.
     *   Source: [Source](https://www.usnews.com/news/us/articles/2026-05-06/new-york-judge-releases-purported-epstein-suicide-note).
+*   **May 8, 2026**: **The Art Newspaper: Epstein files reading room opened in New York**.
+    *   The Institute for Primary Facts displayed all 3,437 bound volumes of released files in Tribeca; nearly 10,000 people visited before it moved to Washington in June.
+    *   Source: [Source](https://www.theartnewspaper.com/2026/05/13/a-reading-room-for-the-epstein-files-opens-in-new-york).
 *   **May 11, 2026**: **Publishers Weekly: Giuffre memoir won British Book Awards Book of the Year**.
     *   Virginia Giuffre's posthumous memoir Nobody's Girl, co-written with Amy Wallace, was named overall Book of the Year at the 2026 British Book Awards.
     *   Source: [Source](https://www.publishersweekly.com/pw/by-topic/industry-news/awards-and-prizes/article/100385-british-books-awards-honor-giuffre-wynn-williams.html).
@@ -646,7 +661,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   After the Groff interview and a meeting with survivors, Comer said he would ask Dershowitz to come in; Dershowitz said he wanted to testify publicly and under oath.
     *   Source: [Source](https://thehill.com/homenews/house/5918269-comer-dershowitz-blanche-interviews-epstein/).
 *   **Jun 10, 2026**: **Axios: Book reported White House Situation Room meetings on the Epstein files**.
-    *   Haberman and Swan's "Regime Change" reported aides held damage-control meetings and that Vance proposed a Tucker Carlson interview of Ghislaine Maxwell.
+    *   Haberman and Swan's "Regime Change" reported that aides held damage-control meetings in July 2025 and that Vance proposed a Tucker Carlson interview of Ghislaine Maxwell before Todd Blanche interviewed her.
     *   Source: [Source](https://www.axios.com/2026/06/10/trump-epstein-files-regime-change-book-swan-haberman).
 *   **Jun 12, 2026**: **House Democrats challenged a new prison policy tied to Maxwell's transfer**.
     *   Reps. Raskin, Ross and Khanna said a newly published BOP rule letting the attorney general designate a prisoner's placement retroactively covers Maxwell's move.
@@ -714,12 +729,18 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jul 21, 2026**: **ABC: Comer called Alan Dershowitz's no-show "unacceptable"**.
     *   Dershowitz skipped his Jul 20 transcribed interview, citing an unspecified legal barrier; Comer requested a Sep 2 videotaped interview and threatened compulsory process.
     *   Source: [Source](https://abcnews.com/US/comer-calls-unacceptable-after-alan-dershowitz-fails-panel/story?id=134952381).
+*   **Jul 21, 2026**: **Courthouse News: Melania Trump moved for sanctions against Michael Wolff**.
+    *   After Judge Vyskocil dismissed Wolff's preemptive suit and cautioned against a sanctions motion, the first lady sought fees and costs; no ruling located as of Sep 24.
+    *   Source: [Source](https://www.courthousenews.com/melania-trump-files-for-sanctions-against-journalist-michael-wolff/).
 *   **Jul 23, 2026**: **NBC4: Survivors' lawsuits against Les Wexner consolidated in federal court**.
     *   A federal judge in Manhattan combined the late-March and late-June suits against Wexner and the Wexner Foundation.
     *   Source: [Source](https://www.nbc4i.com/news/local-news/new-albany/epstein-survivors-lawsuits-against-les-wexner-combined-into-one-case/).
 *   **Jul 23, 2026**: **Bloomberg: JPMorgan reiterated that Jamie Dimon never met Epstein**.
     *   Responding to Sen. Warren, the bank said Dimon never met or emailed Epstein and was not involved in decisions to keep him as a client.
     *   Source: [Source](https://www.bloomberg.com/news/articles/2026-07-23/jpmorgan-reiterates-that-dimon-never-met-epstein-in-new-letter).
+*   **Jul 23, 2026**: **Harvard Crimson: 156 Harvard affiliates called for an independent Epstein investigation**.
+    *   The open letter asked for a probe of gaps in Harvard's 2020 report and consequences for anyone who helped legitimize Epstein after 2008; free-speech advocates at Harvard objected on Jul 30.
+    *   Source: [Source](https://www.thecrimson.com/article/2026/7/23/harvard-epstein-open-letter/).
 *   **Jul 24, 2026**: **Bloomberg: Epstein's staff booked more than 3,700 commercial flights from 2009 to 2019**.
     *   An analysis of Skype messages and flight records in the DOJ release found no identifiable passenger name in more than 1,700 bookings.
     *   Source: [Source](https://www.bloomberg.com/graphics/2026-jeffrey-epstein-trafficking/).
@@ -798,6 +819,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Sep 1, 2026**: **CNN: Seven women sued hairstylist Frederic Fekkai over alleged grooming for Epstein**.
     *   The New York state suit alleges his salon styled young women to Epstein's instructions; Fekkai denies knowing of Epstein's crimes.
     *   Source: [Source](https://www.cnn.com/2026/09/04/politics/frederic-fekkai-epstein-files-lawsuit).
+*   **Sep 1, 2026**: **WOSU: Les Wexner said he will step down as chair of Ohio State's medical center board**.
+    *   At his first board meeting since May 2025, Wexner apologized for missing meetings and said he would remain a member; Ohio State is still weighing 500-plus requests to remove his name from buildings.
+    *   Source: [Source](https://www.wosu.org/politics-government/2026-09-01/les-wexner-attends-ohio-state-medical-center-board-meeting-for-the-first-time-in-more-than-a-year).
 *   **Sep 3, 2026**: **NPR: Leon Black skipped subpoenaed deposition and sued House Oversight**.
     *   Black sued the committee and Chairman Comer, arguing the subpoenas for testimony and nondisclosure agreements exceeded its authority.
     *   Source: [Source](https://www.npr.org/2026/09/03/nx-s1-5955643/leon-black-jeffrey-epstein-lawsuit).
@@ -859,6 +883,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   Investigators have interviewed potential witnesses, including survivors, and sought emails and checks, with interest in entities such as the Florida Science Foundation; Indyke and Kahn deny wrongdoing.
     *   Source: [Source](https://www.cnn.com/2026/09/24/politics/epstein-advisers-investigation-indyke-kahn).
 <!-- LIVE_TIMELINE:END -->
+
 
 
 

@@ -161,6 +161,7 @@ Reps. **Thomas Massie** and **Ro Khanna** discovered six men whose names were re
 *   **[Maurene Comey](Maurene_Comey.md)** - Former SDNY prosecutor on the Epstein and Maxwell cases; fired July 2025; wrongful-termination suit allowed to proceed (Apr 28, 2026).
 *   **[Jay Clayton](Jay_Clayton.md)** - SDNY U.S. attorney who led the Trump-requested Epstein probe of Democrats (Nov 2025); Director of National Intelligence since Aug 3, 2026.
 *   **[Frédéric Fekkai](Frederic_Fekkai.md)** - Hairstylist; accused in Sarah Kellen's House testimony and in a Sep 2026 civil suit; named on Massie's Aug 31 list; denies all allegations.
+*   **[Melania Trump](Melania_Trump.md)** - First lady; denies any Epstein ties (Apr 9, 2026 statement); won dismissal of Michael Wolff's preemptive suit (May 22) and moved for sanctions against him (Jul 21).
 
 ## ⚪ Viral Names (Context Needed)
 *   **[Stephen Hawking](Viral_Names.md#stephen-hawking-the-orgy-email)** - Defended by Epstein in emails.

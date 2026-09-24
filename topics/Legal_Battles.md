@@ -54,11 +54,11 @@ For the survivor-driven cases in context, see [The Survivor Litigation Wave (202
 | Estate class settlement (Indyke/Kahn) | S.D.N.Y., Judge Subramanian | Preliminary approval Mar 3; final hearing Sep 16 |
 | Bank of America class settlement | S.D.N.Y., Judge Rakoff | **Final approval** Aug 27 ($72.5M) |
 | Black v. House Oversight | D.D.C. | Pending |
-| Trump v. Dow Jones / WSJ (birthday letter) | S.D. Fla. | Dismissed Apr 13; refiled May 28 |
+| Trump v. Dow Jones / WSJ (birthday letter) | S.D. Fla., Judge Gayles | Dismissed Apr 13; refiled May 28; WSJ moved to dismiss again (June); no ruling located |
 | Apollo securities class actions (*Feldman*, *Perez*) | S.D.N.Y. | Filed Mar 2 and Apr 29; consolidated; lead-plaintiff motions pending |
 | New Mexico v. DOJ (records) | Federal court | Filed Aug 2026 |
 | Tartaglione note unsealing | S.D.N.Y., Judge Karas | Released May 6 |
-| *Wolff v. Trump* (author Michael Wolff's preemptive suit against Melania Trump over threatened defamation claim) | S.D.N.Y., Judge Vyskocil | Dismissed May 22 as "bad-faith forum shopping" |
+| *Wolff v. Trump* (author Michael Wolff's preemptive suit against Melania Trump over threatened defamation claim) | S.D.N.Y., Judge Vyskocil | Dismissed May 22 as "bad-faith forum shopping"; Melania Trump moved for sanctions Jul 21 (briefing closed Aug 28); no ruling located |
 | Maurene Comey wrongful-termination suit (fired Epstein/Maxwell prosecutor) | S.D.N.Y., Judge Furman | Apr 28: may proceed in federal court; merits pending |
 | Survivors v. DOJ and Google (privacy; proposed class action) | N.D. Cal. | Filed Mar 26; alleges the releases exposed about 100 survivors' names, contact details, and photos; seeks at least $1,000 per class member from the government |
 | Survivors v. United States (FBI negligence, FTCA; about $320M) | S.D. Fla. | Magistrate Judge Ryon McCabe recommended Aug 18 that the claims proceed to 90 days of limited discovery; district judge's ruling pending |

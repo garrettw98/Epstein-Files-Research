@@ -2,9 +2,9 @@
 
 > **Status**: **DISCHARGE PETITION COMPLETE, AWAITING FLOOR VOTE** (Evidence Level: ● PRIMARY LEGISLATIVE RECORD)
 > **House sponsors**: Rep. Thomas Massie (R-KY), Rep. Ro Khanna (D-CA), Rep. Teresa Leger Fernández (D-NM)
-> **Senate sponsors**: Sen. Jeff Merkley (D-OR), Sen. Ben Ray Luján (D-NM)
+> **Senate sponsors**: Sen. Jeff Merkley (D-OR), Sen. Ben Ray Luján (D-NM) — **S. 5005**, referred to the Senate Judiciary Committee; no committee action located as of Sep 24
 > **Introduced**: July 15, 2026
-> **Last updated**: Sep 23, 2026
+> **Last updated**: Sep 24, 2026
 
 ## Purpose
 
@@ -22,7 +22,7 @@ Text: [Congress.gov H.R. 9694](https://www.congress.gov/bill/119th-congress/hous
 
 | Date | Event | Source |
 | :--- | :--- | :--- |
-| Jul 15, 2026 | Bill introduced in the House and Senate | [Spectrum News](https://spectrumnews1.com/ky/louisville/news/2026/07/16/massie-epstein-files-bill) |
+| Jul 15, 2026 | Bill introduced in the House (H.R. 9694) and Senate (S. 5005, Merkley for himself and Luján; read twice and referred to Judiciary) | [Spectrum News](https://spectrumnews1.com/ky/louisville/news/2026/07/16/massie-epstein-files-bill), [GovInfo S. 5005](https://www.govinfo.gov/app/details/BILLS-119s5005is), [Luján release](https://www.lujan.senate.gov/newsroom/press-releases/lujan-merkley-massie-khanna-leger-fernandez-introduce-the-epstein-files-transparency-act-ii/) |
 | Aug 31, 2026 | In a House floor speech, Massie names 14 people he says should be investigated as Epstein "co-conspirators" and announces the discharge petition (see [The Massie Floor Speech](The_Massie_Floor_Speech_Aug_2026.md)) | [The Hill](https://thehill.com/homenews/house/6062468-massie-names-epstein-coconspirators/) |
 | Sep 1, 2026 | Massie files a discharge petition to force a floor vote | [Spectrum News](https://spectrumnews1.com/ky/louisville/news/2026/09/01/massie-discharge-petition-epstein) |
 | Sep 3, 2026 | House leaders cancel session weeks of Sep 21 and Sep 28 | [Washington Times](https://www.washingtontimes.com/news/2026/sep/3/house-cancels-two-upcoming-weeks-washington-extending-pre-midterm/) |

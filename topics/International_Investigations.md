@@ -1,8 +1,8 @@
 # International Investigations (2026)
 
 > **Status**: **ONGOING**
-> **Countries**: Poland, Lithuania, Latvia, Turkey, Slovakia, United Kingdom, Norway, France (criminal probe; 26 alleged victims as of Sep 10, 2026), Sweden, Brazil
-> **Last updated**: Sep 23, 2026 — see the "2026 Update (Mar 17 - Sep 23)" section below
+> **Countries**: Poland, Lithuania, Latvia, Turkey, Slovakia, United Kingdom, Norway, France (criminal probe; 26 alleged victims as of Sep 10, 2026), Sweden, Brazil (federal prosecutors' inquiry), Italy, Czech Republic, Ukraine, Mexico (declined to open a probe)
+> **Last updated**: Sep 24, 2026 — see the "2026 Update (Mar 17 - Sep 23)" section below
 > **Trigger**: January 2026 DOJ Document Release
 
 ## Summary
@@ -209,14 +209,21 @@ Reuters reported French investigators searched the **Arab World Institute** and 
 
 On March 12, 2026, BBC reported that Brazilian women described being drawn into Epstein's network through modeling-linked recruitment and visa arrangements associated with Jean-Luc Brunel.
 
+### Federal Prosecutors' Inquiry (Feb 10, 2026)
+
+- On **Feb 10, 2026**, after BBC News Brasil reporting, Brazil's Federal Public Prosecutor's Office (MPF) opened a **confidential procedure** in its national unit on international human trafficking and migrant smuggling to examine whether Brazilian women were recruited for Epstein and whether recruitment networks operated in the country.
+- The complaint that started it concerned a 2010 email exchange about bringing a young woman from Natal, described as from a "simple family," to the United States. Prosecutor Cinthia Gabriela Borges said the MPF would review every situation in which Brazilian women may have been recruited, and that "the participation of the victims is fundamental."
+- The MPF said it would keep reviewing the U.S. releases for other Brazilian names. No public result, charge, or request to the U.S. had been reported as of Sep 24, 2026.
+- Sources: [Correio Braziliense](https://www.correiobraziliense.com.br/mundo/2026/02/7353387-mpf-abre-investigacao-sobre-rede-de-aliciamento-de-mulheres-para-epstein-no-brasil-apos-reportagem-da-bbc-participacao-das-vitimas-e-fundamental.html), [Gazeta do Povo](https://www.gazetadopovo.com.br/republica/mpf-investiga-possivel-atuacao-de-jeffrey-epstein-no-brasil/)
+
 ### Why Brazil Matters
 
-Brazil's significance in this repository is not that a formal Brazilian state investigation was newly announced. It is that the reporting adds operational detail to the international trafficking model:
+Beyond the MPF inquiry, the reporting adds operational detail to the international trafficking model:
 - recruitment could be framed as fashion or modeling opportunity,
 - movement to the United States could be normalized through paperwork and intermediaries,
 - and Brunel's role functioned as a bridge between aspiration, migration, and exploitation.
 
-That makes Brazil important to the repo's international narrative even without a March government announcement there.
+That is why Brazil matters to the international picture even though the MPF inquiry has produced no public result.
 
 ## Italy (2026)
 
@@ -267,7 +274,11 @@ By March 2026, the picture broadened further: the BBC reporting from Brazil sugg
 
 - March 12 BBC reporting added firsthand accounts from Brazilian women describing modeling-linked recruitment into Epstein's orbit.
 - This strengthens the repo's broader account of fashion-industry and visa-channel exploitation.
-- No separate March 2026 formal Brazilian state investigation is tracked in current repository sources.
+- Federal prosecutors (MPF) opened a confidential trafficking inquiry on Feb 10, 2026; no public result as of Sep 24. See [Federal Prosecutors' Inquiry](#federal-prosecutors-inquiry-feb-10-2026) above.
+
+### Mexico
+
+- Asked on Feb 4, 2026 whether Mexico would investigate Mexicans named in the files, President Claudia Sheinbaum said: "The investigation has to be opened in the United States." She said Mexico would cooperate if the U.S. Justice Department asked. No Mexican investigation had been announced as of Sep 24. [Mexico News Daily](https://mexiconewsdaily.com/news/epstein-files-mexico-ambassador/), [Diário Carioca](https://diariocarioca.com/en/2026/02/04/world/mexico-will-collaborate-in-the-epstein-investigation-if-requested-by-the-u-s-sheinbaum.html)
 
 ### China
 
@@ -291,6 +302,14 @@ Russia occupies a unique position:
 ### Sanctioned Banks
 
 Senator Wyden revealed Russian banks **"now under sanctions"** processed Epstein-related transfers.
+
+### What the 2026 Files Show (and Don't)
+
+- **Scale**: Russia appears thousands of times in the released pages (France 24 counted 5,553 mentions). Reporting in February described Epstein's repeated efforts to reach Russia's political elite and to arrange a meeting with Vladimir Putin; separately, he asked [Thorbjørn Jagland](../profiles/Thorbjorn_Jagland.md) to help set up a meeting with Foreign Minister Sergey Lavrov. The documents contain no evidence that he ever met Putin. [Washington Post](https://www.washingtonpost.com/world/2026/02/06/epstein-files-russia-putin/), [France 24](https://www.france24.com/en/americas/20260217-putin-women-doj-files-reveal-jeffrey-epstein-build-russian-ties)
+- **The Belyakov emails (July 2015)**: Epstein asked Sergei Belyakov, a former Russian deputy minister of economic development and a graduate of the FSB Academy, for "a favour": information on a Russian woman he said was trying to blackmail his business associates. Belyakov sent back a short description of her background and suggested that being denied U.S. entry would be a "real threat" to her. This repo does not name the woman. [Al Jazeera](https://www.aljazeera.com/economy/2026/2/12/epstein-sought-help-of-ex-russian-official-linked-to-fsb-files-show), [News24](https://www.news24.com/world/jeffrey-epstein-wanted-russian-help-with-woman-blackmailing-powerful-businessmen-20260212-0441)
+- **Kremlin response (Feb 2026)**: Asked whether Epstein worked for Russian intelligence, spokesman Dmitry Peskov said, "I'm tempted to make a lot of jokes about that version, but let's not waste our time," and said the Kremlin never received a request from Epstein to meet Putin. [Malay Mail](https://www.malaymail.com/news/world/2026/02/05/epstein-as-kremlin-spy-moscow-laughs-off-theory-says-putin-never-crossed-paths-with-disgraced-financier/208186)
+- **Assessment**: A Euronews review (Mar 3) found the files document Russian contacts but do not show that Epstein worked for Russian or any other intelligence service. That remains **unproven**. See [Intelligence](Intelligence.md). [Euronews](https://www.euronews.com/2026/03/03/do-the-epstein-files-show-he-was-working-for-russia-or-another-intelligence-agency), [Moscow Times](https://www.themoscowtimes.com/2026/02/06/what-the-epstein-files-tell-us-and-dont-tell-us-about-his-ties-to-russia-a91883)
+- No Russian investigation had been announced as of Sep 24, 2026.
 
 ## International Coordination
 
@@ -386,6 +405,8 @@ Global scrutiny means:
 | **Japan** | Joi Ito, former MIT Media Lab director, left executive and board roles at Digital Garage (announced Feb 27-28; board exit at June AGM) while keeping the Chiba Institute of Technology presidency | No investigation reported | [Japan Times](https://www.japantimes.co.jp/news/2026/03/02/japan/japan-businessman-joichi-ito-epstein/) |
 | **Malaysia** | Former DP World chief Sultan Ahmed bin Sulayem became executive chairman of MMC Port Holdings (July); 31 civil-society groups urged the appointment be revoked (Jul 20); parent company defended it (Aug 20) | No investigation reported | [Business Today Malaysia](https://www.businesstoday.com.my/2026/07/22/mmc-port-chairman-appointment-faces-scrutiny-over-alleged-epstein-ties/) |
 | **Turkey** | Ankara Chief Public Prosecutor's Office inquiry (opened late December 2025) into claims that Turkish minors were trafficked to Epstein; opposition lawmakers called for a parliamentary commission | Investigation open; no public findings | [Turkish Minute](https://turkishminute.com/2026/02/03/ankara-prosecutors-investigate-alleged-turkey-links-in-epstein-case-report/), [Middle East Eye](https://www.middleeasteye.net/news/prosecutors-investigating-claims-turkish-girls-were-trafficked) |
+| **Brazil** | Federal prosecutors (MPF) opened a confidential inquiry on Feb 10 into possible recruitment of Brazilian women for Epstein, prompted by a 2010 email about a young woman from Natal; the BBC published Brazilian women's accounts (Mar 12) | Confidential inquiry; no public result or charges | [Correio Braziliense](https://www.correiobraziliense.com.br/mundo/2026/02/7353387-mpf-abre-investigacao-sobre-rede-de-aliciamento-de-mulheres-para-epstein-no-brasil-apos-reportagem-da-bbc-participacao-das-vitimas-e-fundamental.html) |
+| **Mexico** | President Sheinbaum said Feb 4 the investigation "has to be opened in the United States" and offered cooperation if DOJ asked | No Mexican probe announced | [Mexico News Daily](https://mexiconewsdaily.com/news/epstein-files-mexico-ambassador/) |
 
 ### The U.S. Evidence Bottleneck
 On **Sep 9, 2026**, the Washington Post reported that law-enforcement officials in Poland, Norway, and Latvia had received no response to mutual legal assistance requests, and that British investigators were still seeking records for the Mandelson case. DOJ said it does not comment on MLA requests but "has not refused to assist any jurisdiction." [Washington Post](https://www.washingtonpost.com/world/2026/09/09/europeans-investigating-epstein-say-doj-has-not-agreed-requests-help/), [Forbes](https://www.forbes.com/sites/alisondurkee/2026/09/09/doj-so-far-isnt-helping-european-countries-investigate-epstein-officials-say/)

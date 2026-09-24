@@ -54,7 +54,7 @@ A quick-reference guide to the specific language of the Epstein Files.
 *   **Crisis Fixer**: Role played by Kathryn Ruemmler, handling at least 6 #MeToo-related crises for Epstein's associates.
 
 ## Accountability Phase Terms (Mar-Sep 2026)
-*   **EFTA II (Epstein Files Transparency Act II)**: H.R. 9694 (Jul 15, 2026); would let state attorneys general, victims, and members of Congress sue DOJ over noncompliance with the original Act. Discharge petition reached 218 signatures on Sep 18, 2026.
+*   **EFTA II (Epstein Files Transparency Act II)**: H.R. 9694 and S. 5005 (Jul 15, 2026); would let state attorneys general, victims, and members of Congress sue DOJ over noncompliance with the original Act. Discharge petition reached 218 signatures on Sep 18, 2026.
 *   **Phang v. Blanche**: Katie Phang's federal lawsuit (D.D.C. 1:26-cv-01417) enforcing the Transparency Act; produced a preliminary injunction (Jun 25, 2026) and contempt warnings.
 *   **In Camera Review**: A judge's private review of documents (here, 10 unredacted Epstein records reviewed by Judge Sullivan in July 2026).
 *   **Protective Notice of Appeal**: A filing that preserves the right to appeal before a deadline passes; DOJ filed one in Phang v. Blanche while calling its right to appeal "inconclusive."

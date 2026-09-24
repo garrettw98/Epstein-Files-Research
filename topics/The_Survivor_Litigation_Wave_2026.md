@@ -42,6 +42,7 @@ In 2026 survivors moved from the estate compensation program and bank settlement
 
 ## See Also
 
+- [Survivor Advocacy (2026)](The_Survivor_Advocacy_2026.md)
 - [Legal Battles](Legal_Battles.md)
 - [The Estate Executors Investigation](The_Estate_Executors_Investigation.md)
 - [The Banks](The_Banks.md)

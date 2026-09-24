@@ -90,7 +90,12 @@ This repository is a source-linked research index for documents, entities, event
 | **[The Purported Suicide Note](topics/The_Purported_Suicide_Note.md)** | **[FAQ](topics/FAQ.md)** | **[Network Map](topics/Network_Map.md)** |
 | **[Academic Fallout (2026)](topics/The_Academic_Fallout_2026.md)** | **[Survivor Litigation Wave (2026)](topics/The_Survivor_Litigation_Wave_2026.md)** | **[Massie Floor Speech (Aug 31, 2026)](topics/The_Massie_Floor_Speech_Aug_2026.md)** |
 | **[Medical Network (2026)](topics/The_Medical_Network_2026.md)** | **[Survivor Advocacy (2026)](topics/The_Survivor_Advocacy_2026.md)** | **[Senate Finance Investigation](topics/The_Senate_Finance_Investigation.md)** |
-| **[Virgin Islands Reckoning (2026)](topics/The_Virgin_Islands_Reckoning_2026.md)** | | |
+| **[Virgin Islands Reckoning (2026)](topics/The_Virgin_Islands_Reckoning_2026.md)** | **[Official Reports](topics/The_Official_Reports.md)** | **[The Legacy](topics/The_Legacy.md)** |
+| **[Victim Compensation Program](topics/The_Victim_Compensation_Fund.md)** | **[The NDA](topics/The_NDA.md)** | **[Catch and Kill](topics/Catch_and_Kill.md)** |
+| **[The Barr Connection](topics/The_Barr_Connection.md)** | **[The Israel Connection](topics/The_Israel_Connection.md)** | **[Geopolitical Blackmail Theory](topics/Geopolitical_Blackmail_Theory.md)** |
+| **[The Fleet](topics/The_Fleet.md)** | **[The Stash Houses (301 E. 66th St.)](topics/The_Stash_Houses.md)** | **[The TerraMar Project](topics/The_TerraMar_Project.md)** |
+| **[Tech Investments](topics/Tech_Investments.md)** | **[The Cult Tactics](topics/The_Cult_Tactics.md)** | **[The "Medical" Cover](topics/The_Medical_Cover.md)** |
+| **[Phantom Photos](topics/Phantom_Photos.md)** | **[The "Weirdness"](topics/The_Weirdness.md)** | **[How to Help](topics/How_to_Help.md)** |
 
 </details>
 

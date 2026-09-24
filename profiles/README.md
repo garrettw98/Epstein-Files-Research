@@ -164,6 +164,12 @@ Reps. **Thomas Massie** and **Ro Khanna** discovered six men whose names were re
 *   **[Melania Trump](Melania_Trump.md)** - First lady; denies any Epstein ties (Apr 9, 2026 statement); won dismissal of Michael Wolff's preemptive suit (May 22) and moved for sanctions against him (Jul 21).
 *   **[Andrew Farkas](Andrew_Farkas.md)** - Real estate investor and Hasty Pudding Institute chair; nearly 2,000 emails with Epstein, a USVI marina partnership, and alternate executor of Epstein's 2012 will; faced resignation calls (Feb 2026); not accused of a crime.
 
+### Groups and Additional Profiles
+*   **[The Lawyers](The_Lawyers.md)** · **[The Dream Team Defense](The_Dream_Team_Defense.md)** · **[The Legal Crusaders](The_Legal_Crusaders.md)** · **[The Journalists](The_Journalists.md)** · **[Religious Figures](Religious_Figures.md)** - Group profiles.
+*   **[Ace Greenberg](Ace_Greenberg.md)** - Former Bear Stearns chief who hired Epstein; remained a friend and client.
+*   **[John Brockman](John_Brockman.md)** - Literary agent; Edge Foundation science salons.
+*   **[Miles and Cathy Alexander](Miles_and_Cathy_Alexander.md)** - Zorro Ranch managers; key witnesses and staff.
+
 ## ⚪ Viral Names (Context Needed)
 *   **[Stephen Hawking](Viral_Names.md#stephen-hawking-the-orgy-email)** - Defended by Epstein in emails.
 *   **[Michael Jackson](Viral_Names.md#michael-jackson-the-massage-denial)** - "No massage" testimony.

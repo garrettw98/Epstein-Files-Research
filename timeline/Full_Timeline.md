@@ -149,15 +149,25 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   ~900 pages unsealed.
     *   Viral debunking: Hawking (No orgy), Jackson (No massage), Trump (Not on island).
 *   **2025 (Apr)**: **Virginia Giuffre dies** by suicide in Australia.
-*   **2025 (Oct)**: **"Nobody's Girl"**, Giuffre's memoir, is published posthumously.
+*   **2025 (Jul 7)**: A two-page DOJ/FBI memo says the review found no Epstein "client list," no evidence he blackmailed prominent people, and that he died by suicide, and that no "further disclosure" would be "appropriate or warranted." The backlash, including within the President's base, set up the Transparency Act fight. [NPR](https://www.npr.org/2025/07/07/g-s1-76367/doj-jeffrey-epstein-memo), [Axios](https://www.axios.com/2025/07/07/jeffrey-epstein-suicide-client-list-trump-administration)
+*   **2025 (Jul 16)**: DOJ fires SDNY prosecutor **Maurene Comey**, who worked on the Epstein and Maxwell cases. See [Maurene Comey](../profiles/Maurene_Comey.md).
+*   **2025 (Jul 17)**: The Situation Room damage-control meeting on the files later described in *Regime Change* (reported Jun 10, 2026).
+*   **2025 (Jul 17-18)**: The **Wall Street Journal** reports a letter bearing Trump's name in Epstein's 2003 birthday album; Trump denies writing it and sues the Journal and Rupert Murdoch for $10 billion. [NPR](https://www.npr.org/2025/07/17/nx-s1-5471583/trump-wall-street-journal-epstein-files-bondi)
+*   **2025 (Jul)**: Deputy AG **Todd Blanche** interviews Ghislaine Maxwell; about a week later she is moved to minimum-security FPC Bryan. See [Todd Blanche](../profiles/Todd_Blanche.md).
 *   **2025 (Jul 23)**: House Oversight Subcommittee **unanimously votes** to subpoena Bill & Hillary Clinton.
 *   **2025 (Aug 5)**: Chairman Comer issues Clinton subpoenas.
 *   **2025 (Sep)**: **Bloomberg News** independently obtains ~18,700 Epstein emails from his Yahoo account, revealing depths of elite network.
 *   **2025 (Sep)**: UK PM Starmer **sacks Peter Mandelson** as US Ambassador after initial Epstein ties surface.
+*   **2025 (Oct)**: **"Nobody's Girl"**, Giuffre's memoir, is published posthumously.
 *   **2025 (Oct)**: Supreme Court **denies** Maxwell's appeal; 20-year sentence stands.
+*   **2025 (Nov 12)**: House Oversight releases more estate records, including Del. Stacey Plaskett's 2019 texts with Epstein (censure fails 209-214 on Nov 18). See [Stacey Plaskett](../profiles/Stacey_Plaskett.md).
+*   **2025 (Nov 14)**: President Trump asks DOJ to investigate Epstein's ties to Bill Clinton, Larry Summers, Reid Hoffman, and JPMorgan; SDNY's Jay Clayton is assigned. See [Jay Clayton](../profiles/Jay_Clayton.md).
 *   **2025 (Nov 18)**: **Epstein Files Transparency Act** passes House (427-1) and Senate (unanimous).
 *   **2025 (Nov 19)**: President Trump signs the Transparency Act into law.
+*   **2025 (Dec 18)**: Oversight Democrats release more estate photos a day before the deadline. [CNN](https://www.cnn.com/2025/12/18/politics/epstein-estate-photos-released)
 *   **2025 (Dec 19)**: DOJ compliance deadline (largely missed; initial small release).
+*   **2025 (Dec 21)**: Reps. Massie and Khanna threaten **inherent contempt** against AG Bondi, with fines of up to $5,000 a day. [The Hill](https://thehill.com/homenews/house/5659394-khanna-massie-bondi-contempt-epstein/)
+*   **2025 (Dec 23)**: A DOJ release includes 400+ hour-long MCC surveillance clips that CBS found complicate the official account of the night Epstein died. [CBS](https://www.cbsnews.com/news/epstein-files-videos-jail-footage/)
 
 ---
 
@@ -166,6 +176,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **2026 (Jan 13)**: Bill Clinton **fails to appear** for scheduled deposition.
 *   **2026 (Jan 14)**: Hillary Clinton **fails to appear** for scheduled deposition.
 *   **2026 (Jan 21)**: House Oversight Committee votes to recommend **contempt of Congress** for both Clintons. Nine Democrats support the vote.
+*   **2026 (Jan 21)**: Judge Engelmayer denies Massie and Khanna's request for an independent monitor of DOJ's compliance. [The Hill](https://thehill.com/regulation/court-battles/5699694-judge-denies-independent-monitor-request-epstein-files/)
 *   **2026 (Jan 21)**: Democratic Rep. **Summer Lee** introduces amendment to hold AG **Pam Bondi** in contempt for failing to comply with the Act. Amendment **fails 19-24** along party lines.
 *   **2026 (Jan 30)**: **The "Transparency" Release** (~3.5 million pages, 2,000 videos, 180,000 images).
     *   **Howard Lutnick**: Trump Commerce Secretary visited island with family (2012).

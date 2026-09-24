@@ -26,6 +26,8 @@ This timeline maps how U.S. government response evolved from prosecution activit
 
 - **February 27, 2025 (DOJ release cycle reference)**: DOJ announces first phase declassified release activity tied to Epstein files.  
   Source: https://www.justice.gov/opa/pr/attorney-general-pamela-bondi-releases-first-phase-declassified-epstein-files
+- **July 7, 2025**: DOJ/FBI memo says there is no Epstein "client list" and that no further disclosure is warranted, which prompts the push for legislation.  
+  Source: https://www.npr.org/2025/07/07/g-s1-76367/doj-jeffrey-epstein-memo
 - **July 15, 2025**: H.R. 4405 (Epstein Files Transparency Act) introduced.  
   Source: https://www.govtrack.us/congress/bills/119/hr4405
 - **November 14, 2025**: President Trump asks DOJ to investigate Epstein's ties to Bill Clinton, Larry Summers, Reid Hoffman, and JPMorgan Chase; AG Bondi assigns SDNY U.S. Attorney Jay Clayton to lead it. No charges or report have followed.  
@@ -36,6 +38,10 @@ This timeline maps how U.S. government response evolved from prosecution activit
   Sources:  
   - https://www.govtrack.us/congress/bills/119/hr4405  
   - https://www.govinfo.gov/link/plaw/119/public/38
+- **December 21, 2025**: Reps. Massie and Khanna threaten an inherent-contempt resolution against AG Bondi over the incomplete release.  
+  Source: https://thehill.com/homenews/house/5659394-khanna-massie-bondi-contempt-epstein/
+- **January 21, 2026**: Judge Engelmayer denies their request for an independent monitor, saying he lacks authority to supervise compliance.  
+  Source: https://thehill.com/regulation/court-battles/5699694-judge-denies-independent-monitor-request-epstein-files/
 - **January 30, 2026**: DOJ announces publication of 3.5 million responsive pages.  
   Source: https://www.justice.gov/opa/pr/department-justice-publishes-35-million-responsive-pages-compliance-epstein-files
 - **February 9, 2026**: AP reports secure congressional access to unredacted material begins.  

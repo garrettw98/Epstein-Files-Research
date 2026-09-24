@@ -10,7 +10,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 <!-- LAST24H_TIMELINE:START -->
 ## Last 24 Hours Snapshot (Auto-generated)
-- Window: Sep 23, 2026 16:21 UTC to Sep 24, 2026 16:21 UTC.
+- Window: Sep 23, 2026 22:17 UTC to Sep 24, 2026 22:17 UTC.
 - Monitored updates: 0 links across 0 domains.
 - Primary-doc changes: added 0, removed 0, changed 0.
 - Claim review pressure: p1=0, p2=0, p3=0 open.
@@ -243,6 +243,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 ## 2026 (Mar-Sep): The Accountability Phase
 
+*   **2026 (Mar 2)**: Reps. Ross, Raskin, and Khanna ask the Bureau of Prisons who approved **Maxwell's transfer** to a minimum-security camp after Bondi said she did not.
 *   **2026 (Mar 7)**: Epstein physician **Bernard Kruger** steps away from two concierge clinics amid scrutiny of Epstein's medical network.
 *   **2026 (Mar 12)**: **Dean Kamen** resigns from the FIRST board; FIRST's review found no evidence of misconduct.
 *   **2026 (Mar 17)**: House Oversight subpoenas AG **Pam Bondi** for an April 14 deposition.
@@ -254,27 +255,37 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **2026 (Apr 13)**: Judge dismisses Trump's $10B WSJ lawsuit over the birthday letter (refiled May 28).
 *   **2026 (Apr 15)**: Norway's Storting appoints an **Epstein commission of inquiry**.
 *   **2026 (Apr 16)**: Report that **Mandelson failed security vetting** before his ambassadorship; Starmer pressure intensifies.
+*   **2026 (Apr 16)**: **UN human rights experts** call for a full investigation of trafficking alleged in the files (after a February statement that some acts may meet the threshold of crimes against humanity).
 *   **2026 (Apr 23 / Apr 28)**: **DOJ Inspector General** opens an audit and **GAO** opens a review of DOJ's handling of the files.
 *   **2026 (Apr 27)**: Katie Phang files **Phang v. Blanche** to enforce the Transparency Act.
 *   **2026 (Apr 27)**: Norway and France form a **joint investigation team** for the Juul/Rød-Larsen case.
+*   **2026 (Apr 28)**: **King Charles III**, on a U.S. state visit, declines through his lawyers to meet Epstein survivors; Judge Furman lets fired Epstein prosecutor **Maurene Comey**'s wrongful-termination suit proceed.
 *   **2026 (Apr 30 - Jul 24)**: House Oversight interviews **Waitt, Lutnick, Noel, Kellen, Bondi, Groff, Gates, Black, Band, Ruemmler, Staley**.
 *   **2026 (May 1)**: Bard College president **Leon Botstein** announces his retirement after a WilmerHale review of his Epstein ties.
 *   **2026 (May 6)**: Judge unseals a **purported Epstein note** found by cellmate Tartaglione (authenticity unverified).
 *   **2026 (May 12)**: Oversight Democrats hold a **Palm Beach field hearing** with survivors.
+*   **2026 (May 15)**: New Mexico sends **preservation letters** to dozens of companies, including JPMorgan, Deutsche Bank, Apple, Google, and airlines.
 *   **2026 (May 19)**: **Thomas Massie loses** his Republican primary to Trump-backed Ed Gallrein.
+*   **2026 (May 22)**: Judge dismisses Michael Wolff's preemptive suit against **Melania Trump** as forum shopping.
 *   **2026 (May 26)**: CNN details Epstein's VIP treatment at **Mount Sinai**, whose board is reviewing its ties.
 *   **2026 (Jun 4)**: Comer asks DOJ to investigate **Kellen's allegations** against Philip Levine and Frederic Fekkai (both deny them).
 *   **2026 (Jun 10-12)**: Comer says he will seek interviews with **Alan Dershowitz** and acting AG Blanche; formally requests Dershowitz's testimony.
+*   **2026 (Jun 10)**: Excerpts of Haberman and Swan's *Regime Change* report White House Situation Room meetings on the Epstein files.
+*   **2026 (Jun 12)**: House Democrats challenge a new **BOP policy** letting the attorney general decide where prisoners are held, saying it retroactively covers Maxwell's transfer.
 *   **2026 (Jun 17)**: House Judiciary Democrats extend their **university inquiry** to Harvard and Bard.
 *   **2026 (Jun 22)**: **Keir Starmer announces his resignation** amid the Mandelson fallout; Andy Burnham becomes PM on Jul 20.
 *   **2026 (Jun 24)**: Survivor sues **FirstBank Puerto Rico** over 30-plus Epstein-linked accounts (bank denies; moved to dismiss Jul 31).
 *   **2026 (Jun 25)**: Judge **Emmet Sullivan enjoins DOJ** to unredact or justify disputed records.
 *   **2026 (Jul 2)**: At the injunction deadline, **DOJ declines to produce more records** and defends its redactions.
 *   **2026 (Jul 15)**: **Epstein Files Transparency Act II** introduced.
+*   **2026 (Jul 15)**: At **Jay Clayton**'s DNI confirmation hearing, Sen. Heinrich presses him on DOJ's refusal to share Zorro Ranch evidence with New Mexico; Clayton is confirmed Jul 29 and sworn in Aug 3, and Jamie McDonald takes over SDNY.
 *   **2026 (Jul 20)**: **Alan Dershowitz** skips his House Oversight interview, citing an unspecified legal barrier; Comer demands a Sep 2 appearance (Jul 21).
 *   **2026 (Jul 20)**: French model scout **Daniel Siad found dead** before French investigators could question him.
+*   **2026 (Jul 20)**: Malaysian groups urge revoking former DP World chief **bin Sulayem**'s new post as MMC Port Holdings chairman.
 *   **2026 (Jul 21)**: Raskin opens a **foreign-agent (FARA) inquiry** into Epstein.
+*   **2026 (Jul 24)**: **Bloomberg** finds Epstein's staff booked more than 3,700 commercial flights from 2009 to 2019.
 *   **2026 (Jul 29)**: Senate **unanimously opposes any Maxwell pardon**.
+*   **2026 (Aug 3)**: **Stacey Plaskett**, who survived a November 2025 censure vote over texting Epstein, wins the Virgin Islands Democratic primary for governor.
 *   **2026 (Aug 4)**: **Wyden report** says JPMorgan, Bank of America, and Deutsche Bank looked the other way.
 *   **2026 (Aug 5)**: **New Mexico sues DOJ** for records; the Truth Commission issues its interim report.
 *   **2026 (Aug 8)**: Senate confirms **Blanche as attorney general**, 50-49.
@@ -583,6 +594,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **May 14, 2026**: **CNN: Wes Streeting quit UK Cabinet citing lost confidence in Starmer**.
     *   Health Secretary Wes Streeting resigned saying he had "lost confidence" in Keir Starmer's leadership amid the Mandelson appointment fallout.
     *   Source: [Source](https://www.cnn.com/2026/05/14/uk/streeting-resigns-health-secretary-starmer-uk-intl).
+*   **May 15, 2026**: **Albuquerque Journal: New Mexico asked dozens of companies to preserve Epstein records**.
+    *   Letters to banks, tech firms, phone carriers, airlines and travel companies sought records tied to Epstein and Maxwell for the Zorro Ranch probe; requests for the estate executors' records were planned.
+    *   Source: [Source](https://www.abqjournal.com/news/dozens-of-companies-asked-to-preserve-records-in-epstein-probe/3065405).
 *   **May 17, 2026**: **France 24: About 10 new alleged victims came forward in French Epstein probe**.
     *   Paris prosecutors said roughly ten previously unidentified alleged victims had contacted investigators.
     *   Source: [Source](https://www.france24.com/en/americas/20260517-around-10-new-victims-come-forward-in-france-s-epstein-investigation).
@@ -598,6 +612,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **May 22, 2026**: **CNN: UK police said Andrew probe includes assessment of 2010 Windsor allegation**.
     *   Thames Valley Police said that alongside the misconduct investigation it is assessing reports a woman was taken to a Windsor address in 2010 for sexual purposes.
     *   Source: [Source](https://www.cnn.com/2026/05/22/uk/andrew-mountbatten-windsor-intl-hnk).
+*   **May 22, 2026**: **Judge dismissed Michael Wolff's preemptive suit against Melania Trump**.
+    *   Judge Mary Kay Vyskocil called Wolff's anti-SLAPP suit, filed after Melania Trump threatened a $1 billion defamation claim over his Epstein comments, "textbook bad-faith forum shopping."
+    *   Source: [Source](https://reason.com/volokh/2026/05/23/judge-dismisses-author-michael-wolffs-lawsuit-over-melania-trumps-defamation-litigation-threat/).
 *   **May 26, 2026**: **CNN: Epstein got VIP treatment at Mount Sinai, files show**.
     *   DOJ records show house calls, expedited care for women connected to Epstein, and a 2013 pitch for an "Epstein Floor for Women"; Mount Sinai's board is reviewing its ties.
     *   Source: [Source](https://www.cnn.com/2026/05/26/politics/jeffrey-epstein-mount-sinai-hospital).
@@ -628,6 +645,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jun 10, 2026**: **The Hill: Comer said he would seek interviews with Alan Dershowitz and Todd Blanche**.
     *   After the Groff interview and a meeting with survivors, Comer said he would ask Dershowitz to come in; Dershowitz said he wanted to testify publicly and under oath.
     *   Source: [Source](https://thehill.com/homenews/house/5918269-comer-dershowitz-blanche-interviews-epstein/).
+*   **Jun 10, 2026**: **Axios: Book reported White House Situation Room meetings on the Epstein files**.
+    *   Haberman and Swan's "Regime Change" reported aides held damage-control meetings and that Vance proposed a Tucker Carlson interview of Ghislaine Maxwell.
+    *   Source: [Source](https://www.axios.com/2026/06/10/trump-epstein-files-regime-change-book-swan-haberman).
 *   **Jun 12, 2026**: **House Democrats challenged a new prison policy tied to Maxwell's transfer**.
     *   Reps. Raskin, Ross and Khanna said a newly published BOP rule letting the attorney general designate a prisoner's placement retroactively covers Maxwell's move.
     *   Source: [Source](https://democrats-judiciary.house.gov/media-center/press-releases/raskin-ross-khanna-demand-answers-on-secretive-bop-policy-change-following-ghislaine-maxwell-prison-transfer).
@@ -682,6 +702,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jul 20, 2026**: **CNN: French model scout Daniel Siad found dead**.
     *   Siad, accused of recruiting young women for Epstein and under French investigation, was found dead at his home near Paris; prosecutors opened an inquiry into the cause of death.
     *   Source: [Source](https://www.cnn.com/2026/07/22/europe/model-recruiter-epstein-dead-france-intl).
+*   **Jul 20, 2026**: **Malaysian groups urged revoking bin Sulayem's port appointment**.
+    *   Thirty-one civil-society groups asked MMC's controlling shareholder to withdraw the former DP World chief's appointment as executive chairman of MMC Port Holdings over his Epstein correspondence.
+    *   Source: [Source](https://www.businesstoday.com.my/2026/07/22/mmc-port-chairman-appointment-faces-scrutiny-over-alleged-epstein-ties/).
 *   **Jul 21, 2026**: **CNN: Raskin opened inquiry into whether Epstein acted as an unregistered foreign agent**.
     *   House Judiciary Democrats asked DOJ, State and the SDNY U.S. attorney for records on Epstein's contacts with foreign governments and possible FARA violations.
     *   Source: [Source](https://www.cnn.com/2026/07/21/politics/jeffrey-epstein-democrats-foreign-agent).
@@ -715,6 +738,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jul 31, 2026**: **St. Thomas Source: FirstBank moved to dismiss Epstein survivor's lawsuit**.
     *   The bank filed a 33-page memorandum seeking dismissal before Judge Jed Rakoff.
     *   Source: [Source](https://stthomassource.com/content/2026/07/31/firstbank-puerto-rico-moves-to-dismiss-epstein-victims-lawsuit/).
+*   **Aug 3, 2026**: **Roll Call: Stacey Plaskett won the Virgin Islands Democratic primary for governor**.
+    *   The delegate, who survived a November 2025 censure vote over texting Epstein during a 2019 hearing, took about 48% of the vote.
+    *   Source: [Source](https://rollcall.com/2026/08/03/plaskett-moylan-advance-in-territorial-primary-elections/).
 *   **Aug 4, 2026**: **NPR: Wyden report said major banks looked the other way on Epstein**.
     *   The Senate Finance Democrats' report said JPMorgan, Bank of America and Deutsche Bank failed to timely report suspicious Epstein transactions and urged regulators to investigate.
     *   Source: [Source](https://www.npr.org/2026/08/04/nx-s1-5919238/jeffrey-epstein-jpmorgan-bank-of-america-deutsche-bank-senate-democrats).
@@ -833,6 +859,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   Investigators have interviewed potential witnesses, including survivors, and sought emails and checks, with interest in entities such as the Florida Science Foundation; Indyke and Kahn deny wrongdoing.
     *   Source: [Source](https://www.cnn.com/2026/09/24/politics/epstein-advisers-investigation-indyke-kahn).
 <!-- LIVE_TIMELINE:END -->
+
 
 
 

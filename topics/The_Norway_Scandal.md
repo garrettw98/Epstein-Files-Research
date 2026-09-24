@@ -91,6 +91,7 @@ A married couple — perhaps Norway's most famous diplomats, known for helping b
 ## 2026 Update (Mar 17 - Sep 23)
 
 - **Feb 8-12**: Mona Juul stepped down as ambassador (Feb 8). On Feb 9, Økokrim charged her with aggravated corruption and Terje Rød-Larsen with complicity (investigators are examining a loan, a below-market Oslo flat purchase, a 2011 island trip, and payment for home help). The Council of Europe waived Jagland's immunity on Feb 11, and on Feb 12 he was formally charged with aggravated corruption after searches of his properties; he denies the charges.
+- **By May 2026**: The Council of Europe's Parliamentary Assembly appointed Swedish MP Gustaf Göthberg rapporteur on Epstein's network and its links to Jagland; an earlier internal Council inquiry found Epstein attended events at the Secretary General's residence in Strasbourg. [Sweden Herald](https://swedenherald.com/article/swedishled-epstein-investigation-probes-jagland)
 - **Apr 27-28**: Økokrim and French investigators formed a joint investigation team for the Juul/Rød-Larsen case. [Euronews](https://www.euronews.com/my-europe/2026/04/27/norway-and-france-launch-joint-police-probe-into-diplomats-alleged-links-with-epstein)
 - **Feb 10**: The Storting's scrutiny committee voted for an independent inquiry and public hearings.
 - **Feb 24-25**: Jagland's lawyer said he had been hospitalized "due to the strain." **Feb 26**: Børge Brende resigned as WEF president. See [Børge Brende](../profiles/Borge_Brende.md).

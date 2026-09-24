@@ -132,6 +132,7 @@ An offline refresh re-derives outputs from the most recent `raw/` snapshots, so 
 
 - **Sep 23, 2026**: Narrative and claim-registry update covering Mar 17 - Sep 23, 2026. The environment used for this update blocked all ingest hosts listed above, so the network steps were **not** re-run; the latest `raw/` snapshots remain those from Mar 17, 2026. Offline steps were re-run against the updated claim registry.
 - **Sep 24, 2026**: Verification pass. Added 14 live events and 18 claims (6 `verified_primary`, 12 `alleged`), corrected dates (Jagland charged Feb 12; Juul resigned Feb 8 and was charged Feb 9; New Mexico Truth Commission final report due Dec 31, 2026), and re-ran the offline steps. Network ingest was still blocked.
+- **Sep 24, 2026 (later)**: Gap-filling passes. Added 33 live events and 30 claims (6 `verified_primary`, 24 `alleged`), new topics (survivor litigation, Massie floor list, medical network) and profiles (Fekkai, Clayton, Maurene Comey, Plaskett). Offline steps re-run; network ingest still blocked.
 
 ## Output Map
 

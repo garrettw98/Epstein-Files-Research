@@ -93,6 +93,7 @@ See [The Banks](../topics/The_Banks.md) and [The Money Trail](../topics/The_Mone
 - **Massie**, the Act's lead Republican sponsor, lost his May 19 primary to a Trump-backed challenger in the most expensive House primary on record, then used his remaining term to launch EFTA II. Its discharge petition reached 218 signatures on Sep 18.
 - Speaker Johnson canceled late-September session weeks and recessed early (Sep 16), which Massie said was designed to delay the vote. A vote is possible only after the House returns on Nov 9.
 - **Ohio's Senate race** turned partly on Les Wexner's donations to Sen. Jon Husted (AP, Sep 23).
+- **Stacey Plaskett**, the Virgin Islands delegate who survived a November 2025 censure vote over texting Epstein during a 2019 hearing, won the Democratic primary for Virgin Islands governor with about 48% (Aug 1-3). See [Stacey Plaskett](../profiles/Stacey_Plaskett.md).
 - A GBAO poll reported that 88% of likely midterm voters, including 83% of Republicans, would prioritize candidates promising accountability, including full release of the files.
 - **Melania Trump** (Apr 9) publicly denied any Epstein ties and called for survivor hearings. Survivors' reactions were mixed.
 

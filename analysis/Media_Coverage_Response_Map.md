@@ -42,19 +42,19 @@ Source artifact: `derived/media_coverage/outlet_endpoint_status_latest.tsv`
 
 The automated media-coverage ingest (`scripts/analyze_epstein_media_coverage.py`, fed by `scripts/ingest_epstein_universe.py`) **could not be re-run** for this update: the execution environment's network policy blocked every outlet and GDELT endpoint. The counts in the sections above therefore still describe the February window.
 
-As a manual substitute, the 86 events in `updates/live_events.latest.txt` dated Mar 17 - Sep 24 (75 added Sep 23, 11 more added in the Sep 24 verification pass) cite these domains (one URL per event):
+As a manual substitute, the 116 events in `updates/live_events.latest.txt` dated Mar 17 - Sep 24 (added across three research passes on Sep 23-24) cite these domains (one URL per event):
 
 | Domain | Events cited |
 | :--- | ---: |
-| cnn.com (incl. edition.cnn.com) | 13 |
-| npr.org | 10 |
-| House committee and member sites (oversight.house.gov, oversightdemocrats.house.gov, democrats-judiciary.house.gov, massie.house.gov) | 8 |
+| cnn.com (incl. edition.cnn.com) | 16 |
+| npr.org | 11 |
+| House committee and member sites (oversight.house.gov, democrats-judiciary.house.gov, oversightdemocrats.house.gov, massie.house.gov) | 9 |
+| axios.com | 7 |
 | abcnews.com | 6 |
-| axios.com | 6 |
-| cnbc.com | 4 |
-| usnews.com (Reuters wire) | 4 |
-| cbsnews.com | 3 |
-| aljazeera.com, euronews.com, washingtonpost.com, ms.now, pbs.org, thehill.com, bloomberg.com, courthousenews.com | 2 each |
-| Other (government, court-tracking, trade, and regional outlets) | 1 each |
+| usnews.com (Reuters and AP wire) | 5 |
+| cnbc.com, bloomberg.com | 4 each |
+| cbsnews.com, pbs.org, thehill.com | 3 each |
+| ansa.it, aljazeera.com, upi.com, euronews.com, washingtonpost.com, ms.now, courthousenews.com | 2 each |
+| Other (government, court-tracking, regional, trade, and foreign outlets) | 1 each |
 
-**How to read this**: the table reflects which sources were reachable and most specific for each event during research, not which outlets covered the story most. AP and Reuters direct pages were reachable only indirectly (Reuters via US News syndication), which likely under-counts both. Conservative-leaning outlets (Daily Caller, Washington Examiner, Daily Signal, Fox News) also covered the September Leon Black contempt vote, the EFTA II discharge petition, and Chairman Comer's legislation.
+**How to read this**: the table reflects which sources were reachable and most specific for each event during research, not which outlets covered the story most. AP and Reuters direct pages were reachable only indirectly (via US News syndication), which likely under-counts both. Conservative-leaning outlets (Daily Caller, Washington Examiner, Daily Signal, Fox News) also covered the September Leon Black contempt vote, the EFTA II discharge petition, and Chairman Comer's legislation.

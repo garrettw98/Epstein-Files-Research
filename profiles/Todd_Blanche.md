@@ -13,6 +13,7 @@ Todd Blanche, President Trump's former personal lawyer, was the DOJ official mos
 - **Jul 2025**: As Deputy AG, interviewed Ghislaine Maxwell; she was transferred to FPC Bryan about a week later. See [Ghislaine Maxwell](Ghislaine_Maxwell.md).
 - **Feb 2, 2026**: Said no additional Epstein-related prosecutions were expected from the reviewed materials.
 - **Feb 9, 2026**: Unredacted names in real time during the congressional reading-room dispute with Reps. Massie and Khanna.
+- **Mar 18, 2026**: Sen. Ron Wyden said Blanche, then deputy AG, stopped DEA from giving him an unredacted 2015 drug-task-force memo on an investigation ("Chain Reaction") of Epstein and 14 others. Blanche replied that Wyden had "completely fabricated a story for clicks" and that the report "is available to members of Congress unredacted in our reading room." See [Senate Finance Investigation](../topics/The_Senate_Finance_Investigation.md). [The Hill](https://thehill.com/homenews/administration/5790547-wyden-accuses-blanche-blocking-epstein-report/)
 - **Apr 2, 2026**: Became **acting attorney general** after Trump removed Bondi. [CBS](https://www.cbsnews.com/news/trump-pam-bondi-attorney-general/)
 - **Apr 7, 2026**: Said "nobody has any idea why" Bondi was fired except Trump. [CNN](https://www.cnn.com/2026/04/07/politics/todd-blanche-nobody-knows-why-bondi-was-fired)
 - **May 29, 2026**: Bondi, in her House Oversight interview, pointed to Blanche on the handling of the files. [NPR](https://www.npr.org/2026/05/29/nx-s1-5836563/pam-bondi-epstein-congress)

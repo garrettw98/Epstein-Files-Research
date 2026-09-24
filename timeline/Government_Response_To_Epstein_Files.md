@@ -156,6 +156,12 @@ Three pressure points define this phase:
   Source: https://democrats-judiciary.house.gov/media-center/press-releases/ranking-member-raskin-launches-investigation-into-evidence-epstein-acted-as-unregistered-agent-for-foreign-powers-leveraging-ties-to-trump
 - **August 31, 2026**: Rep. Massie names 14 people on the House floor he says should be investigated as Epstein "co-conspirators" and launches the EFTA II discharge petition. Those who have responded deny wrongdoing.  
   Source: https://thehill.com/homenews/house/6062468-massie-names-epstein-coconspirators/
+- **February 25 - March 18, 2026**: Sen. Wyden asks DEA for an unredacted 2015 drug-task-force memo ("Chain Reaction") on Epstein and 14 others; on March 18 he says Deputy AG Blanche blocked it, and Blanche calls that "a completely fabricated story," saying members can read it unredacted in DOJ's reading room.  
+  Source: https://www.finance.senate.gov/ranking-members-news/wyden-sounds-alarm-as-dag-blanche-intervenes-to-conceal-details-of-mystery-epstein-investigation
+- **March 3, 2026**: Sen. Mike Crapo objects to Wyden's unanimous-consent request to pass the Produce Epstein Treasury Records Act.  
+  Source: https://www.finance.senate.gov/ranking-members-news/senate-republican-blocks-wyden-bill-mandating-treasury-hand-over-epstein-bank-records
+- **March 20 - June 4, 2026**: Wyden questions Leon Black about $170 million in payments to Epstein (March 20) and refers his findings to House Oversight (June 4).  
+  Source: https://www.finance.senate.gov/ranking-members-news/wyden-refers-findings-on-leon-blacks-epstein-ties-to-house-oversight-committee
 - **August 4, 2026**: Senate Finance Democrats (Wyden) publish "Looking the Other Way" on bank anti-money-laundering failures.  
   Source: https://www.finance.senate.gov/ranking-members-news/wyden-releases-new-report-on-failure-of-wall-street-banks-to-blow-the-whistle-on-jeffrey-epsteins-sex-trafficking-and-money-laundering-schemes
 - **September 3, 2026**: Leon Black skips his subpoenaed deposition and sues the committee.  

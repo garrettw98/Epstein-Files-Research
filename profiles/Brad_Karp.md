@@ -65,6 +65,12 @@ The Karp revelations are significant on multiple levels:
 ## Verdict
 **Documented Ties Leading to Resignation.** Karp's emails reveal a relationship that went far beyond casual acquaintance — he shared confidential legal documents, sought personal favors, facilitated introductions, and disparaged victims. His resignation as chairman was swift, though his continued presence at the firm raises questions about full accountability.
 
+## 2026 Update (Mar 17 - Sep 24)
+
+- **February 2026 (surveillance emails)**: Reporting on the DOJ release described emails in which Epstein and Karp discussed a woman who had accused [Leon Black](Leon_Black.md) of misconduct and whom Black's side accused of extortion. They discussed her location, license plate, and visa status; Epstein asked Karp, "Is it possible for your contacts to get her current visa status?" Epstein suggested Black hire investigators from Nardello & Co., which then surveilled her. This repo does not name the woman. [AOL (syndicated)](https://www.aol.com/articles/jeffrey-epstein-brad-karp-worked-142125514.html), [GV Wire (syndicated NYT)](https://gvwire.com/2026/03/25/how-epstein-helped-solve-billionaire-leon-blacks-problems-with-women/)
+- **Mar 20-23, 2026**: Sen. Ron Wyden's letter to Black said the records show Epstein and the head of Paul Weiss "partnered to surveil women on Black's behalf." That is Wyden's characterization. See [Leon Black](Leon_Black.md). [Senate Finance](https://www.finance.senate.gov/continuing-epstein-investigation-wyden-questions-leon-black-over-new-revelations-in-epstein-files-appearance-of-hush-money-payments-and-surveillance-of-women)
+- **Status (Sep 24)**: Remains at Paul Weiss outside leadership. Not accused of a crime. This repo has not located a public response from Karp to the surveillance reporting.
+
 ## See Also
 
 - [The Lawyers](The_Lawyers.md) - Legal professionals in Epstein's network

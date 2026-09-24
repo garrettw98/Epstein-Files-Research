@@ -280,6 +280,10 @@ By March 2026, the picture broadened further: the BBC reporting from Brazil sugg
 
 - Asked on Feb 4, 2026 whether Mexico would investigate Mexicans named in the files, President Claudia Sheinbaum said: "The investigation has to be opened in the United States." She said Mexico would cooperate if the U.S. Justice Department asked. No Mexican investigation had been announced as of Sep 24. [Mexico News Daily](https://mexiconewsdaily.com/news/epstein-files-mexico-ambassador/), [Diário Carioca](https://diariocarioca.com/en/2026/02/04/world/mexico-will-collaborate-in-the-epstein-investigation-if-requested-by-the-u-s-sheinbaum.html)
 
+### Australia
+
+- Australian coverage of the Jan 30 release listed names including former Prime Minister Kevin Rudd, businessman Clive Palmer, and Katherine Keating, daughter of former Prime Minister Paul Keating. Being named in the files does not suggest wrongdoing. The files also show physicist Lawrence Krauss seeking Epstein's advice about a sexual-misconduct inquiry at the Australian National University. No Australian investigation has been announced. [The Daily Aus](https://thedailyaus.com.au/crime/who-are-the-aussies-named-in-the-epstein-files), [Crikey](https://www.crikey.com.au/2026/02/04/jeffrey-epstein-files-conspiracy-global-influence/)
+
 ### China
 
 Among countries with visa applicants sponsored by Epstein (2004-2005). No investigation announced.

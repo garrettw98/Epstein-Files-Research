@@ -11,6 +11,10 @@
 
 The Epstein Files Transparency Act (Pub. L. 119-38) required DOJ to publish its Epstein and Maxwell records and to redact only narrow categories (chiefly victim-identifying information). Until April 2026 the only pressure on DOJ to comply was political. *Phang v. Blanche* is the first lawsuit to produce court orders enforcing the Act. The records it targets overlap with the gaps this repository has tracked since February, and they are also what state and foreign prosecutors say they need.
 
+### The Failed First Attempt (January 2026)
+
+Before *Phang*, Reps. Thomas Massie and Ro Khanna filed an amicus brief in Ghislaine Maxwell's criminal case asking Judge Paul Engelmayer to appoint a special master or independent monitor to oversee DOJ's compliance. Survivors wrote in support. On **Jan 21, 2026**, Engelmayer denied the request, saying the court had no authority in that case to supervise DOJ's compliance with the Act. He acknowledged that the questions raised were "undeniably important and timely" and raised "legitimate concerns about whether DOJ is faithfully complying with federal law." That ruling is why enforcement later moved to a stand-alone civil suit, and why [EFTA II](The_Epstein_Files_Transparency_Act_II.md) would create an explicit right to sue. [The Hill](https://thehill.com/regulation/court-battles/5699694-judge-denies-independent-monitor-request-epstein-files/), [Washington Examiner](https://www.washingtonexaminer.com/news/justice/4427568/judge-denies-massie-khanna-request-independent-monitor-release-epstein-files/)
+
 ## Timeline
 
 | Date | Event | Source |

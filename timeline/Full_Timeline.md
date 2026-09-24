@@ -10,7 +10,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 
 <!-- LAST24H_TIMELINE:START -->
 ## Last 24 Hours Snapshot (Auto-generated)
-- Window: Sep 23, 2026 22:32 UTC to Sep 24, 2026 22:32 UTC.
+- Window: Sep 23, 2026 22:41 UTC to Sep 24, 2026 22:41 UTC.
 - Monitored updates: 0 links across 0 domains.
 - Primary-doc changes: added 0, removed 0, changed 0.
 - Claim review pressure: p1=0, p2=0, p3=0 open.
@@ -390,6 +390,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 18, 2026**: **AP: Paris prosecutors opened two Epstein-linked investigations**.
     *   AP reported Paris prosecutors opened two investigations into alleged sexual-abuse and financial irregularities linked to Epstein files.
     *   Source: [Source](https://apnews.com/article/francia-epstein-investigacion-3b366861b91a965a7b7378db2ea51cb7).
+*   **Feb 18, 2026**: **Harvard Crimson: Hasty Pudding members petitioned for Andrew Farkas's resignation over Epstein ties**.
+    *   A majority of the current Hasty Pudding Theatricals company asked the Institute chair to step down; Farkas has said he never conducted himself inappropriately and no resignation has been reported.
+    *   Source: [Source](https://www.thecrimson.com/article/2026/2/18/hasty-pudding-farkas-petition/).
 *   **Feb 19, 2026**: **Reuters/Ipsos poll: many Americans say the powerful get a pass**.
     *   Reuters reported new Reuters/Ipsos polling found many Americans believe the Epstein files show powerful people avoid accountability.
     *   Source: [Source](https://www.reuters.com/world/us/americans-believe-epstein-files-show-powerful-get-pass-reutersipsos-poll-finds-2026-02-18/).
@@ -417,6 +420,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Feb 26, 2026**: **CNN: WEF president Borge Brende resigned over Epstein ties**.
     *   Borge Brende resigned as president and CEO of the World Economic Forum after an internal review of his Epstein contacts; Alois Zwinggi was named interim leader.
     *   Source: [Source](https://www.cnn.com/2026/02/26/business/borge-brende-wef-epstein-files-intl).
+*   **Feb 26, 2026**: **Senate Finance: Wyden pressed DEA on a secret 2015 Epstein financial probe**.
+    *   Wyden sought an unredacted drug-task-force memo describing a "Chain Reaction" investigation of Epstein and 14 unnamed others over wire transfers tied to alleged drug and prostitution activity; no charges followed.
+    *   Source: [Source](https://www.finance.senate.gov/ranking-members-news/wyden-questions-dea-over-mystery-epstein-investigation).
 *   **Feb 27, 2026**: **AP: Hillary Clinton deposition ran over six hours**.
     *   AP reported Hillary Clinton's House deposition ended after more than six hours of questioning.
     *   Source: [Source](https://apnews.com/video/hillary-clintons-deposition-in-house-epstein-investigation-ends-after-over-six-hours-of-questioning-fe56f7a8a1334ee895122c11ec14a90a).
@@ -459,6 +465,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 3, 2026**: **House Oversight sought interviews with Bill Gates and Leon Black**.
     *   House Oversight Chairman James Comer said the committee requested transcribed interviews from seven people, including Bill Gates and Leon Black, as part of the Epstein investigation.
     *   Source: [Source](https://oversight.house.gov/release/chairman-comer-seeks-seven-transcribed-interviews-as-part-of-epstein-investigation/).
+*   **Mar 3, 2026**: **Senate Finance: Republicans blocked Wyden's bill to force release of Treasury's Epstein bank records**.
+    *   Sen. Mike Crapo objected to Wyden's unanimous-consent request to pass the Produce Epstein Treasury Records Act.
+    *   Source: [Source](https://www.finance.senate.gov/ranking-members-news/senate-republican-blocks-wyden-bill-mandating-treasury-hand-over-epstein-bank-records).
 *   **Mar 4, 2026**: **AP: House committee voted to subpoena Bondi over Epstein files**.
     *   AP reported the House Oversight Committee voted to subpoena Attorney General Pam Bondi over DOJ handling of the Epstein files, with five Republicans joining Democrats.
     *   Source: [Source](https://apnews.com/article/bondi-subpoena-epstein-files-house-committee-b16a5ab68c4a37a3a533e5f2412d7a57).
@@ -522,9 +531,15 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Mar 17, 2026**: **House Oversight subpoenaed AG Bondi for an April 14 deposition**.
     *   The House Oversight Committee issued a subpoena ordering Attorney General Pam Bondi to appear for a deposition on April 14 in its Epstein-files investigation.
     *   Source: [Source](https://oversight.house.gov/wp-content/uploads/2026/03/03.17.2026-Subpoena-Cover-Letter-Bondi-FINAL.pdf).
+*   **Mar 18, 2026**: **CBS: Wyden said DOJ blocked release of DEA's Epstein probe memo; Blanche called it fabricated**.
+    *   Wyden said Deputy AG Todd Blanche stopped DEA from handing over the unredacted memo; Blanche said the report is available unredacted to members of Congress in DOJ's reading room.
+    *   Source: [Source](https://www.cbsnews.com/news/justice-department-blocked-release-of-secret-epstein-drug-probe-file-u-s-senator-says/).
 *   **Mar 20, 2026**: **CNN: Norway's crown princess said Epstein "manipulated and deceived" her**.
     *   In her first interview on the relationship, broadcast by NRK, Mette-Marit said she did not know Epstein was an abuser and wished she had never met him.
     *   Source: [Source](https://www.cnn.com/2026/03/20/europe/norway-crown-princess-interview-epstein-intl-scli).
+*   **Mar 23, 2026**: **CBS: Wyden questioned Leon Black over $170 million paid to Epstein**.
+    *   Wyden's Mar 20 letter cited apparent hush-money payments and surveillance of women; Black's representative said the letter had no legitimate legislative purpose.
+    *   Source: [Source](https://www.cbsnews.com/news/sen-ron-wyden-leon-black-paid-epstein-170-million-tax-planning/).
 *   **Mar 26, 2026**: **CNN: Survivors sued DOJ and Google over exposed personal information**.
     *   A proposed class action in federal court in Northern California alleges the Epstein releases outed about 100 survivors and that Google kept republishing their information.
     *   Source: [Source](https://www.cnn.com/2026/03/27/us/epstein-survivors-sue-doj-google-hnk).
@@ -564,6 +579,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Apr 16, 2026**: **UN News: Rights experts demanded accountability for trafficking alleged in the Epstein files**.
     *   The UN Special Rapporteur on trafficking and the Working Group on discrimination against women and girls called for a full and transparent investigation and reparations.
     *   Source: [Source](https://news.un.org/en/story/2026/04/1167314).
+*   **Apr 21, 2026**: **VTDigger: Dartmouth groups renewed calls to remove Leon Black's name from its arts center**.
+    *   Women of Dartmouth and student government asked trustees to rename the Black Family Visual Arts Center; the board later formed a naming-policy committee instead of deciding.
+    *   Source: [Source](https://vtdigger.org/2026/04/21/dartmouth-groups-renew-calls-to-rename-arts-center-bankrolled-by-epstein-associate/).
 *   **Apr 23, 2026**: **UPI: DOJ inspector general opened audit of Epstein Files Transparency Act compliance**.
     *   Inspector General William Blier said the audit would examine how DOJ identified, collected, redacted, withheld and released records under the Act.
     *   Source: [Source](https://www.upi.com/Top_News/US/2026/04/23/justice-department-inspector-general-audit-epstein-files-release/7901776973145/).
@@ -648,6 +666,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Jun 4, 2026**: **Comer asked DOJ to investigate abuse allegations raised in Kellen testimony**.
     *   Chairman Comer and GOP lawmakers asked acting AG Blanche to investigate Kellen's allegations against former Miami Beach mayor Philip Levine and hairstylist Frederic Fekkai, both of whom deny wrongdoing.
     *   Source: [Source](https://oversight.house.gov/release/chairman-comer-and-republican-lawmakers-seek-doj-investigation-into-sexual-assault-allegations-made-during-epstein-investigation/).
+*   **Jun 4, 2026**: **Senate Finance: Wyden referred his Leon Black findings to House Oversight**.
+    *   Wyden called Black "one of Jeffrey Epstein's primary sources of income" and suggested lines of inquiry to Chairman Comer and Ranking Member Garcia.
+    *   Source: [Source](https://www.finance.senate.gov/ranking-members-news/wyden-refers-findings-on-leon-blacks-epstein-ties-to-house-oversight-committee).
 *   **Jun 8, 2026**: **CNN: Trump formally nominated Todd Blanche as attorney general**.
     *   The nomination set up a Senate fight in which Blanche's handling of the Epstein files became a central issue.
     *   Source: [Source](https://www.cnn.com/2026/06/08/politics/todd-blanche-trump-attorney-general-nomination).
@@ -870,6 +891,9 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
 *   **Sep 22, 2026**: **Raw Story: Blanche asked the D.C. Circuit to pause foreign-language records orders**.
     *   In consolidated appeal No. 26-5299, DOJ asked the court to stay the foreign-language portions of the Jun 25 and Sep 16 orders and to expedite the appeal.
     *   Source: [Source](https://www.rawstory.com/todd-blanche-epstein-files-2677919559/).
+*   **Sep 22, 2026**: **Hyperallergic: Protesters outside MoMA called for Leon Black's removal from its board**.
+    *   The protest came six days after the House held Black in contempt; he stepped down as MoMA chair in 2021 but remains a trustee.
+    *   Source: [Source](https://hyperallergic.com/duo-calls-to-oust-leon-black-in-protest-outside-moma/).
 *   **Sep 23, 2026**: **CNBC: WSJ reported criminal probe of Epstein estate executors Indyke and Kahn**.
     *   Federal prosecutors in Manhattan are investigating Epstein's longtime lawyer Darren Indyke and accountant Richard Kahn, who deny wrongdoing; no charges have been filed.
     *   Source: [Source](https://www.cnbc.com/2026/09/23/jeffrey-epstein-estate-executors-investigation.html).
@@ -883,6 +907,7 @@ For a source-focused map of official U.S. institutional actions (DOJ/Congress/ov
     *   Investigators have interviewed potential witnesses, including survivors, and sought emails and checks, with interest in entities such as the Florida Science Foundation; Indyke and Kahn deny wrongdoing.
     *   Source: [Source](https://www.cnn.com/2026/09/24/politics/epstein-advisers-investigation-indyke-kahn).
 <!-- LIVE_TIMELINE:END -->
+
 
 
 
